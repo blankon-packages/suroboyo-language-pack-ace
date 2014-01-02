@@ -1,0 +1,1379 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+#  <hendramurdani46@gmail.com>, 2013.
+#  <maulidanms@ymail.com>, 2013.
+#  <miisbah.inf@gmail.com>, 2013.
+#  <qadrimukhlis@s1.informatika.unsyiah.ac.id>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Suroboyo\n"
+"Report-Msgid-Bugs-To: http://dev.blankonlinux.or.id/\n"
+"POT-Creation-Date: 2013-09-15 23:59+0000\n"
+"PO-Revision-Date: 2013-11-03 13:49+0000\n"
+"Last-Translator: maulidanns maulidanns <maulidanms@ymail.com>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Suroboyo/team/ace/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ace\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: ../copy-n-paste/eggdesktopfile.c:165
+#, c-format
+msgid "File is not a valid .desktop file"
+msgstr "Nyo kon beureukaih .desktop yang saheh"
+
+#: ../copy-n-paste/eggdesktopfile.c:190
+#, c-format
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "Beureukaih desktop Versi '%s' hana diturie"
+
+#: ../copy-n-paste/eggdesktopfile.c:970
+#, c-format
+msgid "Starting %s"
+msgstr "Peuphon %s"
+
+#: ../copy-n-paste/eggdesktopfile.c:1112
+#, c-format
+msgid "Application does not accept documents on command line"
+msgstr "Aplikasi hana jiteurimong dokumen bak bareh perintah"
+
+#: ../copy-n-paste/eggdesktopfile.c:1180
+#, c-format
+msgid "Unrecognized launch option: %d"
+msgstr "Peunileh nyang iteubit hana i turie: %d"
+
+#: ../copy-n-paste/eggdesktopfile.c:1385
+#, c-format
+msgid "Can't pass documents to this desktop element"
+msgstr "Hana dokumen bak elemen desktop nyo"
+
+#: ../copy-n-paste/eggdesktopfile.c:1406
+#, c-format
+msgid "Not a launchable item"
+msgstr "Kon barang nyang jeut i eksekusi"
+
+#: ../copy-n-paste/eggsmclient.c:226
+msgid "Disable connection to session manager"
+msgstr "Peumate koneksi keu manajer sesi"
+
+#: ../copy-n-paste/eggsmclient.c:229
+msgid "Specify file containing saved configuration"
+msgstr "Peuteuntei beureukaih nyang teukeubah konfigurasi"
+
+#: ../copy-n-paste/eggsmclient.c:229
+msgid "FILE"
+msgstr "BEUREUKAIH"
+
+#: ../copy-n-paste/eggsmclient.c:232
+msgid "Specify session management ID"
+msgstr "Peutentei ID manajemen sesi"
+
+#: ../copy-n-paste/eggsmclient.c:232
+msgid "ID"
+msgstr "ID"
+
+#: ../copy-n-paste/eggsmclient.c:253
+msgid "Session management options:"
+msgstr "Peunileh manajemen sesi:"
+
+#: ../copy-n-paste/eggsmclient.c:254
+msgid "Show session management options"
+msgstr "Peudeuh peuneuleh manajemen sesi"
+
+#: ../data/file-roller.desktop.in.in.h:1 ../src/fr-window.c:2052
+#: ../src/fr-window.c:5432
+msgid "Archive Manager"
+msgstr "Manajer Arsip"
+
+#: ../data/file-roller.desktop.in.in.h:2
+msgid "Create and modify an archive"
+msgstr "Peuget ngoen andam arsip"
+
+#: ../data/file-roller.desktop.in.in.h:3
+msgid "zip;tar;extract;unpack;"
+msgstr "zip;tar;ekstrak;bongkar;"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:1
+msgid "How to sort files"
+msgstr "Kiban cara suson beureukaih"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:2
+msgid ""
+"What criteria must be used to arrange files. Possible values: name, size, "
+"type, time, path."
+msgstr ""
+"Kriteria peu yang mesti ta ngui keu ta atoe beureukaih. Kriteria yang mungkin: "
+"nan, ukuran, jenis, watee, path"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:3
+msgid "Sort type"
+msgstr "Jenis peuuroet"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:4
+msgid ""
+"Whether to sort in ascending or descending direction. Possible values: "
+"ascending, descending."
+msgstr "Ta peu uroet ek atawa tren direksi. Value nyang mungken: "
+"ek, tren"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:5 ../src/ui/app-menu.ui.h:2
+msgid "List Mode"
+msgstr "Mode Daftar"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:6
+msgid ""
+"Use 'all-files' to view all the files in the archive in a single list, use "
+"'as-folder' to navigate the archive as a folder."
+msgstr ""
+"Nguie 'bandum-beureukaih' keu kaloen mandum beureukaih lam arsip bak daftar "
+"saboh, ngui 'sebagoe-folder' keu menavigasi arsip sebagoe folder"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:7
+msgid "Display type"
+msgstr "Jenis Teupeuleumah"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:8
+msgid "Display the type column in the main window."
+msgstr "Teupeuleumah heuneh kolom bak tingkap utama"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:9
+msgid "Display size"
+msgstr "Ukuran teupeuleumah"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:10
+msgid "Display the size column in the main window."
+msgstr "Teupeuleumah kolom ukuran bak tingkap utama"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:11
+msgid "Display time"
+msgstr "Watee teupeuleumah"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:12
+msgid "Display the time column in the main window."
+msgstr "Teupeuleumah kolom watee bak tingkap utama"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:13
+msgid "Display path"
+msgstr "Path teupeuleumah"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:14
+msgid "Display the path column in the main window."
+msgstr "Teupeuleumah kolom path bak tingkap utama"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:15
+msgid "Name column width"
+msgstr "Luwah kolom nan"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:16
+msgid "The default width of the name column in the file list."
+msgstr "Luwah teuba dari kolom nan lam daftar beureukaih."
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:17
+msgid "Max history length"
+msgstr "Panyang riwayat maksimal"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:18
+msgid "Max number of items in the 'Open Recents' submenu."
+msgstr "Cacah numboi maks lam submenu 'Peuhah Baro'."
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:19
+msgid "View statusbar"
+msgstr "Peuleumah statusbar"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:20
+msgid "Whether to display the statusbar."
+msgstr "Peukeuh keu teupeuleumah statusbar"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:21 ../src/ui.h:198
+msgid "View the folders pane"
+msgstr "Peuleumah panel folder"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:22
+msgid "Whether to display the folders pane."
+msgstr "Peu keuh keu peulemah panel folder."
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:23
+msgid "Editors"
+msgstr "Ureung Andam"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:24
+msgid ""
+"List of applications entered in the 'Open File' dialog and not associated "
+"with the file type."
+msgstr ""
+"Daftar aplikasi yang i peutamong u lam dialog 'Peuhah Beureukaih' leuh nyan hana"
+" i kaitkan ngon jeuneh beureukaih."
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:25
+msgid "Compression level"
+msgstr "Tingkat kompresi"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:26
+msgid ""
+"Compression level used when adding files to an archive. Possible values: "
+"very-fast, fast, normal, maximum."
+msgstr ""
+"Level kompresi yang i ngui watee tamah beureukaih u lam arsip. Nilai yang "
+"mungken: bagah that, bagah, biasa, maksimum."
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:27
+msgid "Encrypt the archive header"
+msgstr "Enkripsi tajuk arsip"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:28
+msgid ""
+"Whether to encrypt the archive header. If the header is encrypted the "
+"password will be required to list the archive content as well."
+msgstr ""
+"Peukeuh mesti tajuk arsip i enkripsi. Meunyo tajuk i enkripsi, peurle sandi "
+"keu kaloen daftar isi."
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:29
+msgid "Do not overwrite newer files"
+msgstr "Bek timpa beureukaih nyang leubeh baroe"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:30
+msgid "Recreate the folders stored in the archive"
+msgstr "Peugot ulang folder-folder yang ta simpan dalam arsip."
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:31
+msgid "Default volume size"
+msgstr "Ukuran volume bawaan"
+
+#: ../data/org.gnome.FileRoller.gschema.xml.in.h:32
+msgid "The default size for volumes."
+msgstr "Ukuran bawaan keu volume"
+
+#: ../nautilus/nautilus-fileroller.c:327
+msgid "Extract Here"
+msgstr "Ekstrak Di Sino"
+
+#. Translators: the current position is the current folder
+#: ../nautilus/nautilus-fileroller.c:329
+msgid "Extract the selected archive to the current position"
+msgstr "Ekstrak arsip yang i pileh keu lokasi jinoe"
+
+#: ../nautilus/nautilus-fileroller.c:346
+msgid "Extract To..."
+msgstr "Ekstrak u..."
+
+#: ../nautilus/nautilus-fileroller.c:347
+msgid "Extract the selected archive"
+msgstr "Ekstrak arsip yang i pileh"
+
+#: ../nautilus/nautilus-fileroller.c:366
+msgid "Compress..."
+msgstr "Kompres.."
+
+#: ../nautilus/nautilus-fileroller.c:367
+msgid "Create a compressed archive with the selected objects"
+msgstr "Peuget arsip yang i kompres dari objek yang i pileh"
+
+#: ../src/actions.c:112 ../src/fr-window.c:5726 ../src/fr-window.c:6275
+msgid "Open"
+msgstr "Buka"
+
+#: ../src/actions.c:125 ../src/fr-window.c:5283
+msgid "All archives"
+msgstr "Bandum arsip"
+
+#: ../src/actions.c:132
+msgid "All files"
+msgstr "Bandum beureukaih"
+
+#: ../src/actions.c:487
+msgid "Copyright © 2001–2010 Free Software Foundation, Inc."
+msgstr "Hak Cipta © 2001–2010 Free Software Foundation, Inc."
+
+#: ../src/actions.c:488
+msgid "An archive manager for GNOME."
+msgstr "Manajer arsip keu GNOME"
+
+#: ../src/actions.c:491
+msgid "translator-credits"
+msgstr ""
+"Hendra Murdani <hendramurdani46@gmail.com>,2013. Maulidan "
+"Nashuha<maulidanms@gmail.com>,2013."
+
+#: ../src/dlg-add.c:116
+msgid "Could not add the files to the archive"
+msgstr "Han jeut tamah beureukaih u lam arsip"
+
+#: ../src/dlg-add.c:117
+#, c-format
+msgid "You don't have the right permissions to read files from folder \"%s\""
+msgstr "Droen hana hak milek keu baca beureukaih dari folder \"%s\""
+
+#: ../src/dlg-add.c:182 ../src/ui.h:42
+msgid "Add Files"
+msgstr "Tamah Beureukaih"
+
+#: ../src/dlg-add.c:193
+msgid "_Options"
+msgstr "_Peunileh"
+
+#. load options
+#: ../src/dlg-add.c:202 ../src/ui/add-options.ui.h:1
+msgid "Load Options"
+msgstr "Cok Peunileh"
+
+#. save options
+#: ../src/dlg-add.c:209 ../src/dlg-add.c:827
+msgid "Save Options"
+msgstr "Keubah Peunileh"
+
+#. clear options
+#: ../src/dlg-add.c:216
+msgid "Reset Options"
+msgstr "Atoe Ulang Peunileh"
+
+#: ../src/dlg-add.c:828
+msgid "_Options Name:"
+msgstr "_Peunileh Nan:"
+
+#. Translators: %s is a filename
+#: ../src/dlg-ask-password.c:131
+#, c-format
+msgid "Password required for \"%s\""
+msgstr "Perle lageum rahsea keu \"%s\""
+
+#: ../src/dlg-ask-password.c:139
+msgid "Wrong password."
+msgstr "Lageum rahsea salah."
+
+#: ../src/dlg-batch-add.c:87 ../src/fr-application.c:329
+#: ../src/fr-application.c:683
+msgid "Compress"
+msgstr "Kompres"
+
+#: ../src/dlg-extract.c:96 ../src/fr-window.c:6831
+#, c-format
+msgid ""
+"Destination folder \"%s\" does not exist.\n"
+"\n"
+"Do you want to create it?"
+msgstr "Folder \"%s\" yang neu tuju gohlom na.\n"
+"\n"
+"Peukeuh droeneuh keuneuk beuget nyan?"
+
+#: ../src/dlg-extract.c:105 ../src/fr-window.c:6840
+msgid "Create _Folder"
+msgstr "Peuget _Folder"
+
+#: ../src/dlg-extract.c:124 ../src/dlg-extract.c:142 ../src/dlg-extract.c:169
+#: ../src/fr-window.c:4245 ../src/fr-window.c:6735 ../src/fr-window.c:6740
+#: ../src/fr-window.c:6861 ../src/fr-window.c:6880 ../src/fr-window.c:6885
+msgid "Extraction not performed"
+msgstr "Ekstraksi hana geulakukan"
+
+#: ../src/dlg-extract.c:125 ../src/fr-window.c:6857
+#, c-format
+msgid "Could not create the destination folder: %s."
+msgstr "Han jeut peuget folder yang i tuju:%s"
+
+#: ../src/dlg-extract.c:170 ../src/fr-window.c:4414 ../src/fr-window.c:4498
+#, c-format
+msgid ""
+"You don't have the right permissions to extract archives in the folder "
+"\"%s\""
+msgstr "Droen hana hak milek keu ekstrak arsip lam folder \"%s\""
+
+#: ../src/dlg-extract.c:283 ../src/ui/extract-dialog-options.ui.h:1
+#: ../src/ui.h:109
+msgid "Extract"
+msgstr "Ekstrak"
+
+#: ../src/dlg-package-installer.c:112 ../src/dlg-package-installer.c:225
+msgid "There was an internal error trying to search for applications:"
+msgstr "Kesalahan watee coba mita aplikasi:"
+
+#: ../src/dlg-package-installer.c:294 ../src/dlg-package-installer.c:303
+#: ../src/dlg-package-installer.c:331 ../src/fr-archive.c:744
+#: ../src/fr-window.c:3974 ../src/fr-window.c:7464 ../src/fr-window.c:7821
+#: ../src/fr-window.c:9353
+msgid "Archive type not supported."
+msgstr "Jenis arsip hana i dukung."
+
+#: ../src/dlg-package-installer.c:313
+#, c-format
+msgid ""
+"There is no command installed for %s files.\n"
+"Do you want to search for a command to open this file?"
+msgstr ""
+"Hana perintah yang tepasang keu neungui beureukaih %s. Mita perintah keu peuhah "
+"beureukaih nyoe?"
+
+#: ../src/dlg-package-installer.c:318
+msgid "Could not open this file type"
+msgstr "Hanjeut peuhah jeuneh beureukaih nyoe"
+
+#: ../src/dlg-package-installer.c:321
+msgid "_Search Command"
+msgstr "_Mita Perintah"
+
+#: ../src/dlg-password.c:91
+#, c-format
+msgid "Enter a password for \"%s\""
+msgstr "Tuleh lageum rahsea keu \"%s\""
+
+#: ../src/dlg-prop.c:96
+#, c-format
+msgid "%s Properties"
+msgstr "Properti %s"
+
+#: ../src/dlg-update.c:163
+#, c-format
+msgid "Update the file \"%s\" in the archive \"%s\"?"
+msgstr "Peubaroe beureukaih \"%s\" lam arsip \"%s\""
+
+#. secondary text
+#: ../src/dlg-update.c:174 ../src/dlg-update.c:199 ../src/ui/update.ui.h:2
+#, c-format
+msgid ""
+"The file has been modified with an external application. If you don't update"
+" the file in the archive, all of your changes will be lost."
+msgid_plural ""
+"%d files have been modified with an external application. If you don't "
+"update the files in the archive, all of your changes will be lost."
+msgstr[0] ""
+"Beureukaih kaleuh i andam ngoen eksternal aplikasi. Meunyo droen hana peubaroe "
+"beureukaih lam arsip, bandum nyang kaleuh droen andam bunoe gadoh."
+msgstr[1] ""
+"Na %d beureukaih nyang kaleuh i andam ngon aplikasi eksternal. Meunyo droen hana "
+"peubaroe beureukaih i lam arsip, bandum nyang kaleuh droen andam bunoe gadoh."
+
+#: ../src/dlg-update.c:189
+#, c-format
+msgid "Update the files in the archive \"%s\"?"
+msgstr "Peubaroe beureukaih lam arsip \"%s\"?"
+
+#: ../src/fr-application.c:65
+msgid "Add files to the specified archive and quit the program"
+msgstr "Tamah beureukaih lam arsip ngon teubiet dari program"
+
+#: ../src/fr-application.c:66
+msgid "ARCHIVE"
+msgstr "ARSIP"
+
+#: ../src/fr-application.c:69
+msgid "Add files asking the name of the archive and quit the program"
+msgstr "Tamah beureukaih ngoen tanyong nan arsip ngon teubiet dari program"
+
+#: ../src/fr-application.c:73
+msgid "Extract archives to the specified folder and quit the program"
+msgstr "Ekstrak arsip keu folder khusus ngon teubiet dari program"
+
+#: ../src/fr-application.c:74 ../src/fr-application.c:86
+msgid "FOLDER"
+msgstr "FOLDER"
+
+#: ../src/fr-application.c:77
+msgid "Extract archives asking the destination folder and quit the program"
+msgstr ""
+"Ekstrak arsip dengoen tanyoeng folder yang dituju ngon teubiet dari "
+"program"
+
+#: ../src/fr-application.c:81
+msgid ""
+"Extract the contents of the archives in the archive folder and quit the "
+"program"
+msgstr ""
+"Ekstrak asoe arsip lam folder arsip nyan ngon teubiet dari program"
+
+#: ../src/fr-application.c:85
+msgid "Default folder to use for the '--add' and '--extract' commands"
+msgstr "Folder utama nyang jingui keu perintah '--add' dengoen '--extract'"
+
+#: ../src/fr-application.c:89
+msgid "Create destination folder without asking confirmation"
+msgstr "Peuget folder yang dituju tanpa perle peugah hai"
+
+#: ../src/fr-application.c:93
+msgid "Use the notification system to notify the operation completion"
+msgstr "Ngui sistem notifikasi keu pemberitahuan operasi ka sueleuso"
+
+#: ../src/fr-application.c:96
+msgid "Start as a service"
+msgstr "Peujak aplikasi seubagai layanan"
+
+#: ../src/fr-application.c:99
+msgid "Show version"
+msgstr "Peuleumah versi"
+
+#: ../src/fr-application.c:365 ../src/fr-application.c:401
+#: ../src/fr-application.c:427 ../src/fr-application.c:707
+#: ../src/fr-window.c:9416
+msgid "Extract archive"
+msgstr "Ekstrak arsip"
+
+#: ../src/fr-application.c:565
+msgid "- Create and modify an archive"
+msgstr "- Peuget ngoen andam arsip"
+
+#. manually set name and icon
+#: ../src/fr-application.c:833
+msgid "File Roller"
+msgstr "File Roller"
+
+#: ../src/fr-archive.c:1845
+msgid "You don't have the right permissions."
+msgstr "Droen hana hak milek nyang beutoi."
+
+#: ../src/fr-archive.c:1845
+msgid "This archive type cannot be modified"
+msgstr "Jeuneh arsip nyoe han jeut ji andam"
+
+#: ../src/fr-archive.c:1859
+msgid "You can't add an archive to itself."
+msgstr "Dron hanjeut tamah arsip lam diri dro."
+
+#. Translators: %s is a filename.
+#: ../src/fr-command-7z.c:297 ../src/fr-command-rar.c:329
+#: ../src/fr-command-tar.c:302
+#, c-format
+msgid "Adding \"%s\""
+msgstr "Tamah \"%s\""
+
+#. Translators: %s is a filename.
+#: ../src/fr-command-7z.c:429 ../src/fr-command-rar.c:461
+#: ../src/fr-command-tar.c:423
+#, c-format
+msgid "Extracting \"%s\""
+msgstr "Ekstrak \"%s\""
+
+#: ../src/fr-command.c:597
+#, c-format
+msgid "Archive not found"
+msgstr "Arsip hana di teumee"
+
+#. Translators: %s is a filename.
+#: ../src/fr-command-rar.c:410 ../src/fr-command-tar.c:368
+#, c-format
+msgid "Removing \"%s\""
+msgstr "Sampoh \"%s\""
+
+#: ../src/fr-command-rar.c:587
+#, c-format
+msgid "Could not find the volume: %s"
+msgstr "Hana meuteume volume: %s"
+
+#: ../src/fr-command-tar.c:378
+msgid "Deleting files from archive"
+msgstr "Sampoh beureukaih dari arsip"
+
+#: ../src/fr-command-tar.c:483
+msgid "Recompressing archive"
+msgstr "Kompres keulai arsip"
+
+#: ../src/fr-command-tar.c:723
+msgid "Decompressing archive"
+msgstr "Mendekompres arsip"
+
+#: ../src/fr-file-selector-dialog.c:588
+msgid "File System"
+msgstr "Sistem Beureukaih"
+
+#: ../src/fr-file-selector-dialog.c:1331 ../src/fr-file-selector-dialog.c:1376
+msgid "Could not load the location"
+msgstr "Hanjeut cok lokasi"
+
+#: ../src/fr-new-archive-dialog.c:342 ../src/fr-new-archive-dialog.c:361
+#: ../src/fr-new-archive-dialog.c:377 ../src/fr-new-archive-dialog.c:425
+#: ../src/fr-new-archive-dialog.c:443 ../src/fr-window.c:2915
+msgid "Could not create the archive"
+msgstr "Hanjeut peuget arsip"
+
+#: ../src/fr-new-archive-dialog.c:344 ../src/fr-new-archive-dialog.c:363
+msgid "You have to specify an archive name."
+msgstr "Droen harus peuteuntei nan arsip."
+
+#: ../src/fr-new-archive-dialog.c:427
+msgid "You don't have permission to create an archive in this folder"
+msgstr "Droen hana hak milek keu peuget arsip dalam folder nyoe"
+
+#. Translators: the name references to a filename.  This message can appear
+#. when renaming a file.
+#: ../src/fr-new-archive-dialog.c:445 ../src/fr-window.c:8134
+msgid "New name is the same as old one, please type other name."
+msgstr "Nan nyang baroenakeuh sama ngoen nan yang ka na, neu tuleh nan yang laen."
+
+#: ../src/fr-new-archive-dialog.c:464
+#, c-format
+msgid "A file named \"%s\" already exists.  Do you want to replace it?"
+msgstr "Beureukaih dengoen nan \"%s\" ka na. Timpa?"
+
+#: ../src/fr-new-archive-dialog.c:465
+#, c-format
+msgid ""
+"The file already exists in \"%s\".  Replacing it will overwrite its "
+"contents."
+msgstr ""
+"Beureukaih ka na lam \"%s\". Timpa beureukaih nyan akan gantoe bandum asoe lam "
+"beureukaih."
+
+#: ../src/fr-new-archive-dialog.c:472 ../src/fr-window.c:6664
+msgid "_Replace"
+msgstr "_Timpa"
+
+#: ../src/fr-new-archive-dialog.c:487
+msgid "Could not delete the old archive."
+msgstr "Han jeut sampoh arsip ata ka trep."
+
+#: ../src/fr-stock.c:41
+msgid "C_reate"
+msgstr "P_euget"
+
+#: ../src/fr-stock.c:42 ../src/fr-stock.c:43
+msgid "_Add"
+msgstr "_Tamah"
+
+#: ../src/fr-stock.c:44
+msgid "_Extract"
+msgstr "_Ekstrak"
+
+#: ../src/fr-window.c:1173
+msgid "Operation completed"
+msgstr "Operasi ka seuleuso"
+
+#: ../src/fr-window.c:1290
+#, c-format
+msgid "%d object (%s)"
+msgid_plural "%d objects (%s)"
+msgstr[0] "%d objek (%s)"
+msgstr[1] "%d objek (%s)"
+
+#: ../src/fr-window.c:1295
+#, c-format
+msgid "%d object selected (%s)"
+msgid_plural "%d objects selected (%s)"
+msgstr[0] "%d objek i pileh (%s)"
+msgstr[1] "%d objek i pileh (%s)"
+
+#: ../src/fr-window.c:1680
+msgid "Folder"
+msgstr "Folder"
+
+#: ../src/fr-window.c:2060
+msgid "[read only]"
+msgstr "[baca mantong]"
+
+#: ../src/fr-window.c:2179
+#, c-format
+msgid "Could not display the folder \"%s\""
+msgstr "Han jeut teupeuleumah folder \"%s\""
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2270 ../src/fr-window.c:2308
+#, c-format
+msgid "Creating \"%s\""
+msgstr "Peuget \"%s\""
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2274
+#, c-format
+msgid "Loading \"%s\""
+msgstr "Cok \"%s\""
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2278
+#, c-format
+msgid "Reading \"%s\""
+msgstr "Baca \"%s\""
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2282
+#, c-format
+msgid "Deleting the files from \"%s\""
+msgstr "Sampoh beureukaih dari \"%s\""
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2286
+#, c-format
+msgid "Testing \"%s\""
+msgstr "Cuba \"%s\""
+
+#: ../src/fr-window.c:2289
+msgid "Getting the file list"
+msgstr "Cok dafta berkah"
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2293
+#, c-format
+msgid "Copying the files to add to \"%s\""
+msgstr "Salen beureukaih keu i tamah u dalam \"%s\""
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2297
+#, c-format
+msgid "Adding the files to \"%s\""
+msgstr "Tamah beureukaih keu \"%s\""
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2301
+#, c-format
+msgid "Extracting the files from \"%s\""
+msgstr "Ekstrak beureukaih dari \"%s\""
+
+#: ../src/fr-window.c:2304
+msgid "Copying the extracted files to the destination"
+msgstr "Salen beureukaih yang i ekstrak u teumpat yang i tuju"
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2313
+#, c-format
+msgid "Saving \"%s\""
+msgstr "Keubah \"%s\""
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2320
+#, c-format
+msgid "Renaming the files in \"%s\""
+msgstr "Ubah nan beureukaih dalam \"%s\""
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2324
+#, c-format
+msgid "Updating the files in \"%s\""
+msgstr "Peubaroe beureukaih lam \"%s\""
+
+#: ../src/fr-window.c:2499
+msgid "_Open the Archive"
+msgstr "_Peuhah Arsip"
+
+#: ../src/fr-window.c:2500
+msgid "_Show the Files"
+msgstr "_Peuleumah Beureukaih"
+
+#: ../src/fr-window.c:2617
+#, c-format
+msgid "%d file remaining"
+msgid_plural "%'d files remaining"
+msgstr[0] "%d beureukaih lom"
+msgstr[1] "%'d beureukaih lom"
+
+#: ../src/fr-window.c:2621 ../src/fr-window.c:3200
+msgid "Please wait…"
+msgstr "Tulong preh..."
+
+#: ../src/fr-window.c:2677
+msgid "Extraction completed successfully"
+msgstr "Seuleuso mengekstrak arsip"
+
+#. Translators: %s is a filename
+#: ../src/fr-window.c:2709 ../src/fr-window.c:6253
+#, c-format
+msgid "\"%s\" created successfully"
+msgstr "\"%s\" seuleuso di peuget"
+
+#: ../src/fr-window.c:2799 ../src/fr-window.c:2971
+msgid "Command exited abnormally."
+msgstr "Peurintah teubiet seucara hana normal."
+
+#: ../src/fr-window.c:2920
+msgid "An error occurred while extracting files."
+msgstr "Na kesalahan watee ekstrak beureukaih"
+
+#: ../src/fr-window.c:2926
+#, c-format
+msgid "Could not open \"%s\""
+msgstr "Hanjeut peuhah \"%s\""
+
+#: ../src/fr-window.c:2931
+msgid "An error occurred while loading the archive."
+msgstr "Error wate cok arsip."
+
+#: ../src/fr-window.c:2935
+msgid "An error occurred while deleting files from the archive."
+msgstr "Na kesalahan watee sampoeh beureukaih dari arsip."
+
+#: ../src/fr-window.c:2941
+msgid "An error occurred while adding files to the archive."
+msgstr "Na kesalahan watee tamah beureukaih u dalam arsip."
+
+#: ../src/fr-window.c:2945
+msgid "An error occurred while testing archive."
+msgstr "Na kesalahan watee uji arsip."
+
+#: ../src/fr-window.c:2950
+msgid "An error occurred while saving the archive."
+msgstr "Na galat watee keubah arsip."
+
+#: ../src/fr-window.c:2954
+msgid "An error occurred while renaming the files."
+msgstr "Na galat watee ganto nan berkas."
+
+#: ../src/fr-window.c:2958
+msgid "An error occurred while updating the files."
+msgstr "Na galat watee peubaroe beureukaih."
+
+#: ../src/fr-window.c:2962
+msgid "An error occurred."
+msgstr "Na kesalahan."
+
+#: ../src/fr-window.c:2968
+msgid "Command not found."
+msgstr "Perintah hana i temukan."
+
+#: ../src/fr-window.c:3128
+msgid "Test Result"
+msgstr "Hase Peuriksa"
+
+#: ../src/fr-window.c:4092 ../src/fr-window.c:8814 ../src/fr-window.c:8848
+#: ../src/fr-window.c:9127
+msgid "Could not perform the operation"
+msgstr "Operasi han jeut i lakukan"
+
+#: ../src/fr-window.c:4118
+msgid ""
+"Do you want to add this file to the current archive or open it as a new "
+"archive?"
+msgstr ""
+"Tamah beureukaih nyoe keu arsip yang kaleuh i buka atawa peujeut keu arsip "
+"baroe?"
+
+#: ../src/fr-window.c:4148
+msgid "Do you want to create a new archive with these files?"
+msgstr "Peuget arsip baroe ngoen beureukaih nyoe?"
+
+#: ../src/fr-window.c:4151
+msgid "Create _Archive"
+msgstr "Peuget _Arsip"
+
+#: ../src/fr-window.c:4180 ../src/fr-window.c:7272
+msgid "New Archive"
+msgstr "Arsip baroe"
+
+#: ../src/fr-window.c:4754
+msgid "Folders"
+msgstr "Folders"
+
+#: ../src/fr-window.c:4792 ../src/ui/file-selector.ui.h:5
+msgctxt "File"
+msgid "Size"
+msgstr "Ukuran"
+
+#: ../src/fr-window.c:4793
+msgctxt "File"
+msgid "Type"
+msgstr "Jenis"
+
+#: ../src/fr-window.c:4794 ../src/ui/file-selector.ui.h:6
+msgctxt "File"
+msgid "Modified"
+msgstr "I ubah"
+
+#: ../src/fr-window.c:4795
+msgctxt "File"
+msgid "Location"
+msgstr "Teumpat"
+
+#: ../src/fr-window.c:4804 ../src/ui/file-selector.ui.h:4
+msgctxt "File"
+msgid "Name"
+msgstr "Nan"
+
+#. Translators: this is the label for the "open recent file" sub-menu.
+#: ../src/fr-window.c:5714
+msgid "Open _Recent"
+msgstr "Peuhah Yang Paling _Baro"
+
+#: ../src/fr-window.c:5715 ../src/fr-window.c:5727
+msgid "Open a recently used archive"
+msgstr "Peuhah arsip yang terakhir neungui"
+
+#: ../src/fr-window.c:5743
+msgid "_Other Actions"
+msgstr "_Aksi Laen"
+
+#: ../src/fr-window.c:5744
+msgid "Other actions"
+msgstr "Aksi laen"
+
+#. Translators: after the colon there is a folder name.
+#: ../src/fr-window.c:5808 ../src/ui/file-selector.ui.h:1
+#: ../src/ui/new-archive-dialog.ui.h:2
+msgid "_Location:"
+msgstr "_Teumpat"
+
+#: ../src/fr-window.c:6652
+#, c-format
+msgid "Replace file \"%s\"?"
+msgstr "Timpa beureukaih \"%s\"?"
+
+#: ../src/fr-window.c:6655
+#, c-format
+msgid "Another file with the same name already exists in \"%s\"."
+msgstr "Beureukaih laen ngoen nan yang sama ka na bak \"%s\""
+
+#: ../src/fr-window.c:6662
+msgid "Replace _All"
+msgstr "Gantoe _Mandum"
+
+#: ../src/fr-window.c:6663
+msgid "_Skip"
+msgstr "_Peu Lewat"
+
+#: ../src/fr-window.c:7456 ../src/fr-window.c:7813
+#, c-format
+msgid "Could not save the archive \"%s\""
+msgstr "Hanjeut keubah arsip \"%s\""
+
+#: ../src/fr-window.c:7583
+msgid "Save"
+msgstr "Keubah"
+
+#: ../src/fr-window.c:7907
+msgid "Last Output"
+msgstr "Nyang teubit akhe"
+
+#. Translators: the name references to a filename.  This message can appear
+#. when renaming a file.
+#: ../src/fr-window.c:8129
+msgid "New name is void, please type a name."
+msgstr "Nan baro soh, cii ketikkan saboh nan."
+
+#. Translators: the %s references to a filename.  This message can appear when
+#. renaming a file.
+#: ../src/fr-window.c:8139
+#, c-format
+msgid ""
+"Name \"%s\" is not valid because it contains at least one of the following "
+"characters: %s, please type other name."
+msgstr ""
+"Nan \"%s\" hana valid karena na paling han salah saboeh dari karakter "
+"nyoe:%s, ketik nan yang laen."
+
+#: ../src/fr-window.c:8175
+#, c-format
+msgid ""
+"A folder named \"%s\" already exists.\n"
+"\n"
+"%s"
+msgstr ""
+"Folder dengoen nan \"%s\" ka na.\n"
+"%s"
+
+#: ../src/fr-window.c:8175 ../src/fr-window.c:8177
+msgid "Please use a different name."
+msgstr "Ngui nan yang laen"
+
+#: ../src/fr-window.c:8177
+#, c-format
+msgid ""
+"A file named \"%s\" already exists.\n"
+"\n"
+"%s"
+msgstr "Beureukaih dengoen nan \"%s\" ka na. %s"
+
+#: ../src/fr-window.c:8247
+msgid "Rename"
+msgstr "Gantoe nan"
+
+#: ../src/fr-window.c:8248
+msgid "_New folder name:"
+msgstr "_Nan folder baroe:"
+
+#: ../src/fr-window.c:8248
+msgid "_New file name:"
+msgstr "_Nan berkas baroe:"
+
+#: ../src/fr-window.c:8252
+msgid "_Rename"
+msgstr "_Gantoe Nan"
+
+#: ../src/fr-window.c:8269 ../src/fr-window.c:8288
+msgid "Could not rename the folder"
+msgstr "Hanjeut ubah nan folder"
+
+#: ../src/fr-window.c:8269 ../src/fr-window.c:8288
+msgid "Could not rename the file"
+msgstr "Hanjeut ubah nan beureukaih"
+
+#. Translators: %s are archive filenames
+#: ../src/fr-window.c:8721
+#, c-format
+msgid "Moving the files from \"%s\" to \"%s\""
+msgstr "Pinah beureukaih dari \"%s\" ke \"%s\""
+
+#. Translators: %s are archive filenames
+#: ../src/fr-window.c:8724
+#, c-format
+msgid "Copying the files from \"%s\" to \"%s\""
+msgstr "Salen beureukaih dari \"%s\" u \"%s\""
+
+#: ../src/fr-window.c:8775
+msgid "Paste Selection"
+msgstr "Tempel Seleksi"
+
+#: ../src/fr-window.c:8776
+msgid "_Destination folder:"
+msgstr "_Folder yang i tuju:"
+
+#: ../src/fr-window.c:9371
+msgid "Add files to an archive"
+msgstr "Tamah beureukaih u dalam arsip"
+
+#. This is the time format used in the "Date Modified" column and
+#. * in the Properties dialog.  See the man page of strftime for an
+#. * explanation of the values.
+#: ../src/glib-utils.c:765
+msgid "%d %B %Y, %H:%M"
+msgstr "%d %B %Y, %H:%M"
+
+#: ../src/gtk-utils.c:557
+msgid "Could not display help"
+msgstr "Han jeut teupeuleumah beunantu"
+
+#: ../src/ui/add-dialog-options.ui.h:1
+msgid "Add"
+msgstr "Tamah"
+
+#: ../src/ui/add-dialog-options.ui.h:2
+msgid "Include _files:"
+msgstr "Ka termasuk _beureukaih"
+
+#: ../src/ui/add-dialog-options.ui.h:3
+msgid "E_xclude files:"
+msgstr "S_elaen beureukaih:"
+
+#: ../src/ui/add-dialog-options.ui.h:4
+msgid "_Exclude folders:"
+msgstr "S_elaen folder:"
+
+#: ../src/ui/add-dialog-options.ui.h:5 ../src/ui/extract-dialog-options.ui.h:5
+msgid "example: *.o; *.bak"
+msgstr "contoh: *.o; *.bak"
+
+#: ../src/ui/add-dialog-options.ui.h:6 ../src/ui/extract-dialog-options.ui.h:6
+msgid "Actions"
+msgstr "Aksi"
+
+#: ../src/ui/add-dialog-options.ui.h:7
+msgid "Add only if _newer"
+msgstr "Tamah mantong meunyo _leubeh baroe"
+
+#: ../src/ui/add-dialog-options.ui.h:8
+msgid "_Follow symbolic links"
+msgstr "Seutot _simbolik"
+
+#: ../src/ui/app-menu.ui.h:1
+msgid "_New Archive"
+msgstr "_Arsip Baroe"
+
+#: ../src/ui/app-menu.ui.h:3 ../src/ui.h:213
+msgid "View All _Files"
+msgstr "Peuleumah Bandum _Beureukaih"
+
+#: ../src/ui/app-menu.ui.h:4 ../src/ui.h:216
+msgid "View as a F_older"
+msgstr "Peuleumah keu F_older"
+
+#: ../src/ui/app-menu.ui.h:5 ../src/ui.h:197
+msgid "_Folders"
+msgstr "_Folder"
+
+#: ../src/ui/app-menu.ui.h:6
+msgid "_Help"
+msgstr "_Beunantu"
+
+#: ../src/ui/app-menu.ui.h:7
+msgid "_About Archive Manager"
+msgstr "Bhah Manajer Arsip"
+
+#: ../src/ui/app-menu.ui.h:8
+msgid "_Quit"
+msgstr "_Teubiet"
+
+#: ../src/ui/ask-password.ui.h:1 ../src/ui/new-archive-dialog.ui.h:4
+msgid "_Password:"
+msgstr "_Lageum Rahsea"
+
+#: ../src/ui/delete.ui.h:1
+msgid "Delete"
+msgstr "Sampoh"
+
+#: ../src/ui/delete.ui.h:2 ../src/ui/extract-dialog-options.ui.h:4
+msgid "_Files:"
+msgstr "_Beureukaih"
+
+#: ../src/ui/delete.ui.h:3
+msgid "example: *.txt; *.doc"
+msgstr "contoh:*txt;*.doc"
+
+#: ../src/ui/delete.ui.h:4 ../src/ui/extract-dialog-options.ui.h:2
+msgid "_All files"
+msgstr "_Bandum beureukaih"
+
+#: ../src/ui/delete.ui.h:5 ../src/ui/extract-dialog-options.ui.h:3
+msgid "_Selected files"
+msgstr "_Beureukaih yang i pileh"
+
+#: ../src/ui/error-dialog.ui.h:1
+msgid "C_ommand Line Output:"
+msgstr "Pe_teubit Bareh Peurintah:"
+
+#: ../src/ui/extract-dialog-options.ui.h:7
+msgid "_Keep directory structure"
+msgstr "_Peutheun struktur direktori"
+
+#: ../src/ui/extract-dialog-options.ui.h:8
+msgid "Do not _overwrite newer files"
+msgstr "_Bek timpa beureukaih yang leubeh baroe"
+
+#: ../src/ui/file-selector.ui.h:2 ../src/ui.h:179
+msgid "Go up one level"
+msgstr "Ek saboh tingkat"
+
+#: ../src/ui/file-selector.ui.h:3
+msgid "Places"
+msgstr "Teumpat"
+
+#: ../src/ui/file-selector.ui.h:7
+msgid "_Select All"
+msgstr "_Pileh Bandum"
+
+#: ../src/ui/file-selector.ui.h:8 ../src/ui.h:97
+msgid "Dese_lect All"
+msgstr "Hana Pi_leh Bandum"
+
+#: ../src/ui/file-selector.ui.h:9
+msgid "Show Hidden Files"
+msgstr "Peulemah Beureukaih nyang Teupeusom"
+
+#: ../src/ui.h:35
+msgid "Information about the program"
+msgstr "Haba Bhah program"
+
+#: ../src/ui.h:38
+msgid "_Add Files…"
+msgstr "_Tamah Beureukaih..."
+
+#: ../src/ui.h:39 ../src/ui.h:43
+msgid "Add files to the archive"
+msgstr "Tamah beureukaih u dalam arsip"
+
+#: ../src/ui.h:47
+msgid "Close the current archive"
+msgstr "Toep arsip nyoe"
+
+#: ../src/ui.h:50
+msgid "Contents"
+msgstr "Asoe"
+
+#: ../src/ui.h:51
+msgid "Display the File Roller Manual"
+msgstr "Peuleumah Manual File Roller"
+
+#: ../src/ui.h:56 ../src/ui.h:77
+msgid "Copy the selection"
+msgstr "Salen Beureukaih yang di pileh"
+
+#: ../src/ui.h:60 ../src/ui.h:81
+msgid "Cut the selection"
+msgstr "Pinah yang di pileh"
+
+#: ../src/ui.h:64 ../src/ui.h:85
+msgid "Paste the clipboard"
+msgstr "Paste aso papen klip"
+
+#: ../src/ui.h:67 ../src/ui.h:88
+msgid "_Rename…"
+msgstr "_Gantoe Nan..."
+
+#: ../src/ui.h:68 ../src/ui.h:89
+msgid "Rename the selection"
+msgstr "Ganto nan yang i pileh"
+
+#: ../src/ui.h:72 ../src/ui.h:93
+msgid "Delete the selection from the archive"
+msgstr "Sampoh yang i pileh dari arsip"
+
+#: ../src/ui.h:98
+msgid "Deselect all files"
+msgstr "Hana pileh bandum beureukaih"
+
+#: ../src/ui.h:101 ../src/ui.h:105
+msgid "_Extract…"
+msgstr "_Ekstrak..."
+
+#: ../src/ui.h:102 ../src/ui.h:106 ../src/ui.h:110
+msgid "Extract files from the archive"
+msgstr "Ekstrak beureukaih dari arsip"
+
+#: ../src/ui.h:113
+msgid "New…"
+msgstr "Baro.."
+
+#: ../src/ui.h:114
+msgid "Create a new archive"
+msgstr "Peuget arsip yang baro"
+
+#: ../src/ui.h:117
+msgid "Open…"
+msgstr "Peuhah..."
+
+#: ../src/ui.h:118 ../src/ui.h:122
+msgid "Open archive"
+msgstr "Peuhah arsip"
+
+#: ../src/ui.h:125
+msgid "_Open With…"
+msgstr "_Peuhah Ngoen..."
+
+#: ../src/ui.h:126
+msgid "Open selected files with an application"
+msgstr "Peuhah beureukaih yang i pileh ngoen aplikasi"
+
+#: ../src/ui.h:129
+msgid "Pass_word…"
+msgstr "_Lageum Rahsea..."
+
+#: ../src/ui.h:130
+msgid "Specify a password for this archive"
+msgstr "Beoh lageum rahsea keu arsip nyoe"
+
+#: ../src/ui.h:134
+msgid "Show archive properties"
+msgstr "Peudeuh properti arsip"
+
+#: ../src/ui.h:138
+msgid "Reload current archive"
+msgstr "Baca keulai arsip nyoe"
+
+#: ../src/ui.h:141
+msgid "Save As…"
+msgstr "Keubah keu..."
+
+#: ../src/ui.h:142
+msgid "Save the current archive with a different name"
+msgstr "Keubah arsip nyoe ngoen nan laen"
+
+#: ../src/ui.h:146
+msgid "Select all files"
+msgstr "Pileh bandum beureukaih"
+
+#: ../src/ui.h:149
+msgid "_Test Integrity"
+msgstr "_Cicuba Integritas"
+
+#: ../src/ui.h:150
+msgid "Test whether the archive contains errors"
+msgstr "Cicuba kesalahan bak aso arsip error"
+
+#: ../src/ui.h:154 ../src/ui.h:158
+msgid "Open the selected file"
+msgstr "Peuhah beureukaih yang i pileh"
+
+#: ../src/ui.h:162 ../src/ui.h:166
+msgid "Open the selected folder"
+msgstr "Peuhah folder yang i pileh"
+
+#: ../src/ui.h:171
+msgid "Go to the previous visited location"
+msgstr "Pinah u teumpat terakher yang sigolom nyo i kunjungi"
+
+#: ../src/ui.h:175
+msgid "Go to the next visited location"
+msgstr "Pinah u teumpat yang selanjut jih kaleuh i kunjungi"
+
+#. Translators: the home location is the home folder.
+#: ../src/ui.h:184
+msgid "Go to the home location"
+msgstr "Balek u lokasi phon"
+
+#: ../src/ui.h:192
+msgid "Stat_usbar"
+msgstr "Stat_usbar"
+
+#: ../src/ui.h:193
+msgid "View the statusbar"
+msgstr "Peuleumah statusbar"
+
+#: ../src/ui.h:202
+msgid "Find…"
+msgstr "Mita..."
+
+#: ../src/ui.h:203
+msgid "Find files by name"
+msgstr "Mita beureukaih lagei nan"
+
+#: ../src/ui/new-archive-dialog.ui.h:1
+msgid "_Filename:"
+msgstr "Nan_Beureukaih"
+
+#: ../src/ui/new-archive-dialog.ui.h:3
+msgid "Location"
+msgstr "Teumpat"
+
+#: ../src/ui/new-archive-dialog.ui.h:5
+msgid "_Encrypt the file list too"
+msgstr "_Enkripsi cit daftar beureukaih nyoe"
+
+#. this is part of a sentence, for example "split into volumes of 10.0 MB",
+#. where MB stands for megabyte.
+#: ../src/ui/new-archive-dialog.ui.h:7
+msgid "Split into _volumes of"
+msgstr "Dipeubekah _ngon ukuran"
+
+#. MB means megabytes
+#: ../src/ui/new-archive-dialog.ui.h:9
+msgid "MB"
+msgstr "MB"
+
+#: ../src/ui/new-archive-dialog.ui.h:10
+msgid "_Other Options"
+msgstr "_Peunileh Laen"
+
+#: ../src/ui/password.ui.h:1
+msgid "Password"
+msgstr "Lageum Rahsea"
+
+#: ../src/ui/password.ui.h:2
+msgid "_Encrypt the file list"
+msgstr "_Enkripsi daftar beureukaih"
+
+#: ../src/ui/properties.ui.h:1
+msgctxt "File"
+msgid "Name:"
+msgstr "Nan:"
+
+#: ../src/ui/properties.ui.h:2
+msgid "Archive size:"
+msgstr "Ukuran arsip:"
+
+#. after the colon there is a folder name.
+#: ../src/ui/properties.ui.h:4
+msgid "Location:"
+msgstr "Teumpat:"
+
+#: ../src/ui/properties.ui.h:5
+msgid "Compression ratio:"
+msgstr "Rasio kompresi:"
+
+#: ../src/ui/properties.ui.h:6
+msgid "Last modified:"
+msgstr "Terakher i ubah:"
+
+#: ../src/ui/properties.ui.h:7
+msgid "Content size:"
+msgstr "Ukuran asoe:"
+
+#: ../src/ui/properties.ui.h:8
+msgid "Number of files:"
+msgstr "Numboi beureukaih:"
+
+#. after the colon there is a file type.
+#: ../src/ui/properties.ui.h:10
+msgid "Type:"
+msgstr "Jeuneh:"
+
+#: ../src/ui/update.ui.h:1
+msgid "_Update"
+msgstr "_Peubaroe:"
+
+#: ../src/ui/update.ui.h:3
+msgid "S_elect the files you want to update:"
+msgstr "P_ileh beureukaih meunjak i peubaroe:"

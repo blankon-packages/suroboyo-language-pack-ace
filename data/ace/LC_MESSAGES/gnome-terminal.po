@@ -1,0 +1,2019 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+#  <mirza.triyuna@gmail.com>, 2013.
+#  <msani@s1.informatika.unsyiah.ac.id>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Suroboyo\n"
+"Report-Msgid-Bugs-To: http://dev.blankonlinux.or.id/\n"
+"POT-Creation-Date: 2013-09-16 18:15+0000\n"
+"PO-Revision-Date: 2013-11-03 06:00+0000\n"
+"Last-Translator: mirzatriyuna mirzatriyuna <mirza.triyuna@gmail.com>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Suroboyo/team/ace/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ace\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: ../gnome-terminal.desktop.in.in.h:1 ../src/server.c:106
+#: ../src/terminal-accels.c:262 ../src/terminal.c:249
+#: ../src/terminal-window.c:1861
+msgid "Terminal"
+msgstr "Terminal"
+
+#: ../gnome-terminal.desktop.in.in.h:2
+msgid "Use the command line"
+msgstr "Ngui bareh peurintah"
+
+#: ../gnome-terminal.desktop.in.in.h:3
+msgid "shell;prompt;command;commandline;"
+msgstr "shell;prompt;peurintah;bareh peurintah;"
+
+#: ../src/client.c:89
+msgid "COMMAND"
+msgstr "PEURINTAH"
+
+#: ../src/client.c:94
+#, c-format
+msgid ""
+"Commands:\n"
+"  help    Shows this information\n"
+"  run     Create a new terminal running the specified command\n"
+"  shell   Create a new terminal running the user shell\n"
+"\n"
+"Use \"%s COMMAND --help\" to get help on each command.\n"
+msgstr ""
+"Peurintah:\n"
+" beunantu   peulemah informasi nyoe\n"
+" peujak    Peuget terminal baro nyang teungoh geupeujak peurintah nyang meuteuntei\n"
+" shell     Peuget terminal baro nyang teungoh geupeujak ureung ngui shell\n"
+"\n"
+" Ngui  \"%s PEURINTAH --beunantu\" keu meureumpok beunantu bak tiep "
+"peurintah\n"
+
+#: ../src/client.c:201 ../src/terminal-options.c:682
+#, c-format
+msgid "\"%s\" is not a valid zoom factor"
+msgstr "\"%s\" kon faktor peurayek nyang beutoi"
+
+#: ../src/client.c:332
+msgid "Be quiet"
+msgstr "Seungap"
+
+#: ../src/client.c:343 ../src/terminal-options.c:1095
+msgid "Maximize the window"
+msgstr "Peurayeuk tingkap"
+
+#: ../src/client.c:345 ../src/terminal-options.c:1104
+msgid "Full-screen the window"
+msgstr "Peupunoeh layeu tingkap"
+
+#: ../src/client.c:347 ../src/terminal-options.c:1113
+msgid ""
+"Set the window size; for example: 80x24, or 80x24+200+200 (COLSxROWS+X+Y)"
+msgstr ""
+"Atoe ukuran tingkap; keu contoh: 80x24, atawa 80x24+200+200 "
+"(KOLOMxBAREH+X+Y)"
+
+#: ../src/client.c:348 ../src/terminal-options.c:1114
+msgid "GEOMETRY"
+msgstr "GEOMETRI"
+
+#: ../src/client.c:350 ../src/terminal-options.c:1122
+msgid "Set the window role"
+msgstr "Atoe buet tingkap"
+
+#: ../src/client.c:350 ../src/terminal-options.c:1123
+msgid "ROLE"
+msgstr "BUET"
+
+#: ../src/client.c:356 ../src/terminal-options.c:1153
+msgid "Use the given profile instead of the default profile"
+msgstr "Ngui profil nyang dijok keu gantoe profil baku"
+
+#: ../src/client.c:357
+msgid "UUID"
+msgstr "UUID"
+
+#: ../src/client.c:359 ../src/terminal-options.c:1162
+msgid "Set the terminal title"
+msgstr "Peuteuntee judul terminal"
+
+#: ../src/client.c:359 ../src/terminal-options.c:1163
+msgid "TITLE"
+msgstr "JUDUL"
+
+#: ../src/client.c:361 ../src/terminal-options.c:1171
+msgid "Set the working directory"
+msgstr "Peuteuntee direktori keurja"
+
+#: ../src/client.c:361 ../src/terminal-options.c:1172
+msgid "DIRNAME"
+msgstr "NAN-DIR"
+
+#: ../src/client.c:363 ../src/terminal-options.c:1180
+msgid "Set the terminal's zoom factor (1.0 = normal size)"
+msgstr "Peugot faktor peurayeuk terminal (1.0 = ukuran normal)"
+
+#: ../src/client.c:364 ../src/terminal-options.c:1181
+msgid "ZOOM"
+msgstr "PEURAYEK"
+
+#: ../src/client.c:370
+msgid "Forward stdin"
+msgstr "Peulanjut stdin"
+
+#: ../src/client.c:372
+msgid "Forward stdout"
+msgstr "Peulanjut stdout"
+
+#: ../src/client.c:374
+msgid "Forward stderr"
+msgstr "Peulanjut stderr"
+
+#: ../src/client.c:376
+msgid "Forward file descriptor"
+msgstr "Peulanjut deskriptor beureukaih"
+
+#: ../src/client.c:376
+msgid "FD"
+msgstr "FD"
+
+#: ../src/client.c:382
+msgid "Wait until the child exits"
+msgstr "Preh trok aneuk iteubit"
+
+#: ../src/client.c:392
+msgid "GNOME Terminal Client"
+msgstr "GNOME Klien Terminal"
+
+#: ../src/client.c:396
+msgid "Global options:"
+msgstr "Peunileh umum"
+
+#: ../src/client.c:397
+msgid "Show global options"
+msgstr "Peudeuh peunileh umum"
+
+#: ../src/client.c:405
+msgid "Server options:"
+msgstr "Peunileh server:"
+
+#: ../src/client.c:406
+msgid "Show server options"
+msgstr "Peuleumah peunileh server"
+
+#: ../src/client.c:414
+msgid "Window options:"
+msgstr "Peunileh tingkap:"
+
+#: ../src/client.c:415
+msgid "Show window options"
+msgstr "Peuleumah peunileh tingkap"
+
+#: ../src/client.c:423
+msgid "Terminal options:"
+msgstr "Peunileh terminal:"
+
+#: ../src/client.c:424 ../src/terminal-options.c:1460
+msgid "Show terminal options"
+msgstr "Peuleumah peunileh terminal:"
+
+#: ../src/client.c:432
+msgid "Exec options:"
+msgstr "Peunileh exec:"
+
+#: ../src/client.c:433
+msgid "Show exec options"
+msgstr "Peulemah pilehan exec"
+
+#: ../src/client.c:441
+msgid "Processing options:"
+msgstr "Peunileh proses"
+
+#: ../src/client.c:442
+msgid "Show processing options"
+msgstr "Peulemah peunileh proses"
+
+#: ../src/find-dialog.ui.h:1
+msgid "Find"
+msgstr "Mita"
+
+#: ../src/find-dialog.ui.h:2
+msgid "_Search for:"
+msgstr "_Mita keu:"
+
+#: ../src/find-dialog.ui.h:3
+msgid "_Match case"
+msgstr "_Peupaih rayek/ubit"
+
+#: ../src/find-dialog.ui.h:4
+msgid "Match _entire word only"
+msgstr "Peupaih _jeuneh kata mantong"
+
+#: ../src/find-dialog.ui.h:5
+msgid "Match as _regular expression"
+msgstr "Peupaih lage ekspresi _regular"
+
+#: ../src/find-dialog.ui.h:6
+msgid "Search _backwards"
+msgstr "Mita _ulikoet"
+
+#: ../src/find-dialog.ui.h:7
+msgid "_Wrap around"
+msgstr "_Peulipat kata"
+
+#: ../src/migration.c:384 ../src/terminal-prefs.c:98
+msgid "Unnamed"
+msgstr "Hananan"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:1
+msgid "Human-readable name of the profile"
+msgstr "Nan-ruman muka yang mangat ibaca"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:2
+msgid "Human-readable name of the profile."
+msgstr "Nan-ruman muka yang mangat ibaca"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:3
+msgid "Default color of text in the terminal"
+msgstr "Warena tulesan awai lam terminal"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:4
+msgid ""
+"Default color of text in the terminal, as a color specification (can be "
+"HTML-style hex digits, or a color name such as \"red\")."
+msgstr ""
+"Warena tuesan awai lam terminal, yang teunuleh lam spesifikasi warena "
+"(jeut HTML-gaya heksa digits, atau nan warena \"mirah\")"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:5
+msgid "Default color of terminal background"
+msgstr "Warena utama bideung terminal"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:6
+msgid ""
+"Default color of terminal background, as a color specification (can be HTML-"
+"style hex digits, or a color name such as \"red\")."
+msgstr ""
+"Warena bideung terminal, yang teunueleh lam spesifikasi warena (jeut HTML-"
+"gaya heksa digits, atau nan warena \"mirah\")"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:7
+msgid "Default color of bold text in the terminal"
+msgstr "Warena tulesan tebai ata awai bak terminal"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:8
+msgid ""
+"Default color of bold text in the terminal, as a color specification (can be"
+" HTML-style hex digits, or a color name such as \"red\"). This is ignored if"
+" bold_color_same_as_fg is true."
+msgstr ""
+"Warena tulesan tubai ata awai bak terminal, nyang teunuleh lam spesifikasi "
+"warena (jeut HTML-gaya  heksa digits, atau nan warena \"mirah\"). jeut "
+"dipeuabai meunyo bold_color_same_as_fg beutoi."
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:9
+msgid "Whether bold text should use the same color as normal text"
+msgstr ""
+"Pekeuh tulesan teubai harus ngui warena yang sama dengon tulesan normal "
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:10
+msgid "If true, boldface text will be rendered using the same color as normal text."
+msgstr "Meunyo harus, tulesan teubai geungui warena lage tulesan lage teks normal."
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:11
+msgid "What to do with dynamic title"
+msgstr "Peuato nan judol dinamis"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:12
+msgid ""
+"If the application in the terminal sets the title (most typically people "
+"have their shell set up to do this), the dynamically-set title can erase the"
+" configured title, go before it, go after it, or replace it. The possible "
+"values are \"replace\", \"before\", \"after\", and \"ignore\"."
+msgstr ""
+"Meunyo aplikasi yang teungoh ijak na teungui judul, maka judul nyan akan "
+"teuhapoih nan yang ka na, atawa itamah segolom nyan, atawa itamah lheuh nyan,"
+" atawa iganto. droen jeut neuato ngon cara neupasoe \"replace\", "
+"\"before\", \"after\", dan \"ignore\""
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:13
+msgid "Title for terminal"
+msgstr "Judol keu terminal"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:14
+msgid ""
+"Title to display for the terminal window or tab. This title may be replaced "
+"by or combined with the title set by the application inside the terminal, "
+"depending on the title_mode setting."
+msgstr ""
+"Judul yang teupeuleumah bak tingkap atawa terminal. judul nyo jeut igantoe "
+"atawa igabong dengon kalimah laen yang ka iset le aplikasi yang ijak lam "
+"terminal, teugantong yang ka diatoe dalam title_mode"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:15
+msgid "Whether to allow bold text"
+msgstr "Pekeuh jeut peutebai tulesan"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:16
+msgid "If true, allow applications in the terminal to make text boldface."
+msgstr "Meunyoe jeut, aplikasi i dalam terminal jeut ipeutebai tulesan"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:17
+msgid "Whether to ring the terminal bell"
+msgstr "Pekeuh peudep bel terminal"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:18
+msgid "Characters that are considered \"part of a word\""
+msgstr "Karakter yang i anggap keu \"bagian kata\""
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:19
+msgid ""
+"When selecting text by word, sequences of these characters are considered "
+"single words. Ranges can be given as \"A-Z\". Literal hyphen (not expressing"
+" a range) should be the first character given."
+msgstr ""
+"Wate pileh tulesan lage kata, urotan nyo dianggap saboh lam kumpulan"
+" kata. kata antara A troh Z. tanda kureung (minus) jika kemeung ngui harus"
+" ituleh bak awai."
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:20
+msgid "Whether to show menubar in new windows/tabs"
+msgstr "Leumah menu bak tingkap/tab baro"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:21
+msgid "True if the menubar should be shown in new window"
+msgstr "Meunyo beutoi, bagian menu akan leumah bak tingkap baro"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:22
+msgid "Whether to use custom terminal size for new windows"
+msgstr "Pekeuh teungui ukoran terminal yang ka i ubah keu tingkap baro"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:23
+msgid ""
+"If true, newly created terminal windows will have custom size specified by "
+"default_size_columns and default_size_rows."
+msgstr ""
+"Meunyo beutoi, tingkap terminal yang baro teungui na ukoran yang ka i "
+"ubah lagee default_size_columns dan default_size_rows"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:24
+msgid "Default number of columns"
+msgstr "Numboi kolom keu utama"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:25
+msgid ""
+"Number of columns in newly created terminal windows. Has no effect if "
+"use_custom_default_size is not enabled."
+msgstr ""
+"Numboi kolom ata awai bak tingkap yang baroe i peugot. hana meupengaroh jika "
+"use_custom_default_size hana ipeuaktif."
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:26
+msgid "Default number of rows"
+msgstr "Numboi bareh keu utama"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:27
+msgid ""
+"Number of rows in newly created terminal windows. Has no effect if "
+"use_custom_default_size is not enabled."
+msgstr ""
+"Numboi bareh bak jendela terminal yang baroe ipeugot. hana meupengaroh jika "
+"use_custom_default_size hana ipeuaktif"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:28
+msgid "When to show the scrollbar"
+msgstr "Pajan teupeuleumah scrollbar"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:29
+msgid "Number of lines to keep in scrollback"
+msgstr "Numboi bareh yang yang ipeusisa watee layeu teugulong u likot"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:30
+msgid ""
+"Number of scrollback lines to keep around. You can scroll back in the "
+"terminal by this number of lines; lines that don't fit in the scrollback are"
+" discarded. If scrollback_unlimited is true, this value is ignored."
+msgstr ""
+"Numboi bareh nyang ipeusisa watee layeu teugolong u likot. droen jeut "
+"neugulong layeu u likoet lagee cacah bareh nyo; bareh yang hana cukop akan "
+"diboh. jika scrollback_unlimited beutoi, nilai nyo akan ipeuabai."
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:31
+msgid "Whether an unlimited number of lines should be kept in scrollback"
+msgstr "Pukeuh bareh yang hana terbatas bareh gulong harus ipetheun."
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:32
+msgid ""
+"If true, scrollback lines will never be discarded. The scrollback history is"
+" stored on disk temporarily, so this may cause the system to run out of disk"
+" space if there is a lot of output to the terminal."
+msgstr ""
+"Meunyo beutoi, bareh gulong hana peurnah iboh. Riwayat gulong u likot nakeuh teukeubah"
+" siat bak disk, keujadian nyo akan meupeungaroh u jak teubiet bak disk"
+" meunyo le ruweung bak tubiet u terminal."
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:33
+msgid "Whether to scroll to the bottom when a key is pressed"
+msgstr "Paugulong layeu troeh u baro wate tumboi iteugon"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:34
+msgid "If true, pressing a key jumps the scrollbar to the bottom."
+msgstr "Meunyo beutoi, scrollbar ipeubalek u baroeh jika na tumboi yang iteugon"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:35
+msgid "Whether to scroll to the bottom when there's new output"
+msgstr "Peugulong layeu u baroeh wate output baroe"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:36
+msgid ""
+"If true, whenever there's new output the terminal will scroll to the bottom."
+msgstr ""
+"Meunyo beutoi, mandum nyo baro iteubit bak terminal akan igulong u baroeh"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:37
+msgid "What to do with the terminal when the child command exits"
+msgstr ""
+"Peu nyang i pubuet terminal watee peurintah yang kaleuh i pubut kana"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:38
+msgid ""
+"Possible values are \"close\" to close the terminal, and \"restart\" to "
+"restart the command."
+msgstr ""
+"Droe jeut neupasoe \"close\" keu neutop terminal atawa \"restart\" keu "
+"neugulong layeu."
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:39
+msgid "Whether to launch the command in the terminal as a login shell"
+msgstr ""
+"Peuteunte pukeuh peurintah yang i peujak bak terminal i peujak melalui "
+"shell login"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:40
+msgid ""
+"If true, the command inside the terminal will be launched as a login shell. "
+"(argv[0] will have a hyphen in front of it.)"
+msgstr ""
+"Meunyo beutoi, peurintah bak terminal akan ipeujak seubago shell login. "
+"(argv[0] akan na tanda kureung bak keu jih)"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:41
+msgid "Whether to update login records when launching terminal command"
+msgstr ""
+"Peuteunte pukeuh ceunatat login na jiseubaro watee peujak parintah terminal."
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:42
+msgid ""
+"If true, the system login records utmp and wtmp will be updated when the "
+"command inside the terminal is launched."
+msgstr ""
+"Meunyo beutoi, login sistem i tuleh utmp dan wtp yang jiseubaro watee "
+"peurintah ipeujak lam terminal."
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:43
+msgid "Whether to run a custom command instead of the shell"
+msgstr "Peujak peurintah tertentu ngon kon shell"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:44
+msgid ""
+"If true, the value of the custom_command setting will be used in place of "
+"running a shell."
+msgstr ""
+"Meunyo beutoi, nilai keu andam custom_command akan jingui bak shell yang "
+"ipeujak"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:45
+msgid "Whether to blink the cursor"
+msgstr "Pukeuh kursor harus meuklep"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:46
+msgid ""
+"The possible values are \"system\" to use the global cursor blinking "
+"settings, or \"on\" or \"off\" to set the mode explicitly."
+msgstr ""
+"Nilai yang mungken nyankeuh \"system\" jingui keu peuato cursor meuklep "
+"bak umum, atawa \"on\" atawa \"off\" keu meunata mode secara eksplisit."
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:47
+msgid "The cursor appearance"
+msgstr "Peulagak kursor"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:48
+msgid "Custom command to use instead of the shell"
+msgstr "Ngui peurintah meuteuntei ngon kon shell"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:49
+msgid "Run this command in place of the shell, if use_custom_command is true."
+msgstr ""
+"Jak peurintah nyo tanpa shell jika use_custom_command bernilai beutoi"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:50
+msgid "Palette for terminal applications"
+msgstr "Palet keu aplikasi terminal"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:51
+msgid "A Pango font name and size"
+msgstr "Pango nan tulesan ngon ukoran"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:52
+msgid "The code sequence the Backspace key generates"
+msgstr "Uroetan kode yang ibangkitkan oleh tombol backspace"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:53
+msgid "The code sequence the Delete key generates"
+msgstr "Uroetan kode yang ipeubangkit le tumboi hapoh"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:54
+msgid "Whether to use the colors from the theme for the terminal widget"
+msgstr "Peukeuh keu jingui warena dari tema sistem keu widget terminal"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:55
+msgid "Whether to use the system monospace font"
+msgstr "Pukeuh keu jingui tulesan lebar dalam sistem"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:56
+msgid "Which encoding to use"
+msgstr "Enkoding yang keu jingui"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:57
+msgid "Keyboard shortcut to open a new tab"
+msgstr "Tumboi bagah keu peuhah tab baro"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:58
+msgid "Keyboard shortcut to open a new window"
+msgstr "Tumboi bagah keu peuhah tingkap baro"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:59
+msgid "Keyboard shortcut to create a new profile"
+msgstr "Tumboi bagah keu peuget profil baro"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:60
+msgid "Keyboard shortcut to save the current tab contents to file"
+msgstr "Tumboi bagah keu keubah asoe tab jinoe keu beureukaih"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:61
+msgid "Keyboard shortcut to close a tab"
+msgstr "Tumboi bagah keu toep tab"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:62
+msgid "Keyboard shortcut to close a window"
+msgstr "Tumboi bagah keu toep tingkap"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:63
+msgid "Keyboard shortcut to copy text"
+msgstr "Tumboi bagah keu salen teks"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:64
+msgid "Keyboard shortcut to paste text"
+msgstr "Tumboi bagah keu tempel teks"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:65
+msgid "Keyboard shortcut to toggle full screen mode"
+msgstr "Tumboi bagah keu peuraya layeu seucara penoh"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:66
+msgid "Keyboard shortcut to toggle the visibility of the menubar"
+msgstr "Tumboi bagah keu balek u bilah menu"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:67
+msgid "Keyboard shortcut to set the terminal title"
+msgstr "Tumboi bagah keu peutente judul terminal"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:68
+msgid "Keyboard shortcut to reset the terminal"
+msgstr "Tumboi bagah keu tata ulang terminal"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:69
+msgid "Keyboard shortcut to reset and clear the terminal"
+msgstr "Tumboi bagah keu tata ulang dan peugleh layeu terminal"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:70
+msgid "Keyboard shortcut to switch to the previous tab"
+msgstr "Tumboi bagah keu pinah u tab dilikoet jih"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:71
+msgid "Keyboard shortcut to switch to the next tab"
+msgstr "Tumboi bagah keu pinah u tab u keue jih"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:72
+msgid "Keyboard shortcut to move the current tab to the left"
+msgstr "Tumboi bagah keu peuminah tab jinoe u arah wi"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:73
+msgid "Keyboard shortcut to move the current tab to the right"
+msgstr "Tumboi bagah keu pinah tab jinoe u arah uneun"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:74
+msgid "Keyboard shortcut to detach current tab"
+msgstr "Tumboi bagah keu peleuh tab jinoe"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:75
+msgid "Keyboard shortcut to switch to tab 1"
+msgstr "Tumboi bagah keu pinah u tab 1"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:76
+msgid "Keyboard shortcut to switch to tab 2"
+msgstr "Tumboi bagah keu pinah u tab 2"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:77
+msgid "Keyboard shortcut to switch to tab 3"
+msgstr "Tumboi bagah keu pinah u tab 3"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:78
+msgid "Keyboard shortcut to switch to tab 4"
+msgstr "Tumboi bagah keu pinah u tab 4"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:79
+msgid "Keyboard shortcut to switch to tab 5"
+msgstr "Tumboi bagah keu pinah u tab 5"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:80
+msgid "Keyboard shortcut to switch to tab 6"
+msgstr "Tumboi bagah keu pinah u tab 6"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:81
+msgid "Keyboard shortcut to switch to tab 7"
+msgstr "Tumboi bagah keu pinah u tab 7"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:82
+msgid "Keyboard shortcut to switch to tab 8"
+msgstr "Tumboi bagah keu pinah u tab 8"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:83
+msgid "Keyboard shortcut to switch to tab 9"
+msgstr "Tumboi bagah keu pinah u tab 9"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:84
+msgid "Keyboard shortcut to switch to tab 10"
+msgstr "Tumboi bagah keu pinah u tab 10"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:85
+msgid "Keyboard shortcut to switch to tab 11"
+msgstr "Tumboi bagah keu pinah u tab 11"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:86
+msgid "Keyboard shortcut to switch to tab 12"
+msgstr "Tumboi bagah keu pinah u tab 12"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:87
+msgid "Keyboard shortcut to launch help"
+msgstr "Tumboi bagah keu peulemah beunantu"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:88
+msgid "Keyboard shortcut to make font larger"
+msgstr "Tumboi bagah keu peuget font lebeh raya"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:89
+msgid "Keyboard shortcut to make font smaller"
+msgstr "Tumboi bagah keu peuget font jeut ukoran ubit"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:90
+msgid "Keyboard shortcut to make font normal-size"
+msgstr "Tumboi bagah keu peuget font jeut ukoran normal"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:91
+msgid "Whether the menubar has access keys"
+msgstr "Peutente pukeuh menu bar na tumboi akses"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:92
+msgid ""
+"Whether to have Alt+letter access keys for the menubar. They may interfere "
+"with some applications run inside the terminal so it's possible to turn them"
+" off."
+msgstr ""
+"Peutente pukeuh tumboi akses u menu bar jeut ngui kombinasi alt+abeujad. "
+"kadang jeut terjadi bentrok lam saboh watee"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:93
+msgid "Whether the standard GTK shortcut for menubar access is enabled"
+msgstr ""
+"Peutente pukeuh tumboi singkat GTK standar keu akses menu bar ipeuaktif"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:94
+msgid ""
+"Normally you can access the menubar with F10. This can also be customized "
+"via gtkrc (gtk-menu-bar-accel = \"whatever\"). This option allows the "
+"standard menubar accelerator to be disabled."
+msgstr ""
+"Menu bar jeut diakses ngon tumboi F10. tumboi nyo jeut di setel pkek "
+"beureukaih gtkrc (bak bagian gtk-menu-bar-accel). Peunileh nyo jeut ipeugunakan "
+"ke peumatee fungsi akselerator menu bar"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:95
+msgid "List of available encodings"
+msgstr "Dapeuta enkode yang na"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:96
+msgid ""
+"A subset of possible encodings are presented in the Encoding submenu. This "
+"is a list of encodings to appear there. The special encoding name "
+"\"current\" means to display the encoding of the current locale."
+msgstr ""
+"Bagian peukode karakter yang na bak sub menu pengkodean. nyo nakeuh dapeuta "
+"pengkodean yang keumeung i peumuncoe. na nan khusus \"current\" yang "
+"teupeuleumah pengkodean paih ngon locale yang aktif"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:97
+msgid "Whether to ask for confirmation before closing a terminal"
+msgstr "Pukeuh i tanyong konfirmasi yoh gohlom terminal jitoep"
+
+#: ../src/org.gnome.Terminal.gschema.xml.in.h:98
+msgid "Whether to show the menubar in new windows"
+msgstr "Pukeuh leumah menu bar bak jendela baroe"
+
+#: ../src/preferences.ui.h:1
+msgid "Preferences"
+msgstr "Peuato"
+
+#: ../src/preferences.ui.h:2
+msgid "Show _menubar by default in new terminals"
+msgstr "Peulemah _menubar bak terminal baro"
+
+#: ../src/preferences.ui.h:3
+msgid "_Enable mnemonics (such as Alt+F to open the File menu)"
+msgstr "_Peuaktif tumboi akses menu (lagee alt+B keu peuhah menu beureukaih)"
+
+#: ../src/preferences.ui.h:4
+msgid "Enable the _menu accelerator key (F10 by default)"
+msgstr "Peuaktif tumboi bagah u _menu (ata awai, tumboi F10)"
+
+#: ../src/preferences.ui.h:5 ../src/profile-preferences.ui.h:61
+msgid "General"
+msgstr "Umum"
+
+#: ../src/preferences.ui.h:6
+msgid "Shortcuts"
+msgstr "Pintas"
+
+#: ../src/preferences.ui.h:7
+msgid "_Clone"
+msgstr "_Klon"
+
+#: ../src/preferences.ui.h:8
+msgid "_Profile used when launching a new terminal:"
+msgstr "_Profil yang i ngui watee peuhah terminal"
+
+#: ../src/preferences.ui.h:9
+msgid "Profiles"
+msgstr "Profil"
+
+#: ../src/preferences.ui.h:10
+msgid "E_ncodings shown in menu:"
+msgstr "E_nkoding yang i peulemah bak menu"
+
+#: ../src/preferences.ui.h:11
+msgid "Encodings"
+msgstr "Pengkodean"
+
+#: ../src/profile-editor.c:47
+msgid "Black on light yellow"
+msgstr "Itam di ateuh kuneng trang"
+
+#: ../src/profile-editor.c:51
+msgid "Black on white"
+msgstr "Itam di ateuh puteh"
+
+#: ../src/profile-editor.c:55
+msgid "Gray on black"
+msgstr "Keulabe di ateuh hitam"
+
+#: ../src/profile-editor.c:59
+msgid "Green on black"
+msgstr "Ijo di ateuh hitam"
+
+#: ../src/profile-editor.c:63
+msgid "White on black"
+msgstr "Puteh di ateuh hitam"
+
+#: ../src/profile-editor.c:411
+#, c-format
+msgid "Error parsing command: %s"
+msgstr "Error watee peurai peurintah: %s"
+
+#. This is the name of a colour scheme
+#: ../src/profile-editor.c:445 ../src/profile-preferences.ui.h:30
+msgid "Custom"
+msgstr "Custom"
+
+#: ../src/profile-editor.c:560
+#, c-format
+msgid "Editing Profile “%s”"
+msgstr "Andam Profil \"%s\""
+
+#: ../src/profile-editor.c:743
+#, c-format
+msgid "Choose Palette Color %d"
+msgstr "Pileh warena palet %d"
+
+#: ../src/profile-editor.c:747
+#, c-format
+msgid "Palette entry %d"
+msgstr "Palet entry %d"
+
+#. Cursor shape
+#: ../src/profile-preferences.ui.h:2
+msgid "Block"
+msgstr "Block"
+
+#. Cursor shape
+#: ../src/profile-preferences.ui.h:4
+msgid "I-Beam"
+msgstr "I-Beam"
+
+#. Cursor shape
+#: ../src/profile-preferences.ui.h:6
+msgid "Underline"
+msgstr "Gareh miyup"
+
+#. When terminal commands set their own titles
+#: ../src/profile-preferences.ui.h:8
+msgid "Replace initial title"
+msgstr "Gantoe judul awai"
+
+#. When terminal commands set their own titles
+#: ../src/profile-preferences.ui.h:10
+msgid "Append initial title"
+msgstr "Tamah i likot judul awai"
+
+#. When terminal commands set their own titles
+#: ../src/profile-preferences.ui.h:12
+msgid "Prepend initial title"
+msgstr "Tamah di keu judul awai"
+
+#. When terminal commands set their own titles
+#: ../src/profile-preferences.ui.h:14
+msgid "Keep initial title"
+msgstr "Peutheun judul awai"
+
+#. When command exits
+#: ../src/profile-preferences.ui.h:16
+msgid "Exit the terminal"
+msgstr "Teubit dari terminal"
+
+#. When command exits
+#: ../src/profile-preferences.ui.h:18
+msgid "Restart the command"
+msgstr "Peujak ulang terminal"
+
+#. When command exits
+#: ../src/profile-preferences.ui.h:20
+msgid "Hold the terminal open"
+msgstr "Peutheun terminal teutap teuhah"
+
+#. This is the name of a colour scheme
+#: ../src/profile-preferences.ui.h:22
+msgid "Tango"
+msgstr "Tango"
+
+#. This is the name of a colour scheme
+#: ../src/profile-preferences.ui.h:24
+msgid "Linux console"
+msgstr "Konsol Linux"
+
+#. This is the name of a colour scheme
+#: ../src/profile-preferences.ui.h:26
+msgid "XTerm"
+msgstr "XTerm"
+
+#. This is the name of a colour scheme
+#: ../src/profile-preferences.ui.h:28
+msgid "Rxvt"
+msgstr "Rxvt"
+
+#. Scrollbar is
+#: ../src/profile-preferences.ui.h:32
+msgid "Always visible"
+msgstr "Sabee leumah"
+
+#. Scrollbar is
+#: ../src/profile-preferences.ui.h:34
+msgid "Visible only when necessary"
+msgstr "Leumah mantong meunyo perlee"
+
+#. Scrollbar is
+#: ../src/profile-preferences.ui.h:36
+msgid "Hidden"
+msgstr "Teupesom"
+
+#. This refers to the Delete keybinding option
+#: ../src/profile-preferences.ui.h:38
+msgid "Automatic"
+msgstr "Otomatis"
+
+#. This refers to the Delete keybinding option
+#: ../src/profile-preferences.ui.h:40
+msgid "Control-H"
+msgstr "Control-H"
+
+#. This refers to the Delete keybinding option
+#: ../src/profile-preferences.ui.h:42
+msgid "ASCII DEL"
+msgstr "ASCII DEL"
+
+#. This refers to the Delete keybinding option
+#: ../src/profile-preferences.ui.h:44
+msgid "Escape sequence"
+msgstr "Escape sequence"
+
+#. This refers to the Delete keybinding option
+#: ../src/profile-preferences.ui.h:46
+msgid "TTY Erase"
+msgstr "TTY Hapoh"
+
+#: ../src/profile-preferences.ui.h:47
+msgid "Profile Editor"
+msgstr "Andam Profil"
+
+#: ../src/profile-preferences.ui.h:48
+msgid "_Profile name:"
+msgstr "_Nan Profil"
+
+#: ../src/profile-preferences.ui.h:49
+msgid "Profile ID:"
+msgstr "ID Profil"
+
+#: ../src/profile-preferences.ui.h:50
+msgid "_Use the system fixed width font"
+msgstr "N_gui font teutap bak sistem"
+
+#: ../src/profile-preferences.ui.h:51
+msgid "_Font:"
+msgstr "_Font"
+
+#: ../src/profile-preferences.ui.h:52
+msgid "Choose A Terminal Font"
+msgstr "Pileh Font Terminal"
+
+#: ../src/profile-preferences.ui.h:53
+msgid "_Allow bold text"
+msgstr "_Bri akses teks teubai"
+
+#: ../src/profile-preferences.ui.h:54
+msgid "Terminal _bell"
+msgstr "_Bel Terminal"
+
+#: ../src/profile-preferences.ui.h:55
+msgid "Cursor _shape:"
+msgstr "_Bentuk kursor"
+
+#: ../src/profile-preferences.ui.h:56
+msgid "Select-by-_word characters:"
+msgstr "Pileh karakter _kata"
+
+#: ../src/profile-preferences.ui.h:57
+msgid "Use custom default terminal si_ze"
+msgstr "Ngui uku_ran terminal lagee ata awai"
+
+#: ../src/profile-preferences.ui.h:58
+msgid "Default size:"
+msgstr "Ukoran baku"
+
+#: ../src/profile-preferences.ui.h:59
+msgid "columns"
+msgstr "kolom"
+
+#: ../src/profile-preferences.ui.h:60
+msgid "rows"
+msgstr "bareh"
+
+#: ../src/profile-preferences.ui.h:62
+msgid "Title"
+msgstr "Judul"
+
+#: ../src/profile-preferences.ui.h:63
+msgid "Initial _title:"
+msgstr "_Judul awai"
+
+#: ../src/profile-preferences.ui.h:64
+msgid "When terminal commands set their o_wn titles:"
+msgstr "Watee peurintah terminal diatoe judul keudr_oe"
+
+#: ../src/profile-preferences.ui.h:65
+msgid "Command"
+msgstr "Peurintah"
+
+#: ../src/profile-preferences.ui.h:66
+msgid "_Run command as a login shell"
+msgstr "_Jak peurintah bak shell login"
+
+#: ../src/profile-preferences.ui.h:67
+msgid "_Update login records when command is launched"
+msgstr "_Peubaroe catatan login watee peurintah dipeujak"
+
+#: ../src/profile-preferences.ui.h:68
+msgid "Ru_n a custom command instead of my shell"
+msgstr "Ja_k peurintah meuteuntei bak shell lon"
+
+#: ../src/profile-preferences.ui.h:69
+msgid "Custom co_mmand:"
+msgstr "Peuri_ntah meuteuntei"
+
+#: ../src/profile-preferences.ui.h:70
+msgid "When command _exits:"
+msgstr "Watee peurintah _selesoe i peujak"
+
+#: ../src/profile-preferences.ui.h:71
+msgid "Title and Command"
+msgstr "Judul ngon peurintah"
+
+#: ../src/profile-preferences.ui.h:72
+msgid "Text and Background Color"
+msgstr "Warena teks ngon warena layeu likoet"
+
+#: ../src/profile-preferences.ui.h:73
+msgid "_Use colors from system theme"
+msgstr "Ng_ui warena dari tema ata sistem"
+
+#: ../src/profile-preferences.ui.h:74
+msgid "Built-in sche_mes:"
+msgstr "Ske_ma ata-awai"
+
+#: ../src/profile-preferences.ui.h:75
+msgid "_Text color:"
+msgstr "Warena _teks"
+
+#: ../src/profile-preferences.ui.h:76
+msgid "_Background color:"
+msgstr "_Warena layeu likot"
+
+#: ../src/profile-preferences.ui.h:77
+msgid "Choose Terminal Background Color"
+msgstr "Pileh warena layeu likot terminal"
+
+#: ../src/profile-preferences.ui.h:78
+msgid "Choose Terminal Text Color"
+msgstr "Pileh warena teks terminal"
+
+#: ../src/profile-preferences.ui.h:79
+msgid "_Underline color:"
+msgstr "_Warena gareh miyup"
+
+#: ../src/profile-preferences.ui.h:80
+msgid "_Same as text color"
+msgstr "_Sama lagee warena teks"
+
+#: ../src/profile-preferences.ui.h:81
+msgid "Bol_d color:"
+msgstr "Warena teu_bai"
+
+#: ../src/profile-preferences.ui.h:82
+msgid "Palette"
+msgstr "Palet"
+
+#: ../src/profile-preferences.ui.h:83
+msgid "Built-in _schemes:"
+msgstr "_Skema ata-awai"
+
+#: ../src/profile-preferences.ui.h:84
+msgid ""
+"<b>Note:</b> Terminal applications have these colors available to them."
+msgstr ""
+"<b>Catatan:</b>aplikasi terminal na warena-wareni yang teusedia bak awak nyan"
+
+#: ../src/profile-preferences.ui.h:85
+msgid "Color p_alette:"
+msgstr "P_alet warena"
+
+#: ../src/profile-preferences.ui.h:86
+msgid "Colors"
+msgstr "Warena"
+
+#: ../src/profile-preferences.ui.h:87
+msgid "_Scrollbar is:"
+msgstr "_Scrollbar nakeuh:"
+
+#: ../src/profile-preferences.ui.h:88
+msgid "Scroll_back:"
+msgstr "_Gulong_balek"
+
+#: ../src/profile-preferences.ui.h:89
+msgid "Scroll on _keystroke"
+msgstr "Gulong watee _tumboi iteukon"
+
+#: ../src/profile-preferences.ui.h:90
+msgid "Scroll on _output"
+msgstr "Gulong watee na keluaran"
+
+#: ../src/profile-preferences.ui.h:91
+msgid "_Unlimited"
+msgstr "_Hana terbatas"
+
+#: ../src/profile-preferences.ui.h:92
+msgid "lines"
+msgstr "bareh"
+
+#: ../src/profile-preferences.ui.h:93
+msgid "Scrolling"
+msgstr "Gulong layeu"
+
+#: ../src/profile-preferences.ui.h:94
+msgid ""
+"<b>Note:</b> These options may cause some applications to behave "
+"incorrectly.  They are only here to allow you to work around certain "
+"applications and operating systems that expect different terminal behavior."
+msgstr ""
+"<b>Catatan:</b> pilehan nyoe jeut peuget program hana ijak lagee yang seharus"
+" jih. pilehan nyo ipeusedia keu beuberapa aplikasi ngon sistem operasi "
+"tetentee nyang na peurilaku beda bak aplikasi terminal"
+
+#: ../src/profile-preferences.ui.h:95
+msgid "_Delete key generates:"
+msgstr "Key peubangkit tumboi _delete"
+
+#: ../src/profile-preferences.ui.h:96
+msgid "_Backspace key generates:"
+msgstr "Key peubangkit tumboi _bakspace"
+
+#: ../src/profile-preferences.ui.h:97
+msgid "_Reset Compatibility Options to Defaults"
+msgstr "_Peubalek pilehan kompatibilitas keu nilai awai"
+
+#: ../src/profile-preferences.ui.h:98
+msgid "Compatibility"
+msgstr "Kompatibilitas"
+
+#: ../src/terminal-accels.c:141
+msgid "New Tab"
+msgstr "Tab baroe"
+
+#: ../src/terminal-accels.c:143
+msgid "New Window"
+msgstr "Jendela Baroe"
+
+#: ../src/terminal-accels.c:145
+msgid "New Profile"
+msgstr "Profil Baroe"
+
+#: ../src/terminal-accels.c:148
+msgid "Save Contents"
+msgstr "Simpan Asoe"
+
+#: ../src/terminal-accels.c:151
+msgid "Close Tab"
+msgstr "Toep Tab"
+
+#: ../src/terminal-accels.c:153
+msgid "Close Window"
+msgstr "Toep Jendela"
+
+#: ../src/terminal-accels.c:159
+msgid "Copy"
+msgstr "Salin"
+
+#: ../src/terminal-accels.c:161
+msgid "Paste"
+msgstr "Tempel"
+
+#: ../src/terminal-accels.c:167
+msgid "Hide and Show menubar"
+msgstr "Peugadoh ngon peutampil menu bar"
+
+#: ../src/terminal-accels.c:169
+msgid "Full Screen"
+msgstr "Layeu Peunoh"
+
+#: ../src/terminal-accels.c:171
+msgid "Zoom In"
+msgstr "Peurayek"
+
+#: ../src/terminal-accels.c:173
+msgid "Zoom Out"
+msgstr "Peuubit"
+
+#: ../src/terminal-accels.c:175
+msgid "Normal Size"
+msgstr "Ukoran Normal"
+
+#: ../src/terminal-accels.c:181 ../src/terminal-window.c:3471
+msgid "Set Title"
+msgstr "Atoe Judul"
+
+#: ../src/terminal-accels.c:183
+msgid "Reset"
+msgstr "Atoe Ulang"
+
+#: ../src/terminal-accels.c:185
+msgid "Reset and Clear"
+msgstr "Atoe Ulang ngon Peugleh"
+
+#: ../src/terminal-accels.c:191
+msgid "Switch to Previous Tab"
+msgstr "Peuse u Tab Sigohlom Jih"
+
+#: ../src/terminal-accels.c:193
+msgid "Switch to Next Tab"
+msgstr "Peuse u Tab Seulanjut Jih"
+
+#: ../src/terminal-accels.c:195
+msgid "Move Tab to the Left"
+msgstr "Pinah u Tab blah wie"
+
+#: ../src/terminal-accels.c:197
+msgid "Move Tab to the Right"
+msgstr "Pinah u Tab blah uneun"
+
+#: ../src/terminal-accels.c:199
+msgid "Detach Tab"
+msgstr "Peupisah Tab"
+
+#: ../src/terminal-accels.c:213
+msgid "Switch to Tab 1"
+msgstr "Peuse u Tab 1"
+
+#: ../src/terminal-accels.c:214
+msgid "Switch to Tab 2"
+msgstr "Peuse u Tab 2"
+
+#: ../src/terminal-accels.c:215
+msgid "Switch to Tab 3"
+msgstr "Peuse u Tab 3"
+
+#: ../src/terminal-accels.c:216
+msgid "Switch to Tab 4"
+msgstr "Peuse u Tab 4"
+
+#: ../src/terminal-accels.c:217
+msgid "Switch to Tab 5"
+msgstr "Peuse u Tab 5"
+
+#: ../src/terminal-accels.c:218
+msgid "Switch to Tab 6"
+msgstr "Peuse u Tab 6"
+
+#: ../src/terminal-accels.c:219
+msgid "Switch to Tab 7"
+msgstr "Peuse u Tab 7"
+
+#: ../src/terminal-accels.c:220
+msgid "Switch to Tab 8"
+msgstr "Peuse u Tab 8"
+
+#: ../src/terminal-accels.c:221
+msgid "Switch to Tab 9"
+msgstr "Peuse u Tab 9"
+
+#: ../src/terminal-accels.c:222
+msgid "Switch to Tab 10"
+msgstr "Peuse u Tab 10"
+
+#: ../src/terminal-accels.c:223
+msgid "Switch to Tab 11"
+msgstr "Peuse u Tab 11"
+
+#: ../src/terminal-accels.c:224
+msgid "Switch to Tab 12"
+msgstr "Peuse u Tab 12"
+
+#: ../src/terminal-accels.c:254
+msgid "Contents"
+msgstr "Asoe"
+
+#: ../src/terminal-accels.c:259
+msgid "File"
+msgstr "Beurkah"
+
+#: ../src/terminal-accels.c:260
+msgid "Edit"
+msgstr "Ubah"
+
+#: ../src/terminal-accels.c:261
+msgid "View"
+msgstr "Tampilan"
+
+#: ../src/terminal-accels.c:263
+msgid "Tabs"
+msgstr "Tab"
+
+#: ../src/terminal-accels.c:264
+msgid "Help"
+msgstr "Beunantu"
+
+#: ../src/terminal-accels.c:635
+#, c-format
+msgid "The shortcut key “%s” is already bound to the “%s” action"
+msgstr "Tumboi bagah \"%s\" kaleuh ipasang bak aksi \"%s\""
+
+#: ../src/terminal-accels.c:748
+msgid "_Action"
+msgstr "_Aksi"
+
+#: ../src/terminal-accels.c:766
+msgid "Shortcut _Key"
+msgstr "Tumboi _bagah"
+
+#: ../src/terminal-app.c:574
+msgid "User Defined"
+msgstr "Ipeujelas le peumakai"
+
+#: ../src/terminal-appmenu.ui.h:1
+msgid "_Preferences"
+msgstr "_Peuato"
+
+#: ../src/terminal-appmenu.ui.h:2 ../src/terminal-window.c:1663
+msgid "_Help"
+msgstr "_Beunantu"
+
+#: ../src/terminal-appmenu.ui.h:3 ../src/terminal-window.c:1779
+msgid "_About"
+msgstr "_Bh'ah"
+
+#: ../src/terminal.c:242
+#, c-format
+msgid "Failed to parse arguments: %s\n"
+msgstr "Hana berhasil mengurai peurintah: \"%s\""
+
+#: ../src/terminal-encoding.c:52 ../src/terminal-encoding.c:65
+#: ../src/terminal-encoding.c:79 ../src/terminal-encoding.c:101
+#: ../src/terminal-encoding.c:112
+msgid "Western"
+msgstr "Barat"
+
+#: ../src/terminal-encoding.c:53 ../src/terminal-encoding.c:80
+#: ../src/terminal-encoding.c:91 ../src/terminal-encoding.c:110
+msgid "Central European"
+msgstr "Eropa Teungoh"
+
+#: ../src/terminal-encoding.c:54
+msgid "South European"
+msgstr "Eropa Seulatan"
+
+#: ../src/terminal-encoding.c:55 ../src/terminal-encoding.c:63
+#: ../src/terminal-encoding.c:117
+msgid "Baltic"
+msgstr "Baltic"
+
+#: ../src/terminal-encoding.c:56 ../src/terminal-encoding.c:81
+#: ../src/terminal-encoding.c:87 ../src/terminal-encoding.c:88
+#: ../src/terminal-encoding.c:93 ../src/terminal-encoding.c:111
+msgid "Cyrillic"
+msgstr "Silirik"
+
+#: ../src/terminal-encoding.c:57 ../src/terminal-encoding.c:84
+#: ../src/terminal-encoding.c:90 ../src/terminal-encoding.c:116
+msgid "Arabic"
+msgstr "Arab"
+
+#: ../src/terminal-encoding.c:58 ../src/terminal-encoding.c:96
+#: ../src/terminal-encoding.c:113
+msgid "Greek"
+msgstr "Yunani"
+
+#: ../src/terminal-encoding.c:59
+msgid "Hebrew Visual"
+msgstr "Visual Ibrani"
+
+#: ../src/terminal-encoding.c:60 ../src/terminal-encoding.c:83
+#: ../src/terminal-encoding.c:99 ../src/terminal-encoding.c:115
+msgid "Hebrew"
+msgstr "Ibrani"
+
+#: ../src/terminal-encoding.c:61 ../src/terminal-encoding.c:82
+#: ../src/terminal-encoding.c:103 ../src/terminal-encoding.c:114
+msgid "Turkish"
+msgstr "Turki"
+
+#: ../src/terminal-encoding.c:62
+msgid "Nordic"
+msgstr "Nordik"
+
+#: ../src/terminal-encoding.c:64
+msgid "Celtic"
+msgstr "Seltik"
+
+#: ../src/terminal-encoding.c:66 ../src/terminal-encoding.c:102
+msgid "Romanian"
+msgstr "Rumania"
+
+#. These encodings do NOT pass-through ASCII, so are always rejected.
+#. * FIXME: why are they in this table; or rather why do we need
+#. * the ASCII pass-through requirement?
+#. 
+#: ../src/terminal-encoding.c:67 ../src/terminal-encoding.c:124
+#: ../src/terminal-encoding.c:125 ../src/terminal-encoding.c:126
+#: ../src/terminal-encoding.c:127
+msgid "Unicode"
+msgstr "Unikode"
+
+#: ../src/terminal-encoding.c:68
+msgid "Armenian"
+msgstr "Armenia"
+
+#: ../src/terminal-encoding.c:69 ../src/terminal-encoding.c:70
+#: ../src/terminal-encoding.c:74
+msgid "Chinese Traditional"
+msgstr "Cina Tradisional"
+
+#: ../src/terminal-encoding.c:71
+msgid "Cyrillic/Russian"
+msgstr "Sirilik/Rusia"
+
+#: ../src/terminal-encoding.c:72 ../src/terminal-encoding.c:85
+#: ../src/terminal-encoding.c:105
+msgid "Japanese"
+msgstr "Jepang"
+
+#: ../src/terminal-encoding.c:73 ../src/terminal-encoding.c:86
+#: ../src/terminal-encoding.c:108 ../src/terminal-encoding.c:128
+msgid "Korean"
+msgstr "Korea"
+
+#: ../src/terminal-encoding.c:75 ../src/terminal-encoding.c:76
+#: ../src/terminal-encoding.c:77
+msgid "Chinese Simplified"
+msgstr "Cina sederhana"
+
+#: ../src/terminal-encoding.c:78
+msgid "Georgian"
+msgstr "Georgia"
+
+#: ../src/terminal-encoding.c:89 ../src/terminal-encoding.c:104
+msgid "Cyrillic/Ukrainian"
+msgstr "Sirilik/Ukraina"
+
+#: ../src/terminal-encoding.c:92
+msgid "Croatian"
+msgstr "Kroasia"
+
+#: ../src/terminal-encoding.c:94
+msgid "Hindi"
+msgstr "Hindi"
+
+#: ../src/terminal-encoding.c:95
+msgid "Persian"
+msgstr "Persia"
+
+#: ../src/terminal-encoding.c:97
+msgid "Gujarati"
+msgstr "Gujarat"
+
+#: ../src/terminal-encoding.c:98
+msgid "Gurmukhi"
+msgstr "Gurmukh"
+
+#: ../src/terminal-encoding.c:100
+msgid "Icelandic"
+msgstr "Islandia"
+
+#: ../src/terminal-encoding.c:106 ../src/terminal-encoding.c:109
+#: ../src/terminal-encoding.c:118
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+#: ../src/terminal-encoding.c:107
+msgid "Thai"
+msgstr "Thailand"
+
+#: ../src/terminal-encoding.c:273
+msgid "Current Locale"
+msgstr "Bahsa Jinoe"
+
+#: ../src/terminal-nautilus.c:599
+msgid "Open in _Remote Terminal"
+msgstr "Peuhah lam _Remot Terminal"
+
+#: ../src/terminal-nautilus.c:601
+msgid "Open in _Local Terminal"
+msgstr "Peuhah lam Terminal _Lokal"
+
+#: ../src/terminal-nautilus.c:605 ../src/terminal-nautilus.c:616
+msgid "Open the currently selected folder in a terminal"
+msgstr "Peuhah folder nyang jinoe i pileh lam terminal"
+
+#: ../src/terminal-nautilus.c:607 ../src/terminal-nautilus.c:618
+#: ../src/terminal-nautilus.c:628
+msgid "Open the currently open folder in a terminal"
+msgstr "Peuhah folder yang jinoe teuhah lam terminal"
+
+#: ../src/terminal-nautilus.c:613 ../src/terminal-nautilus.c:627
+msgid "Open in T_erminal"
+msgstr "Peuhah lam T_erminal"
+
+#: ../src/terminal-nautilus.c:624
+msgid "Open T_erminal"
+msgstr "Peuhah T_erminal"
+
+#: ../src/terminal-nautilus.c:625
+msgid "Open a terminal"
+msgstr "Peuhah terminal"
+
+#: ../src/terminal-nautilus.c:643 ../src/terminal-nautilus.c:656
+msgid "Open in _Midnight Commander"
+msgstr "Peuhah _Midnight Commander"
+
+#: ../src/terminal-nautilus.c:645
+msgid ""
+"Open the currently selected folder in the terminal file manager Midnight "
+"Commander"
+msgstr "Peuhah folder yang jinoe ipileh lam beureukaih terminal manager Midnight"
+
+#: ../src/terminal-nautilus.c:647 ../src/terminal-nautilus.c:657
+msgid ""
+"Open the currently open folder in the terminal file manager Midnight "
+"Commander"
+msgstr "Peuhah folder nyang jinoe teuhah lam beureukaih terminal Midnight manager"
+
+#: ../src/terminal-nautilus.c:653
+msgid "Open _Midnight Commander"
+msgstr "Peuhah _Midnight Commander"
+
+#: ../src/terminal-nautilus.c:654
+msgid "Open the terminal file manager Midnight Commander"
+msgstr "Peuhah terminal keu beureukaih manager Midnight Commander"
+
+#: ../src/terminal-options.c:224
+#, c-format
+msgid "Option \"%s\" is no longer supported in this version of gnome-terminal."
+msgstr "Peunileh \"%s\" nakeuh hana i dukong lee lam versi gnome-terminal nyoe"
+
+#: ../src/terminal-options.c:235 ../src/terminal-util.c:236
+msgid "GNOME Terminal"
+msgstr "Terminal GNOME"
+
+#: ../src/terminal-options.c:275
+#, c-format
+msgid "Argument to \"%s\" is not a valid command: %s"
+msgstr "Argumen keu \"%s\" nakeuh kon peurintah yang beutoi: %s"
+
+#: ../src/terminal-options.c:424
+msgid "Two roles given for one window"
+msgstr "Na dua peuran yang ijok lam saboeh tingkap"
+
+#: ../src/terminal-options.c:445 ../src/terminal-options.c:478
+#, c-format
+msgid "\"%s\" option given twice for the same window\n"
+msgstr "\"%s\" Peunileh ijok dua goe keu tingkap yang saban\\n"
+
+#: ../src/terminal-options.c:689
+#, c-format
+msgid "Zoom factor \"%g\" is too small, using %g\n"
+msgstr "Faktor peurayeuk \"%g\" nakeuh ubiet that, neungui %g\n"
+
+#: ../src/terminal-options.c:697
+#, c-format
+msgid "Zoom factor \"%g\" is too large, using %g\n"
+msgstr "Faktor peurayeuk \"%g\" nakeuh rayek that, neungui %g\n"
+
+#: ../src/terminal-options.c:735
+#, c-format
+msgid ""
+"Option \"%s\" requires specifying the command to run on the rest of the "
+"command line"
+msgstr "Peunileh \"%s\" peureule peurintah yang ipeujak bak sisa bareh peurintah"
+
+#: ../src/terminal-options.c:871
+msgid "Not a valid terminal config file."
+msgstr "Kon beureukaih atoe terminal nyang beutoi."
+
+#: ../src/terminal-options.c:884
+msgid "Incompatible terminal config file version."
+msgstr "Versi beureukaih atoe terminal hana paih."
+
+#: ../src/terminal-options.c:1024
+msgid ""
+"Do not register with the activation nameserver, do not re-use an active "
+"terminal"
+msgstr ""
+"Bek dapeuta ngon aktivasi nameserver, bek ngui terminal yang ka aktif"
+
+#: ../src/terminal-options.c:1033
+msgid "Load a terminal configuration file"
+msgstr "Cok lom beureukaih meuatoe terminal"
+
+#: ../src/terminal-options.c:1034
+msgid "FILE"
+msgstr "Beureukaih"
+
+#: ../src/terminal-options.c:1055
+msgid "Open a new window containing a tab with the default profile"
+msgstr "Peuhah tingkap baro yang na saboeh tab dengon profil ata awai"
+
+#: ../src/terminal-options.c:1064
+msgid "Open a new tab in the last-opened window with the default profile"
+msgstr "Peuhah tab baro yang jipeuhah keuneleuh dengon profil ata awai"
+
+#: ../src/terminal-options.c:1077
+msgid "Turn on the menubar"
+msgstr "Peu udep menubar"
+
+#: ../src/terminal-options.c:1086
+msgid "Turn off the menubar"
+msgstr "Peu matee menubar"
+
+#: ../src/terminal-options.c:1131
+msgid "Set the last specified tab as the active one in its window"
+msgstr "Peuteuntei tab keuneleuh yang aktif lam tingkap"
+
+#: ../src/terminal-options.c:1144
+msgid "Execute the argument to this option inside the terminal"
+msgstr "Peujak argumen peunileh nyoe lam terminal"
+
+#: ../src/terminal-options.c:1154
+msgid "PROFILE-NAME"
+msgstr "NAN-PROFIL"
+
+#: ../src/terminal-options.c:1442 ../src/terminal-options.c:1448
+msgid "GNOME Terminal Emulator"
+msgstr "Emulator Terminal GNOME"
+
+#: ../src/terminal-options.c:1449
+msgid "Show GNOME Terminal options"
+msgstr "Peuleumah peunileh Terminal GNOME"
+
+#: ../src/terminal-options.c:1459
+msgid ""
+"Options to open new windows or terminal tabs; more than one of these may be "
+"specified:"
+msgstr ""
+"Peunileh keu peuhah tingkap baro atawa tab terminal; jeut leubeh dari saboeh spesifik"
+
+#: ../src/terminal-options.c:1468
+msgid ""
+"Window options; if used before the first --window or --tab argument, sets "
+"the default for all windows:"
+msgstr ""
+"Tungkap peunileh; meunyo teungui keuphon  --window atawa --tab argumen, i "
+"jiatoe keu bandum tingkap"
+
+#: ../src/terminal-options.c:1469
+msgid "Show per-window options"
+msgstr "Peulemah peunileh per-tingkap"
+
+#: ../src/terminal-options.c:1477
+msgid ""
+"Terminal options; if used before the first --window or --tab argument, sets "
+"the default for all terminals:"
+msgstr ""
+"Peunileh terminal; meunyo teungui keuphon --window atawa --tab argumen, i "
+"atoe baku keu bandum terminal"
+
+#: ../src/terminal-options.c:1478
+msgid "Show per-terminal options"
+msgstr "Peulemah peunileh per-terminal"
+
+#: ../src/terminal-prefs.c:224
+msgid "Click button to choose profile"
+msgstr "Klik tumboi keu pileh profil"
+
+#: ../src/terminal-prefs.c:338
+msgid "Profile list"
+msgstr "List profil"
+
+#: ../src/terminal-prefs.c:393
+#, c-format
+msgid "Delete profile “%s”?"
+msgstr "Hapoih profil “%s”?"
+
+#: ../src/terminal-prefs.c:409
+msgid "Delete Profile"
+msgstr "Hapoih profil"
+
+#: ../src/terminal-prefs.c:708
+msgid "Show"
+msgstr "Peulemah"
+
+#: ../src/terminal-prefs.c:719
+msgid "_Encoding"
+msgstr "_Enkoding"
+
+#: ../src/terminal-screen.c:1183
+msgid "No command supplied nor shell requested"
+msgstr "Hana peurintah yang ijok atawa shell yang ilakee"
+
+#: ../src/terminal-screen.c:1431 ../src/terminal-window.c:1703
+msgid "_Profile Preferences"
+msgstr "_Peuato Profil"
+
+#: ../src/terminal-screen.c:1432 ../src/terminal-screen.c:1809
+msgid "_Relaunch"
+msgstr "_Peujak Ulang"
+
+#: ../src/terminal-screen.c:1435
+msgid "There was an error creating the child process for this terminal"
+msgstr "Terjadi galat watee peuget aneuk terminal"
+
+#: ../src/terminal-screen.c:1813
+#, c-format
+msgid "The child process exited normally with status %d."
+msgstr "Aneuk proses i teubit seucara normal %d"
+
+#: ../src/terminal-screen.c:1816
+#, c-format
+msgid "The child process was aborted by signal %d."
+msgstr "Proses aneuk dipeumatee le sinyal %d"
+
+#: ../src/terminal-screen.c:1819
+msgid "The child process was aborted."
+msgstr "Proses aneuk ipeumatee"
+
+#: ../src/terminal-tab-label.c:196
+msgid "Close tab"
+msgstr "Toep tab"
+
+#: ../src/terminal-tabs-menu.c:196
+msgid "Switch to this tab"
+msgstr "Peuse u tab nyoe"
+
+#: ../src/terminal-util.c:163
+msgid "There was an error displaying help"
+msgstr "Galat watee peulemah beunantu"
+
+#: ../src/terminal-util.c:219
+msgid "Contributors:"
+msgstr "Kontributor"
+
+#: ../src/terminal-util.c:238
+msgid "A terminal emulator for the GNOME desktop"
+msgstr "Emulator terminal keu desktop GNOME"
+
+#: ../src/terminal-util.c:246
+msgid "translator-credits"
+msgstr ""
+"Mahyuddin Idram Ahmad <dotovr@di.blankon.in>,  Mirza Triyuna Putra "
+" <mirza.triyuna@s1.informatika.unsyiah.ac.id>, 2013."
+
+#: ../src/terminal-util.c:319
+#, c-format
+msgid "Could not open the address “%s”"
+msgstr "Hana jeut peuhah alamat “%s”"
+
+#: ../src/terminal-util.c:394
+msgid ""
+"GNOME Terminal is free software: you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation, either version 3 of the License, or (at your option) "
+"any later version."
+msgstr ""
+"Terminal GNOME nakeuh peurangkat lunak bebas; droen jeut neupeluah dan/atawa"
+" merubah dengon ketentuan GNU (General Puublic License) lagee yang i "
+"publikasi Free Software Foundation; License versi 3, atawa (sesuai pilehan "
+"droen) neupakek versi seulanjut jih"
+
+#: ../src/terminal-util.c:398
+msgid ""
+"GNOME Terminal is distributed in the hope that it will be useful, but "
+"WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY "
+"or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for"
+" more details."
+msgstr ""
+"Terminal GNOME dipeudistribusi dengon harapan berguna, teutapi TANPA NA "
+"JAMINAN; hana jaminan DAYA PUBLOE atawa KEU TUJUAN TERTENTU. Nging GNU "
+"General Public License keu rincian leubeh lanjut"
+
+#: ../src/terminal-util.c:402
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" GNOME Terminal.  If not, see <http://www.gnu.org/licenses/>."
+msgstr ""
+"Salinan GNU General Public License harus jih ka neuterimong meusigoe dnegon "
+"terminal GNOME; meunyoe hana, nging ino <http://www.gnu.org/licenses/>."
+
+#. Translators: This is the label of a menu item to choose a profile.
+#. * _%d is used as the accelerator (with d between 1 and 9), and
+#. * the %s is the name of the terminal profile.
+#. 
+#: ../src/terminal-window.c:434
+#, c-format
+msgid "_%d. %s"
+msgstr "_%d. %s"
+
+#. Translators: This is the label of a menu item to choose a profile.
+#. * _%c is used as the accelerator (it will be a character between A and Z),
+#. * and the %s is the name of the terminal profile.
+#. 
+#: ../src/terminal-window.c:440
+#, c-format
+msgid "_%c. %s"
+msgstr "_%c. %s"
+
+#. Toplevel
+#: ../src/terminal-window.c:1655
+msgid "_File"
+msgstr "_Beureukaih"
+
+#. File menu
+#: ../src/terminal-window.c:1656 ../src/terminal-window.c:1668
+#: ../src/terminal-window.c:1812
+msgid "Open _Terminal"
+msgstr "Peuhah _Terminal"
+
+#: ../src/terminal-window.c:1657 ../src/terminal-window.c:1671
+#: ../src/terminal-window.c:1815
+msgid "Open Ta_b"
+msgstr "Peuhah Ta_b"
+
+#: ../src/terminal-window.c:1658
+msgid "_Edit"
+msgstr "_Andam"
+
+#: ../src/terminal-window.c:1659
+msgid "_View"
+msgstr "_Ngieng"
+
+#: ../src/terminal-window.c:1660
+msgid "_Search"
+msgstr "_Mita"
+
+#: ../src/terminal-window.c:1661
+msgid "_Terminal"
+msgstr "_Terminal"
+
+#: ../src/terminal-window.c:1662
+msgid "Ta_bs"
+msgstr "Ta_b"
+
+#: ../src/terminal-window.c:1674
+msgid "New _Profile"
+msgstr "_Profil Baro"
+
+#: ../src/terminal-window.c:1677
+msgid "_Save Contents"
+msgstr "_Keubah Asoe"
+
+#: ../src/terminal-window.c:1680
+msgid "C_lose Tab"
+msgstr "_Toep Tab"
+
+#: ../src/terminal-window.c:1683
+msgid "_Close Window"
+msgstr "_Toep Tingkap"
+
+#: ../src/terminal-window.c:1694 ../src/terminal-window.c:1809
+msgid "Paste _Filenames"
+msgstr "Tempe Nan_beureukaih"
+
+#: ../src/terminal-window.c:1700
+msgid "Pre_ferences"
+msgstr "Peuat_oe"
+
+#. Search menu
+#: ../src/terminal-window.c:1719
+msgid "_Find…"
+msgstr "_Mita..."
+
+#: ../src/terminal-window.c:1722
+msgid "Find Ne_xt"
+msgstr "Mita _Ukeu"
+
+#: ../src/terminal-window.c:1725
+msgid "Find Pre_vious"
+msgstr "Mita _Ulikoet"
+
+#: ../src/terminal-window.c:1728
+msgid "_Clear Highlight"
+msgstr "_Peugleh Nyang Leumah"
+
+#: ../src/terminal-window.c:1732
+msgid "Go to _Line..."
+msgstr "_Jak U Bareh…"
+
+#: ../src/terminal-window.c:1735
+msgid "_Incremental Search..."
+msgstr "_Mita Meutahap…"
+
+#. Terminal menu
+#: ../src/terminal-window.c:1741
+msgid "Change _Profile"
+msgstr "Andam _Profil"
+
+#: ../src/terminal-window.c:1742
+msgid "_Set Title…"
+msgstr "_Atoe Judul…"
+
+#: ../src/terminal-window.c:1745
+msgid "Set _Character Encoding"
+msgstr "Atoe _Enkoding Karakter"
+
+#: ../src/terminal-window.c:1746
+msgid "_Reset"
+msgstr "_Atoe Keulai"
+
+#: ../src/terminal-window.c:1749
+msgid "Reset and C_lear"
+msgstr "Atoe Keulai ngon _Peugleh"
+
+#. Terminal/Encodings menu
+#: ../src/terminal-window.c:1754
+msgid "_Add or Remove…"
+msgstr "_Tamah Atawa Sampoeh…"
+
+#. Tabs menu
+#: ../src/terminal-window.c:1759
+msgid "_Previous Tab"
+msgstr "Tab U_likoet"
+
+#: ../src/terminal-window.c:1762
+msgid "_Next Tab"
+msgstr "Ta_b Ukeu"
+
+#: ../src/terminal-window.c:1765
+msgid "Move Tab _Left"
+msgstr "Pinah u Tap _Wi"
+
+#: ../src/terminal-window.c:1768
+msgid "Move Tab _Right"
+msgstr "Pinah u Tab _Uneun"
+
+#: ../src/terminal-window.c:1771
+msgid "_Detach tab"
+msgstr "_Peupisah tab"
+
+#. Help menu
+#: ../src/terminal-window.c:1776
+msgid "_Contents"
+msgstr "_Asoe"
+
+#. Popup menu
+#: ../src/terminal-window.c:1784
+msgid "_Send Mail To…"
+msgstr "_Kirem surat keu.."
+
+#: ../src/terminal-window.c:1787
+msgid "_Copy E-mail Address"
+msgstr "_Salen alamat email"
+
+#: ../src/terminal-window.c:1790
+msgid "C_all To…"
+msgstr "H_oi u..."
+
+#: ../src/terminal-window.c:1793
+msgid "_Copy Call Address"
+msgstr "_Salen alamat panggilan"
+
+#: ../src/terminal-window.c:1796
+msgid "_Open Link"
+msgstr "_Peuhah Taut"
+
+#: ../src/terminal-window.c:1799
+msgid "_Copy Link Address"
+msgstr "_Salen Alamat Taut"
+
+#: ../src/terminal-window.c:1802
+msgid "P_rofiles"
+msgstr "P_rofil"
+
+#: ../src/terminal-window.c:1818
+msgid "L_eave Full Screen"
+msgstr "P_eutinggai Layeu Peunoh"
+
+#: ../src/terminal-window.c:1821
+msgid "_Input Methods"
+msgstr "Metode _Peutamong"
+
+#. View Menu
+#: ../src/terminal-window.c:1827
+msgid "Show _Menubar"
+msgstr "Peulemah _Menubar"
+
+#: ../src/terminal-window.c:1831
+msgid "_Full Screen"
+msgstr "_Layeu Peunoh"
+
+#: ../src/terminal-window.c:2931
+msgid "Close this window?"
+msgstr "Toep tingkap nyoe?"
+
+#: ../src/terminal-window.c:2931
+msgid "Close this terminal?"
+msgstr "Toep terminal nyoe?"
+
+#: ../src/terminal-window.c:2935
+msgid ""
+"There are still processes running in some terminals in this window. Closing "
+"the window will kill all of them."
+msgstr ""
+"Na proses nyang teungoh ijak bak padum boeh terminal lam tingkap nyoe. Toep"
+" tingkap dipeupiyoeh mandum."
+
+#: ../src/terminal-window.c:2939
+msgid ""
+"There is still a process running in this terminal. Closing the terminal will"
+" kill it."
+msgstr ""
+"Mantong na proses nyang teungoh ijak bak bak terminal nyoe. Toep tingkap "
+"dipeupiyoeh proses nyan."
+
+#: ../src/terminal-window.c:2944
+msgid "C_lose Window"
+msgstr "T_oep Jendela"
+
+#: ../src/terminal-window.c:2944
+msgid "C_lose Terminal"
+msgstr "T_oep Terminal"
+
+#: ../src/terminal-window.c:3017
+msgid "Could not save contents"
+msgstr "Han item keubah asoe"
+
+#: ../src/terminal-window.c:3041
+msgid "Save as…"
+msgstr "Keubah seubago…"
+
+#: ../src/terminal-window.c:3488
+msgid "_Title:"
+msgstr "_Judul:"
+

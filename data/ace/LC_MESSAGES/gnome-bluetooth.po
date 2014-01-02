@@ -1,0 +1,460 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+#  <hendramurdani46@gmail.com>, 2013.
+#  <mirza.triyuna@gmail.com>, 2013.
+#  <msani@s1.informatika.unsyiah.ac.id>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Suroboyo\n"
+"Report-Msgid-Bugs-To: http://dev.blankonlinux.or.id/\n"
+"POT-Creation-Date: 2013-06-24 14:53+0000\n"
+"PO-Revision-Date: 2013-11-08 08:50+0000\n"
+"Last-Translator: mirzatriyuna mirzatriyuna <mirza.triyuna@gmail.com>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Suroboyo/team/ace/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ace\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: ../lib/bluetooth-chooser-button.c:75
+msgid "Click to select device..."
+msgstr "Klik untuk pileh peurangkat…"
+
+#: ../lib/bluetooth-chooser.c:135 ../lib/bluetooth-filter-widget.c:82
+#: ../lib/bluetooth-utils.c:90
+msgid "Unknown"
+msgstr "Hana ituri"
+
+#: ../lib/bluetooth-chooser.c:176
+msgid "No adapters available"
+msgstr "Hana teusedia adaptor"
+
+#: ../lib/bluetooth-chooser.c:180 ../lib/bluetooth-chooser.c:804
+msgid "Searching for devices..."
+msgstr "Teungoh mita Peurangkat"
+
+#: ../lib/bluetooth-chooser.c:696 ../lib/bluetooth-chooser.c:985
+msgid "Device"
+msgstr "Peurang"
+
+#: ../lib/bluetooth-chooser.c:732
+msgid "Type"
+msgstr "Tipe"
+
+#: ../lib/bluetooth-chooser.c:987
+msgid "Devices"
+msgstr "Peurangkat"
+
+#: ../lib/bluetooth-filter-widget.c:72
+msgid "All categories"
+msgstr "Mandum kategori"
+
+#: ../lib/bluetooth-filter-widget.c:74
+msgid "Paired"
+msgstr "Ka dipasang"
+
+#: ../lib/bluetooth-filter-widget.c:76
+msgid "Trusted"
+msgstr "Dipeucaya"
+
+#: ../lib/bluetooth-filter-widget.c:78
+msgid "Not paired or trusted"
+msgstr "Bek pasang atau dipeucaya"
+
+#: ../lib/bluetooth-filter-widget.c:80
+msgid "Paired or trusted"
+msgstr "Dipasang atay dipeucaya"
+
+#. This is the title of the filter section of the Bluetooth device chooser.
+#. * It used to say Show Only Bluetooth Devices With...
+#: ../lib/bluetooth-filter-widget.c:231
+msgid "Show:"
+msgstr "Peudeuh:"
+
+#. The device category filter
+#: ../lib/bluetooth-filter-widget.c:247
+msgid "Device _category:"
+msgstr "_Kategori Peurangkat:"
+
+#: ../lib/bluetooth-filter-widget.c:258
+msgid "Select the device category to filter"
+msgstr "Pileuh Kategori peurangkat untuk disareng"
+
+#. The device type filter
+#: ../lib/bluetooth-filter-widget.c:272
+msgid "Device _type:"
+msgstr "_Jeunis Peurangkat:"
+
+#: ../lib/bluetooth-filter-widget.c:289
+msgid "Select the device type to filter"
+msgstr "Pileuh jeunis peurangkat yang keumeung disareng"
+
+#: ../lib/bluetooth-filter-widget.c:295
+msgid "Input devices (mice, keyboards, etc.)"
+msgstr "Peurangkat yan dipeutamong (mice, keyboard, dll)"
+
+#: ../lib/bluetooth-filter-widget.c:299
+msgid "Headphones, headsets and other audio devices"
+msgstr "Hp, Headset, ngon peurangkat audio laen laon"
+
+#: ../lib/bluetooth-utils.c:59
+msgid "All types"
+msgstr "Mandum Jeunis"
+
+#: ../lib/bluetooth-utils.c:61
+msgid "Phone"
+msgstr "Telepon"
+
+#: ../lib/bluetooth-utils.c:63
+msgid "Modem"
+msgstr "Modem"
+
+#: ../lib/bluetooth-utils.c:65
+msgid "Computer"
+msgstr "Komputer"
+
+#: ../lib/bluetooth-utils.c:67
+msgid "Network"
+msgstr "jarengan"
+
+#. translators: a hands-free headset, a combination of a single speaker with a
+#. microphone
+#: ../lib/bluetooth-utils.c:70
+msgid "Headset"
+msgstr "Headset"
+
+#: ../lib/bluetooth-utils.c:72
+msgid "Headphones"
+msgstr "Hp"
+
+#: ../lib/bluetooth-utils.c:74
+msgid "Audio device"
+msgstr "Peurangkat sue"
+
+#: ../lib/bluetooth-utils.c:76
+msgid "Keyboard"
+msgstr "Keyboard"
+
+#: ../lib/bluetooth-utils.c:78
+msgid "Mouse"
+msgstr "Mouse"
+
+#: ../lib/bluetooth-utils.c:80
+msgid "Camera"
+msgstr "Kamera"
+
+#: ../lib/bluetooth-utils.c:82
+msgid "Printer"
+msgstr "Printer"
+
+#: ../lib/bluetooth-utils.c:84
+msgid "Joypad"
+msgstr "Joypad"
+
+#: ../lib/bluetooth-utils.c:86
+msgid "Tablet"
+msgstr "Tablet"
+
+#: ../lib/bluetooth-utils.c:88
+msgid "Video device"
+msgstr "Peurangkat video"
+
+#: ../lib/plugins/geoclue.c:178
+msgid "Use this GPS device for Geolocation services"
+msgstr "Pakek peurangkat GPS nyoe keu layanan Geolocation"
+
+#. translators:
+#. * This is in a test plugin, please make sure you add the "(test)" part,
+#. * or leave untranslated
+#: ../lib/plugins/test.c:53
+msgid "Access the Internet using your cell phone (test)"
+msgstr "Mengakses internet Pakek Hp droen (cuba)"
+
+#. translators:
+#. * The '%s' is the device name, for example:
+#. * Pairing with 'Sony Bluetooth Headset' cancelled
+#. 
+#: ../wizard/main.c:242 ../wizard/main.c:365
+#, c-format
+msgid "Pairing with '%s' cancelled"
+msgstr "Hana jadeuh pasang ngon '%s'"
+
+#: ../wizard/main.c:283
+#, c-format
+msgid "Please confirm that the PIN displayed on '%s' matches this one."
+msgstr "peupasti PIN yang di peudeuh bak '%s' sabe ngon nyoe."
+
+#: ../wizard/main.c:337
+msgid "Please enter the following PIN:"
+msgstr "Pasoe PIN nyoe:"
+
+#. translators:
+#. * The '%s' is the device name, for example:
+#. * Setting up 'Sony Bluetooth Headset' failed
+#. 
+#: ../wizard/main.c:425
+#, c-format
+msgid "Setting up '%s' failed"
+msgstr "hanjeut diset '%s'"
+
+#. translators:
+#. * The '%s' is the device name, for example:
+#. * Connecting to 'Sony Bluetooth Headset'...
+#. 
+#: ../wizard/main.c:479
+#, c-format
+msgid "Connecting to '%s'..."
+msgstr "Sambong u '%s'..."
+
+#: ../wizard/main.c:521
+#, c-format
+msgid "Please enter the following PIN on '%s':"
+msgstr "Pasoe PIN nyoe bak '%s':"
+
+#: ../wizard/main.c:524
+#, c-format
+msgid ""
+"Please enter the following PIN on '%s' and press “Enter” on the keyboard:"
+msgstr "Pasoe PIN nyoe bak '%s', aleuh nyan teukon \"Enter\":"
+
+#: ../wizard/main.c:529
+msgid "Please move the joystick of your iCade in the following directions:"
+msgstr "Cuba peugerak joystick iCade droen lage arah nyoe:"
+
+#. translators:
+#. * The '%s' is the device name, for example:
+#. * Please wait while finishing setup on 'Sony Bluetooth Headset'...
+#. 
+#: ../wizard/main.c:561
+#, c-format
+msgid "Please wait while finishing setup on device '%s'..."
+msgstr "Preh siat, Teugoh peulengkap setelan bak '%s'..."
+
+#: ../wizard/main.c:579
+#, c-format
+msgid "Successfully set up new device '%s'"
+msgstr "beurasil disetel peurangkat baroe '%s'"
+
+#: ../wizard/wizard.ui.h:1
+msgid "Bluetooth New Device Setup"
+msgstr "Setel peurangkat baroe Bluethooth"
+
+#: ../wizard/wizard.ui.h:2
+msgid "PIN _options..."
+msgstr "_Pilehan PIN..."
+
+#: ../wizard/wizard.ui.h:3
+msgid "Device Search"
+msgstr "Mita Peurangkat"
+
+#: ../wizard/wizard.ui.h:4
+msgid "Device Setup"
+msgstr "Sete Peurangkat"
+
+#: ../wizard/wizard.ui.h:5
+msgid "Finishing Setup"
+msgstr "peusiap"
+
+#: ../wizard/wizard.ui.h:6
+msgid "Select the additional services you want to use with your device:"
+msgstr ""
+"Pileh layanan tambahan yang keumeung dipakek bak peurangkat ata droen:"
+
+#: ../wizard/wizard.ui.h:7
+msgid "Setup Summary"
+msgstr "Ringkasan Peungaturan"
+
+#: ../wizard/wizard.ui.h:8
+msgid "PIN Options"
+msgstr "Pilehan PIN"
+
+#: ../wizard/wizard.ui.h:9
+msgid "_Automatic PIN selection"
+msgstr "Seleksi PIN _otomatis"
+
+#. Translators: this is a PIN with a set value, such as 1111, or 0000
+#: ../wizard/wizard.ui.h:11
+msgid "Fixed PIN"
+msgstr "PIN Teutap"
+
+#: ../wizard/wizard.ui.h:12
+msgid "'0000' (most headsets, mice and GPS devices)"
+msgstr "'0000' (lee headset, mice, dan peurangkat GPS)"
+
+#: ../wizard/wizard.ui.h:13
+msgid "'1111'"
+msgstr "'1111'"
+
+#: ../wizard/wizard.ui.h:14
+msgid "'1234'"
+msgstr "'1234'"
+
+#: ../wizard/wizard.ui.h:15
+msgid "Do not pair"
+msgstr "Bek pasang"
+
+#: ../wizard/wizard.ui.h:16
+msgid "Custom PIN:"
+msgstr "PIN gantoe:"
+
+#: ../wizard/wizard.ui.h:17
+msgid "_Try Again"
+msgstr "_cuba Lom"
+
+#: ../wizard/wizard.ui.h:18
+msgid "_Quit"
+msgstr "_Teubit"
+
+#: ../wizard/wizard.ui.h:19
+msgid "_Cancel"
+msgstr "_bek jadeh"
+
+#. This is a button to answer: Does the PIN matches the one on the device?
+#: ../wizard/wizard.ui.h:21
+msgid "Does not match"
+msgstr "Hana sabe"
+
+#. This is a button to answer: Does the PIN matches the one on the device?
+#: ../wizard/wizard.ui.h:23
+msgid "Matches"
+msgstr "sabe"
+
+#: ../wizard/bluetooth-wizard.desktop.in.in.h:1
+msgid "Bluetooth Device Setup"
+msgstr "Setel Bluetooth"
+
+#: ../wizard/bluetooth-wizard.desktop.in.in.h:2
+msgid "Setup Bluetooth devices"
+msgstr "Setel Bluetooth"
+
+#: ../sendto/main.c:151
+#, c-format
+msgid "%'d second"
+msgid_plural "%'d seconds"
+msgstr[0] "%'d detik"
+msgstr[1] "%'d detik"
+
+#: ../sendto/main.c:156 ../sendto/main.c:169
+#, c-format
+msgid "%'d minute"
+msgid_plural "%'d minutes"
+msgstr[0] "%'d minet"
+msgstr[1] "%'d minet"
+
+#: ../sendto/main.c:167
+#, c-format
+msgid "%'d hour"
+msgid_plural "%'d hours"
+msgstr[0] "%'d jeum"
+msgstr[1] "%'d jeum"
+
+#: ../sendto/main.c:177
+#, c-format
+msgid "approximately %'d hour"
+msgid_plural "approximately %'d hours"
+msgstr[0] "kira-kira %'d jeum"
+msgstr[1] "kira-kira %'d jeum"
+
+#: ../sendto/main.c:192 ../sendto/main.c:292
+msgid "Connecting..."
+msgstr "Sambong..."
+
+#: ../sendto/main.c:231
+msgid "File Transfer"
+msgstr "Kirem Beurkas"
+
+#: ../sendto/main.c:234
+msgid "_Retry"
+msgstr "_Ulang Lom"
+
+#. translators: This is the heading for the progress dialogue
+#: ../sendto/main.c:253
+msgid "Sending files via Bluetooth"
+msgstr "Kirem lewat Bluetooth"
+
+#: ../sendto/main.c:265
+msgid "From:"
+msgstr "Dari:"
+
+#: ../sendto/main.c:277
+msgid "To:"
+msgstr "Keu:"
+
+#: ../sendto/main.c:321 ../sendto/main.c:339
+msgid "An unknown error occurred"
+msgstr "teujadi Keusalahan yang hana dituri"
+
+#: ../sendto/main.c:332
+msgid ""
+"Make sure that the remote device is switched on and that it accepts "
+"Bluetooth connections"
+msgstr "Puepasti peurangkat udep, serta trimong sambongan Bluetooth"
+
+#: ../sendto/main.c:430
+#, c-format
+msgid "Sending %s"
+msgstr "Teungoh Kirem %s"
+
+#: ../sendto/main.c:437 ../sendto/main.c:508
+#, c-format
+msgid "Sending file %d of %d"
+msgstr "Teungoh kirem %d dari %d"
+
+#: ../sendto/main.c:504
+#, c-format
+msgid "%d kB/s"
+msgstr "%d kB/s"
+
+#: ../sendto/main.c:506
+#, c-format
+msgid "%d B/s"
+msgstr "%d B/s"
+
+#: ../sendto/main.c:639
+msgid "Select device to send to"
+msgstr "Pileh peurangkat yang keumeung dikirem"
+
+#: ../sendto/main.c:644
+msgid "_Send"
+msgstr "_Kirem"
+
+#: ../sendto/main.c:688
+msgid "Choose files to send"
+msgstr "Pileh buerkas yang keumeung dikirem"
+
+#: ../sendto/main.c:691
+msgid "Select"
+msgstr "Pileh"
+
+#: ../sendto/main.c:717
+msgid "Remote device to use"
+msgstr "Peurangkat jioh yang keumeung dipakek"
+
+#: ../sendto/main.c:717
+msgid "ADDRESS"
+msgstr "ALAMAT"
+
+#: ../sendto/main.c:719
+msgid "Remote device's name"
+msgstr "Nan peurangkat jioh"
+
+#: ../sendto/main.c:719
+msgid "NAME"
+msgstr "NAN"
+
+#: ../sendto/main.c:738
+msgid "[FILE...]"
+msgstr "[BEURKAS...]"
+
+#: ../sendto/bluetooth-sendto.desktop.in.in.h:1
+msgid "Bluetooth Transfer"
+msgstr "Kirem Bluetooth"
+
+#: ../sendto/bluetooth-sendto.desktop.in.in.h:2
+msgid "Send files via Bluetooth"
+msgstr "Teungoh kirem lewat Bluetooth"
+
+

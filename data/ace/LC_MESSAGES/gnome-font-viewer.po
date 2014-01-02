@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+#  <hendramurdani46@gmail.com>, 2013.
+#  <msani@s1.informatika.unsyiah.ac.id>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Suroboyo\n"
+"Report-Msgid-Bugs-To: http://dev.blankonlinux.or.id/\n"
+"POT-Creation-Date: 2013-07-05 23:13+0000\n"
+"PO-Revision-Date: 2013-10-31 16:49+0000\n"
+"Last-Translator: kribo46 kribo46 <hendramurdani46@gmail.com>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Suroboyo/team/ace/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ace\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: ../src/font-thumbnailer.c:189
+msgid "Text to thumbnail (default: Aa)"
+msgstr "Teks ubeuet (ata droe: Aa)"
+
+#: ../src/font-thumbnailer.c:189
+msgid "TEXT"
+msgstr "TULEUSAN "
+
+#: ../src/font-thumbnailer.c:191
+msgid "Thumbnail size (default: 128)"
+msgstr "Ukuran gamba ubeuet (ata droe: 128)"
+
+#: ../src/font-thumbnailer.c:191
+msgid "SIZE"
+msgstr "UKURAN"
+
+#: ../src/font-thumbnailer.c:193
+msgid "FONT-FILE OUTPUT-FILE"
+msgstr "HUROEF-BEURKAS TEUBIT-BEURKAS"
+
+#: ../src/font-view-app-menu.ui.h:1
+msgid "About Font Viewer"
+msgstr "Teuntang Deuh Huroef"
+
+#: ../src/font-view-app-menu.ui.h:2
+msgid "Quit"
+msgstr "Teubit"
+
+#: ../src/font-view.c:178
+msgid "Name"
+msgstr "Nan"
+
+#: ../src/font-view.c:181
+msgid "Style"
+msgstr "Gaya"
+
+#: ../src/font-view.c:191
+msgid "Type"
+msgstr "Tipe"
+
+#: ../src/font-view.c:236 ../src/font-view.c:255
+msgid "Version"
+msgstr "Versi"
+
+#: ../src/font-view.c:241 ../src/font-view.c:261
+msgid "Copyright"
+msgstr "Hak Peugot"
+
+#: ../src/font-view.c:246
+msgid "Description"
+msgstr "Deskripsi"
+
+#: ../src/font-view.c:274
+msgid "Install Failed"
+msgstr "Hana beurasil teupasang"
+
+#: ../src/font-view.c:280
+msgid "Installed"
+msgstr "Teupasang"
+
+#: ../src/font-view.c:283 ../src/font-view.c:520
+msgid "Install"
+msgstr "Pasang"
+
+#: ../src/font-view.c:416
+msgid "This font could not be displayed."
+msgstr "Huroef nyoe han jeut dipeudeuh"
+
+#: ../src/font-view.c:512
+msgid "Info"
+msgstr "Info"
+
+#: ../src/font-view.c:527
+msgid "Back"
+msgstr "Suroet"
+
+#: ../src/font-view.c:615
+msgid "All Fonts"
+msgstr "Mandum huroef"
+
+#: ../src/font-view.c:733 ../src/font-view.c:772
+#: ../src/gnome-font-viewer.desktop.in.in.h:1
+msgid "Font Viewer"
+msgstr "Tampelan huroef"
+
+#: ../src/font-view.c:734 ../src/gnome-font-viewer.desktop.in.in.h:2
+msgid "View fonts on your system"
+msgstr "Kaloen huroef bak sistem droen"
+
+#: ../src/font-view.c:736
+msgid "translator-credits"
+msgstr ""
+"Muhammad Sani <msani@s1.informatika.unsyiah.ac.id>,Hendra Murdani "
+"<hendramurdani46@gmail.com>; 2013."
+
+#: ../src/gnome-font-viewer.desktop.in.in.h:3
+msgid "fonts;fontface;"
+msgstr "huroef;tampelan huroef;"
+
+

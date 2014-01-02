@@ -1,0 +1,568 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+#  <hendramurdani46@gmail.com>, 2013.
+#  <msani@s1.informatika.unsyiah.ac.id>, 2013.
+#  <yudi.al@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Suroboyo\n"
+"Report-Msgid-Bugs-To: http://dev.blankonlinux.or.id/\n"
+"POT-Creation-Date: 2013-08-06 16:04+0000\n"
+"PO-Revision-Date: 2013-11-03 09:56+0000\n"
+"Last-Translator: sani sani <msani@s1.informatika.unsyiah.ac.id>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Suroboyo/team/ace/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ace\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: ../data/cheese-actions.ui.h:1
+msgid "Share…"
+msgstr "Bagi..."
+
+#: ../data/cheese-actions.ui.h:2
+msgid "Save _As…"
+msgstr "Keub_ah Seubago"
+
+#: ../data/cheese-actions.ui.h:3
+msgid "Move to _Trash"
+msgstr "Pinah u _Teumpat Broeh"
+
+#: ../data/cheese-actions.ui.h:4
+msgid "Move _All to Trash"
+msgstr "Pinah _Bandum u Tempat Broeh"
+
+#: ../data/cheese-actions.ui.h:5
+msgid "_Wide Mode"
+msgstr "_Mode Rayeuk"
+
+#: ../data/cheese-actions.ui.h:6
+msgid "P_revious Effects"
+msgstr "Efek _Sigohlomjih"
+
+#: ../data/cheese-actions.ui.h:7
+msgid "Ne_xt Effects"
+msgstr "Ef_ek Ukeujih"
+
+#: ../data/cheese-main-window.ui.h:1
+msgid "Photo mode"
+msgstr "Mode foto"
+
+#: ../data/cheese-main-window.ui.h:2
+msgid "Video mode"
+msgstr "Mode video"
+
+#: ../data/cheese-main-window.ui.h:3
+msgid "Photo burst mode"
+msgstr "Mode foto meuderet"
+
+#: ../data/cheese-main-window.ui.h:4 ../libcheese/cheese-avatar-chooser.c:263
+#: ../src/cheese-window.vala:1512
+msgid "Take a photo"
+msgstr "Cok foto"
+
+#: ../data/cheese-main-window.ui.h:5 ../src/cheese-window.vala:1511
+msgid "_Take a Photo"
+msgstr "_Cok Foto"
+
+#: ../data/cheese-main-window.ui.h:6
+msgid "Previous"
+msgstr "Sigohlomjih"
+
+#: ../data/cheese-main-window.ui.h:7
+msgid "Effects"
+msgstr "Efek"
+
+#: ../data/cheese-main-window.ui.h:8 ../src/cheese-main.vala:107
+msgid "_Effects"
+msgstr "_Efek"
+
+#: ../data/cheese-main-window.ui.h:9
+msgid "Next"
+msgstr "Ukeujih"
+
+#: ../data/cheese-main-window.ui.h:10
+msgid "Leave fullscreen"
+msgstr "Peutinggai Layeu Punoh"
+
+#: ../data/cheese-main-window.ui.h:11
+msgid "_Leave Fullscreen"
+msgstr "Peutinggai _Layeu Punoh"
+
+#: ../data/cheese-prefs.ui.h:1
+msgid "Preferences"
+msgstr "Preferensi"
+
+#: ../data/cheese-prefs.ui.h:2
+msgid "Device"
+msgstr "Peurangkat"
+
+#: ../data/cheese-prefs.ui.h:3
+msgid "Photo resolution"
+msgstr "Ukuran foto"
+
+#: ../data/cheese-prefs.ui.h:4
+msgid "Video resolution"
+msgstr "Ukuran video"
+
+#: ../data/cheese-prefs.ui.h:5
+msgid "Webcam"
+msgstr "Webcam"
+
+#: ../data/cheese-prefs.ui.h:6
+msgid "Brightness"
+msgstr "Trang"
+
+#: ../data/cheese-prefs.ui.h:7
+msgid "Saturation"
+msgstr "Saturasi"
+
+#: ../data/cheese-prefs.ui.h:8
+msgid "Hue"
+msgstr "Hue"
+
+#: ../data/cheese-prefs.ui.h:9
+msgid "Contrast"
+msgstr "Kontras"
+
+#: ../data/cheese-prefs.ui.h:10
+msgid "Image"
+msgstr "Gamba"
+
+#: ../data/cheese-prefs.ui.h:11
+msgid "Shutter"
+msgstr "Tombol"
+
+#: ../data/cheese-prefs.ui.h:12
+msgid "_Countdown"
+msgstr "Bileung suroet"
+
+#: ../data/cheese-prefs.ui.h:13
+msgid "Fire _Flash"
+msgstr "Lampu kilat"
+
+#: ../data/cheese-prefs.ui.h:14
+msgid "Burst mode"
+msgstr "Mode retetan"
+
+#: ../data/cheese-prefs.ui.h:15
+msgid "Number of photos"
+msgstr "Jumlah gamba"
+
+#: ../data/cheese-prefs.ui.h:16
+msgid "Delay between photos (seconds)"
+msgstr "Piyoeh diantara foto(detik) "
+
+#: ../data/cheese-prefs.ui.h:17
+msgid "Capture"
+msgstr "Cok"
+
+#: ../data/cheese.desktop.in.in.h:1 ../src/cheese-main.vala:81
+#: ../src/cheese-main.vala:530
+msgid "Cheese"
+msgstr "Cheese"
+
+#: ../data/cheese.desktop.in.in.h:2
+msgid "Cheese Webcam Booth"
+msgstr "Cheese sagoe webkem"
+
+#: ../data/cheese.desktop.in.in.h:3 ../src/cheese-main.vala:525
+msgid "Take photos and videos with your webcam, with fun graphical effects"
+msgstr "Cok gamba ngon video roet webkem droen, ngon efek grafis yang lagak "
+
+#: ../data/cheese.desktop.in.in.h:4
+msgid "photo;video;webcam;"
+msgstr "gamba;video;webkem"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:1
+msgid "Use a countdown"
+msgstr "pakek bileung suroet"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:2
+msgid "Set to true to show a countdown before taking a photo"
+msgstr "peu true untuk peudeuh bileung suroet watee cok gamba"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:3
+msgid "Countdown length"
+msgstr "Trep bileung suroet"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:4
+msgid "The duration of the countdown before taking a photo, in seconds"
+msgstr "Trep watee bileung suroet seugolom cok gamba, lam detik"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:5
+msgid "Fire flash before taking a picture"
+msgstr "Peuudep lampu kilat seugolom cok gamba"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:6
+msgid "Set to true to fire a flash when taking a picture"
+msgstr "peu true untuk peuudep lampu kilat watee cok gamba"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:7
+msgid "Camera device string indicator"
+msgstr "Indikator string perangkat kamera"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:8
+msgid ""
+"The path to the device node which points to the camera, for example "
+"/dev/video0"
+msgstr ""
+"Path keu peurangkat yang mengacu keu kamera, sebagoe contoh /dev/video0"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:9
+msgid "Last selected effect"
+msgstr "Efek keuneuleuh yang dipileh"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:10
+msgid "Name of the installed effect that was selected last"
+msgstr "Nan dari efek yang di instal yang dipileh keuneuleuh"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:11
+msgid "Photo width"
+msgstr "Luwah gamba"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:12
+msgid "The width of the image captured from the camera, in pixels"
+msgstr "Luwah gamba yang didroep dari kamera, lam piksel"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:13
+msgid "Photo height"
+msgstr "Manyang gamba"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:14
+msgid "The height of the image captured from the camera, in pixels"
+msgstr "Manyang gamba yang didroep dari kamera, lam piksel"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:15
+msgid "Video width"
+msgstr "Luwah gambal"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:16
+msgid "The width of the video captured from the camera, in pixels"
+msgstr "Luwah video yang didroep dari kamera, lam piksel "
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:17
+msgid "Video height"
+msgstr "Manyang video"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:18
+msgid "The height of the video captured from the camera, in pixels"
+msgstr "Manyang video yang didroep dari kamera, lam piksel"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:19
+msgid "Picture brightness"
+msgstr "ukuran cerah gamba"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:20
+msgid "Adjusts the brightness of the picture coming from the camera"
+msgstr "atoe ukuran cerah gamba yang troeh dari kamera"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:21
+msgid "Picture contrast"
+msgstr "kontras gamba"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:22
+msgid "Adjusts the contrast of the picture coming from the camera"
+msgstr "Atoe kontras gamba yang troeh dari kamera"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:23
+msgid "Picture saturation"
+msgstr "saturasi gamba"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:24
+msgid "Adjusts the saturation of the picture coming from the camera"
+msgstr "Atoe saturasi gamba yang troeh dari kamera"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:25
+msgid "Picture hue"
+msgstr "Nada warna gamba"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:26
+msgid "Adjusts the hue (color tint) of the picture coming from the camera"
+msgstr "Atoe nada warna(hue) gamba yang troeh dari kamera"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:27
+msgid "Video Path"
+msgstr "Path video"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:28
+msgid ""
+"Defines the path where the videos are stored. If empty, \"XDG_VIDEO/Webcam\""
+" will be used."
+msgstr ""
+"Atoe tempat video dikeubah. meunyoe soh \"XDG_VIDEO/Webcam\" akan dipakek."
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:29
+msgid "Photo Path"
+msgstr "Path gamba"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:30
+msgid ""
+"Defines the path where the photos are stored. If empty, \"XDG_PHOTO/Webcam\""
+" will be used."
+msgstr ""
+"Atoe tempat gamba dikeubah. meunyoe soh \"XDG_PHOTO/Webcam\" akan dipakek."
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:31
+msgid "Whether to start in wide mode"
+msgstr "Mulai lam mode luwah"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:32
+msgid ""
+"If set to true, Cheese will start up in wide mode, with the image collection"
+" placed on the right-hand side. Useful with small screens."
+msgstr ""
+"Meunyoe di peu true, Cheese akan mulai bak moda luwah ngon koleksi gamba "
+"ditempatkan bak sisi uneun. Meuguna bagi layeu ubeut."
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:33
+msgid "Whether to start in fullscreen"
+msgstr "pu mulai lam mode layeu punoeh"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:34
+msgid "If set to true, Cheese will start up in fullscreen mode."
+msgstr "Meunyoe ditata keu true, Cheese akan mulai bak moda layeu punoeh."
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:35
+msgid "Time between photos in burst mode"
+msgstr "watee antar gamba bak mode rentetan, lam milidetik"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:36
+msgid ""
+"The length of time, in milliseconds, to delay between taking each photo in a"
+" burst sequence of photos. If the burst delay is less than the countdown "
+"duration, the countdown duration will be used instead."
+msgstr ""
+"Trep watee lam mili detik, untuk piyoeh antara cok tip foto lam saboeh "
+"urutan rentetan gambar. meuynoe piyoeh rentetan kurang dari trep bileung "
+"suroet, trep bileung suroet yang akan dipakek"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:37
+msgid "Number of photos in burst mode"
+msgstr "Leue gamba lam mode retetan"
+
+#: ../data/org.gnome.Cheese.gschema.xml.h:38
+msgid "The number of photos to take in a single burst."
+msgstr "Gamba yang dicok lam sigoe retetan"
+
+#: ../libcheese/cheese-avatar-chooser.c:138 ../src/cheese-window.vala:807
+msgid "Shutter sound"
+msgstr "Sue tombol"
+
+#: ../libcheese/cheese-avatar-chooser.c:260
+msgid "Select"
+msgstr "Pileuh"
+
+#: ../libcheese/cheese-avatar-chooser.c:281
+msgid "_Take a photo"
+msgstr "_Cok foto"
+
+#: ../libcheese/cheese-avatar-chooser.c:294
+msgid "_Discard photo"
+msgstr "_Sampoeh gamba"
+
+#: ../libcheese/cheese-camera-device.c:401
+msgid "Device capabilities not supported"
+msgstr "Kapabilitas peurangkat hana didukoeng"
+
+#: ../libcheese/cheese-camera-device.c:430
+#, c-format
+msgid "Failed to initialize device %s for capability probing"
+msgstr "Gagal boeh nan peurangkat %s keu peuneutap kapabilitas"
+
+#: ../libcheese/cheese-camera-device.c:619
+msgid "Unknown device"
+msgstr "Peurangkat hana dituri"
+
+#: ../libcheese/cheese-camera-device.c:642
+msgid "Cancellable initialization not supported"
+msgstr "boeh nan yang jeut dibatalkan hana didukoeng"
+
+#: ../libcheese/cheese-camera.c:453 ../libcheese/cheese-camera.c:1568
+msgid "One or more needed GStreamer elements are missing: "
+msgstr "Saboh atau leubeeh eleumen GStreamer yang dipeureule gadoeh:"
+
+#: ../libcheese/cheese-camera.c:1527
+#, c-format
+msgid "No device found"
+msgstr "Hana meureumpok peurangkat"
+
+#. Translators: This is a time format, like "09:05:02" for 9
+#. * hours, 5 minutes, and 2 seconds. You may change ":" to
+#. * the separator that your locale uses or use "%Id" instead
+#. * of "%d" if your locale uses localized digits.
+#. 
+#: ../libcheese/cheese-camera.c:1803
+#, c-format
+msgctxt "time format"
+msgid "%02i:%02i:%02i"
+msgstr "%02i:%02i:%02i"
+
+#: ../src/cheese-effects-manager.vala:51
+msgid "No Effect"
+msgstr "Hana efek"
+
+#: ../src/cheese-main.vala:51
+msgid "Start in wide mode"
+msgstr "Mulai bak mode luwah"
+
+#: ../src/cheese-main.vala:52
+msgid "Device to use as a camera"
+msgstr "Peurangkat yang akan dingui sebagoe kamera"
+
+#: ../src/cheese-main.vala:52
+msgid "DEVICE"
+msgstr "PEURANGKAT"
+
+#: ../src/cheese-main.vala:53
+msgid "Output version information and exit"
+msgstr "Peudeuh informasi versi aleuh nyan teubit"
+
+#: ../src/cheese-main.vala:54
+msgid "Start in fullscreen mode"
+msgstr "Mulai bak mode layeu punoeh"
+
+#: ../src/cheese-main.vala:92
+msgid "_Shoot"
+msgstr "Poto"
+
+#: ../src/cheese-main.vala:96
+msgid "Mode:"
+msgstr "Mode:"
+
+#: ../src/cheese-main.vala:97
+msgid "_Photo"
+msgstr "_Gamba"
+
+#: ../src/cheese-main.vala:98
+msgid "_Video"
+msgstr "_Video"
+
+#: ../src/cheese-main.vala:99
+msgid "_Burst"
+msgstr "_Retetan"
+
+#: ../src/cheese-main.vala:102
+msgid "_Fullscreen"
+msgstr "_Layeu punoeh"
+
+#: ../src/cheese-main.vala:110
+msgid "P_references"
+msgstr "P_referensi"
+
+#: ../src/cheese-main.vala:113
+msgid "_About"
+msgstr "_Teuntang"
+
+#: ../src/cheese-main.vala:114
+msgid "_Help"
+msgstr "_Bantuan"
+
+#: ../src/cheese-main.vala:117
+msgid "_Quit"
+msgstr "_Teubit"
+
+#: ../src/cheese-main.vala:182
+msgid "- Take photos and videos from your webcam"
+msgstr "- Cok gamba ngon video pakek webkem droen"
+
+#: ../src/cheese-main.vala:194
+#, c-format
+msgid "Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+"Peujak '%s --help' keu daftar leungkap pileuhan bareeh peurintah yang teusedia.\n"
+"\n"
+
+#: ../src/cheese-main.vala:209
+#, c-format
+msgid "Another instance of Cheese is currently running\n"
+msgstr "Sesi program Cheese yang beda jinoe kaleuh\n"
+
+#: ../src/cheese-main.vala:531
+msgid "translator-credits"
+msgstr ""
+"Ayu Nanda Sari, Reza Septian, Muhammad Sani, Hendra Murdani & Huzair "
+"Saputra, 2013"
+
+#: ../src/cheese-main.vala:533
+msgid "Cheese Website"
+msgstr "Situs Web Cheese"
+
+#: ../src/cheese-window.vala:192
+#, c-format
+msgid "Could not open %s"
+msgstr "Han iteem teubuka %s"
+
+#: ../src/cheese-window.vala:220
+#, c-format
+msgid "Are you sure you want to permanently delete the file?"
+msgid_plural "Are you sure you want to permanently delete %d files?"
+msgstr[0] "Peu droen yakin keumeung sampoh beurkas nyoe?"
+msgstr[1] "Peu droen yakin keumeung sampoh %d beurkas?"
+
+#: ../src/cheese-window.vala:226
+msgid "If you delete an item, it will be permanently lost"
+msgid_plural "If you delete the items, they will be permanently lost"
+msgstr[0] "Meunyeo droen sampoeh barang nyoe, barang nyoe gadoeh total"
+msgstr[1] "Meunyeo droen sampoeh barang nyoe, barang nyoe gadoeh total"
+
+#: ../src/cheese-window.vala:302
+#, c-format
+msgid "Could not move %s to trash"
+msgstr "Han iteem pinah %s u teumpat broeh"
+
+#. Nothing selected.
+#: ../src/cheese-window.vala:451
+msgid "Save File"
+msgstr "Keubah beurkas"
+
+#: ../src/cheese-window.vala:485
+#, c-format
+msgid "Could not save %s"
+msgstr "Han iteem simpan %s"
+
+#: ../src/cheese-window.vala:918
+msgid "Stop _Recording"
+msgstr "Piyoeh _Reukam"
+
+#: ../src/cheese-window.vala:919
+msgid "Stop recording"
+msgstr "Piyoeh reukam"
+
+#: ../src/cheese-window.vala:934 ../src/cheese-window.vala:1516
+msgid "_Record a Video"
+msgstr "_Reukam video"
+
+#: ../src/cheese-window.vala:935 ../src/cheese-window.vala:1517
+msgid "Record a video"
+msgstr "Reukam video"
+
+#. FIXME: Set the effects action to be inactive.
+#: ../src/cheese-window.vala:970
+msgid "Stop _Taking Pictures"
+msgstr "Piyoeh _Cok gamba"
+
+#: ../src/cheese-window.vala:971
+msgid "Stop taking pictures"
+msgstr "Piyoeh cok gamba"
+
+#: ../src/cheese-window.vala:994
+msgid "Take Multiple Photos"
+msgstr "Cok lhe gamba"
+
+#: ../src/cheese-window.vala:995 ../src/cheese-window.vala:1524
+msgid "Take multiple photos"
+msgstr "Cok lhe gamba"
+
+#: ../src/cheese-window.vala:1155
+msgid "No effects found"
+msgstr "Hana meureumpok efek"
+
+#: ../src/cheese-window.vala:1523
+msgid "Take _Multiple Photos"
+msgstr "Cok _Lhe gamba"
+
+

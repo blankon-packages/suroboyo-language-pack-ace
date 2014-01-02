@@ -1,0 +1,385 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# 
+#  <yudi.al@gmail.com>, 2012, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: Rote\n"
+"POT-Creation-Date: 2012-04-16 16:32+0400\n"
+"PO-Revision-Date: 2014-01-01 06:59+0000\n"
+"Last-Translator: DotoVR DotoVR <yudi.al@gmail.com>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Rote/team/ace/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ace\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Welcome to BlankOn"
+msgstr "Kateuka u BlankOn"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"Welcome to BlankOn installation program. Please choose your language and "
+"region below continue. If your choice is not on the list, you can choose the"
+" default values and set again later after the system is fully installed in "
+"the Settings application."
+msgstr ""
+"Kateuka bak program peumasangan BlankOn. Pileh Bahsa ngon sago droenueh keu "
+"ueujih. Meunyoe pilehan Droeneuh hana lam dapeuta, droeneuh jeut neupileh "
+"bawan ngoen neuatoejih lheuh teupasang bak aplikasi Peuatoe."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Language"
+msgstr "Bahsa"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Region"
+msgstr "Sago"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Keyboard"
+msgstr "Papeun teugon"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"You can choose whether want to continue using the Live CD or to install into"
+" your computer"
+msgstr ""
+"Droeneuh jeut neupileh keu teutap neungui moda Live CD atawa naupasang"
+" lam kompute Droeneuh."
+
+#. type: span
+#: FIXME:0 FIXME:0
+#, no-wrap
+msgid "Continue using Live CD"
+msgstr "Neungui seubago Live CD"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Install BlankOn"
+msgstr "Pasang BlankOn"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Installation Target"
+msgstr "Sasaran Pemasangan"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"Sorry, it seems that there is no device that we can install BlankOn into. "
+"Please attach a hard drive or flash disk before continuing. If you're "
+"running as normal user, try again running the installer as root."
+msgstr ""
+"Meu'ah, bak hie hana peurangkat kreuh nyang jeut pasang lam BlankOn. Ci "
+"pasang hard disk dilei atawa flask disk sigohlom jih. Meunyo droeneuh "
+"neucuba peujak program nyo dari ureung ngui biasa, ci ngui ureung ngui "
+"seubago root."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Please wait while I scan your computer for available devices"
+msgstr ""
+"Ci preh, teungoh lon peusapat informasi peurangkat kreuh bak kompute nyo"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"Please choose the partition on device below which you would like to install "
+"BlankOn into."
+msgstr ""
+"Ci pileh partisi lam peurangkat nyang keuneuk Droeneuh pasang lam BlankOn."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "WARNING"
+msgstr "Peuingat"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"The selected partition will be wiped out. Swap partition will be created if "
+"you don't have one."
+msgstr ""
+"Partisi nyang jipileh akan geusampoeh. Partisi swap akan jipeuget meunyo "
+"gohlom na."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Personalization"
+msgstr "Personalisasi"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Please enter your personalization preference below.."
+msgstr "Peutamong peuato personalisai Droenueh dimiyub nyo.."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Enforce strong password"
+msgstr "Neungui lageum rahsea teuga"
+
+#. type: span
+#: FIXME:0 FIXME:0
+#, no-wrap
+msgid "Automatically login"
+msgstr "Tamong seucara otomatis"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Computer Name"
+msgstr "Nan Kompute"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"Computer name must be at least 1 character long and started with an "
+"alphabet. It must be written in lowercase ascii without any space."
+msgstr ""
+"Nan komoute beuna 1 karakter ngon geupeuphon ngon haraih. Teunuleh ngon "
+"haraih ubiet bekna spasi."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Your Name"
+msgstr "Nan Doreneuh"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "User Name"
+msgstr "Nan Ureung Ngui"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"Username must be at least 1 character long and started with an alphabet. It "
+"must be written in lowercase ascii without any space."
+msgstr ""
+"Nan ureung ngui beuna 1 karakter ngon geupeuphon ngon haraih. Teunuleh ngon "
+"haraih ubiet bekna spasi."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Password"
+msgstr "Lageum Rahsea"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"Password must be at least 8 character long with number and alphabet "
+"lowercase and uppercase combination."
+msgstr ""
+"Lageum Rahsia beuna 8 karakter kombinasi angka, haraih ubiet, ngon haraih "
+"rayek."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Password must be at least 1 character."
+msgstr "Lageum Rahsea beuna 1 karakter."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"Password should be at least 8 character long with number and alphabet "
+"lowercase and uppercase combination, otherwise it will be very easy for "
+"others to guess your password."
+msgstr ""
+"Lageum Rahsea beuna 8 karakter kombinasi angka, haraih ubiet, ngon haraih "
+"rayek, meunyo hana, lageum rahsea akan bagah that jeut jiteubak."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Password (once again)"
+msgstr "Lageum Rahsea (sigo treuk)"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "You must use exactly the same password as typed above."
+msgstr ""
+"Droeneuh harus neupeutamong lageum rahsia sama lagei teuneuleh di ateuh."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Installation Summary"
+msgstr "Ringkasan Instalasi"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"This is our installation summary. Please proceed if you're agree. Beyond "
+"this point, the installer will make changes to your system and you can't go "
+"back."
+msgstr ""
+"Nyo nakeuh ringkasan instalasi droenueh. Jak laju meunyo droeneuh ka "
+"neuteurimong. Lheuh langkah nyo, program akan geupeuget andam bak sistem "
+"Droeneuh ngon Droeneuh hanjeut gisa le keu langkah jilikoet jih."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Target device"
+msgstr "Sasaran peurangkat"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Target partition"
+msgstr "Sasaran partisi"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Computer name"
+msgstr "Nan Kompute"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Full name"
+msgstr "Nan peunoh"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "User name"
+msgstr "Nan ureung ngui"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Installation"
+msgstr "Peumasangan"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Please wait a moment while the installation is applied to your system"
+msgstr "Neupreh siat teungoh jipasang bak sistem Droeneuh"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Preparing"
+msgstr "Persiapan"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Done"
+msgstr "Seuleuso"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"Your system is ready, now please continue to reboot into your newly "
+"installed system"
+msgstr ""
+"Sistem Droeneuh ka meuhase, jino ci peu udeb keulai sistem nyang baro "
+"jipasang"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Reboot to newly installed system"
+msgstr "Peu udeb keulai kompute ngon neungui sistem baro"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "ADVANCED MODE"
+msgstr "MODE LANJUTAN"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Click to switch to Quick Mode"
+msgstr "Kil keu beuraleh Mode Bagah"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Click to switch to Advanced Mode"
+msgstr "Klik keu beuraleh Mode Lanjutan"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Previous"
+msgstr "Gisa"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Next"
+msgstr "Ukeu"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Sorry,"
+msgstr "Meu'ah,"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid ""
+"There is an error during installation. Please see the log below, you can "
+"capture this or just send the /var/log/blankon-installer.log file to "
+"blankon-dev@googlegroups.com"
+msgstr ""
+"Na keusalahan watee instalasi. Ci kalon log dimiyub nyo, Droenueh jeut "
+"neudrop gamba nyo atawa neukirem beureukaih /var/log/blankon-installer.log u"
+" alamat blankon-dev@googlegroups.com"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Exit installation and continue using LiveCD"
+msgstr "Teubiet instalasi ngon lanjoet neungui LiveCD"
+
+#. type: textarea
+#: FIXME:0
+#, no-wrap
+msgid "Please wait while loading the log..."
+msgstr "Preh siat teungoh jicok log..."
+
+

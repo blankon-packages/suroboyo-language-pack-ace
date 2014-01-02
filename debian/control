@@ -1,0 +1,20 @@
+Source: suroboyo-language-pack-ace
+Section: translations
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Build-Depends-Indep: gettext
+Build-Depends: debhelper (>= 4.1.0)
+Standards-Version: 3.9.3
+
+Package: suroboyo-language-pack-ace
+Architecture: all
+Pre-Depends: dpkg (>= 1.10.27)
+Depends: locales (>= 2.3.6), blankon-locales,
+Suggests: language-support-ace 
+Description: Suroboyo translations for language Achinese 
+ Translation data for all supported GNOME packages for:
+ Indonesian
+ .
+ Please note that you should install language-support-ace
+ to get full support for this language (spell checkers, OpenOffice 
+ locale packages, etc.).
