@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 #  <qadrimukhlis@s1.informatika.unsyiah.ac.id>, 2013.
 #  <wanda.haris93@gmail.com>, 2013.
 msgid ""
@@ -9,14 +9,16 @@ msgstr ""
 "Project-Id-Version: Suroboyo\n"
 "Report-Msgid-Bugs-To: http://dev.blankonlinux.or.id/\n"
 "POT-Creation-Date: 2013-09-16 12:39+0000\n"
-"PO-Revision-Date: 2013-11-05 13:47+0000\n"
-"Last-Translator: oneda93 oneda93 <wanda.haris93@gmail.com>\n"
-"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Suroboyo/team/ace/)\n"
+"PO-Revision-Date: 2014-01-03 22:17+0700\n"
+"Last-Translator: Mahyuddin Idram Ahmad <dotovr@di.blankon.in>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/"
+"Suroboyo/team/ace/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ace\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../addressbook/backends/file/e-book-backend-file.c:114
 #, c-format
@@ -909,8 +911,7 @@ msgstr "Kode panggil negara hana valid"
 
 #: ../addressbook/libebook-contacts/e-phone-number.c:51
 msgid ""
-"Remaining text after the country calling code is too short for a phone "
-"number"
+"Remaining text after the country calling code is too short for a phone number"
 msgstr ""
 "Sisa teks banlheuh kode panggilan negara terlalu paneuk untuk saboh numboi "
 "telepon "
@@ -964,8 +965,8 @@ msgid ""
 "Contact field '%s' of type '%s' specified in summary, but only boolean, "
 "string and string list field types are supported"
 msgstr ""
-"Ruas Kontak '%s' bertipe '%s' di peugah dalam ringkasan, tapi cuma tipe yang"
-" ruas boolean, string, dan daftar string yang di dukung"
+"Ruas Kontak '%s' bertipe '%s' di peugah dalam ringkasan, tapi cuma tipe yang "
+"ruas boolean, string, dan daftar string yang di dukung"
 
 #: ../addressbook/libedata-book/e-book-backend-sqlitedb.c:2644
 #: ../addressbook/libedata-book/e-book-backend-sqlitedb.c:3686
@@ -973,8 +974,8 @@ msgstr ""
 msgid ""
 "Full search_contacts are not stored in cache. vcards cannot be returned."
 msgstr ""
-"Search_contacs leungkap hana disimpan dalam siggahan. vcard hannjheut di peu"
-" balek"
+"Search_contacs leungkap hana disimpan dalam siggahan. vcard hannjheut di peu "
+"balek"
 
 #: ../addressbook/libedata-book/e-book-backend-sqlitedb.c:3812
 #: ../addressbook/libedata-book/e-book-backend-sqlitedb.c:3893
@@ -1023,7 +1024,7 @@ msgstr "CLient hanjhet menata properti backend"
 
 #. Translators: This is prefix to a detailed error message
 #. Translators: This is a prefix to a detailed error message *
-#. 
+#.
 #: ../addressbook/libedata-book/e-data-book.c:691
 #: ../calendar/libedata-cal/e-data-cal.c:635
 msgid "Invalid query: "
@@ -1866,8 +1867,8 @@ msgid ""
 "%s\n"
 "Changes made to this folder will not be resynchronized."
 msgstr ""
-"Han jheut buka '%s': %s Perubahan yang kalheuh di peuget bak folder nyoe han"
-" akan disinkronisasi-ulang."
+"Han jheut buka '%s': %s Perubahan yang kalheuh di peuget bak folder nyoe han "
+"akan disinkronisasi-ulang."
 
 #: ../camel/camel-disco-diary.c:326
 msgid "Resynchronizing with server"
@@ -1880,8 +1881,7 @@ msgstr "Download pesan baroe bah jhet di baca watee terhubung ke jaringan"
 #: ../camel/camel-disco-folder.c:422
 #, c-format
 msgid "Preparing folder '%s' for offline"
-msgstr ""
-"Peusiap folder '%s' bah jhet di pakek watee hana terhubung ke jaringan"
+msgstr "Peusiap folder '%s' bah jhet di pakek watee hana terhubung ke jaringan"
 
 #: ../camel/camel-disco-folder.c:489 ../camel/camel-offline-folder.c:336
 msgid "Copy folder content locally for _offline operation"
@@ -2463,8 +2463,7 @@ msgid "Password"
 msgstr "Sandi"
 
 #: ../camel/camel-imapx-store.c:345
-msgid ""
-"This option will connect to the IMAP server using a plaintext password."
+msgid "This option will connect to the IMAP server using a plaintext password."
 msgstr "Opsi nyoe akan menhubungi server IMAP pakek kata-sandi teks biasa."
 
 #: ../camel/camel-imapx-store.c:453
@@ -2491,7 +2490,8 @@ msgstr "Cok daftar folder untuk %s"
 
 #: ../camel/camel-imapx-store.c:1614
 #, c-format
-msgid "The folder name \"%s\" is invalid because it contains the character \"%c\""
+msgid ""
+"The folder name \"%s\" is invalid because it contains the character \"%c\""
 msgstr "Nan folder \"%s\" hana beutoi kareuna meu asoe karakter \"%c\""
 
 #: ../camel/camel-imapx-store.c:1625
@@ -2769,7 +2769,7 @@ msgstr "Tantangan server terlalu panyang (>2048 octet)"
 #: ../camel/camel-sasl-digest-md5.c:866
 #, c-format
 msgid "Server challenge invalid\n"
-msgstr "Tantangan server hana beutoi"
+msgstr "Tantangan server hana beutoi\n"
 
 #: ../camel/camel-sasl-digest-md5.c:874
 #, c-format
@@ -2797,8 +2797,7 @@ msgid "GSSAPI"
 msgstr "GSSAPI"
 
 #: ../camel/camel-sasl-gssapi.c:93
-msgid ""
-"This option will connect to the server using Kerberos 5 authentication."
+msgid "This option will connect to the server using Kerberos 5 authentication."
 msgstr "Opsi nyo akan menghubungi server pakek otentifikasi kerberos 5."
 
 #: ../camel/camel-sasl-gssapi.c:134
@@ -2831,8 +2830,8 @@ msgstr ""
 
 #: ../camel/camel-sasl-gssapi.c:151
 msgid ""
-"The input_token contains an invalid signature, or a signature that could not"
-" be verified."
+"The input_token contains an invalid signature, or a signature that could not "
+"be verified."
 msgstr ""
 "input_token meu asoe tanda tangan hana beutoi, atawa tanda tangan han jheut "
 "diverifikasi."
@@ -3083,7 +3082,7 @@ msgstr "Han jheut meuteume digest tandatangan"
 #: ../camel/camel-smime-context.c:662
 #, c-format
 msgid "Signer: %s <%s>: %s\n"
-msgstr "Penadatanganan: %s <%s>: %s"
+msgstr "Penadatanganan: %s <%s>: %s\n"
 
 #: ../camel/camel-smime-context.c:858 ../camel/camel-smime-context.c:1148
 msgid "Cannot create encoder context"
@@ -3518,8 +3517,8 @@ msgid ""
 "For reading and storing local mail in external standard mbox spool files.\n"
 "May also be used to read a tree of Elm, Pine, or Mutt style folders."
 msgstr ""
-"Untuk baca dan simpan surat lokal dalam berkas spool mbox standar eksternal."
-" dan juga jhet untuk baca pohon folder gaya Elm, Pine, atawa Mutt."
+"Untuk baca dan simpan surat lokal dalam berkas spool mbox standar eksternal. "
+"dan juga jhet untuk baca pohon folder gaya Elm, Pine, atawa Mutt."
 
 #: ../camel/providers/local/camel-local-provider.c:125
 msgid "Standard Unix mbox spool directory"
@@ -3831,8 +3830,8 @@ msgstr "Han jheut simpan folder: %s"
 #: ../camel/providers/local/camel-mbox-summary.c:1162
 #, c-format
 msgid ""
-"MBOX file is corrupted, please fix it. (Expected a From line, but didn't get"
-" it.)"
+"MBOX file is corrupted, please fix it. (Expected a From line, but didn't get "
+"it.)"
 msgstr ""
 "Berkas MBOX reuloh, silahkan peuget. (Berharap bareh From, tapi hana "
 "memperoleh jih.)"
@@ -4024,8 +4023,8 @@ msgstr "Han jheut salin pesan-pesan dari folder NNTP!"
 msgid ""
 "_Show folders in short notation (e.g. c.o.linux rather than comp.os.linux)"
 msgstr ""
-"Peuleumah folder dalam notasi_singkat (lagee. c.o.linux daripada "
-"comp.os.linux)"
+"Peuleumah folder dalam notasi_singkat (lagee. c.o.linux daripada comp.os."
+"linux)"
 
 #: ../camel/providers/nntp/camel-nntp-provider.c:51
 msgid "In the subscription _dialog, show relative folder names"
@@ -4303,8 +4302,8 @@ msgstr "Server POP3 untuk %s bak %s"
 #: ../camel/providers/pop3/camel-pop3-store.c:703
 #, c-format
 msgid ""
-"Unable to connect to POP server %s:\tInvalid APOP ID received. Impersonation"
-" attack suspected. Please contact your admin."
+"Unable to connect to POP server %s:\tInvalid APOP ID received. Impersonation "
+"attack suspected. Please contact your admin."
 msgstr ""
 "Han jheut sambong keu server POP %s teurimong ID APOP yang hana beutoi. Di "
 "duga na serangan pemalsuan. silahkan peugah bak admin droen."
@@ -4346,8 +4345,8 @@ msgid ""
 "For delivering mail by passing it to the \"sendmail\" program on the local "
 "system."
 msgstr ""
-"Untuk penyerahan surat dengon melewatkan keu program \"sendmail\" bak sistem"
-" lokal."
+"Untuk penyerahan surat dengon melewatkan keu program \"sendmail\" bak sistem "
+"lokal."
 
 #: ../camel/providers/sendmail/camel-sendmail-transport.c:50
 msgid "sendmail"
@@ -4533,13 +4532,11 @@ msgstr "Pengguna kon lokal; diteruskan keu <forward-path>"
 
 #: ../camel/providers/smtp/camel-smtp-transport.c:883
 msgid "Requested mail action not taken: mailbox unavailable"
-msgstr ""
-"Tindakan yang di lakee han jheut di peulaku: kotak surat hana tersedia"
+msgstr "Tindakan yang di lakee han jheut di peulaku: kotak surat hana tersedia"
 
 #: ../camel/providers/smtp/camel-smtp-transport.c:885
 msgid "Requested action not taken: mailbox unavailable"
-msgstr ""
-"Tindakan yang di lakee han jheut di peulaku: kotak surat hana tersedia"
+msgstr "Tindakan yang di lakee han jheut di peulaku: kotak surat hana tersedia"
 
 #: ../camel/providers/smtp/camel-smtp-transport.c:887
 msgid "Requested action aborted: error in processing"
@@ -4660,10 +4657,12 @@ msgid "Birthday and anniversary reminder units"
 msgstr "Unit peungingat uroe lahee dan perayaan tahunan"
 
 #: ../data/org.gnome.evolution-data-server.calendar.gschema.xml.in.h:6
-msgid "Units for a birthday or anniversary reminder, \"minutes\", \"hours\" or \"days\""
+msgid ""
+"Units for a birthday or anniversary reminder, \"minutes\", \"hours\" or "
+"\"days\""
 msgstr ""
-"Unit bagi pengingat uroe lahee atawa perayaan tahunan, "
-"\"minutes\"(meunet),\"hours\"(jeum), atawa\"days\" (uroe)"
+"Unit bagi pengingat uroe lahee atawa perayaan tahunan, \"minutes\"(meunet),"
+"\"hours\"(jeum), atawa\"days\" (uroe)"
 
 #: ../libebackend/e-authentication-mediator.c:205
 #: ../libebackend/e-authentication-mediator.c:216
@@ -4730,8 +4729,7 @@ msgstr "Sumber data '%s' hana mendukung pembuatan sumber daya remote"
 #, c-format
 msgid ""
 "Data source '%s' has no collection backend to create the remote resource"
-msgstr ""
-"Sumber data '%s' hana backend koleksi untuk peunget sumber daya remote"
+msgstr "Sumber data '%s' hana backend koleksi untuk peunget sumber daya remote"
 
 #: ../libebackend/e-server-side-source.c:1050
 #: ../libedataserver/e-source.c:1251
@@ -4983,8 +4981,8 @@ msgstr "Skrip tanda tangan harus berkas lokal"
 #: ../libedataserver/e-source-webdav.c:1529
 #, c-format
 msgid ""
-"SSL certificate for host '%s', used by address book '%s', is not trusted. Do"
-" you wish to accept it?"
+"SSL certificate for host '%s', used by address book '%s', is not trusted. Do "
+"you wish to accept it?"
 msgstr ""
 "Sertifikat SSL bagi host '%s', yang di pakek oleh buku alamat '%s', hana "
 "teupeucaya. Peu keuh droen akan teurimong?"
@@ -4992,8 +4990,8 @@ msgstr ""
 #: ../libedataserver/e-source-webdav.c:1538
 #, c-format
 msgid ""
-"SSL certificate for host '%s', used by calendar '%s', is not trusted. Do you"
-" wish to accept it?"
+"SSL certificate for host '%s', used by calendar '%s', is not trusted. Do you "
+"wish to accept it?"
 msgstr ""
 "Sertifikat SSL bagi host '%s', yang di pakek oleh kalender '%s', hana "
 "teupeucaya. peu keuh droen hendak teurimong?"
@@ -5058,7 +5056,7 @@ msgstr "%a %m/%d/%Y %I %p"
 #. * in 24-hour format, without minutes or seconds.
 #: ../libedataserver/e-time-utils.c:1688
 msgid "%a %m/%d/%Y %H"
-msgstr "%a %m/%d/%Y %H\n"
+msgstr "%a %m/%d/%Y %H"
 
 #. strptime format of a weekday and a date.
 #. strftime format of a weekday and a date.
@@ -5265,8 +5263,8 @@ msgid ""
 "Cannot find a corresponding account in the org.gnome.OnlineAccounts service "
 "from which to obtain a password for '%s'"
 msgstr ""
-"Han jheut meuteume akun yang sesuai dalam pelayanan org.gnome.OnlineAccounts"
-" tempat meuteume sandi bagi '%s'"
+"Han jheut meuteume akun yang sesuai dalam pelayanan org.gnome.OnlineAccounts "
+"tempat meuteume sandi bagi '%s'"
 
 #: ../modules/gnome-online-accounts/e-goa-password-based.c:216
 #, c-format
@@ -5315,8 +5313,8 @@ msgid ""
 "Cannot find a corresponding account in the org.gnome.OnlineAccounts service "
 "from which to obtain an access token for '%s'"
 msgstr ""
-"Han jheut meuteume akun yang bersesuaian dalam layanan "
-"org.gnome.OnlineAccounts tempat meuteume token akses bagi '%s'"
+"Han jheut meuteume akun yang bersesuaian dalam layanan org.gnome."
+"OnlineAccounts tempat meuteume token akses bagi '%s'"
 
 #: ../modules/gnome-online-accounts/module-gnome-online-accounts.c:1298
 #, c-format
@@ -5625,8 +5623,8 @@ msgstr "Certificate authority yang menandatangani hana di turi."
 
 #: ../modules/trust-prompt/module-trust-prompt.c:203
 msgid ""
-"The certificate does not match the expected identity of the site that it was"
-" retrieved from."
+"The certificate does not match the expected identity of the site that it was "
+"retrieved from."
 msgstr ""
 "Sertifikat hana cocok dengon yang diharapkan dari situs tempat nyan di cok"
 
@@ -5811,5 +5809,3 @@ msgstr "WebDAV"
 #: ../services/evolution-user-prompter/prompt-user-gtk.c:122
 msgid "_Dismiss"
 msgstr "_Top"
-
-

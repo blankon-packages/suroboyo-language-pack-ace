@@ -164,11 +164,11 @@ msgstr "Bagan Cabeung Kayee"
 
 #: ../src/baobab-main-window.ui.h:11
 msgid "_Open Folder"
-msgstr "_Buka Folder"
+msgstr "_Peuhah Folder"
 
 #: ../src/baobab-main-window.ui.h:12
 msgid "_Copy Path to Clipboard"
-msgstr "_Kopi Teumpat u Papeun Klip"
+msgstr "_Salen Teumpat u Papeun Klip"
 
 #: ../src/baobab-main-window.ui.h:13
 msgid "Mo_ve to Trash"
@@ -176,15 +176,15 @@ msgstr "Beo_eh Lam Toeng Broeh"
 
 #: ../src/baobab-menu.ui.h:1
 msgid "_Help"
-msgstr "_Bantuan"
+msgstr "_Beunantu"
 
 #: ../src/baobab-menu.ui.h:2
 msgid "_About"
-msgstr "_Tentang"
+msgstr "_Bhah"
 
 #: ../src/baobab-menu.ui.h:3
 msgid "_Quit"
-msgstr "_Teubit"
+msgstr "_Teubiet"
 
 #: ../src/baobab-menu.ui.h:4
 msgid "_Analyzer"
@@ -200,11 +200,11 @@ msgstr "_Sken Folder"
 
 #: ../src/baobab-menu.ui.h:7
 msgid "Scan Remote Fo_lder…"
-msgstr "Sken Fo_lder jioh…"
+msgstr "Sken Fo_lder Remot…"
 
 #: ../src/baobab-menu.ui.h:8
 msgid "_View"
-msgstr "_Peuleumah"
+msgstr "_Ngieng"
 
 #: ../src/baobab-menu.ui.h:9
 msgid "_Reload"
@@ -212,7 +212,7 @@ msgstr "Pasoe_lom"
 
 #: ../src/baobab-menu.ui.h:10
 msgid "_Expand All"
-msgstr "Peuluwah madum"
+msgstr "_Peuluwah Madum"
 
 #: ../src/baobab-menu.ui.h:11
 msgid "_Collapse All"
@@ -232,7 +232,7 @@ msgstr "Baobab"
 
 #: ../src/baobab-window.vala:317
 msgid "A graphical tool to analyze disk usage."
-msgstr "Alat grafis keu menganalisa penggunaan disk."
+msgstr "Alat grafis keu menganalisa disk nyang ka teungui."
 
 #: ../src/baobab-window.vala:322
 msgid "translator-credits"

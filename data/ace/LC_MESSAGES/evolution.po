@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 #  <Dzackyzacky@gmail.com>, 2013.
 #  <ayiemanaf@gmail.com>, 2013.
 #  <ayunandasari419@gmail.com>, 2013.
@@ -21,14 +21,16 @@ msgstr ""
 "Project-Id-Version: Suroboyo\n"
 "Report-Msgid-Bugs-To: http://dev.blankonlinux.or.id/\n"
 "POT-Creation-Date: 2013-08-24 10:43+0000\n"
-"PO-Revision-Date: 2013-11-19 11:17+0000\n"
-"Last-Translator: mirzatriyuna mirzatriyuna <mirza.triyuna@gmail.com>\n"
-"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Suroboyo/team/ace/)\n"
+"PO-Revision-Date: 2014-01-03 22:15+0700\n"
+"Last-Translator: Mahyuddin Idram Ahmad <dotovr@di.blankon.in>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/"
+"Suroboyo/team/ace/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ace\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../addressbook/addressbook.error.xml.h:1
 msgid "This address book could not be opened."
@@ -48,8 +50,8 @@ msgstr "Gagal watee mengotentikasi pakek server LDAP."
 
 #: ../addressbook/addressbook.error.xml.h:4
 msgid ""
-"Check to make sure your password is spelled correctly and that you are using"
-" a supported login method. Remember that many passwords are case sensitive; "
+"Check to make sure your password is spelled correctly and that you are using "
+"a supported login method. Remember that many passwords are case sensitive; "
 "your caps lock might be on."
 msgstr ""
 "Pastikan bahwa droen ka neupetamong sandi dengoen beutoi. cuba neuperhati "
@@ -149,8 +151,8 @@ msgstr "Hanjeut tapinah kontak"
 
 #: ../addressbook/addressbook.error.xml.h:24
 msgid ""
-"You are attempting to move a contact from one address book to another but it"
-" cannot be removed from the source. Do you want to save a copy instead?"
+"You are attempting to move a contact from one address book to another but it "
+"cannot be removed from the source. Do you want to save a copy instead?"
 msgstr ""
 "Dron teungoh usaha tapinahkan kontak dari saboh alamat u alamat laenjih, "
 "tapi sayangjih, informasinyo hanjeut tasampoh dari buku alamat asaijih. "
@@ -187,8 +189,8 @@ msgstr "Alamat '{0}' kana."
 
 #: ../addressbook/addressbook.error.xml.h:32
 msgid ""
-"A contact already exists with this address. Would you like to add a new card"
-" with the same address anyway?"
+"A contact already exists with this address. Would you like to add a new card "
+"with the same address anyway?"
 msgstr ""
 "Kana kontak ngon alamat nyang hii. Teutap tamahkan karto baro ngon alamat "
 "nyang hii nyan?"
@@ -359,7 +361,7 @@ msgstr "Blog:"
 
 #: ../addressbook/gui/contact-editor/contact-editor.ui.h:24
 msgid "Web Addresses"
-msgstr "Alamat Web\n"
+msgstr "Alamat Web"
 
 #: ../addressbook/gui/contact-editor/contact-editor.ui.h:25
 msgid "Web addresses"
@@ -569,7 +571,9 @@ msgstr "_Hana gamba"
 msgid ""
 "The contact data is invalid:\n"
 "\n"
-msgstr "Data kontak salah"
+msgstr ""
+"Data kontak nakeuh hana saheh:\n"
+"\n"
 
 #: ../addressbook/gui/contact-editor/e-contact-editor.c:3825
 #, c-format
@@ -857,7 +861,7 @@ msgstr "Pileh mandum kontak"
 
 #: ../addressbook/gui/widgets/e-addressbook-view.c:1285
 msgid "Are you sure you want to delete these contact lists?"
-msgstr "Peu droen yakin neuk hapoh daftar kontak nyoe  ?\n"
+msgstr "Peu droen yakin neuk hapoh daftar kontak nyo?"
 
 #: ../addressbook/gui/widgets/e-addressbook-view.c:1289
 msgid "Are you sure you want to delete this contact list?"
@@ -1081,7 +1085,10 @@ msgid ""
 "\n"
 "\n"
 "Searching for the Contacts..."
-msgstr "Proses mita Kontak"
+msgstr ""
+"\n"
+"\n"
+"Proses mita keu Kontak.."
 
 #: ../addressbook/gui/widgets/e-minicard-view.c:194
 msgid ""
@@ -1091,8 +1098,11 @@ msgid ""
 "\n"
 "or double-click here to create a new Contact."
 msgstr ""
-"Hana data nyang jeut ipeuleumah. Neu klik dua goe sinoe keu peuget kontak "
-"baro."
+"\n"
+"\n"
+"Mita keu Kontak\n"
+"\n"
+"atawa neu klik dua goe sinoe keu peuget Kontak baro."
 
 #: ../addressbook/gui/widgets/e-minicard-view.c:197
 msgid ""
@@ -1102,15 +1112,21 @@ msgid ""
 "\n"
 "Double-click here to create a new Contact."
 msgstr ""
-"Hana asoe nyang jeut i peuleumah. Neu klik sinoe dua goe keu peuget kontak "
-"baro."
+"\n"
+"\n"
+"Hana asoe nyang jeut lam ngieng nyo.\n"
+"\n"
+"Neu klik sinoe dua goe keu peuget kontak baro."
 
 #: ../addressbook/gui/widgets/e-minicard-view.c:201
 msgid ""
 "\n"
 "\n"
 "Search for the Contact."
-msgstr "Mita Kontak"
+msgstr ""
+"\n"
+"\n"
+"Mita keu Kontak"
 
 #: ../addressbook/gui/widgets/e-minicard-view.c:203
 msgid ""
@@ -1286,9 +1302,9 @@ msgid ""
 "load the address book once in online mode to download its contents."
 msgstr ""
 "Alamat buku nyoe hana jeut dibuka.Buku nyoe beurarti hanjeut geutanda keu "
-"yang pakek cara offline atau hanjeut geudownload le yang pakek cara offline "
-". geucie ulang alamat buku nyan lam cara online geuyak jeut geudownload asoe"
-" bukunyan. "
+"yang pakek cara offline atau hanjeut geudownload le yang pakek cara "
+"offline . geucie ulang alamat buku nyan lam cara online geuyak jeut "
+"geudownload asoe bukunyan. "
 
 #: ../addressbook/gui/widgets/eab-gui-util.c:142
 #, c-format
@@ -1296,8 +1312,8 @@ msgid ""
 "This address book cannot be opened.  Please check that the path %s exists "
 "and that permissions are set to access it."
 msgstr ""
-"buku nyoe hanjeut geubuka, guecie peuriksa menyoe dalam jalurnyo na %s ,ngen"
-" na izin nak jeut geu atoe akses jih."
+"buku nyoe hanjeut geubuka, guecie peuriksa menyoe dalam jalurnyo na %s ,ngen "
+"na izin nak jeut geu atoe akses jih."
 
 #: ../addressbook/gui/widgets/eab-gui-util.c:155
 msgid ""
@@ -1309,8 +1325,8 @@ msgstr ""
 
 #: ../addressbook/gui/widgets/eab-gui-util.c:164
 msgid ""
-"This address book cannot be opened.  This either means that an incorrect URI"
-" was entered, or the server is unreachable."
+"This address book cannot be opened.  This either means that an incorrect URI "
+"was entered, or the server is unreachable."
 msgstr ""
 "Buku alamat nyoe han jheut di buka. Mungken URI yang Droen peutamong hana "
 "beutoi ato server teungoh matee ato di lua jangkauan."
@@ -1339,8 +1355,8 @@ msgid ""
 "preferences for this address book."
 msgstr ""
 "Watee proses peumita ka leubeh batas watee yang di peuteunte server. "
-"Silahkan pakek kata kunci yang laen ato yang leubeh spesifik ato tamah batas"
-" watee mita bak pengato server direktori bak buku alamat nyoe."
+"Silahkan pakek kata kunci yang laen ato yang leubeh spesifik ato tamah batas "
+"watee mita bak pengato server direktori bak buku alamat nyoe."
 
 #. Translators: %s is replaced with a detailed error message, or an empty
 #. string, if not provided
@@ -1393,9 +1409,7 @@ msgstr "Pinah kotak u"
 
 #: ../addressbook/gui/widgets/eab-gui-util.c:593
 msgid "Copy contacts to"
-msgstr ""
-"\n"
-"salen kontak u"
+msgstr "Salen Kontak u"
 
 #: ../addressbook/gui/widgets/gal-view-factory-minicard.c:38
 msgid "Card View"
@@ -1622,13 +1636,15 @@ msgstr "Peringatan"
 #: ../calendar/alarm-notify/alarm-queue.c:1957
 #, c-format
 msgid ""
-"An Evolution Calendar reminder is about to trigger. This reminder is configured to run the following program:\n"
+"An Evolution Calendar reminder is about to trigger. This reminder is "
+"configured to run the following program:\n"
 "\n"
 "        %s\n"
 "\n"
 "Are you sure you want to run this program?"
 msgstr ""
-"Peuingat Kalender Evolution di jalankan. Peuingat nyoe ka di konfigurasi keu jalankan peintah nyo:\n"
+"Peuingat Kalender Evolution di jalankan. Peuingat nyoe ka di konfigurasi keu "
+"jalankan peintah nyo:\n"
 "\n"
 "        %s\n"
 "\n"
@@ -1682,8 +1698,8 @@ msgstr "Peukeuh Dron meuheut kirem beurita peumbatalan bak mandum peuserta?"
 
 #: ../calendar/calendar.error.xml.h:2
 msgid ""
-"If you do not send a cancelation notice, the other participants may not know"
-" the meeting is canceled."
+"If you do not send a cancelation notice, the other participants may not know "
+"the meeting is canceled."
 msgstr ""
 "Miseu Dron hana kirem beurita peumbatalan, peuserta laen mungken hana tepeu "
 "bahwa pertemuan nyo kaleuh ipeubatai."
@@ -1709,11 +1725,11 @@ msgstr "Mandum informasi pertemuan nyo akan tasampoh han ipeubalek lage sot."
 
 #: ../calendar/calendar.error.xml.h:8
 msgid ""
-"If you do not send a cancelation notice, the other participants may not know"
-" the task has been deleted."
+"If you do not send a cancelation notice, the other participants may not know "
+"the task has been deleted."
 msgstr ""
-"Miseu Dron hana kirem beurita peumbatalan, peuserta laen mungken hana teupeu"
-" bahwa tugah nyo kaleuh tasampoh."
+"Miseu Dron hana kirem beurita peumbatalan, peuserta laen mungken hana teupeu "
+"bahwa tugah nyo kaleuh tasampoh."
 
 #: ../calendar/calendar.error.xml.h:9
 #: ../calendar/gui/dialogs/delete-comp.c:196
@@ -1731,11 +1747,11 @@ msgstr "Peukeuh Droneh kemeung kirem beurita peumbatalan memo nyo?"
 
 #: ../calendar/calendar.error.xml.h:12
 msgid ""
-"If you do not send a cancelation notice, the other participants may not know"
-" the memo has been deleted."
+"If you do not send a cancelation notice, the other participants may not know "
+"the memo has been deleted."
 msgstr ""
-"Miseu Dron kirem beurita peumbatalan, peuserta laen mungken hana teupu bahwa"
-" tugas nyo kaleuh tasampoh."
+"Miseu Dron kirem beurita peumbatalan, peuserta laen mungken hana teupu bahwa "
+"tugas nyo kaleuh tasampoh."
 
 #: ../calendar/calendar.error.xml.h:13
 #: ../calendar/gui/dialogs/delete-comp.c:199
@@ -1746,8 +1762,8 @@ msgstr "Dron yaken kemeung sampoh memo nyo?"
 #: ../calendar/calendar.error.xml.h:14
 msgid "All information on this memo will be deleted and can not be restored."
 msgstr ""
-"Mandum informasi memo nyo akan tasampoh han ipeubalek le lage semula."
-"         "
+"Mandum informasi memo nyo akan tasampoh han ipeubalek le lage "
+"semula.         "
 
 #: ../calendar/calendar.error.xml.h:15
 msgid "Are you sure you want to delete the meeting titled '{0}'?"
@@ -1790,27 +1806,25 @@ msgid ""
 "All information on these appointments will be deleted and can not be "
 "restored."
 msgstr ""
-"Mandum informasi tentang jadual pertemuan nyo kemeung tasampoh han ipeubalek"
-" le lage semula."
+"Mandum informasi tentang jadual pertemuan nyo kemeung tasampoh han ipeubalek "
+"le lage semula."
 
 #: ../calendar/calendar.error.xml.h:24
 msgid "Are you sure you want to delete these {0} tasks?"
 msgstr "Dron yaken kemeung sampoh{0}tugas nyo?"
 
 #: ../calendar/calendar.error.xml.h:25
-msgid ""
-"All information on these tasks will be deleted and can not be restored."
+msgid "All information on these tasks will be deleted and can not be restored."
 msgstr ""
-"Mandum informasi tentang tugas-tugas nyo kemeung tasampoh han ipeubalek lage"
-" semula."
+"Mandum informasi tentang tugas-tugas nyo kemeung tasampoh han ipeubalek lage "
+"semula."
 
 #: ../calendar/calendar.error.xml.h:26
 msgid "Are you sure you want to delete these {0} memos?"
 msgstr "Droen yakin meujak apoh {0} memo nyoe?"
 
 #: ../calendar/calendar.error.xml.h:27
-msgid ""
-"All information in these memos will be deleted and can not be restored."
+msgid "All information in these memos will be deleted and can not be restored."
 msgstr ""
 "Mandum informasi tentang memo-memo nyo akan di apoh dan han jhet di peu "
 "balek keu awai teuma."
@@ -1834,7 +1848,7 @@ msgstr "_Abaikan Perubahan"
 
 #: ../calendar/calendar.error.xml.h:32
 msgid "Would you like to save your changes to this appointment?"
-msgstr "Peu keuh droen meujak simpan jadwal pertemuan nyoe?\n"
+msgstr "Peu keuh droen meujak simpan jadwal pertemuan nyoe?"
 
 #: ../calendar/calendar.error.xml.h:33
 msgid "You have changed this appointment, but not yet saved it."
@@ -1881,8 +1895,8 @@ msgid ""
 "Sending updated information allows other participants to keep their "
 "calendars up to date."
 msgstr ""
-"Kirem informasi teubaroe akan bantu peserta laen dalam mengato kalender awak"
-" nyan."
+"Kirem informasi teubaroe akan bantu peserta laen dalam mengato kalender awak "
+"nyan."
 
 #: ../calendar/calendar.error.xml.h:43
 msgid "Would you like to send this task to participants?"
@@ -2395,8 +2409,7 @@ msgstr "Memo nyo kaleh iubah."
 #, c-format
 msgid "%s  You have made changes. Forget those changes and update the editor?"
 msgstr ""
-"%s Na perubahan yang droen peuget. Apoh mandum dan peubaroe asoe editor "
-"nyoe?"
+"%s Na perubahan yang droen peuget. Apoh mandum dan peubaroe asoe editor nyoe?"
 
 #: ../calendar/gui/dialogs/changed-comp.c:105
 #, c-format
@@ -2552,7 +2565,7 @@ msgstr "_Lampiran..."
 #: ../calendar/gui/dialogs/comp-editor.c:1369
 #: ../composer/e-composer-actions.c:289 ../e-util/e-attachment-view.c:415
 msgid "Attach a file"
-msgstr "Lampiran berkas"
+msgstr "Lampirkan beureukaih"
 
 #: ../calendar/gui/dialogs/comp-editor.c:1377
 msgid "_Categories"
@@ -3166,7 +3179,7 @@ msgstr "Pada uro"
 #. * (dropdown menu options are in [square brackets]). This means that after
 #. 'first', either the string 'day' or
 #. * the name of a week day (like 'Monday' or 'Friday') always follow.
-#. 
+#.
 #: ../calendar/gui/dialogs/recurrence-page.c:1110
 msgid "first"
 msgstr "keu phon"
@@ -3178,7 +3191,7 @@ msgstr "keu phon"
 #. * (dropdown menu options are in [square brackets]). This means that after
 #. 'second', either the string 'day' or
 #. * the name of a week day (like 'Monday' or 'Friday') always follow.
-#. 
+#.
 #: ../calendar/gui/dialogs/recurrence-page.c:1116
 msgid "second"
 msgstr "keudua"
@@ -3188,7 +3201,7 @@ msgstr "keudua"
 #. * (dropdown menu options are in [square brackets]). This means that after
 #. 'third', either the string 'day' or
 #. * the name of a week day (like 'Monday' or 'Friday') always follow.
-#. 
+#.
 #: ../calendar/gui/dialogs/recurrence-page.c:1121
 msgid "third"
 msgstr "keu lhee"
@@ -3198,7 +3211,7 @@ msgstr "keu lhee"
 #. * (dropdown menu options are in [square brackets]). This means that after
 #. 'fourth', either the string 'day' or
 #. * the name of a week day (like 'Monday' or 'Friday') always follow.
-#. 
+#.
 #: ../calendar/gui/dialogs/recurrence-page.c:1126
 msgid "fourth"
 msgstr "Keu peut"
@@ -3208,7 +3221,7 @@ msgstr "Keu peut"
 #. * (dropdown menu options are in [square brackets]). This means that after
 #. 'fifth', either the string 'day' or
 #. * the name of a week day (like 'Monday' or 'Friday') always follow.
-#. 
+#.
 #: ../calendar/gui/dialogs/recurrence-page.c:1131
 msgid "fifth"
 msgstr "keu limong"
@@ -3218,7 +3231,7 @@ msgstr "keu limong"
 #. * (dropdown menu options are in [square brackets]). This means that after
 #. 'last', either the string 'day' or
 #. * the name of a week day (like 'Monday' or 'Friday') always follow.
-#. 
+#.
 #: ../calendar/gui/dialogs/recurrence-page.c:1136
 msgid "last"
 msgstr "keuneuleuh"
@@ -3236,7 +3249,7 @@ msgstr "Tnggai Laenjih"
 #. example: This appointment recurs/Every [x] month(s)
 #. * on the [Other date] [1st to 10th] [7th] [forever]' (dropdown menu options
 #. are in [square brackets]).
-#. 
+#.
 #: ../calendar/gui/dialogs/recurrence-page.c:1166
 msgid "1st to 10th"
 msgstr "1 sampe 10"
@@ -3247,7 +3260,7 @@ msgstr "1 sampe 10"
 #. example: This appointment recurs/Every [x] month(s)
 #. * on the [Other date] [11th to 20th] [17th] [forever]' (dropdown menu
 #. options are in [square brackets]).
-#. 
+#.
 #: ../calendar/gui/dialogs/recurrence-page.c:1172
 msgid "11th to 20th"
 msgstr "11 sampe 20"
@@ -3258,7 +3271,7 @@ msgstr "11 sampe 20"
 #. example: This appointment recurs/Every [x] month(s)
 #. * on the [Other date] [21th to 31th] [27th] [forever]' (dropdown menu
 #. options are in [square brackets]).
-#. 
+#.
 #: ../calendar/gui/dialogs/recurrence-page.c:1178
 msgid "21st to 31st"
 msgstr "21 sampe 31"
@@ -3301,7 +3314,7 @@ msgstr "Aleuhad"
 #. TRANSLATORS: Entire string is for example: 'This appointment recurs/Every
 #. [x] month(s) on the [second] [Tuesday] [forever]'
 #. * (dropdown menu options are in [square brackets])."
-#. 
+#.
 #: ../calendar/gui/dialogs/recurrence-page.c:1342
 msgid "on the"
 msgstr "Keu"
@@ -4411,7 +4424,7 @@ msgstr "Klik keu tamah memo"
 #. Translators: "%d%%" is the percentage of a task done.
 #. * %d is the actual value, %% is replaced with a percent sign.
 #. * Result values will be 0%, 10%, 20%, ... 100%
-#. 
+#.
 #: ../calendar/gui/e-task-table.c:602
 #, c-format
 msgid "%d%%"
@@ -5025,12 +5038,12 @@ msgstr "Jenis"
 #. *
 #. * Copyright (C) 1999-2008 Novell, Inc. (www.novell.com)
 #. *
-#. 
-#. 
+#.
+#.
 #. * These are the timezone names from the Olson timezone data.
 #. * We only place them here so gettext picks them up for translation.
 #. * Don't include in any C files.
-#. 
+#.
 #: ../calendar/zones.h:26
 msgid "Africa/Abidjan"
 msgstr "Afrika/Abidjan"
@@ -6711,8 +6724,7 @@ msgstr "Pasoe daftar yang teurimoeng pesan surel nyoe"
 #: ../composer/e-composer-header-table.c:43
 msgid "Enter the addresses that will receive a carbon copy of the message"
 msgstr ""
-"Pasoe alamat-alamat yang akan teurtimoeng salenan karbon(Cc) pesan surel "
-"nyoe"
+"Pasoe alamat-alamat yang akan teurtimoeng salenan karbon(Cc) pesan surel nyoe"
 
 #: ../composer/e-composer-header-table.c:46
 msgid ""
@@ -6772,16 +6784,15 @@ msgstr "Keubah draf"
 msgid ""
 "Cannot sign outgoing message: No signing certificate set for this account"
 msgstr ""
-"Hanjeut tanda tangan pesan teubit: sertifikat untuk tanda tangan golom diset"
-" untuk akun nyoe"
+"Hanjeut tanda tangan pesan teubit: sertifikat untuk tanda tangan golom diset "
+"untuk akun nyoe"
 
 #: ../composer/e-msg-composer.c:871
 #, c-format
 msgid ""
 "Cannot encrypt outgoing message: No encryption certificate set for this "
 "account"
-msgstr ""
-"Hanjeut acak pesan teubit: sertifikat enkrip golom diset keu akun nyoe"
+msgstr "Hanjeut acak pesan teubit: sertifikat enkrip golom diset keu akun nyoe"
 
 #: ../composer/e-msg-composer.c:1552 ../composer/e-msg-composer.c:1961
 msgid "Compose Message"
@@ -6861,12 +6872,12 @@ msgstr "Droen yakin meujak boh haba berjudul '{0}' yang teungoh droen tuleh?"
 #: ../composer/mail-composer.error.xml.h:15
 msgid ""
 "Closing this composer window will discard the message permanently, unless "
-"you choose to save the message in your Drafts folder. This will allow you to"
-" continue the message at a later date."
+"you choose to save the message in your Drafts folder. This will allow you to "
+"continue the message at a later date."
 msgstr ""
-"Meunyo Droen pileh tombol \"Abaikan\", maka mandum tulesan Droen dalam email"
-" nyoe han akan di kirem dan akan di apoh. Meunyo Droen pileh \"Simpan Sebago"
-" Draf\", maka email nyoe akan disimpan dalam folder Draf jhet Droen lanjut "
+"Meunyo Droen pileh tombol \"Abaikan\", maka mandum tulesan Droen dalam email "
+"nyoe han akan di kirem dan akan di apoh. Meunyo Droen pileh \"Simpan Sebago "
+"Draf\", maka email nyoe akan disimpan dalam folder Draf jhet Droen lanjut "
 "bak kesempatan laen. Meunyo hana yakin, teugon tombol\"Batal\"."
 
 #. Response codes were chosen somewhat arbitrarily.
@@ -6883,8 +6894,7 @@ msgid "Could not create message."
 msgstr "Han jheut peuget haba."
 
 #: ../composer/mail-composer.error.xml.h:21
-msgid ""
-"Because &quot;{0}&quot;, you may need to select different mail options."
+msgid "Because &quot;{0}&quot;, you may need to select different mail options."
 msgstr "seubab &quot;{0}&quot;. Droen mungken perlee pileh surat yang beda."
 
 #: ../composer/mail-composer.error.xml.h:22
@@ -6913,8 +6923,8 @@ msgstr "Na error watee simpan keu folder Draft Droen."
 
 #: ../composer/mail-composer.error.xml.h:28
 msgid ""
-"The reported error was &quot;{0}&quot;. The message has most likely not been"
-" saved."
+"The reported error was &quot;{0}&quot;. The message has most likely not been "
+"saved."
 msgstr ""
 "Error yang di peugah &quot;{0}&quot;, Haba sangat jheut hana teusimpan."
 
@@ -6945,12 +6955,12 @@ msgstr "Simpan haba keu Outbox."
 #: ../composer/mail-composer.error.xml.h:35
 msgid ""
 "Because you are working offline, the message will be saved to your local "
-"Outbox folder. When you are back online you can send the message by clicking"
-" the Send/Receive button in Evolution's toolbar."
+"Outbox folder. When you are back online you can send the message by clicking "
+"the Send/Receive button in Evolution's toolbar."
 msgstr ""
 "Karena Droen kerja Offline, haba akan di simpan ke folder lokal outbox "
-"droen. Watee droen Online teuma droen jhet kirem haba ngon klik tombol "
-"Kirem/teurimong bak bilah perkakas Evolution."
+"droen. Watee droen Online teuma droen jhet kirem haba ngon klik tombol Kirem/"
+"teurimong bak bilah perkakas Evolution."
 
 #: ../data/evolution-alarm-notify.desktop.in.in.h:1
 msgid "Evolution Alarm Notify"
@@ -6998,11 +7008,10 @@ msgstr "Panyang pelengkapan otomatis"
 
 #: ../data/org.gnome.evolution.addressbook.gschema.xml.in.h:4
 msgid ""
-"The number of characters that must be typed before Evolution will attempt to"
-" autocomplete."
+"The number of characters that must be typed before Evolution will attempt to "
+"autocomplete."
 msgstr ""
-"Lee karakter yang harus iketik sigolom Evolution peuphon proses auto "
-"komplit."
+"Lee karakter yang harus iketik sigolom Evolution peuphon proses auto komplit."
 
 #: ../data/org.gnome.evolution.addressbook.gschema.xml.in.h:5
 msgid "Show autocompleted name with an address"
@@ -7118,10 +7127,12 @@ msgid "Birthday and anniversary reminder units"
 msgstr "Unit peuingat uroe lahee & perayaan"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:6
-msgid "Units for a birthday or anniversary reminder, \"minutes\", \"hours\" or \"days\""
+msgid ""
+"Units for a birthday or anniversary reminder, \"minutes\", \"hours\" or "
+"\"days\""
 msgstr ""
-"Satuan sebago peuingat uroe lahee ato perayaan tahunan, \"minutes\" "
-"(meunet), \"hours\" (jeum) ato \"days\" uroe"
+"Satuan sebago peuingat uroe lahee ato perayaan tahunan, \"minutes"
+"\" (meunet), \"hours\" (jeum) ato \"days\" uroe"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:7
 msgid "Compress weekends in month view"
@@ -7204,8 +7215,8 @@ msgid ""
 "Shows the second time zone in a Day View, if set. Value is similar to one "
 "used in a 'timezone' key"
 msgstr ""
-"Peuleumah zona watee kedua dalam tampilan Uroe, meunyoe di tata. Nilai lagee"
-" nyan di pakek dalam kunci 'timezone'"
+"Peuleumah zona watee kedua dalam tampilan Uroe, meunyoe di tata. Nilai lagee "
+"nyan di pakek dalam kunci 'timezone'"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:25
 msgid "Recently used second time zones in a Day View"
@@ -7242,7 +7253,8 @@ msgstr "Unit peuingat baku"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:32
 msgid "Units for a default reminder, \"minutes\", \"hours\" or \"days\""
-msgstr "Unit keu peuingat baku, \"minutes\"(menet),\"hours\"(jem),atawa\"days\"hari"
+msgstr ""
+"Unit keu peuingat baku, \"minutes\"(menet),\"hours\"(jem),atawa\"days\"hari"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:33
 msgid "Show categories field in the event/meeting/task editor"
@@ -7305,10 +7317,11 @@ msgid "Hide task units"
 msgstr "Peusom unit tugas"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:48
-msgid "Units for determining when to hide tasks, \"minutes\", \"hours\" or \"days\""
+msgid ""
+"Units for determining when to hide tasks, \"minutes\", \"hours\" or \"days\""
 msgstr ""
-"Unit untuk peutente pajan peusom tugah, "
-"\"minutes\"(menet),\"hours\"(jem)atawa\"days\"(uroe)"
+"Unit untuk peutente pajan peusom tugah, \"minutes\"(menet),\"hours"
+"\"(jem)atawa\"days\"(uroe)"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:49
 msgid "Hide task value"
@@ -7324,11 +7337,11 @@ msgstr "Posisi panel horisontal"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:52
 msgid ""
-"Position of the horizontal pane, between the date navigator calendar and the"
-" task list when not in the month view, in pixels"
+"Position of the horizontal pane, between the date navigator calendar and the "
+"task list when not in the month view, in pixels"
 msgstr ""
-"Posisi dari panel horisontal, antara kalender peunavigasi tanggai ngon dafta"
-" tugah ketika hana berada ngon peutampil bulen, lam piksel"
+"Posisi dari panel horisontal, antara kalender peunavigasi tanggai ngon dafta "
+"tugah ketika hana berada ngon peutampil bulen, lam piksel"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:53
 msgid "Last reminder time"
@@ -7351,8 +7364,7 @@ msgid "Marcus Bains Line Color - Time bar"
 msgstr "Warna gareh Marcus Bain - Kotak Watee"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:58
-msgid ""
-"Color to draw the Marcus Bains Line in the Time bar (empty for default)"
+msgid "Color to draw the Marcus Bains Line in the Time bar (empty for default)"
 msgstr "Warna keu meugamba Gareh Bains di batang Watee (nilai bawaan kosong)"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:59
@@ -7383,8 +7395,8 @@ msgid ""
 "list. \"1\" (Vertical View) places the preview pane next to the memo list"
 msgstr ""
 "Gaya tata letak peuteunte dipat peuduk panel tampilan bak dapeuta memo. "
-"\"0\" (tampilan Klasik) tempat panel tampilan di baroeh dapeuta memo. \"1\" "
-"(Tampilan Vertikal) tempat panel tampilan di sampeng dapeuta memo"
+"\"0\" (tampilan Klasik) tempat panel tampilan di baroeh dapeuta memo. "
+"\"1\" (Tampilan Vertikal) tempat panel tampilan di sampeng dapeuta memo"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:65
 msgid "Memo preview pane position (vertical)"
@@ -7447,8 +7459,8 @@ msgid ""
 "The UID of the selected (or \"primary\") calendar in the sidebar of the "
 "\"Calendar\" view"
 msgstr ""
-"UID dari kalender yang dipileh (ato \"primer\") bak bilah sisi dari tampilan"
-" \"kalender\""
+"UID dari kalender yang dipileh (ato \"primer\") bak bilah sisi dari tampilan "
+"\"kalender\""
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:79
 msgid "Primary memo list"
@@ -7484,8 +7496,8 @@ msgid ""
 "The URL template to use as a free/busy data fallback, %u is replaced by the "
 "user part of the mail address and %d is replaced by the domain"
 msgstr ""
-"URL template dipakek keu data panggil yang bebas/sibuk, %u igantoe le bagian"
-" alamat surat pengguna dan %d igantoe ngon domain"
+"URL template dipakek keu data panggil yang bebas/sibuk, %u igantoe le bagian "
+"alamat surat pengguna dan %d igantoe ngon domain"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:86
 msgid "Recurrent Events in Italic"
@@ -7494,8 +7506,7 @@ msgstr "Acara peulang dicetak singet"
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:87
 msgid "Show days with recurrent events in italic font in bottom left calendar"
 msgstr ""
-"Peutampil uroe ngon acara beulang lam fonta singet i kalender bagian kiri "
-"yup"
+"Peutampil uroe ngon acara beulang lam fonta singet i kalender bagian kiri yup"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:88
 msgid "Search range for time-based searching in years"
@@ -7504,11 +7515,11 @@ msgstr "Jangkauan peumita keu peumita berbasis watee lam thoen"
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:89
 msgid ""
 "How many years can the time-based search go forward or backward from "
-"currently selected day when searching for another occurrence; default is ten"
-" years"
+"currently selected day when searching for another occurrence; default is ten "
+"years"
 msgstr ""
-"Padum thon peumita berbasis watee meumita maju ato surot dari uroe yang jino"
-" dipileh watee mita kemucuan laen; nilai awai siploh thon"
+"Padum thon peumita berbasis watee meumita maju ato surot dari uroe yang jino "
+"dipileh watee mita kemucuan laen; nilai awai siploh thon"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:90
 msgid "Show appointment end times in week and month views"
@@ -7554,8 +7565,7 @@ msgstr "Sorot tugas yang harus seleso uroe nyoe"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:100
 msgid ""
-"Whether highlight tasks due today with a special color (task-due-today-"
-"color)"
+"Whether highlight tasks due today with a special color (task-due-today-color)"
 msgstr ""
 "Peu keuh sorot tugas yang mesti lheuh uroe nyoe ngon warna khusus (taks-due-"
 "today-color)"
@@ -7586,9 +7596,9 @@ msgid ""
 "the task list. \"0\" (Classic View) places the preview pane below the task "
 "list. \"1\" (Vertical View) places the preview pane next to the task list"
 msgstr ""
-"Gaya tata letak peuteunte dipat peuduk panel kaloen bak dapeuta tugas. \"0\""
-" (kaloen klasik) Peuduk panel kaloen di baroeh dapeuta tugas. \"1\" (kalon "
-"vertikal) peuduk panel kaloen diblah dapeuta tugas"
+"Gaya tata letak peuteunte dipat peuduk panel kaloen bak dapeuta tugas. "
+"\"0\" (kaloen klasik) Peuduk panel kaloen di baroeh dapeuta tugas. "
+"\"1\" (kalon vertikal) peuduk panel kaloen diblah dapeuta tugas"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:106
 msgid "Task preview pane position (vertical)"
@@ -7605,8 +7615,7 @@ msgstr "Sorot tugas yang teulat seleso"
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:109
 msgid ""
 "Whether highlight overdue tasks with a special color (task-overdue-color)"
-msgstr ""
-"Peukeuh sorot tugas yang teulat ngon warna khusus (task-overdue-color)"
+msgstr "Peukeuh sorot tugas yang teulat ngon warna khusus (task-overdue-color)"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:110
 msgid "Overdue tasks color"
@@ -7617,8 +7626,8 @@ msgid ""
 "Background color of tasks that are overdue, in \"#rrggbb\" format. Used "
 "together with task-overdue-highlight."
 msgstr ""
-"Warna layeu likot dari tugas yang teulat, dalam bentuk \"#rrggbb\". Di pakek"
-" ngon task-overdue-highlight."
+"Warna layeu likot dari tugas yang teulat, dalam bentuk \"#rrggbb\". Di pakek "
+"ngon task-overdue-highlight."
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:112
 msgid "Time divisions"
@@ -7638,16 +7647,15 @@ msgid ""
 "The default timezone to use for dates and times in the calendar, as an "
 "untranslated Olson timezone database location like \"America/New York\""
 msgstr ""
-"Timezone yang di pakek keu penanggalan dan watee kalender, lagee zona lokasi"
-" basis data watee Olsen yang hana di terjemahkan lagee \"America/New York\""
+"Timezone yang di pakek keu penanggalan dan watee kalender, lagee zona lokasi "
+"basis data watee Olsen yang hana di terjemahkan lagee \"America/New York\""
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:116
 msgid "Twenty four hour time format"
 msgstr "Bentuk dua ploh peut jeum"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:117
-msgid ""
-"Whether to show times in twenty four hour format instead of using am/pm"
+msgid "Whether to show times in twenty four hour format instead of using am/pm"
 msgstr "Peu keuh peuleumah watee dalam 24 jeum daripada am/pm"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:118
@@ -7672,8 +7680,7 @@ msgstr "Pakek zona watee sistem"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:123
 msgid "Use the system timezone instead of the timezone selected in Evolution"
-msgstr ""
-"Pakek zona watee sistem daripada zona watee yang di pileh bak Evolutio"
+msgstr "Pakek zona watee sistem daripada zona watee yang di pileh bak Evolutio"
 
 #: ../data/org.gnome.evolution.calendar.gschema.xml.in.h:124
 msgid "Week start"
@@ -7697,13 +7704,13 @@ msgstr "Versi Evolution seugohlom jih"
 
 #: ../data/org.gnome.evolution.gschema.xml.in.h:2
 msgid ""
-"The most recently used version of Evolution, expressed as "
-"\"major.minor.micro\". This is used for data and settings migration from "
-"older to newer versions."
+"The most recently used version of Evolution, expressed as \"major.minor.micro"
+"\". This is used for data and settings migration from older to newer "
+"versions."
 msgstr ""
-"Versi Evolution yang paleng akhee dipakek, di peugah sebago "
-"\"mayor.minor.mikro\". nyoe dipakek keu data ngon pengato megrasi dari versi"
-" awai keu versi leubeh baroe."
+"Versi Evolution yang paleng akhee dipakek, di peugah sebago \"mayor.minor."
+"mikro\". nyoe dipakek keu data ngon pengato megrasi dari versi awai keu "
+"versi leubeh baroe."
 
 #: ../data/org.gnome.evolution.gschema.xml.in.h:3
 msgid "List of disabled plugins"
@@ -7837,8 +7844,8 @@ msgid ""
 "The text that is inserted when replying to a message (top posting), saying "
 "that the original message follows"
 msgstr ""
-"Teks yang disisipkan watee jaweub pesan (top posting), yang menyatakan bahwa"
-" aleuh nyoe nakeuh pesan awai"
+"Teks yang disisipkan watee jaweub pesan (top posting), yang menyatakan bahwa "
+"aleuh nyoe nakeuh pesan awai"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:19
 msgid "Group Reply replies to list"
@@ -7946,8 +7953,8 @@ msgstr "Peuleumah ruas \"From\" wate kirem u newsgroup"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:38
 msgid ""
-"Show the \"From\" field when posting to a newsgroup. This is controlled from"
-" the View menu when a news account is chosen."
+"Show the \"From\" field when posting to a newsgroup. This is controlled from "
+"the View menu when a news account is chosen."
 msgstr ""
 "Peuleumah \"dari\" watee kirem keu saboh newsgroup. nyo dikendalikan dari "
 "meni Kaloen wate saboh akun news di pileh."
@@ -7973,8 +7980,8 @@ msgid ""
 "Automatically enable PGP or S/MIME signatures when replying to a message "
 "which is also PGP or S/MIME signed."
 msgstr ""
-"Secara otomatis fungsikan tanda tangan PGP ato S/MIME wate jaweub pesan yang"
-" ditandatangani PGP ato S/MIME."
+"Secara otomatis fungsikan tanda tangan PGP ato S/MIME wate jaweub pesan yang "
+"ditandatangani PGP ato S/MIME."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:43
 msgid "Encode filenames in an Outlook/GMail way"
@@ -7988,9 +7995,9 @@ msgid ""
 "standard."
 msgstr ""
 "Mengkode nan berkas bak ulee email lagee yang di peuget Outlook ato Gmail, "
-"keu biarkan awak nyan peuleumah ngon beutoi nan berkas ngon huruf UTF-8 yang"
-" di kirem oleh Evolution, karena awak nyan hana turi RFC 2231, tapi pakek "
-"RFC 2047 yang salah"
+"keu biarkan awak nyan peuleumah ngon beutoi nan berkas ngon huruf UTF-8 yang "
+"di kirem oleh Evolution, karena awak nyan hana turi RFC 2231, tapi pakek RFC "
+"2047 yang salah"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:45
 msgid "Put personalized signatures at the top of replies"
@@ -8002,8 +8009,8 @@ msgid ""
 "to a message. This determines whether the signature is placed at the top of "
 "the message or the bottom."
 msgstr ""
-"Peungguna jhet pileh di pat tanda tangan harus di peuduk watee jaweeb pesan."
-" nyo peuteunte peu keuh tanda tangan di peuduk di pucok pesan ato di dasar."
+"Peungguna jhet pileh di pat tanda tangan harus di peuduk watee jaweeb pesan. "
+"nyo peuteunte peu keuh tanda tangan di peuduk di pucok pesan ato di dasar."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:47
 msgid "Do not add signature delimiter"
@@ -8027,12 +8034,12 @@ msgid ""
 "replies to the list, even when they ask Evolution to make a private reply. "
 "Setting this option to TRUE will attempt to ignore such Reply-To: headers, "
 "so that Evolution will do as you ask it. If you use the private reply "
-"action, it will reply privately, while if you use the 'Reply to List' action"
-" it will do that. It works by comparing the Reply-To: header with a List-"
+"action, it will reply privately, while if you use the 'Reply to List' action "
+"it will do that. It works by comparing the Reply-To: header with a List-"
 "Post: header, if there is one."
 msgstr ""
-"Padup-padup milis geu atoe tajuk Reply-To: header keu geu taki pengguna jeut"
-" geu kirem jaweuban keu milis, bah pih awak nyan geu lake Evolution keu geu "
+"Padup-padup milis geu atoe tajuk Reply-To: header keu geu taki pengguna jeut "
+"geu kirem jaweuban keu milis, bah pih awak nyan geu lake Evolution keu geu "
 "peuget jaweuban keudroe. Geu atoe opsi nyo keu TRUE keumeung ci han peuduli "
 "tajuk Reply-To: headers, jadi Evolution akan i peuget peu nyang Dren lake. "
 "Menyo Dren neu pakek aksi jaweuban privat, jih i jaweub secara privat. nyo "
@@ -8100,20 +8107,20 @@ msgid ""
 "Enable this to use Space bar key to scroll in message preview, message list "
 "and folders."
 msgstr ""
-"Peuaktif nyo keu tombol spasi keu scroll dalam teumpat kaloen pesan, dapeuta"
-" pesan, ngen berkas."
+"Peuaktif nyo keu tombol spasi keu scroll dalam teumpat kaloen pesan, dapeuta "
+"pesan, ngen berkas."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:63
 msgid "Enable to use a similar message list view settings for all folders"
 msgstr ""
-"Peuaktef untok pakek pengaturan tilikan daftar peusan nyang sama bagi mandum"
-" folder"
+"Peuaktef untok pakek pengaturan tilikan daftar peusan nyang sama bagi mandum "
+"folder"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:64
 msgid "Enable to use a similar message list view settings for all folders."
 msgstr ""
-"Peuaktef untok pakek pengaturan tilikan daftar peusan nyang sama bagi mandum"
-" folder."
+"Peuaktef untok pakek pengaturan tilikan daftar peusan nyang sama bagi mandum "
+"folder."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:65
 msgid "Mark citations in the message \"Preview\""
@@ -8157,8 +8164,8 @@ msgid ""
 "Never load images off the net. \"1\" - Load images in messages from "
 "contacts. \"2\" - Always load images off the net."
 msgstr ""
-"pasoe gamba keu pesan HTML roat HTTP(s). Nilai nyang mungken adalah "
-"\"0\"-Hantoem ipasoe gamba dari jaringan. \"1\"-Pasoe gamba bak pesan dari "
+"pasoe gamba keu pesan HTML roat HTTP(s). Nilai nyang mungken adalah \"0\"-"
+"Hantoem ipasoe gamba dari jaringan. \"1\"-Pasoe gamba bak pesan dari "
 "kontak . \"2\"-Sabee-sabee pasoe gamba dari jaringan."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:75
@@ -8184,12 +8191,12 @@ msgstr "Daftar judol custom dan peukeuh nyan ipeuaktef."
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:80
 msgid ""
 "This key should contain a list of XML structures specifying custom headers, "
-"and whether they are to be displayed. The format of the XML structure is "
-"&lt;header enabled&gt; - set enabled if the header is to be displayed in the"
-" mail view."
+"and whether they are to be displayed. The format of the XML structure is &lt;"
+"header enabled&gt; - set enabled if the header is to be displayed in the "
+"mail view."
 msgstr ""
-"Kunci nyoe harus na saboh dapeuta struktur XML yang peuteuntee judul custom,"
-" dan peukeuh dipeuleumah. Format struktur XML joh nyan keuh &it; judul di "
+"Kunci nyoe harus na saboh dapeuta struktur XML yang peuteuntee judul custom, "
+"dan peukeuh dipeuleumah. Format struktur XML joh nyan keuh &it; judul di "
 "peuudep&gt; - peu udep meunyoe judul di peuleumah bak surat"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:81
@@ -8268,8 +8275,8 @@ msgid ""
 "Enable Unmatched search folder within Search Folders. It does nothing if "
 "Search Folders are disabled."
 msgstr ""
-"Peuaktif berkas pencarian Hana Cocok Berkas Pencarian. Nyo han ipeuget sapeu"
-" menyo Berkas Pencarian ipeunonaktif."
+"Peuaktif berkas pencarian Hana Cocok Berkas Pencarian. Nyo han ipeuget sapeu "
+"menyo Berkas Pencarian ipeunonaktif."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:97
 msgid "Hides the per-folder preview and removes the selection"
@@ -8277,8 +8284,8 @@ msgstr "Peusom pratilik per folder ngon sampoh pilihan"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:98
 msgid ""
-"This key is read only once and reset to \"false\" after read. This unselects"
-" the mail in the list and removes the preview for that folder."
+"This key is read only once and reset to \"false\" after read. This unselects "
+"the mail in the list and removes the preview for that folder."
 msgstr ""
 "Kunci nyo ibaca sigoe tok ngen direset keu \"false\" ohleuh dibaca. Nyo "
 "ipeubatal pilehan bak surat bak dapeuta ngen i hapus kaloen keu berkas nyan."
@@ -8322,9 +8329,9 @@ msgid ""
 "message list. \"1\" (Vertical View) places the preview pane next to the "
 "message list."
 msgstr ""
-"Gaya tata letak peuteunte dipat panel peuleumah bak dapeuta pesan. \"0\" "
-"(peuleumah klasik) peuduk panel peuleumah di baroeh dapueta pesan. \"1\" "
-"(peuleumah vertikal) peuduk panel peuleumh disampeng dapeuta pesan."
+"Gaya tata letak peuteunte dipat panel peuleumah bak dapeuta pesan. "
+"\"0\" (peuleumah klasik) peuduk panel peuleumah di baroeh dapueta pesan. "
+"\"1\" (peuleumah vertikal) peuduk panel peuleumh disampeng dapeuta pesan."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:107
 msgid "Variable width font"
@@ -8410,8 +8417,8 @@ msgid ""
 "restart."
 msgstr ""
 "Pengato nyo peugah peukeuh thread mesti di peu urot berdasarkan pesan "
-"keuneuhlheuh bak tiep thread, kon berdasarkan tanggai pesan. Evolution perle"
-" di jalankan ulang."
+"keuneuhlheuh bak tiep thread, kon berdasarkan tanggai pesan. Evolution perle "
+"di jalankan ulang."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:123
 msgid "Sort accounts alphabetically in a folder tree"
@@ -8419,10 +8426,10 @@ msgstr "Urutkan akun seucara alfabetis lam bak folder"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:124
 msgid ""
-"Tells how to sort accounts in a folder tree used in a Mail view. When set to"
-" true accounts are sorted alphabetically, with an exception of On This "
-"Computer and Search folders, otherwise accounts are sorted based on an order"
-" given by a user"
+"Tells how to sort accounts in a folder tree used in a Mail view. When set to "
+"true accounts are sorted alphabetically, with an exception of On This "
+"Computer and Search folders, otherwise accounts are sorted based on an order "
+"given by a user"
 msgstr ""
 "Bri thee kiban peu urot akun dalam tree folder yang di pakek dalam tampilan "
 "email. Wate di ato ulang ke true, akun di peu urot secara alfabet, ngon "
@@ -8496,8 +8503,8 @@ msgstr ""
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:139
 msgid ""
-"It disables/enables the repeated prompts to warn that you are trying to send"
-" a message to recipients not entered as mail addresses"
+"It disables/enables the repeated prompts to warn that you are trying to send "
+"a message to recipients not entered as mail addresses"
 msgstr ""
 "Nyo peumatee/peuudep tampilan meuulang yang dipeugah bahwa dreun mencoba "
 "kirem sesuatu pesan u penerima yang hana dipeutameng sebagai alamat surat."
@@ -8519,8 +8526,8 @@ msgid ""
 "Prompt when user tries to send HTML mail to recipients that may not want to "
 "receive HTML mail."
 msgstr ""
-"Konfirmasi watee user keuneuk kirim surat lam HTML padahai alamat tujuan han"
-" ditem terimeng surat lam HTML."
+"Konfirmasi watee user keuneuk kirim surat lam HTML padahai alamat tujuan han "
+"ditem terimeng surat lam HTML."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:144
 msgid "Prompt when user tries to open 10 or more messages at once"
@@ -8548,19 +8555,19 @@ msgstr "Konfirmasi wate sampoh peusan lam folder pencarian"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:149
 msgid ""
-"It disables/enables the repeated prompts to warn that deleting messages from"
-" a search folder permanently deletes the message, not simply removing it "
-"from the search results."
+"It disables/enables the repeated prompts to warn that deleting messages from "
+"a search folder permanently deletes the message, not simply removing it from "
+"the search results."
 msgstr ""
-"Nyo peumatee/peuudep tampilan berulang yang dipeugah bahwa sampoh pesan dari"
-" folder yang yang dimita sampoh pesan secara permanen, keun sekedar peugadeh"
-" dari hasil dimita. "
+"Nyo peumatee/peuudep tampilan berulang yang dipeugah bahwa sampoh pesan dari "
+"folder yang yang dimita sampoh pesan secara permanen, keun sekedar peugadeh "
+"dari hasil dimita. "
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:150
 msgid "Asks whether to copy a folder by drag &amp; drop in the folder tree"
 msgstr ""
-"Tanyeng peukeuh keuneuk menyalin suatu folder ngeun seret  &amp; peurhet lam"
-" folder pohon."
+"Tanyeng peukeuh keuneuk menyalin suatu folder ngeun seret  &amp; peurhet lam "
+"folder pohon."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:151
 msgid ""
@@ -8588,8 +8595,8 @@ msgid ""
 "ask user."
 msgstr ""
 "Nilai yang mungken: \"never\" -bek izinkan pinah ngeun seret &amp; peurhet "
-"fordel lam pohon folder; \"always\" -izinkan pinah ngeun seret &amp; peurhet"
-" folder lam pohon folder tanpa tanyeng, atau \"ask\"-(atau sebarang nilai "
+"fordel lam pohon folder; \"always\" -izinkan pinah ngeun seret &amp; peurhet "
+"folder lam pohon folder tanpa tanyeng, atau \"ask\"-(atau sebarang nilai "
 "laen) akan tanyeng ke peuguna."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:154
@@ -8610,13 +8617,13 @@ msgstr "Konfirmasi watee mailing list bajak balsan pribadi"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:157
 msgid ""
-"It disables/enables the repeated prompts to warn that you are trying sending"
-" a private reply to a message which arrived via a mailing list, but the list"
-" sets a Reply-To: header which redirects your reply back to the list"
+"It disables/enables the repeated prompts to warn that you are trying sending "
+"a private reply to a message which arrived via a mailing list, but the list "
+"sets a Reply-To: header which redirects your reply back to the list"
 msgstr ""
 "Nyo peumatee/peu udep tampilan meulang yang peuingat bahwa droen cuba kirem "
-"jawaban privat ke sabon pesan yang trok melalui milis, tapi list suson "
-"Relpy-To: yang alihkan jawaban droen balek keu list"
+"jawaban privat ke sabon pesan yang trok melalui milis, tapi list suson Relpy-"
+"To: yang alihkan jawaban droen balek keu list"
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:158
 msgid "Prompt when replying to many recipients"
@@ -8643,9 +8650,9 @@ msgid ""
 "Possible values are: 'never' - to never close browser window, 'always' - to "
 "always close browser window or 'ask' - (or any other value) will ask user."
 msgstr ""
-"Nilai yang mungken: 'never' - hana tom top window peramban. 'always' - sabee"
-" top window peramban, ato 'ask' - (ato meugapeu nilai laen) akan tanyoeng "
-"keu pengguna."
+"Nilai yang mungken: 'never' - hana tom top window peramban. 'always' - sabee "
+"top window peramban, ato 'ask' - (ato meugapeu nilai laen) akan tanyoeng keu "
+"pengguna."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:162
 msgid "Empty Trash folders on exit"
@@ -8687,8 +8694,8 @@ msgid ""
 "This can have three possible values. \"0\" for errors. \"1\" for warnings. "
 "\"2\" for debug messages."
 msgstr ""
-"Na lhee nilai yang mungken. \"0\" keu error. \"1\" keu peringatan. \"2\" keu"
-" pesan debug."
+"Na lhee nilai yang mungken. \"0\" keu error. \"1\" keu peringatan. \"2\" keu "
+"pesan debug."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:171
 msgid "Show original \"Date\" header value."
@@ -8760,9 +8767,9 @@ msgid ""
 "enabled. If the default listed plugin is disabled, then it won't fall back "
 "to the other available plugins."
 msgstr ""
-"Nyo adalah pligin bawaan spam, walaupun na padup boeh plugin yang dipeuudep."
-" menye plugin teudaftar bawaan dipeumatee, maka nyo han le beralih u "
-"cadangan u plugin laen yang tersedia."
+"Nyo adalah pligin bawaan spam, walaupun na padup boeh plugin yang dipeuudep. "
+"menye plugin teudaftar bawaan dipeumatee, maka nyo han le beralih u cadangan "
+"u plugin laen yang tersedia."
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:185
 msgid "Determines whether to lookup in address book for sender email"
@@ -8789,8 +8796,8 @@ msgstr "Peukeuh kaloen alamat keu penyarengan broh cuma bak buku alamat lokal"
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:188
 msgid ""
 "This option is related to the key lookup_addressbook and is used to "
-"determine whether to look up addresses in local address book only to exclude"
-" mail sent by known contacts from junk filtering."
+"determine whether to look up addresses in local address book only to exclude "
+"mail sent by known contacts from junk filtering."
 msgstr ""
 "Opsi nyoe berhubungan ngon kunci lookup_assressbook dan di pakek keu "
 "peuteunte peukeuh mita alamat cuma bak buku alamat lokal keu mengecualikan "
@@ -8807,8 +8814,8 @@ msgid ""
 "checking speed."
 msgstr ""
 "Peukeuh pakek bak ulee pengato keu periksa spam. Meunyoe opsi nyoe di peu "
-"udep dan mandum ulee di sebutkan, nyoe akan meningkatkan kecepatan pengujian"
-" spam. "
+"udep dan mandum ulee di sebutkan, nyoe akan meningkatkan kecepatan pengujian "
+"spam. "
 
 #: ../data/org.gnome.evolution.mail.gschema.xml.in.h:191
 msgid "Custom headers to use while checking for junk."
@@ -8877,8 +8884,8 @@ msgid ""
 "Controls how frequently local changes are synchronized with the remote mail "
 "server. The interval must be at least 30 seconds."
 msgstr ""
-"Keundalikan kiban sereng peubahan lokal diselaraskan ngon server surat jioh."
-" Interval paleng han 30 deutik."
+"Keundalikan kiban sereng peubahan lokal diselaraskan ngon server surat jioh. "
+"Interval paleng han 30 deutik."
 
 #. Translators: This is the a list of words for the attach reminder plugin to
 #. look
@@ -8937,8 +8944,7 @@ msgstr "Sumber buku alamat Pidgin"
 msgid ""
 "Address book to use for storing automatically synced contacts from Pidgin."
 msgstr ""
-"Buku alamat yang dipakek keu simpan kontak otomatis diselaraskan dari "
-"pidgin."
+"Buku alamat yang dipakek keu simpan kontak otomatis diselaraskan dari pidgin."
 
 #: ../data/org.gnome.evolution.plugin.autocontacts.gschema.xml.in.h:9
 msgid "Pidgin check interval"
@@ -8970,13 +8976,13 @@ msgstr "Daftar Tajuk Ubahan"
 
 #: ../data/org.gnome.evolution.plugin.email-custom-header.gschema.xml.in.h:2
 msgid ""
-"The key specifies the list of custom headers that you can add to an outgoing"
-" message. The format for specifying a Header and Header value is: Name of "
-"the custom header followed by \"=\" and the values separated by \";\""
+"The key specifies the list of custom headers that you can add to an outgoing "
+"message. The format for specifying a Header and Header value is: Name of the "
+"custom header followed by \"=\" and the values separated by \";\""
 msgstr ""
 "Kunci nyoe peugah dapeuta dari ulee ubahan yang jhet droen tamah keu pesan "
-"teubit. Format keu peugah saboh Ulee dan nilai Ulee nyan keuh: Nan dari ulee"
-" ubahan ngon  \"=\" dan nilai-nilai dipisah ngon \";\""
+"teubit. Format keu peugah saboh Ulee dan nilai Ulee nyan keuh: Nan dari ulee "
+"ubahan ngon  \"=\" dan nilai-nilai dipisah ngon \";\""
 
 #: ../data/org.gnome.evolution.plugin.external-editor.gschema.xml.in.h:1
 msgid "Default External Editor"
@@ -9057,12 +9063,12 @@ msgstr "Peuaktef notifikasi su wate peusan baro ka troh."
 #: ../data/org.gnome.evolution.plugin.mail-notification.gschema.xml.in.h:10
 msgid ""
 "Whether to make a sound of any kind when new messages arrive. If \"false\", "
-"the \"notify-sound-beep\", \"notify-sound-file\", \"notify-sound-play-file\""
-" and \"notify-sound-use-theme\" keys are disregarded."
+"the \"notify-sound-beep\", \"notify-sound-file\", \"notify-sound-play-file\" "
+"and \"notify-sound-use-theme\" keys are disregarded."
 msgstr ""
 "Peukeuh peuget su peu mantong watee trok pesan baroe. meunyoe \"false\", "
-"kunci-kunci \"notify-sound-beep\",\"notify-sound-file\",\"notify-use-theme\""
-" abaikan."
+"kunci-kunci \"notify-sound-beep\",\"notify-sound-file\",\"notify-use-theme\" "
+"abaikan."
 
 #: ../data/org.gnome.evolution.plugin.mail-notification.gschema.xml.in.h:11
 msgid "Whether to emit a beep."
@@ -9078,8 +9084,8 @@ msgstr "Nan File Audia yang neuk diputa"
 
 #: ../data/org.gnome.evolution.plugin.mail-notification.gschema.xml.in.h:14
 msgid ""
-"Sound file to be played when new messages arrive, if \"notify-sound-play-"
-"file\" is \"true\"."
+"Sound file to be played when new messages arrive, if \"notify-sound-play-file"
+"\" is \"true\"."
 msgstr ""
 "Berkas sue yang akan diputa watee pesan baro troek, menye \"notify-sound-"
 "play-file\" meuaso \"true\"."
@@ -9090,8 +9096,8 @@ msgstr "Peukeuh meumaen berkas sue."
 
 #: ../data/org.gnome.evolution.plugin.mail-notification.gschema.xml.in.h:16
 msgid ""
-"Whether to play a sound file when new messages arrive. The name of the sound"
-" file is given by the 'notify-sound-file' key."
+"Whether to play a sound file when new messages arrive. The name of the sound "
+"file is given by the 'notify-sound-file' key."
 msgstr ""
 "Peukeuh meumuta berkas sue watee na pesan baro. Nan dari berkas sue dibre "
 "oleh kunci 'notify-sound-file'."
@@ -9115,8 +9121,8 @@ msgid ""
 "and \"only_plain\" forces Evolution to only show plain text"
 msgstr ""
 "Mode keu pakek peuleumah email. \"normal\" peuget Evolution pileh bagian "
-"paleng get yang meujak peuleumah, \"prefer_plain\" peuget pakek bagian teks,"
-" meunyoe na, dan \"only_plain\" paksa Evolution cuma peuleumah teks polos"
+"paleng get yang meujak peuleumah, \"prefer_plain\" peuget pakek bagian teks, "
+"meunyoe na, dan \"only_plain\" paksa Evolution cuma peuleumah teks polos"
 
 #: ../data/org.gnome.evolution.plugin.prefer-plain.gschema.xml.in.h:3
 msgid "Whether to show suppressed HTML output"
@@ -9176,8 +9182,7 @@ msgid "Start in offline mode"
 msgstr "Mulai lam modus offline"
 
 #: ../data/org.gnome.evolution.shell.gschema.xml.in.h:8
-msgid ""
-"Whether Evolution will start up in offline mode instead of online mode."
+msgid "Whether Evolution will start up in offline mode instead of online mode."
 msgstr "Peuteunte kondisi offline ato online watee Evolution di mulai."
 
 #: ../data/org.gnome.evolution.shell.gschema.xml.in.h:9
@@ -9280,7 +9285,6 @@ msgid "Attachment"
 msgid_plural "Attachments"
 msgstr[0] "Lampiran"
 msgstr[1] "Lampiran"
-msgstr[2] "Lampiran"
 
 #: ../em-format/e-mail-formatter-attachment.c:365
 msgid "Display as attachment"
@@ -9442,8 +9446,7 @@ msgstr "hana Ditandatangani"
 msgid ""
 "This message is not signed. There is no guarantee that this message is "
 "authentic."
-msgstr ""
-"Pesan nyoe hana ditandatangan. Keabsahan asoe pesan nyoe hana dijamin."
+msgstr "Pesan nyoe hana ditandatangan. Keabsahan asoe pesan nyoe hana dijamin."
 
 #: ../em-format/e-mail-formatter-secure-button.c:53
 msgid "Valid signature"
@@ -9451,8 +9454,8 @@ msgstr "Tanda Tangan sah"
 
 #: ../em-format/e-mail-formatter-secure-button.c:53
 msgid ""
-"This message is signed and is valid meaning that it is very likely that this"
-" message is authentic."
+"This message is signed and is valid meaning that it is very likely that this "
+"message is authentic."
 msgstr ""
 "Pesan nyoe ditandatangani dan sah, arti jih pesan nyoe betoi-betoi di kirem "
 "oleh ureung nyoe."
@@ -9475,8 +9478,8 @@ msgstr "Tanda tangan betoi, tapi hanjuet verifikasi pengirim"
 
 #: ../em-format/e-mail-formatter-secure-button.c:55
 msgid ""
-"This message is signed with a valid signature, but the sender of the message"
-" cannot be verified."
+"This message is signed with a valid signature, but the sender of the message "
+"cannot be verified."
 msgstr ""
 "Pesan nyoe ditandatangani ngon tanda tangan yang sah, tapi peungirem pesan "
 "nyoe han jheut diverifikasi."
@@ -9509,8 +9512,8 @@ msgstr "Enkripsi leumoh"
 
 #: ../em-format/e-mail-formatter-secure-button.c:64
 msgid ""
-"This message is encrypted, but with a weak encryption algorithm. It would be"
-" difficult, but not impossible for an outsider to view the content of this "
+"This message is encrypted, but with a weak encryption algorithm. It would be "
+"difficult, but not impossible for an outsider to view the content of this "
 "message in a practical amount of time."
 msgstr ""
 "Pesan nyoe dienkripsi, ngon algoritma pengacakan yang leumoh. Sulet, tapi "
@@ -9857,7 +9860,8 @@ msgstr "pileh Zona Watee"
 
 #: ../e-util/e-timezone-dialog.ui.h:2
 msgid ""
-"Use the left mouse button to zoom in on an area of the map and select a time zone.\n"
+"Use the left mouse button to zoom in on an area of the map and select a time "
+"zone.\n"
 "Use the right mouse button to zoom out."
 msgstr ""
 "Pakek tombol blah wie mouse keu peu rayeuk area bak peta dan pileh zoan "
@@ -10785,8 +10789,8 @@ msgstr "Teubit"
 
 #: ../e-util/e-import-assistant.c:256
 msgid ""
-"Choose the file that you want to import into Evolution, and select what type"
-" of file it is from the list."
+"Choose the file that you want to import into Evolution, and select what type "
+"of file it is from the list."
 msgstr "Pileh file yang meujak di impor ke dalam Evolution"
 
 #: ../e-util/e-import-assistant.c:283
@@ -10864,7 +10868,8 @@ msgstr "Impor dari Lokasi"
 #: ../e-util/e-import-assistant.c:1310
 msgid ""
 "Welcome to the Evolution Import Assistant.\n"
-"With this assistant you will be guided through the process of importing external files into Evolution."
+"With this assistant you will be guided through the process of importing "
+"external files into Evolution."
 msgstr ""
 "Selamat datang bak Program Bantu Impor Evolution. Ngon program noe Droen "
 "akan di pandu dalam meungimpor berkas-berkas eksternal keu dalam Evolution."
@@ -11218,8 +11223,7 @@ msgstr "Berkas nan \"{0}\" kana. Keuneuk timpa nyo?"
 
 #: ../e-util/e-system.error.xml.h:2
 msgid ""
-"The file already exists in \"{0}\". Replacing it will overwrite its "
-"contents."
+"The file already exists in \"{0}\". Replacing it will overwrite its contents."
 msgstr "Berkas kana lam \"{0}\". Meunye neuganto akan menimpa aso jih."
 
 #: ../e-util/e-system.error.xml.h:3
@@ -11349,8 +11353,8 @@ msgid ""
 "To add a column to your table, drag it into\n"
 "the location in which you want it to appear."
 msgstr ""
-"Keu tamah kolom dalam label, cok kolom yang diinginkan dan peuduk bak lokasi"
-" yang Droen inginkan."
+"Keu tamah kolom dalam label, cok kolom yang diinginkan dan peuduk bak lokasi "
+"yang Droen inginkan."
 
 #: ../e-util/e-table-group-container.c:364
 #, c-format
@@ -11648,8 +11652,7 @@ msgid "OAuth2"
 msgstr "OAuth2"
 
 #: ../libemail-engine/camel-sasl-xoauth2.c:28
-msgid ""
-"This option will use an OAuth 2.0 access token to connect to the server"
+msgid "This option will use an OAuth 2.0 access token to connect to the server"
 msgstr "Opsi nyo akan pakek akses OAuth 2.0 keu menyambong ke server"
 
 #: ../libemail-engine/e-mail-authenticator.c:182
@@ -11793,8 +11796,7 @@ msgstr "Hana di jok alamat tujuan, penerusan pesan ka di peu batal."
 
 #: ../libemail-engine/e-mail-session.c:1660
 #, c-format
-msgid ""
-"No identity found to use, forwarding of the message has been cancelled."
+msgid "No identity found to use, forwarding of the message has been cancelled."
 msgstr "Hana di teume identitas keu di pakek, pesan batal di teruskan."
 
 #: ../libemail-engine/e-mail-store-utils.c:171
@@ -11824,11 +11826,13 @@ msgstr "Sarengan Pesan yang di pileh"
 #: ../libemail-engine/mail-ops.c:152
 #, c-format
 msgid ""
-"Failed to filter selected messages. One reason can be that folder location set in one or more filters is invalid. Please check your filters in Edit->Message Filters.\n"
+"Failed to filter selected messages. One reason can be that folder location "
+"set in one or more filters is invalid. Please check your filters in Edit-"
+">Message Filters.\n"
 "Original error was: %s"
 msgstr ""
-"Gagal sareng pesan yang di pileh. Saboh alasan jhet karna lokasi folder yang"
-" ditata bak saboh ato leubeh penyareng hana sah. Harap peuriksa penyareng "
+"Gagal sareng pesan yang di pileh. Saboh alasan jhet karna lokasi folder yang "
+"ditata bak saboh ato leubeh penyareng hana sah. Harap peuriksa penyareng "
 "Droen dalam Sunting->Penyareng Pesan. Error Asli: %s"
 
 #: ../libemail-engine/mail-ops.c:233
@@ -11839,7 +11843,9 @@ msgstr "Cok surat dari '%s'"
 #: ../libemail-engine/mail-ops.c:714
 #, c-format
 msgid ""
-"Failed to apply outgoing filters. One reason can be that folder location set in one or more filters is invalid. Please check your filters in Edit->Message Filters.\n"
+"Failed to apply outgoing filters. One reason can be that folder location set "
+"in one or more filters is invalid. Please check your filters in Edit-"
+">Message Filters.\n"
 "Original error was: %s"
 msgstr ""
 "Error terapkan sarengan teubit. Saboh alasan bisa jadi karna lokasi folder "
@@ -11933,7 +11939,8 @@ msgstr "Memutakhirkan Folder Pencarian keu '%s' - %s"
 #: ../libemail-engine/mail-vfolder.c:646
 #, c-format
 msgid ""
-"The Search Folder \"%s\" has been modified to account for the deleted folder\n"
+"The Search Folder \"%s\" has been modified to account for the deleted "
+"folder\n"
 "\"%s\"."
 msgid_plural ""
 "The following Search Folders\n"
@@ -12113,9 +12120,9 @@ msgid ""
 "below do not need to be filled in, unless you wish to include this "
 "information in email you send."
 msgstr ""
-"Peu tamong nan ngon alamat surat Droen di baroeh nyoe. Bak kolom "
-"\"tambahan\", Droen hana perle pasoe  secara lengkap, kecuali meunyoe meujak"
-" sertakan informasi nyan bak pesan yang Droen kirem."
+"Peu tamong nan ngon alamat surat Droen di baroeh nyoe. Bak kolom \"tambahan"
+"\", Droen hana perle pasoe  secara lengkap, kecuali meunyoe meujak sertakan "
+"informasi nyan bak pesan yang Droen kirem."
 
 #: ../mail/e-mail-config-identity-page.c:294
 #: ../mail/e-mail-config-summary-page.c:324
@@ -12128,8 +12135,8 @@ msgid ""
 "Type the name by which you would like to refer to this account.\n"
 "For example, \"Work\" or \"Personal\"."
 msgstr ""
-"Keutik nan yang meujak Droen pakek keu mangacu bak akun nyoe. Misal: "
-"\"Kanto\" ato \"Rumoh\""
+"Keutik nan yang meujak Droen pakek keu mangacu bak akun nyoe. Misal: \"Kanto"
+"\" ato \"Rumoh\""
 
 #: ../mail/e-mail-config-identity-page.c:348
 msgid "Required Information"
@@ -12192,8 +12199,7 @@ msgstr "Umom"
 
 #: ../mail/e-mail-config-security-page.c:268
 msgid "_Do not sign meeting requests (for Outlook compatibility)"
-msgstr ""
-"Bek tan_da tangan usulan pertemuan(supaya han jeut i baca bak Outlook)"
+msgstr "Bek tan_da tangan usulan pertemuan(supaya han jeut i baca bak Outlook)"
 
 #: ../mail/e-mail-config-security-page.c:290
 msgid "Pretty Good Privacy (OpenPGP)"
@@ -12450,7 +12456,7 @@ msgstr "Ci pileh folder"
 #: ../mail/e-mail-printer.c:149
 #, c-format
 msgid "Page %d of %d"
-msgstr "Halaman %D dari %d"
+msgstr "Pn %d dari %d"
 
 #: ../mail/e-mail-printer.c:474
 #: ../modules/calendar/e-cal-shell-view-actions.c:216
@@ -13148,8 +13154,8 @@ msgid ""
 "On ${AbbrevWeekdayName}, ${Year}-${Month}-${Day} at ${24Hour}:${Minute} "
 "${TimeZone}, ${Sender} wrote:"
 msgstr ""
-"Bak uroe ${WeekdayName}, tanggai ${Day}/${Month}/${Year}, poh "
-"$${24Hour}:${Minute} ${TimeZone}, ${Sender} geutuleh:"
+"Bak uroe ${WeekdayName}, tanggai ${Day}/${Month}/${Year}, poh $${24Hour}:"
+"${Minute} ${TimeZone}, ${Sender} geutuleh:"
 
 #: ../mail/em-composer-utils.c:1356
 msgid "-------- Forwarded Message --------"
@@ -13798,8 +13804,10 @@ msgid_plural ""
 "The following filter rules\n"
 "%s have been modified to account for the deleted folder\n"
 "\"%s\"."
-msgstr[0] "Aturan sarengan \"%s\" ka di ubah keu itong folder yang di apoh \"%s\"."
-msgstr[1] "Aturan sarengan jino \"%s\" ka di ubah keu itong folder yang di apoh \"%s\"."
+msgstr[0] ""
+"Aturan sarengan \"%s\" ka di ubah keu itong folder yang di apoh \"%s\"."
+msgstr[1] ""
+"Aturan sarengan jino \"%s\" ka di ubah keu itong folder yang di apoh \"%s\"."
 
 #: ../mail/mail-config.ui.h:1
 msgid "Set custom junk header"
@@ -13876,8 +13884,8 @@ msgstr "Jawaban grup cuma dikirem ke milis, meunyoe mungken"
 #: ../mail/mail-config.ui.h:18
 msgid "Digitally _sign messages when original message signed (PGP or S/MIME)"
 msgstr ""
-"Tandatangani pesan secara digital wate pesan asli ditandatangani (PGP ato "
-"S/MIME)"
+"Tandatangani pesan secara digital wate pesan asli ditandatangani (PGP ato S/"
+"MIME)"
 
 #: ../mail/mail-config.ui.h:20
 msgid "Sig_natures"
@@ -14126,8 +14134,7 @@ msgstr "_Peuleumah gamba bergerak"
 #: ../mail/mail-config.ui.h:89
 msgid "_Prompt on sending HTML mail to contacts that do not want them"
 msgstr ""
-"_Lakee konfirmasi watee hendak kirem surel HTML u kotak yang han neu "
-"inginkan"
+"_Lakee konfirmasi watee hendak kirem surel HTML u kotak yang han neu inginkan"
 
 #: ../mail/mail-config.ui.h:90
 msgid "Loading Images"
@@ -14222,8 +14229,8 @@ msgid ""
 "The messages you have selected for follow up are listed below.\n"
 "Please select a follow up action from the \"Flag\" menu."
 msgstr ""
-"Email-email yang dipileh keu ditindaklanjuti nyan keuh sebago berikut. Pileh"
-" tindakan yang Droen meujak peuget dari menu \"Tandai\"."
+"Email-email yang dipileh keu ditindaklanjuti nyan keuh sebago berikut. Pileh "
+"tindakan yang Droen meujak peuget dari menu \"Tandai\"."
 
 #: ../mail/mail-dialogs.ui.h:3
 msgid "_Flag:"
@@ -14300,11 +14307,11 @@ msgstr "Otentifikasi hana beutoi"
 
 #: ../mail/mail.error.xml.h:2
 msgid ""
-"This server does not support this type of authentication and may not support"
-" authentication at all."
+"This server does not support this type of authentication and may not support "
+"authentication at all."
 msgstr ""
-"Server nyoe hanjeut i pake jenis otenti nyoe dan hanjeut i pake otentifikasi"
-" sama sekali."
+"Server nyoe hanjeut i pake jenis otenti nyoe dan hanjeut i pake otentifikasi "
+"sama sekali."
 
 #: ../mail/mail.error.xml.h:3
 msgid "Your login to your server \"{0}\" as \"{0}\" failed."
@@ -14325,10 +14332,12 @@ msgstr "Peukeuh droeneuh yakin neu kirim pesan dalam bentuk HRML?"
 
 #: ../mail/mail.error.xml.h:6
 msgid ""
-"Please make sure the following recipients are willing and able to receive HTML email:\n"
+"Please make sure the following recipients are willing and able to receive "
+"HTML email:\n"
 "{0}"
 msgstr ""
-"Peu pasti bahwa peuterimong jeut atawa jeut i teurimong surel dalam bentuk HTML:\n"
+"Peu pasti bahwa peuterimong jeut atawa jeut i teurimong surel dalam bentuk "
+"HTML:\n"
 "{0}"
 
 #: ../mail/mail.error.xml.h:9
@@ -14352,10 +14361,13 @@ msgstr ""
 msgid ""
 "The contact list you are sending to is configured to hide list recipients.\n"
 "\n"
-"Many email systems add an Apparently-To header to messages that only have BCC recipients. This header, if added, will list all of your recipients in your message. To avoid this, you should add at least one To: or CC: recipient. "
+"Many email systems add an Apparently-To header to messages that only have "
+"BCC recipients. This header, if added, will list all of your recipients in "
+"your message. To avoid this, you should add at least one To: or CC: "
+"recipient. "
 msgstr ""
-"Dapeuta kontak yang dikirem nyoe di ato keu peusom dapeuta penerimong. Padum"
-" boh jenis sistem email akan tamah kolom Apparently-To bak ulee surat yang "
+"Dapeuta kontak yang dikirem nyoe di ato keu peusom dapeuta penerimong. Padum "
+"boh jenis sistem email akan tamah kolom Apparently-To bak ulee surat yang "
 "terimong cuma dicantum bak kolom Bcc. meunyoe kolom Apparently-To nyoe "
 "ditamah bak ulee, maka dapeuta penerimong email justru akan di peuleumah di "
 "sideh. Keu menghidar jih, cuba pasoe asoe paleng han saboh penerimong bak "
@@ -14371,8 +14383,8 @@ msgstr ""
 "Padum boh jenis sistem email akan tamah kolom Apparently-To bak ulee surat "
 "yang penerimong jih cuma dicantumkan bak kolom Bcc. meunyoe Apparently-To "
 "nyoe di tamah bak ulee, maka dapueta email justru akan di peuleumah di "
-"sideh. Keu hindari jih, cubak pasoe paleng han saboh penerimong bak kolom To"
-" ato Cc."
+"sideh. Keu hindari jih, cubak pasoe paleng han saboh penerimong bak kolom To "
+"ato Cc."
 
 #: ../mail/mail.error.xml.h:16
 msgid "Are you sure you want to send a message with invalid address?"
@@ -14590,8 +14602,8 @@ msgid ""
 "If you delete the folder, all of its contents and its subfolders' contents "
 "will be deleted permanently."
 msgstr ""
-"Meunye dreun sampoh folder, maka mandum aso dan aso sub folder akan disampoh"
-" secara permanen."
+"Meunye dreun sampoh folder, maka mandum aso dan aso sub folder akan disampoh "
+"secara permanen."
 
 #: ../mail/mail.error.xml.h:67
 msgid "Really delete folder \"{0}\"?"
@@ -14609,8 +14621,8 @@ msgstr "Peusan-peusan nyo keun salinan."
 
 #: ../mail/mail.error.xml.h:70
 msgid ""
-"Messages shown in Search Folders are not copies. Deleting them from a Search"
-" Folder will delete the actual messages from the folder or folders in which "
+"Messages shown in Search Folders are not copies. Deleting them from a Search "
+"Folder will delete the actual messages from the folder or folders in which "
 "they physically reside. Do you really want to delete these messages?"
 msgstr ""
 "Pesan yang i tampilkan dalam Folder Pencarian kon salinan. Sampoeh mandum "
@@ -14746,11 +14758,12 @@ msgstr "Hana folder yang dipileh."
 #: ../mail/mail.error.xml.h:103
 msgid ""
 "You must specify at least one folder as a source.\n"
-"Either by selecting the folders individually, and/or by selecting all local folders, all remote folders, or both."
+"Either by selecting the folders individually, and/or by selecting all local "
+"folders, all remote folders, or both."
 msgstr ""
 "Droen harus pileh paleng han saboh folder sebago sumber. Cara jih, pileh "
-"folder dan/ato pileh mandum folder lokal. ato pileh mandum folder bak server"
-" ato kedua jih."
+"folder dan/ato pileh mandum folder lokal. ato pileh mandum folder bak server "
+"ato kedua jih."
 
 #: ../mail/mail.error.xml.h:105
 msgid "Problem migrating old mail folder \"{0}\"."
@@ -14760,7 +14773,8 @@ msgstr "Masalah watee pinah folder surat awai \"{0}\""
 msgid ""
 "A non-empty folder at \"{1}\" already exists.\n"
 "\n"
-"You can choose to ignore this folder, overwrite or append its contents, or quit."
+"You can choose to ignore this folder, overwrite or append its contents, or "
+"quit."
 msgstr ""
 "Folder hana-kosong bak \"{1}\" kana. Droen jhet mengabaikan folder nyoe, "
 "timpa ato tamah asoe jih, ato piyoh."
@@ -14783,15 +14797,19 @@ msgstr "Format surat lokal Evolution ka berubah"
 
 #: ../mail/mail.error.xml.h:113
 msgid ""
-"Evolution's local mail format has changed from mbox to Maildir. Your local mail must be migrated to the new format before Evolution can proceed. Do you want to migrate now?\n"
+"Evolution's local mail format has changed from mbox to Maildir. Your local "
+"mail must be migrated to the new format before Evolution can proceed. Do you "
+"want to migrate now?\n"
 "\n"
-"An mbox account will be created to preserve the old mbox folders. You can delete the account after ensuring the data is safely migrated. Please make sure there is enough disk space if you choose to migrate now."
+"An mbox account will be created to preserve the old mbox folders. You can "
+"delete the account after ensuring the data is safely migrated. Please make "
+"sure there is enough disk space if you choose to migrate now."
 msgstr ""
-"Format email lokal Evolution ka berubah dari mbox awai. Peukeuh Droen meujak"
-" migrasi jino? saboh akun mbox akan di peuget keu melestarikan folder mbox "
+"Format email lokal Evolution ka berubah dari mbox awai. Peukeuh Droen meujak "
+"migrasi jino? saboh akun mbox akan di peuget keu melestarikan folder mbox "
 "awai. Droen jhet apoh akun nyan banlheuh pastikan meunyoe data teu migrasi "
-"secara aman. Cuba pastikan na sep ruang disk meunyoe Droen pileh keu migrasi"
-" jino."
+"secara aman. Cuba pastikan na sep ruang disk meunyoe Droen pileh keu migrasi "
+"jino."
 
 #: ../mail/mail.error.xml.h:116
 msgid "_Exit Evolution"
@@ -14997,8 +15015,8 @@ msgid ""
 "The attachment named {0} is a hidden file and may contain sensitive data. "
 "Please review it before sending."
 msgstr ""
-"Lampirkan meu nan {0} nyan keuh berkas teu peusom dan mungken muat data yang"
-" sensitif. Harap periksa seugohlom kirem."
+"Lampirkan meu nan {0} nyan keuh berkas teu peusom dan mungken muat data yang "
+"sensitif. Harap periksa seugohlom kirem."
 
 #: ../mail/mail.error.xml.h:164
 msgid "Printing failed."
@@ -15356,9 +15374,7 @@ msgstr "Peuleumah peta ngeun mandum kontak dari buku alamat yang dipileh"
 #: ../modules/calendar/e-task-shell-view-actions.c:787
 #: ../modules/mail/e-mail-shell-view-actions.c:1363
 msgid "_Rename..."
-msgstr ""
-"\n"
-"_Ubah Nan..."
+msgstr "_Gantoan..."
 
 #: ../modules/addressbook/e-book-shell-view-actions.c:950
 msgid "Rename the selected address book"
@@ -15577,7 +15593,8 @@ msgid ""
 msgstr ""
 "Dreon jeut peubalek data Evolution dari berkas cadangan.\n"
 "\n"
-"Peubalek nyan diikoet mandum peungaturan pribadi Droen, Peunyarengan pesan, dll."
+"Peubalek nyan diikoet mandum peungaturan pribadi Droen, Peunyarengan pesan, "
+"dll."
 
 #: ../modules/backup-restore/e-mail-config-restore-page.c:180
 msgid "_Restore from a backup file:"
@@ -15762,14 +15779,14 @@ msgstr "Droen yakun keuneuk restore Evolution dari berkas backup yang ipileh?"
 #: ../modules/backup-restore/org-gnome-backup-restore.error.xml.h:7
 msgid ""
 "To restore your data and settings, you must first close Evolution. Please "
-"make sure that you save any unsaved data before proceeding. This will delete"
-" all your current Evolution data and settings and restore them from your "
+"make sure that you save any unsaved data before proceeding. This will delete "
+"all your current Evolution data and settings and restore them from your "
 "backup."
 msgstr ""
 "untuk peubalek data dan peungaturan Droen, Droen mesti leubeh dile tutop "
 "Evolution. Peupasti bahwa Droen ka leuh neukeubah data sigolom neulanjut. "
-"nyoe akan isampoeh mandum data dan peungaturan Evolution Droen saat nyoe dan"
-" peubalek nyan dari cadangan Droen."
+"nyoe akan isampoeh mandum data dan peungaturan Evolution Droen saat nyoe dan "
+"peubalek nyan dari cadangan Droen."
 
 #: ../modules/backup-restore/org-gnome-backup-restore.error.xml.h:8
 msgid "Close and Restore Evolution"
@@ -16359,8 +16376,7 @@ msgid ""
 "events."
 msgstr ""
 "Proses nyoe akan sampoeh secara permanen mandum acara yang watee jih leubeh "
-"tuha dari watee yang Droen pileh. Mandum yang isampoeh hanjeut ipeubalek "
-"lee."
+"tuha dari watee yang Droen pileh. Mandum yang isampoeh hanjeut ipeubalek lee."
 
 #. Translators: This is the first part of the sentence:
 #. * "Purge events older than <<spin-button>> days"
@@ -16954,11 +16970,13 @@ msgstr "Properti Daftar Tugas"
 
 #: ../modules/calendar/e-task-shell-view-actions.c:606
 msgid ""
-"This operation will permanently erase all tasks marked as completed. If you continue, you will not be able to recover these tasks.\n"
+"This operation will permanently erase all tasks marked as completed. If you "
+"continue, you will not be able to recover these tasks.\n"
 "\n"
 "Really erase these tasks?"
 msgstr ""
-"Proses nyoe akan sampoeh mandum tugas yang ka leuh itanda. Meunye lanjut, Droen hanjeut peubalek jih lee.\n"
+"Proses nyoe akan sampoeh mandum tugas yang ka leuh itanda. Meunye lanjut, "
+"Droen hanjeut peubalek jih lee.\n"
 "Yakin keuneuk sampoeh tugas nyoe?"
 
 #: ../modules/calendar/e-task-shell-view-actions.c:613
@@ -17759,8 +17777,7 @@ msgid "This meeting has been delegated"
 msgstr "Rapat nyoe ka idelegasi"
 
 #: ../modules/itip-formatter/org-gnome-itip-formatter.error.xml.h:3
-msgid ""
-"'{0}' has delegated the meeting. Do you want to add the delegate '{1}'?"
+msgid "'{0}' has delegated the meeting. Do you want to add the delegate '{1}'?"
 msgstr "'{0}' ka idelegasi rapat. Pukeuh Droen keuneuk tamah delagasi '{1}'?"
 
 #: ../modules/itip-formatter/plugin/config-ui.c:82
@@ -18009,8 +18026,7 @@ msgstr "_Download pesan untuk Keperluan Offline"
 
 #: ../modules/mail/e-mail-shell-view-actions.c:1295
 msgid "Download messages of accounts and folders marked for offline usage"
-msgstr ""
-"Donload pesan dari akun dan folder yang itanda untuk Keperluan Offline"
+msgstr "Donload pesan dari akun dan folder yang itanda untuk Keperluan Offline"
 
 #: ../modules/mail/e-mail-shell-view-actions.c:1300
 msgid "Fl_ush Outbox"
@@ -18481,8 +18497,8 @@ msgstr "Manajer Pengaya"
 #: ../modules/plugin-manager/evolution-plugin-manager.c:269
 msgid "Note: Some changes will not take effect until restart"
 msgstr ""
-"Catatan: na perubahan yang hana langsong aktif sampe trok Droen peujak ulang"
-" Evolution"
+"Catatan: na perubahan yang hana langsong aktif sampe trok Droen peujak ulang "
+"Evolution"
 
 #: ../modules/plugin-manager/evolution-plugin-manager.c:298
 msgid "Overview"
@@ -18608,8 +18624,7 @@ msgstr "Peubu_t Penyarengan dari server"
 
 #: ../modules/spamassassin/evolution-spamassassin.c:776
 msgid "This will make SpamAssassin more reliable, but slower."
-msgstr ""
-"Nyoe akan peugoet SpamAssasin meubut leubeh got, tapi leubeh meuayeum."
+msgstr "Nyoe akan peugoet SpamAssasin meubut leubeh got, tapi leubeh meuayeum."
 
 #: ../modules/spamassassin/evolution-spamassassin.c:1033
 msgid "SpamAssassin"
@@ -18634,10 +18649,11 @@ msgstr "Impor kaleuh."
 msgid ""
 "Welcome to Evolution.\n"
 "\n"
-"The next few screens will allow Evolution to connect to your email accounts, and to import files from other applications."
+"The next few screens will allow Evolution to connect to your email accounts, "
+"and to import files from other applications."
 msgstr ""
-"Saleum teuka bak Evolution. meupadum boeh layeu aleuh nyoe mungken Evolution"
-" samboeng u surel Droen, dan mengimpor berkas dari aplikasi laen."
+"Saleum teuka bak Evolution. meupadum boeh layeu aleuh nyoe mungken Evolution "
+"samboeng u surel Droen, dan mengimpor berkas dari aplikasi laen."
 
 #: ../modules/startup-wizard/evolution-startup-wizard.c:239
 msgid "Loading accounts..."
@@ -18989,11 +19005,14 @@ msgstr "BBDB"
 msgid ""
 "Takes the gruntwork out of managing your address book.\n"
 "\n"
-"Automatically fills your address book with names and email addresses as you reply to messages.  Also fills in IM contact information from your buddy lists."
+"Automatically fills your address book with names and email addresses as you "
+"reply to messages.  Also fills in IM contact information from your buddy "
+"lists."
 msgstr ""
 "Ba geuntwork teubit dari keulola buku alamat Droen.\n"
 "\n"
-"Otomatis pasoe buku alamat Droen ngon nan dan alamat email watee Droe balah pesan.  Pasoe cit informasi kontak IM dari daftar ngon Droen."
+"Otomatis pasoe buku alamat Droen ngon nan dan alamat email watee Droe balah "
+"pesan.  Pasoe cit informasi kontak IM dari daftar ngon Droen."
 
 #: ../plugins/dbx-import/dbx-importer.c:282
 msgid "Importing Outlook Express data"
@@ -19135,8 +19154,8 @@ msgid ""
 "Evolution is unable to create a temporary file to save your mail. Retry "
 "later."
 msgstr ""
-"Evolution hanjeut buka berkas sementara untuk keubah surel Droen. Neuci cuba"
-" siateuk."
+"Evolution hanjeut buka berkas sementara untuk keubah surel Droen. Neuci cuba "
+"siateuk."
 
 #: ../plugins/external-editor/org-gnome-external-editor.error.xml.h:5
 msgid "External editor still running"
@@ -19199,8 +19218,7 @@ msgid "Not an image"
 msgstr "Kon saboh gamba"
 
 #: ../plugins/face/org-gnome-face.error.xml.h:6
-msgid ""
-"The file you selected does not look like a valid .png image. Error: {0}"
+msgid "The file you selected does not look like a valid .png image. Error: {0}"
 msgstr "Berkas yang Droen pileh kon berkas .png yang sah. Error : {0}"
 
 #: ../plugins/image-inline/org-gnome-image-inline.eplug.xml.h:1
@@ -19300,11 +19318,14 @@ msgstr "kirem surel u milis nyoe?"
 
 #: ../plugins/mailing-list-actions/org-gnome-mailing-list-actions.error.xml.h:6
 msgid ""
-"An e-mail message will be sent to the URL \"{0}\". You can either send the message automatically, or see and change it first.\n"
+"An e-mail message will be sent to the URL \"{0}\". You can either send the "
+"message automatically, or see and change it first.\n"
 "\n"
-"You should receive an answer from the mailing list shortly after the message has been sent."
+"You should receive an answer from the mailing list shortly after the message "
+"has been sent."
 msgstr ""
-"Surel akan ikirem u URL \"{0}\". Droen jeut langsong kirem secara otomatis atau kaloen dan ubah ilee.\n"
+"Surel akan ikirem u URL \"{0}\". Droen jeut langsong kirem secara otomatis "
+"atau kaloen dan ubah ilee.\n"
 "Jawaban dari milis han trep lee Droen trimoeng aleuh surel nyoe teukirem."
 
 #: ../plugins/mailing-list-actions/org-gnome-mailing-list-actions.error.xml.h:9
@@ -19335,11 +19356,13 @@ msgstr "Tanpa aksi e_mail"
 
 #: ../plugins/mailing-list-actions/org-gnome-mailing-list-actions.error.xml.h:16
 msgid ""
-"The action could not be performed. The header for this action did not contain any action that could be processed.\n"
+"The action could not be performed. The header for this action did not "
+"contain any action that could be processed.\n"
 "\n"
 "Header: {0}"
 msgstr ""
-"Aksi hanjeut di peugeut. Bagian kepala aksi nyo hana dibuka apapun yang jeut diproses.\n"
+"Aksi hanjeut di peugeut. Bagian kepala aksi nyo hana dibuka apapun yang jeut "
+"diproses.\n"
 "\n"
 "Header:{0}"
 
@@ -19515,23 +19538,23 @@ msgstr "Hanjeut buka kalende. %s"
 
 #: ../plugins/mail-to-task/mail-to-task.c:859
 msgid ""
-"Selected calendar is read only, thus cannot create event there. Select other"
-" calendar, please."
+"Selected calendar is read only, thus cannot create event there. Select other "
+"calendar, please."
 msgstr ""
 "Kalende yang Droen pileh hanya-baca, jadi hanjeut peugot acara disinan."
 
 #: ../plugins/mail-to-task/mail-to-task.c:862
 msgid ""
-"Selected task list is read only, thus cannot create task there. Select other"
-" task list, please."
+"Selected task list is read only, thus cannot create task there. Select other "
+"task list, please."
 msgstr ""
 "Daftar tugah yang dipileh cuma jeut baca, hanjeut peugot tugah iedeh. "
 "Silhakan pileh daftar tugah yang laen"
 
 #: ../plugins/mail-to-task/mail-to-task.c:865
 msgid ""
-"Selected memo list is read only, thus cannot create memo there. Select other"
-" memo list, please."
+"Selected memo list is read only, thus cannot create memo there. Select other "
+"memo list, please."
 msgstr ""
 "Daftar memo yang dipileh cuma jeut baca , hanjuet pegoet memo iedeh . "
 "Silahkan droen pileh memo laen"
@@ -19936,8 +19959,8 @@ msgstr "simpan tugas pilehan dalam disk"
 #: ../plugins/templates/org-gnome-templates.eplug.xml.h:2
 msgid ""
 "Drafts based template plugin. You can use variables like $ORIG[subject], "
-"$ORIG[from], $ORIG[to] or $ORIG[body], which will be replaced by values from"
-" an email you are replying to."
+"$ORIG[from], $ORIG[to] or $ORIG[body], which will be replaced by values from "
+"an email you are replying to."
 msgstr ""
 "plugin template berbasis draft. droen jeut neupakek variabel lagee "
 "$ORIG[subject], $ORIG[from], $ORIG[to], atawa $ORIG[body], nyang akan "
@@ -20019,7 +20042,8 @@ msgid "translator-credits"
 msgstr ""
 "translator :\n"
 "\n"
-"Aceh : Mirza Triyuna Putra (mirza.triyuna@s1.informatika.unsyiah.ac.id), Riza Feriyanda, saiful Bahri....."
+"Aceh : Mirza Triyuna Putra (mirza.triyuna@s1.informatika.unsyiah.ac.id), "
+"Riza Feriyanda, saiful Bahri....."
 
 #: ../shell/e-shell-window-actions.c:85
 msgid "Evolution Website"
@@ -20278,7 +20302,7 @@ msgstr "neupinah u %s"
 #: ../shell/e-shell-window-actions.c:1729
 #, c-format
 msgid "Select view: %s"
-msgstr "pileh tampilan: %s\n"
+msgstr "Pileh ngieng: %s"
 
 #: ../shell/e-shell-window-actions.c:1830
 msgid "Execute these search parameters"
@@ -20314,19 +20338,26 @@ msgid ""
 "We hope that you enjoy the results of our hard work, and we\n"
 "eagerly await your contributions!\n"
 msgstr ""
-"hay. teurimong geunaseh ka neucuba pra-terbitan Evolution Groupwise nyoe. "
-"versi Evolution nyoe gohlom leuh. karap leuh, teutapi na padum boeh "
-"fasilitan nyang gohlom leuh atawa hana ijak lagee nyang diharap. meunyoe "
-"droen keumeung versi nyang stabil, kamoe jok saran neuboh versi nyoe, dan "
-"neupasang versi %s mantoeng. meunyoe na keusalahan, tulong neubitee kamoe "
-"bak bugzilla.gnome.org. produk nyoe hana jaminan. kamoe harap droen galak "
-"keu hasee keurja kamoe, dan kamoe harap droen tem neukontribusi chit."
+"hay. Sabah ka neucuba pra-terbitan Evolution Groupwise nyoe.\n"
+"\n"
+"Versi Evolution nyoe gohlom leuh. karap leuh, teutapi na padum boeh \n"
+"fasilitan nyang gohlom leuh atawa hana ijak lagee nyang diharap.\n"
+"\n"
+"Meunyoe droen keumeung versi nyang stabil, kamoe jok saran neuboh versi "
+"nyoe, dan \n"
+"neupasang versi %s mantoeng. meunyoe na keusalahan, tulong neubitee kamoe \n"
+"bak bugzilla.gnome.org. produk nyoe hana jaminan.\n"
+"\n"
+"Kamoe harap droen galak \n"
+"keu hasee keurja kamoe, dan kamoe harap droen tem neukontribusi chi!\n"
 
 #: ../shell/main.c:207
 msgid ""
 "Thanks\n"
 "The Evolution Team\n"
-msgstr "teurimong geunaseh tim evolution"
+msgstr ""
+"Sabah\n"
+"Tim Evolution\n"
 
 #: ../shell/main.c:213
 msgid "Do not tell me again"
@@ -20339,8 +20370,8 @@ msgid ""
 "Start Evolution showing the specified component. Available options are "
 "'mail', 'calendar', 'contacts', 'tasks', and 'memos'"
 msgstr ""
-"neumulai evolution nyang ipeutampil kompinen nyang seusuai. pilehan nyang na"
-" 'e-mail', 'kalender', 'kontak', 'tugas', ngoen 'memo'"
+"neumulai evolution nyang ipeutampil kompinen nyang seusuai. pilehan nyang na "
+"'e-mail', 'kalender', 'kontak', 'tugas', ngoen 'memo'"
 
 #: ../shell/main.c:308
 msgid "Apply the given geometry to the main window"
@@ -20389,7 +20420,7 @@ msgstr ""
 
 #: ../shell/main.c:516 ../shell/main.c:521
 msgid "- The Evolution PIM and Email Client"
-msgstr "PIM ngoen surel evolution"
+msgstr "- PIM ngoen surel evolution"
 
 #: ../shell/main.c:588
 #, c-format
@@ -20397,8 +20428,8 @@ msgid ""
 "%s: --online and --offline cannot be used together.\n"
 "  Run '%s --help' for more information.\n"
 msgstr ""
-"%s: --online ngoen --offline hana jeut ipeuguna meusigoe. peujak %s --help "
-"keu neubaca informasi nyang leungkap"
+"%s: --online ngoen --offline hana jeut jingui meusigoe.\n"
+"  Peujak '%s --help' keu neubaca informasi nyang leungkap.\n"
 
 #: ../shell/main.c:594
 #, c-format
@@ -20406,8 +20437,8 @@ msgid ""
 "%s: --force-online and --offline cannot be used together.\n"
 "  Run '%s --help' for more information.\n"
 msgstr ""
-"%s: --force-online ngoen --offline hana jeut ipeuguna seucara sama-sama. "
-"peujak %s --help keu informasi nyang leubeh lengkap\\n"
+"%s: --force-online ngoen --offline hana jeut jingui meusigoe.\n"
+"  Peujak %s --help keu informasi nyang leubeh lengkap\n"
 
 #: ../shell/shell.error.xml.h:2
 msgid "Upgrade from previous version failed:"
@@ -20417,10 +20448,13 @@ msgstr "upgrade dari versi sigolom jih nyang ka gagal"
 msgid ""
 "{0}\n"
 "\n"
-"If you choose to continue, you may not have access to some of your old data.\n"
+"If you choose to continue, you may not have access to some of your old "
+"data.\n"
 msgstr ""
-"{0} meunyo droe keumeung neupelanjut, kadang hana mandum data nyang jeut "
-"neuakses"
+"{0}\n"
+"\n"
+"Meunyo droeneuh keumeung neupelanjut, kadang hana mandum data nyang jeut "
+"neuakses.\n"
 
 #: ../shell/shell.error.xml.h:7
 msgid "Continue Anyway"
@@ -20432,12 +20466,12 @@ msgstr "peteubit mantong"
 
 #: ../shell/shell.error.xml.h:9
 msgid "Cannot upgrade directly from version {0}"
-msgstr "hana update langsung dari versi {0}"
+msgstr "Han jeut upgrade langsung dari versi {0}"
 
 #: ../shell/shell.error.xml.h:10
 msgid ""
-"Evolution no longer supports upgrading directly from version {0}. However as"
-" a workaround you might try first upgrading to Evolution 2, and then "
+"Evolution no longer supports upgrading directly from version {0}. However as "
+"a workaround you might try first upgrading to Evolution 2, and then "
 "upgrading to Evolution 3."
 msgstr ""
 "evolusi hana ngedukong peningkatan langsong dari versi {0}. akan teutapi "
@@ -20450,8 +20484,9 @@ msgid ""
 "\n"
 "Edit trust settings:"
 msgstr ""
-"sertifikat '%s' nakeuh sertifikat CA. \\n\n"
-"ubah pengatoran :"
+"sertifikat '%s' nakeuh sertifikat CA.\n"
+"\n"
+"Andam peuatoe teupateh :"
 
 #: ../smime/gui/certificate-manager.c:73 ../smime/gui/certificate-manager.c:92
 #: ../smime/gui/certificate-manager.c:112
@@ -20504,7 +20539,7 @@ msgstr "ipeutebit "
 #: ../smime/gui/certificate-manager.c:102
 #: ../smime/gui/certificate-manager.c:120
 msgid "Expires"
-msgstr "tanggai matee"
+msgstr "Tanggai matee"
 
 #: ../smime/gui/certificate-manager.c:83
 #: ../smime/gui/certificate-manager.c:103
@@ -20627,8 +20662,8 @@ msgid ""
 "then you trust the authenticity of this certificate unless otherwise "
 "indicated here"
 msgstr ""
-"Kareuna droen ka neupateh atoran keu yang peutebiet sertifikat nyoe, seucara"
-" otomatis sertifikat nyoe otentik, kecuali na geusebut nyang laen"
+"Kareuna droen ka neupateh atoran keu yang peutebiet sertifikat nyoe, seucara "
+"otomatis sertifikat nyoe otentik, kecuali na geusebut nyang laen"
 
 #: ../smime/gui/cert-trust-dialog.c:158
 msgid ""
@@ -20659,14 +20694,18 @@ msgstr "peutamong sandi baroe"
 msgid ""
 "Issued to:\n"
 "  Subject: %s\n"
-msgstr "dipeutebit keu: subyek: %s\\n"
+msgstr ""
+"Issued keu:\n"
+" Subyek: %s\n"
 
 #: ../smime/gui/e-cert-selector.c:123
 #, c-format
 msgid ""
 "Issued by:\n"
 "  Subject: %s\n"
-msgstr "dipeutebit le: subyek: %s"
+msgstr ""
+"Issued le:\n"
+" Subyek: %s\n"
 
 #: ../smime/gui/e-cert-selector.c:176
 msgid "Select certificate"
@@ -20734,8 +20773,8 @@ msgid ""
 "Before trusting this CA for any purpose, you should examine its certificate "
 "and its policy and procedures (if available)."
 msgstr ""
-"sigohlom neupecaya CA nyoe keu sigala macam, neuperiksa ilee asoe sertifikat"
-" nyoe dan seugala prosedur jih"
+"sigohlom neupecaya CA nyoe keu sigala macam, neuperiksa ilee asoe sertifikat "
+"nyoe dan seugala prosedur jih"
 
 #: ../smime/gui/smime-ui.ui.h:21 ../smime/lib/e-asn1-object.c:658
 msgid "Certificate"
@@ -21031,5 +21070,3 @@ msgstr "_Ngon Lam Tempo"
 #: ../views/tasks/galview.xml.h:3
 msgid "With _Status"
 msgstr "Ngon _Status"
-
-

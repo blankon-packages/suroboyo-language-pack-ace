@@ -42,23 +42,23 @@ msgstr "Brasero burn disk"
 
 #: ../data/brasero.desktop.in.in.h:6
 msgid "Open a New Window"
-msgstr "Buka bak tingkap baro"
+msgstr "Peuhah bak tingkap baro"
 
 #: ../data/brasero.desktop.in.in.h:7
 msgid "Burn an Image File"
-msgstr "Burn berkah meuntah"
+msgstr "Teoet Beureukaih Meuntah"
 
 #: ../data/brasero.desktop.in.in.h:8
 msgid "Create an Audio Project"
-msgstr "Peuget projek su"
+msgstr "Peuget Projek Su"
 
 #: ../data/brasero.desktop.in.in.h:9
 msgid "Create a Video Project"
-msgstr "Peuget projek video"
+msgstr "Peuget Projek Video"
 
 #: ../data/mime/brasero.xml.in.h:1
 msgid "Brasero project file"
-msgstr "Beurkah projek Brasero "
+msgstr "Beureukaih projek Brasero "
 
 #: ../data/org.gnome.brasero.gschema.xml.in.h:1
 msgid "Should Nautilus extension output debug statements"
@@ -74,7 +74,7 @@ msgstr ""
 
 #: ../data/org.gnome.brasero.gschema.xml.in.h:3
 msgid "The type of checksum used for images"
-msgstr "Jeunis checksum nyanng"
+msgstr "Tipe checksum nyang teungui keu image"
 
 #: ../data/org.gnome.brasero.gschema.xml.in.h:4
 msgid "Set to 0 for MD5, 1 for SHA1 and 2 for SHA256"
@@ -82,11 +82,11 @@ msgstr "Peuget 0 ke MD5, 1 ke SHA1, ngon 2 ke SHA256"
 
 #: ../data/org.gnome.brasero.gschema.xml.in.h:5
 msgid "The type of checksum used for files"
-msgstr "Jeunis checksum nyang dipake ke beurkas"
+msgstr "Tipe checksum nyang teungui ke beureukaih"
 
 #: ../data/org.gnome.brasero.gschema.xml.in.h:6
 msgid "Directory to use for temporary files"
-msgstr "Teumpat kubah berkas temporer"
+msgstr "Teumpat kubah beureukaih temporer"
 
 #: ../data/org.gnome.brasero.gschema.xml.in.h:7
 msgid ""
@@ -94,30 +94,30 @@ msgid ""
 "files. If that value is empty, the default directory set for glib will be "
 "used."
 msgstr ""
-"Asoe jih lokasi ke direktori nyang dipake brasero menyimpan beurkas "
-"temporer. Meuse soh direktori baku bak glib akan dipake."
+"Asoe jih lokasi ke direktori nyang jingui brasero keubah beureukaih "
+"temporer. Meuse soh direktori baku bak glib akan jingui."
 
 #: ../data/org.gnome.brasero.gschema.xml.in.h:8
 msgid "Favourite burn engine"
-msgstr "Meusen bakar nyang galak"
+msgstr "Meusen teoet nyang galak"
 
 #: ../data/org.gnome.brasero.gschema.xml.in.h:9
 msgid ""
 "Contains the name of the favourite burn engine suite installed. It will be "
 "used if possible."
 msgstr ""
-"Asoe jih nan meusen burn nyang diinstal. Nyoe akan dipake meuseu mungken."
+"Asoe jih nan meusen burn nyang diinstal. Nyoe akan jingui meuseu mungken."
 
 #: ../data/org.gnome.brasero.gschema.xml.in.h:10
 msgid "White list of additional plugins to use"
-msgstr "Dapeuta resmi plugin tambahan nyang dipake"
+msgstr "Dapeuta resmi plugin tambahan keu jingui"
 
 #: ../data/org.gnome.brasero.gschema.xml.in.h:11
 msgid ""
 "Contains the list of additional plugins Brasero will use to burn discs. If "
 "set to NULL, Brasero will load them all."
 msgstr ""
-"Asoe jih daftar pugin tambahan Brasero akan dipake keu burn disk. Meuse "
+"Asoe jih daftar pugin tambahan Brasero akan jingui keu burn disk. Meuse "
 "diatow keu NULL, Brasero akan memuat nyan mandum. "
 
 #: ../data/org.gnome.brasero.gschema.xml.in.h:12
@@ -329,7 +329,7 @@ msgstr "Peu pasti aplikasi nyang laen hana dipake ata nyoe"
 #: ../libbrasero-burn/brasero-burn.c:409
 #, c-format
 msgid "\"%s\" cannot be unlocked"
-msgstr "\"%s\" hanjeut ta buka gunci jih"
+msgstr "\"%s\" hanjeut ta peuhah gunci jih"
 
 #: ../libbrasero-burn/brasero-burn.c:546 ../libbrasero-burn/brasero-burn.c:678
 #: ../libbrasero-burn/brasero-burn.c:761
@@ -523,7 +523,7 @@ msgstr "Burning DVD data"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:326
 msgid "Simulation of image to DVD burning"
-msgstr "Simulasi burning berkas DVD  nyang disalen "
+msgstr "Simulasi burning beureukaih DVD  nyang disalen "
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:328
 msgid "Burning image to DVD"
@@ -531,7 +531,7 @@ msgstr "Burning beurkas salenan keu DVD"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:336
 msgid "Simulation of data DVD copying"
-msgstr "Simulasi copy data DVD"
+msgstr "Simulasi salen data DVD"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:338
 msgid "Copying data DVD"
@@ -754,22 +754,22 @@ msgstr "Hana sep ruang tersedia nibak disk dalam \"%s\"."
 #: ../libbrasero-burn/brasero-burn-dialog.c:682
 #, c-format
 msgid "The disc in \"%s\" needs to be reloaded."
-msgstr "Disk nibak \"%s\" payah dibuka lom."
+msgstr "Disk nibak \"%s\" peurlei keu beuteupeuhah lom."
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:683
 msgid "Please eject the disc and reload it."
-msgstr "Tulong neu peuteubit dan neu buka lom disk."
+msgstr "Tulong neu peuteubit dan neu peuhah lom disk."
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:728
 #: ../libbrasero-burn/brasero-sum-dialog.c:333
 msgid ""
 "A file could not be created at the location specified for temporary files"
 msgstr ""
-"Saboh berkas hanjeut dibuka dari lokasi nyang dipeugah ke berkas temporer"
+"Saboh beureukaih hanjeut peuhah dari lokasi nyang dipeugah ke beureukaih temporer"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:729
 msgid "The image could not be created at the specified location"
-msgstr "Image hanjeut dipeugot nibak lokasi nyang ditentukan"
+msgstr "Image hanjeut dipeugot nibak lokasi nyang ka meuteuntei"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:730
 msgid ""
@@ -800,12 +800,12 @@ msgstr "_Ubah Lokasi"
 #: ../libbrasero-burn/brasero-burn-dialog.c:773
 #: ../libbrasero-burn/brasero-image-properties.c:459
 msgid "Location for Image File"
-msgstr "Lokasi Berkas Salenan"
+msgstr "Lokasi Beureukaih Salenan"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:781
 #: ../libbrasero-burn/brasero-drive-properties.c:366
 msgid "Location for Temporary Files"
-msgstr "Lokasi Berkasi Siat"
+msgstr "Lokasi Beureukaih Siat"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:889
 #: ../libbrasero-burn/brasero-burn-dialog.c:1135
@@ -831,7 +831,7 @@ msgid ""
 "selection of files is burned."
 msgstr ""
 "Meuseu Droeneuh import nyan, Droeneuh akan jeut neukalon dan neupakek sigoe "
-"dari pilehan berkas nyang diburn."
+"dari pilehan beureukaih nyang jiteoet."
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:948
 msgid "If you don't, they will be invisible (though still readable)."
@@ -841,7 +841,7 @@ msgstr "Meuseu han, nyan akan meupeulemah (adak pih tengoh dibaca)."
 msgid ""
 "There are files already burned on this disc. Would you like to import them?"
 msgstr ""
-"Na berkas kalheuh diburn bak CD nyoe. Peukeuh Droeneuh neuk peutamong?"
+"Na beureukaih kalheuh jiteoet bak CD nyoe. Peukeuh Droeneuh neuk peutamong?"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:953
 msgid "_Import"
@@ -849,7 +849,7 @@ msgstr "_Peutamong"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:954
 msgid "Only _Append"
-msgstr "Hanya Peu_tamah"
+msgstr "Peu_tamah Mantong"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:967
 msgid ""
@@ -916,7 +916,7 @@ msgstr "Peukeuh Droeneuh neuk sambong adakpih hana kompatibel untuk Windows?"
 msgid ""
 "Some files don't have a suitable name for a fully Windows-compatible CD."
 msgstr ""
-"Na padum boh berkas nyang nan jih hana cock untuk kompatibilitas penuh "
+"Na padum boh beureukaih nyang nan jih hana cock untuk kompatibilitas penuh "
 "dengon CD Windows"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:1145
@@ -926,7 +926,7 @@ msgstr "_Sambong"
 #: ../libbrasero-burn/brasero-burn-dialog.c:1365
 #: ../libbrasero-burn/brasero-burn-dialog.c:1386
 msgid "The simulation was successful."
-msgstr "Simulasi berhasil."
+msgstr "Simulasi ka seuleuso."
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:1368
 msgid "Real disc burning will take place in 10 seconds."
@@ -1027,7 +1027,7 @@ msgstr "Peugot_Cover"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:2134
 msgid "There are some files left to burn"
-msgstr "Na padum boh berkas teuk untuk diburn"
+msgstr "Na padum boh beureukaih teuk untuk diburn"
 
 #: ../libbrasero-burn/brasero-burn-dialog.c:2141
 msgid "There are some more videos left to burn"
@@ -1061,7 +1061,7 @@ msgid ""
 "file."
 msgstr ""
 "Tulong peutamong CD/DVD nyang jeut ta tuleh meuseu Droeneuh neuk peugot "
-"berkas salenan asli (image)."
+"beureukaih salenan asli (image)."
 
 #: ../libbrasero-burn/brasero-burn-options.c:302 ../src/brasero-project.c:1595
 msgid "Create _Image"
@@ -1088,7 +1088,7 @@ msgstr "Burn Padum boh_Salenan"
 #: ../libbrasero-burn/brasero-burn-options.c:426 ../src/brasero-project.c:949
 msgid "Would you like to burn the selection of files across several media?"
 msgstr ""
-"Peukeuh Droneuh neuk burn berkas nyang kalheuh i pileh ke padum boh media?"
+"Peukeuh Droneuh neuk burn beureukaih nyang kalheuh i pileh ke padum boh media?"
 
 #: ../libbrasero-burn/brasero-burn-options.c:427
 #: ../libbrasero-burn/brasero-burn-options.c:444
@@ -1097,11 +1097,11 @@ msgstr "Ukuran data rayeuk that untuk disk bahkan untuk pilehan overburn."
 
 #: ../libbrasero-burn/brasero-burn-options.c:432 ../src/brasero-project.c:954
 msgid "_Burn Several Discs"
-msgstr "_burn Padum boh Disk"
+msgstr "_Teoet Padum boh Disk"
 
 #: ../libbrasero-burn/brasero-burn-options.c:434 ../src/brasero-project.c:956
 msgid "Burn the selection of files across several media"
-msgstr "Burn berkas nyang kalheuh i pileh ke padum boh media"
+msgstr "Burn beureukaih nyang kalheuh i pileh ke padum boh media"
 
 #: ../libbrasero-burn/brasero-burn-options.c:443 ../src/brasero-project.c:965
 msgid "Please choose another CD or DVD or insert a new one."
@@ -1118,7 +1118,7 @@ msgstr "Hal nyoe hana i dukung le backend burn nyang saat nyoe aktif."
 #: ../libbrasero-burn/brasero-burn-options.c:470
 #: ../nautilus/nautilus-burn-extension.c:239
 msgid "Please add files."
-msgstr "Tulong neu tamah berkas."
+msgstr "Tulong neu tamah beureureukaih."
 
 #: ../libbrasero-burn/brasero-burn-options.c:471
 #: ../libbrasero-burn/brasero-track-data.c:672
@@ -1127,7 +1127,7 @@ msgstr "Tulong neu tamah berkas."
 #: ../nautilus/nautilus-burn-extension.c:240 ../src/brasero-project.c:1277
 #, c-format
 msgid "There are no files to write to disc"
-msgstr "Hana berkas nyang neuk i tuleh bak disk"
+msgstr "Hana beureukaih nyang neuk i tuleh bak disk"
 
 #: ../libbrasero-burn/brasero-burn-options.c:476
 msgid "Please add songs."
@@ -1151,7 +1151,7 @@ msgstr "Hana disk nyang neupeutamong untuk ta salen."
 
 #: ../libbrasero-burn/brasero-burn-options.c:504
 msgid "Please select a disc image."
-msgstr "Tulong pileh berkas salenan disk."
+msgstr "Tulong pileh beureukaih salenan disk."
 
 #: ../libbrasero-burn/brasero-burn-options.c:505
 msgid "There is no selected disc image."
@@ -1163,11 +1163,11 @@ msgstr "Hana image disk nyang i pileh."
 #: ../libbrasero-burn/brasero-src-image.c:167
 msgctxt "disc"
 msgid "Please select another image."
-msgstr "Tulong neu pilih berkas selenan disk nyang laen."
+msgstr "Tulong neu pilih beureukaih selenan disk nyang laen."
 
 #: ../libbrasero-burn/brasero-burn-options.c:516
 msgid "It doesn't appear to be a valid disc image or a valid cue file."
-msgstr "Nyoe hana leumah sebagai image disk atau cue berkas nyang beutoi."
+msgstr "Nyoe hana leumah sebagai image disk atau cue beureukaih nyang beutoi."
 
 #: ../libbrasero-burn/brasero-burn-options.c:525
 msgid "Please insert a disc that is not copy protected."
@@ -1195,7 +1195,7 @@ msgid ""
 "You may want to use this option if you're using 90 or 100 min CD-R(W) which cannot be properly recognised and therefore need overburn option.\n"
 "NOTE: This option might cause failure."
 msgstr ""
-"Ukuran data rayeuk that untuk disk, Droe neuh payah sampoh berkas nyang na bak pilehan.\n"
+"Ukuran data rayeuk that untuk disk, Droe neuh payah sampoh beureukaih nyang na bak pilehan.\n"
 "Droe neuh mungkin neuk pakek opsi nyoe meuseu Droe neuh neu pake 90 atau 100 meunet CD-R(W) nyang hana i turi dan karena nyan peurle pilehan overburn.\n"
 "CATATAN: Pilehan nyoe bisa jeut keu gagal."
 
@@ -1239,7 +1239,7 @@ msgid ""
 "Do you want to create a disc from the contents of the image or with the "
 "image file inside?"
 msgstr ""
-"Peukeuh Droe neuh neuk peugot disk dari asoe image atau berkas salinan nyang"
+"Peukeuh Droe neuh neuk peugot disk dari asoe image atau beureukaih salinan nyang"
 " asli (image)?"
 
 #. Translators: %s is the name of the image
@@ -1249,12 +1249,12 @@ msgid ""
 "There is only one selected file (\"%s\"). It is the image of a disc and its "
 "contents can be burned."
 msgstr ""
-"Cuma na saboh berkas nyang i pileh (\"%s\"). Nyoe na keuh image bak disk dan"
+"Cuma na saboh beureukaih nyang i pileh (\"%s\"). Nyoe na keuh image bak disk dan"
 " asoe jih jeut ta burn."
 
 #: ../libbrasero-burn/brasero-burn-options.c:802
 msgid "Burn as _File"
-msgstr "Burn seubagoe_Berkas"
+msgstr "Burn seubagoe_beureukaih"
 
 #: ../libbrasero-burn/brasero-burn-options.c:804
 msgid "Burn _Contents…"
@@ -1381,7 +1381,7 @@ msgid ""
 "The filesystem on this volume does not support large files (size over 2 GiB).\n"
 "This can be a problem when writing DVDs or large images."
 msgstr ""
-"Sistem berkas bak volume nyoe hana mendukung berkas nyang rayeuek (ukuran "
+"Sistem beureukaih bak volume nyoe hana mendukung beureukaih nyang rayeuek (ukuran "
 "leubeh dari 2 GiB). Nyoe jeut ke masalah menyoe ta tuleh DVD atau image "
 "nyang rayeuek."
 
@@ -1440,11 +1440,11 @@ msgstr "Pakek burn_proof (peu ubeut resiko gagal)"
 
 #: ../libbrasero-burn/brasero-drive-properties.c:728
 msgid "Burn the image directly _without saving it to disc"
-msgstr "Burn image langsong hana payah simpan ke disk"
+msgstr "Burn image langsong hana payah keubah ke disk"
 
 #: ../libbrasero-burn/brasero-drive-properties.c:730
 msgid "Leave the disc _open to add other files later"
-msgstr "Biarkan disk teuhah untuk tamah berkas laen abeh nyan"
+msgstr "Biarkan disk teuhah untuk tamah beureukaih laen abeh nyan"
 
 #: ../libbrasero-burn/brasero-drive-properties.c:731
 msgid "Allow to add more data to the disc later"
@@ -1458,23 +1458,23 @@ msgstr "Pilehan"
 
 #: ../libbrasero-burn/brasero-drive-properties.c:763
 msgid "Location for _Temporary Files"
-msgstr "Lokasi Berkas_Siat"
+msgstr "Lokasi beureukaih _Siat"
 
 #: ../libbrasero-burn/brasero-drive-properties.c:783
 msgid "Set the directory where to store temporary files"
-msgstr "Ato tempat ta simpan berkas siat"
+msgstr "Ato tempat ta keubah beureukaih siat"
 
 #: ../libbrasero-burn/brasero-drive-properties.c:788
 msgid "Temporary files"
-msgstr "Berkas sementara"
+msgstr "beureukaih sementara"
 
 #: ../libbrasero-burn/brasero-filtered-uri.c:57
 msgid "Hidden file"
-msgstr "Berkas nyang hana leumah"
+msgstr "beureukaih nyang hana leumah"
 
 #: ../libbrasero-burn/brasero-filtered-uri.c:58
 msgid "Unreadable file"
-msgstr "Berkas hanjeut i baca"
+msgstr "beureukaih hanjeut i baca"
 
 #: ../libbrasero-burn/brasero-filtered-uri.c:59
 msgid "Broken symbolic link"
@@ -1528,7 +1528,7 @@ msgid ""
 "If you choose to keep it, programs may not be able to recognize the file "
 "type properly."
 msgstr ""
-"Miseu Dron pileh kemeung simpan. program han dapat keunali jenis berkas "
+"Miseu Dron pileh kemeung keubah. program han dapat keunali jenis beureukaih "
 "nyang beutoi."
 
 #: ../libbrasero-burn/brasero-medium-properties.c:142
@@ -1548,7 +1548,7 @@ msgstr "Konfigurasikan opsi peurekaman"
 #: ../libbrasero-burn/brasero-progress.c:198
 #, c-format
 msgid "Total time: %02i:%02i:%02i"
-msgstr "Total wate:%021:%02i:%021"
+msgstr "Total wate: %02i:%02i:%02i"
 
 #: ../libbrasero-burn/brasero-progress.c:209
 msgid "Average drive speed:"
@@ -1580,7 +1580,7 @@ msgstr "\"%s\": imuat"
 #: ../libbrasero-burn/brasero-src-image.c:236
 #, c-format
 msgid "\"%s\": unknown disc image type"
-msgstr "\"%s\": jenis berkas salinan disk han ituri"
+msgstr "\"%s\": jenis beureukaih salinan disk han ituri"
 
 #. NOTE to translators, the first %s is the path of the image
 #. * file and the second its size.
@@ -1605,13 +1605,13 @@ msgstr "Pileh gamba Disk"
 #: ../nautilus/nautilus-burn-bar.c:236 ../src/brasero-file-chooser.c:350
 #: ../src/brasero-project.c:2225 ../src/brasero-project-name.c:162
 msgid "All files"
-msgstr "Mandum berkas"
+msgstr "Mandum beureukaih"
 
 #. Translators: this a disc image here
 #: ../libbrasero-burn/brasero-src-image.c:450
 msgctxt "disc"
 msgid "Image files"
-msgstr "Berkas salinan"
+msgstr "beureukaih salinan"
 
 #: ../libbrasero-burn/brasero-src-image.c:467
 msgid "Image type:"
@@ -1636,20 +1636,20 @@ msgid ""
 "Note: Such a file hierarchy is known to work on Linux."
 msgstr ""
 "Aneuk dari direktori nyoe na 7 ma direktori.\n"
-"Brasero jeut i peugot berkas salenan aseli(image) hirarki berkas nyan dan diburn bak disk, namun mungken hanjeut i baca le sistem operasi laen.\n"
-"Catatan: Hirarki berkas i teupeu jeut didukung bak sistem Linux."
+"Brasero jeut i peugot beureukaih salenan aseli(image) hirarki beureukaih nyan dan diburn bak disk, namun mungken hanjeut i baca le sistem operasi laen.\n"
+"Catatan: Hirarki beureukaih i teupeu jeut didukung bak sistem Linux."
 
 #: ../libbrasero-burn/brasero-status-dialog.c:232
 #: ../libbrasero-burn/brasero-status-dialog.c:294
 #: ../src/brasero-data-disc.c:839 ../src/brasero-data-disc.c:883
 msgid "Ne_ver Add Such File"
-msgstr "_Bek Sagai Tamah Berkas Nyan"
+msgstr "_Bek Sagai Tamah beureukaih Nyan"
 
 #: ../libbrasero-burn/brasero-status-dialog.c:233
 #: ../libbrasero-burn/brasero-status-dialog.c:295
 #: ../src/brasero-data-disc.c:840 ../src/brasero-data-disc.c:884
 msgid "Al_ways Add Such File"
-msgstr "_Sabe Jeut Tamah Berkas Nyan"
+msgstr "_Sabe Jeut Tamah beureukaih Nyan"
 
 #: ../libbrasero-burn/brasero-status-dialog.c:271
 #: ../src/brasero-data-disc.c:826
@@ -1668,9 +1668,9 @@ msgid ""
 "It is recommended to use the third version of the ISO9660 standard, which is supported by most operating systems, including Linux and all versions of Windows™.\n"
 "However, Mac OS X cannot read images created with version 3 of the ISO9660 standard."
 msgstr ""
-"Ukoran berkas leubeh dari 2 GiB. Berkas dengon ukuran lagenyan hana i dukung le standar ISO9660 bak versi phon maupun kedua (nyang sering i pakek).\n"
+"Ukoran beureukaih leubeh dari 2 GiB. beureukaih dengon ukuran lagenyan hana i dukung le standar ISO9660 bak versi phon maupun kedua (nyang sering i pakek).\n"
 "I sarankan untuk pake versi keulhe dari standar ISO9660, nyang kalheuh i dukong lee leue sistem operasi, termasuk Linux dan mandung versi Windows™.\n"
-"Tapi, Mac OS X hanjeut i baca berkas salenan aseuli image) nyang i peugot ngon versi 3 standar ISO9660 nyan."
+"Tapi, Mac OS X hanjeut i baca beureukaih salenan aseuli image) nyang i peugot ngon versi 3 standar ISO9660 nyan."
 
 #: ../libbrasero-burn/brasero-status-dialog.c:330
 #: ../src/brasero-data-disc.c:729
@@ -1702,7 +1702,7 @@ msgstr "Harap preh sampoe perkiraan ukoran lheuh."
 
 #: ../libbrasero-burn/brasero-status-dialog.c:569
 msgid "All files need to be analysed to complete this operation."
-msgstr "Mandum berkas peurle dianalisa untuk peuleusoe operasi nyoe."
+msgstr "Mandum beureukaih peurle dianalisa untuk peuleusoe operasi nyoe."
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:134
 #: ../libbrasero-burn/brasero-sum-dialog.c:215
@@ -1722,23 +1722,23 @@ msgstr "Terjadi error nyang hana i turi."
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:178
 msgid "The file integrity check was performed successfully."
-msgstr "Ka berhasil peuriksa integritas berkas."
+msgstr "Ka berhasil peuriksa integritas beureukaih."
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:179
 msgid "There seem to be no corrupted files on the disc"
-msgstr "Sang na berkas nyang reuloh bak disk"
+msgstr "Sang na beureukaih nyang reuloh bak disk"
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:207
 msgid "The following files appear to be corrupted:"
-msgstr "Berkas-berkas nyoe sang reuleh:"
+msgstr "beureukaih-beureukaih nyoe sang reuleh:"
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:250
 msgid "Corrupted Files"
-msgstr "Berkas reuleh"
+msgstr "beureukaih reuleh"
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:342
 msgid "Downloading MD5 file"
-msgstr "I download berkas MD5"
+msgstr "I download beureukaih MD5"
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:397
 #, c-format
@@ -1747,19 +1747,19 @@ msgstr "\"%s\" bukon keu URI nyang beutoi"
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:515
 msgid "No MD5 file was given."
-msgstr "Hana berkas MD5 nyang i bie."
+msgstr "Hana beureukaih MD5 nyang i bie."
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:692
 msgid "Use an _MD5 file to check the disc"
-msgstr "Pake _MD5 berkas keu peuriksa disk"
+msgstr "Pake _MD5 beureukaih keu peuriksa disk"
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:693
 msgid "Use an external .md5 file that stores the checksum of a disc"
-msgstr "Pake eksternal .md5 berkas nyang keubah checksum dari saboh disk"
+msgstr "Pake eksternal .md5 beureukaih nyang keubah checksum dari saboh disk"
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:706
 msgid "Open an MD5 file"
-msgstr "Buka berkas MD5"
+msgstr "Peuhah beureukaih MD5"
 
 #: ../libbrasero-burn/brasero-sum-dialog.c:721
 msgid "_Check"
@@ -1815,7 +1815,7 @@ msgstr "Soh"
 
 #: ../libbrasero-burn/brasero-track-data-cfg.c:725
 msgid "Disc file"
-msgstr "Berkas disk"
+msgstr "beureukaih disk"
 
 #: ../libbrasero-burn/brasero-track-data-cfg.c:803
 #, c-format
@@ -1837,7 +1837,7 @@ msgstr "Folder  baro %i"
 #: ../libbrasero-burn/brasero-track-data-cfg.c:2406
 #: ../libbrasero-burn/brasero-track-data-cfg.c:2416
 msgid "Analysing files"
-msgstr "I analisa berkas"
+msgstr "I analisa beureukaih"
 
 #: ../libbrasero-burn/brasero-track-data-cfg.c:2552
 #, c-format
@@ -1857,7 +1857,7 @@ msgstr "Cok format gamba dan ukoran"
 #. Translators: This is a disc image
 #: ../libbrasero-burn/brasero-track-image-cfg.c:471
 msgid "The format of the disc image could not be identified"
-msgstr "Format berkas salenan (image) disk hanjeut i peutente"
+msgstr "Format beureukaih salenan (image) disk hanjeut i peutente"
 
 #: ../libbrasero-burn/brasero-track-image-cfg.c:472
 msgid "Please set it manually"
@@ -1867,7 +1867,7 @@ msgstr "Neu tulong ato dengon manual"
 #: ../libbrasero-burn/brasero-track-stream-cfg.c:90
 #, c-format
 msgid "\"%s\" was removed from the file system."
-msgstr "\"%s\" kalheuh i sampoh dari sistem berkas."
+msgstr "\"%s\" kalheuh i sampoh dari sistem beureukaih."
 
 #: ../libbrasero-burn/brasero-track-stream-cfg.c:129
 #: ../src/brasero-audio-disc.c:754 ../src/brasero-video-disc.c:365
@@ -1889,7 +1889,7 @@ msgstr "\"%s\" hana cocok keu media audio ato video"
 
 #: ../libbrasero-burn/brasero-track-stream-cfg.c:401
 msgid "Analysing video files"
-msgstr "Peu analisa berkas video"
+msgstr "Peu analisa beureukaih video"
 
 #: ../libbrasero-burn/brasero-video-options.c:447
 msgid "Video format:"
@@ -1963,11 +1963,11 @@ msgstr "Peugot checksu"
 
 #: ../libbrasero-burn/burn-basics.c:83
 msgid "Copying file"
-msgstr "Tengoh copy berkas"
+msgstr "Tengoh copy beureukaih"
 
 #: ../libbrasero-burn/burn-basics.c:84
 msgid "Analysing audio files"
-msgstr "Tengoh i analisa berkas audio"
+msgstr "Tengoh i analisa beureukaih audio"
 
 #: ../libbrasero-burn/burn-basics.c:85
 msgid "Transcoding song"
@@ -2039,8 +2039,8 @@ msgid ""
 "The filesystem you chose to store the temporary image on cannot hold files "
 "with a size over 2 GiB"
 msgstr ""
-"Berkas sistem nyang Droeneuh pileh keu simpan image siat han jeut keubah "
-"berkas dengon ukoran leubeh dari 2 GiB"
+"beureukaih sistem nyang Droeneuh pileh keu keubah image siat han jeut keubah "
+"beureukaih dengon ukoran leubeh dari 2 GiB"
 
 #: ../libbrasero-burn/burn-job.c:537 ../libbrasero-burn/burn-job.c:559
 #, c-format
@@ -2077,7 +2077,7 @@ msgstr "Na kesalahan (%s)"
 #: ../plugins/libburnia/burn-libisofs.c:707
 #, c-format
 msgid "The file is not stored locally"
-msgstr "Berkas nyang hana i simpan dengon lokal"
+msgstr "beureukaih nyang hana i keubah dengon lokal"
 
 #: ../libbrasero-burn/burn-mkisofs-base.c:644
 #, c-format
@@ -2124,7 +2124,7 @@ msgstr "Proses \"%s\" abeh dengon nyang salah (%i)"
 #: ../libbrasero-media/brasero-medium.c:206
 #: ../libbrasero-media/brasero-volume.c:382
 msgid "Image File"
-msgstr "Berkas Salenan"
+msgstr "beureukaih Salenan"
 
 #: ../libbrasero-media/brasero-drive-selection.c:341
 #: ../libbrasero-media/brasero-drive-selection.c:436
@@ -2145,7 +2145,7 @@ msgstr "Peuleumah pilehan keu pustaka media Brasero"
 
 #: ../libbrasero-media/brasero-medium.c:65
 msgid "File"
-msgstr "Berkas"
+msgstr "beureukaih"
 
 #: ../libbrasero-media/brasero-medium.c:66
 msgid "CD-ROM"
@@ -2421,7 +2421,7 @@ msgstr "_Peu leumah perubahan"
 #: ../libbrasero-utils/brasero-io.c:1416
 #, c-format
 msgid "The file does not appear to be a playlist"
-msgstr "Berkas hana lemah ke jeut playlist"
+msgstr "beureukaih hana lemah ke jeut playlist"
 
 #. Translators: This is an image, a picture, not a "Disc Image"
 #: ../libbrasero-utils/brasero-jacket-background.c:199
@@ -2626,7 +2626,7 @@ msgstr "Ikon seudang"
 #: ../src/brasero-project.c:2250 ../src/brasero-project-name.c:168
 msgctxt "picture"
 msgid "Image files"
-msgstr "Berkas gamba"
+msgstr "beureukaih gamba"
 
 #. Translators: this is the name of the plugin
 #. * which will be translated only when it needs
@@ -2796,7 +2796,7 @@ msgstr "Hana ruang nyang tersisa ke peurangka"
 #: ../plugins/cdrtools/burn-mkisofs.c:531
 #: ../plugins/libburnia/burn-libisofs.c:1078
 msgid "Creates disc images from a file selection"
-msgstr "Peugoet image disk dari seleksi berkas"
+msgstr "Peugoet image disk dari seleksi beureukaih"
 
 #: ../plugins/cdrkit/burn-readom.c:136 ../plugins/cdrtools/burn-readcd.c:137
 #, c-format
@@ -2842,7 +2842,7 @@ msgstr "Tuleh cue sheet"
 #: ../plugins/cdrkit/burn-wodim.c:394 ../plugins/cdrtools/burn-cdrecord.c:380
 #, c-format
 msgid "The disc needs to be reloaded before being recorded"
-msgstr "Disk pereule dibuka lom sigolom direkam"
+msgstr "Disk pereule peuhah lom sigolom direkam"
 
 #: ../plugins/cdrkit/burn-wodim.c:1270
 msgid "Burns, blanks and formats CDs and DVDs"
@@ -2896,51 +2896,49 @@ msgstr "Versi mkisofs nyoe hana didukung"
 #: ../plugins/checksum/burn-checksum-files.c:589
 #, c-format
 msgid "File \"%s\" could not be opened (%s)"
-msgstr "Berkas \"%s\" hanjeut dibuka (%s)"
+msgstr "beureukaih \"%s\" hanjeut teupeuhah (%s)"
 
 #: ../plugins/checksum/burn-checksum-files.c:617
 msgid "Creating checksum for image files"
-msgstr "Peugoet checksum untuk berkas copian asli (image)"
+msgstr "Peugoet checksum keu beureukaih image aseuli"
 
 #: ../plugins/checksum/burn-checksum-files.c:859
 #, c-format
 msgid "No checksum file could be found on the disc"
-msgstr "Hana berkas checksum yang iteume di CD"
+msgstr "Hana beureukaih checksum yang iteume lam CD"
 
 #: ../plugins/checksum/burn-checksum-files.c:893
 msgid "Checking file integrity"
-msgstr "Peuriksa integritas berkas"
+msgstr "Peuriksa integritas beureukaih"
 
 #: ../plugins/checksum/burn-checksum-files.c:987
 #: ../plugins/checksum/burn-checksum-files.c:1012
 #, c-format
 msgid "File \"%s\" could not be opened"
-msgstr "Berkas \"%s\" hanjeut dibuka"
+msgstr "Beureukaih \"%s\" hanjeut teupeuhah"
 
 #: ../plugins/checksum/burn-checksum-files.c:1085
 #: ../plugins/checksum/burn-checksum-files.c:1206
 #: ../plugins/checksum/burn-checksum-image.c:550
 #, c-format
 msgid "Some files may be corrupted on the disc"
-msgstr "Meupadum boeh berkas mungken reuloeh bak disk"
+msgstr "Meupadum boeh beureukaih mungken reuloeh bak disk"
 
 #. Translators: this is the name of the plugin
 #. * which will be translated only when it needs
 #. * displaying.
 #: ../plugins/checksum/burn-checksum-files.c:1465
 msgid "File Checksum"
-msgstr "Checksum Berkas"
+msgstr "Checksum Beureukaih"
 
 #: ../plugins/checksum/burn-checksum-files.c:1466
 msgid "Checks file integrities on a disc"
-msgstr "Peuriksa integritas berkas bak disk"
+msgstr "Peuriksa integritas beureukaih bak disk"
 
 #: ../plugins/checksum/burn-checksum-files.c:1504
 #: ../plugins/checksum/burn-checksum-image.c:856
 msgid "Hashing algorithm to be used:"
-msgstr ""
-"\n"
-"Algoritma hash yang akan ipakek:"
+msgstr "Algoritma hash yang akan jingui:"
 
 #: ../plugins/checksum/burn-checksum-files.c:1507
 #: ../plugins/checksum/burn-checksum-image.c:859
@@ -2965,7 +2963,7 @@ msgstr "SHA256"
 #: ../plugins/libburnia/burn-libburn.c:679
 #, c-format
 msgid "\"%s\" could not be opened (%s)"
-msgstr "\"%s\" hanjeut ibuka (%s)"
+msgstr "\"%s\" hanjeut teupeuhah (%s)"
 
 #: ../plugins/checksum/burn-checksum-image.c:359
 #: ../plugins/checksum/burn-checksum-image.c:456
@@ -2986,7 +2984,7 @@ msgstr "Cek integritas disk aleuh dibakar"
 #: ../plugins/dvdauthor/burn-dvdauthor.c:313
 #: ../plugins/vcdimager/burn-vcdimager.c:438
 msgid "Creating file layout"
-msgstr "Peugoet tata letak berkas"
+msgstr "Peugoet tata letak beureukaih"
 
 #: ../plugins/dvdauthor/burn-dvdauthor.c:371
 msgid "Creates disc images suitable for video DVDs"
@@ -3016,7 +3014,7 @@ msgstr "Coek gunci DVD"
 #: ../plugins/dvdcss/burn-dvdcss.c:374
 #, c-format
 msgid "Video DVD could not be opened"
-msgstr "DVD video hanjeut dibuka"
+msgstr "DVD video hanjeut teupeuhah"
 
 #: ../plugins/dvdcss/burn-dvdcss.c:395 ../plugins/dvdcss/burn-dvdcss.c:460
 #: ../plugins/dvdcss/burn-dvdcss.c:483
@@ -3114,39 +3112,39 @@ msgstr ""
 #: ../plugins/libburnia/burn-libisofs.c:798
 #, c-format
 msgid "libisofs reported an error while adding file at path \"%s\""
-msgstr "libisofs Meulaporkan na keusalahan watee tamah berkas bak lokasi \"%s\""
+msgstr "libisofs Meulaporkan na keusalahan watee tamah beureukaih bak lokasi \"%s\""
 
 #: ../plugins/local-track/burn-local-image.c:260
 msgid "Copying checksum file"
-msgstr "Salen berkas checksum"
+msgstr "Salen beureukaih checksum"
 
 #: ../plugins/local-track/burn-local-image.c:527
 #: ../plugins/local-track/burn-uri.c:326
 msgid "Copying files locally"
-msgstr "Salen berkas lokal"
+msgstr "Salen beureukaih lokal"
 
 #. Translators: this is the name of the plugin
 #. * which will be translated only when it needs
 #. * displaying.
 #: ../plugins/local-track/burn-local-image.c:909
 msgid "File Downloader"
-msgstr "Downloader berkas"
+msgstr "Downloader beureukaih"
 
 #: ../plugins/local-track/burn-local-image.c:910
 msgid "Allows files not stored locally to be burned"
-msgstr "Peumungken berkas han ikeubah secara lokal untuk dibakar"
+msgstr "Peumungken beureukaih han ikeubah secara lokal untuk dibakar"
 
 #: ../plugins/local-track/burn-uri.c:207 ../plugins/local-track/burn-uri.c:297
 #: ../plugins/local-track/burn-uri.c:472
 #, c-format
 msgid "Impossible to retrieve local file path"
-msgstr "Han mungken untuk coek lokasi berkas lokal"
+msgstr "Han mungken untuk coek lokasi beureukaih lokal"
 
 #: ../plugins/local-track/burn-uri.c:748
 msgid ""
 "Allows files added to the \"CD/DVD Creator Folder\" in Nautilus to be burned"
 msgstr ""
-"Peumungken berkas itamah u \"CD/DVD Create Folder\" bak Nautilus untuk "
+"Peumungken beureukaih itamah u \"CD/DVD Create Folder\" bak Nautilus untuk "
 "ibakar"
 
 #. Translators: This message is sent
@@ -3207,15 +3205,15 @@ msgstr "Mentranskode \"%s\""
 
 #: ../plugins/transcode/burn-transcode.c:1736
 msgid "Converts any song file into a format suitable for audio CDs"
-msgstr "Menkonversi berkas lagu keu format yang sesuai untuk CD audio"
+msgstr "Menkonversi beureukaih lagu keu format yang sesuai untuk CD audio"
 
 #: ../plugins/transcode/burn-vob.c:1251
 msgid "Converting video file to MPEG2"
-msgstr "Meungkonversi berkas video jeut keu MPEG2"
+msgstr "Meungkonversi beureukaih video jeut keu MPEG2"
 
 #: ../plugins/transcode/burn-vob.c:1353
 msgid "Converts any video file into a format suitable for video DVDs"
-msgstr "Menkonversi berkas video keu format yang sesuai untuk DVD video"
+msgstr "Menkonversi beureukaih video keu format yang sesuai untuk DVD video"
 
 #: ../plugins/vcdimager/burn-vcdimager.c:478
 msgid "Creates disc images suitable for SVCDs"
@@ -3239,7 +3237,7 @@ msgstr "_Peuralatan"
 
 #: ../src/brasero-app.c:129
 msgid "_Help"
-msgstr "_Bantuan"
+msgstr "_Beunatu"
 
 #: ../src/brasero-app.c:131
 msgid "P_lugins"
@@ -3283,7 +3281,7 @@ msgstr "_Aso"
 
 #: ../src/brasero-app.c:146
 msgid "Display help"
-msgstr "Peulumah bantuan"
+msgstr "Peulumah beunantu"
 
 #: ../src/brasero-app.c:149
 msgid "About"
@@ -3373,7 +3371,7 @@ msgstr "P_royek Baro-baro nyo"
 
 #: ../src/brasero-app.c:1732
 msgid "Display the projects recently opened"
-msgstr "Peuleumah proyek yang ban-ban nyoe dibuka"
+msgstr "Peuleumah proyek yang ban-ban nyoe teupeuhah"
 
 #: ../src/brasero-audio-disc.c:155 ../src/brasero-data-disc.c:122
 #: ../src/brasero-video-disc.c:100
@@ -3382,11 +3380,11 @@ msgstr "Menu"
 
 #: ../src/brasero-audio-disc.c:156 ../src/brasero-data-disc.c:123
 msgid "Open the selected files"
-msgstr "Peugoet berkas nyang dipileh"
+msgstr "Peugoet beureukaih nyang dipileh"
 
 #: ../src/brasero-audio-disc.c:158 ../src/brasero-video-disc.c:103
 msgid "_Edit Information…"
-msgstr "_Edit Informasi…"
+msgstr "_Andam Informasi…"
 
 #: ../src/brasero-audio-disc.c:158
 msgid "Edit the track information (start, end, author, etc.)"
@@ -3395,7 +3393,7 @@ msgstr "Edit informasi trek (phon, akhee, penulis, dll)"
 #: ../src/brasero-audio-disc.c:160 ../src/brasero-data-disc.c:127
 #: ../src/brasero-project.c:202
 msgid "Remove the selected files from the project"
-msgstr "Sampoeh berkas yang dipileh dari proyek"
+msgstr "Sampoeh beureukaih yang dipileh dari proyek"
 
 #: ../src/brasero-audio-disc.c:162 ../src/brasero-data-disc.c:129
 #: ../src/brasero-video-disc.c:107
@@ -3463,14 +3461,14 @@ msgstr "Peupasti codec yang pah dipasang"
 #: ../src/brasero-audio-disc.c:662
 #, c-format
 msgid "Do you want to add \"%s\", which is a video file?"
-msgstr "Peukeuh dreun keuneuk tamah \"%s\", yang merupakan berkas video?"
+msgstr "Peukeuh dreun keuneuk tamah \"%s\", yang merupakan beureukaih video?"
 
 #: ../src/brasero-audio-disc.c:671
 msgid ""
 "This file is a video and therefore only the audio part can be written to the"
 " disc."
 msgstr ""
-"Berkas nyo adalah video dan karna nyan hanya bagian audio jeut dituleh u "
+"beureukaih nyo adalah video dan karna nyan hanya bagian audio jeut dituleh u "
 "disk."
 
 #: ../src/brasero-audio-disc.c:674
@@ -3479,11 +3477,11 @@ msgstr "_Beuh File"
 
 #: ../src/brasero-audio-disc.c:677
 msgid "_Add File"
-msgstr "T_amah Berkas"
+msgstr "T_amah beureukaih"
 
 #: ../src/brasero-audio-disc.c:748
 msgid "Do you want to search for audio files inside the directory?"
-msgstr "Peukeuh dreun keuneuk mita berkas audio lam direktori?"
+msgstr "Peukeuh dreun keuneuk mita beureukaih audio lam direktori?"
 
 #: ../src/brasero-audio-disc.c:758
 msgid "Search _Directory"
@@ -3492,7 +3490,7 @@ msgstr "Mita _Direktori"
 #: ../src/brasero-audio-disc.c:812 ../src/brasero-video-disc.c:395
 #, c-format
 msgid "\"%s\" could not be opened."
-msgstr "\"%s\" hanjeut dibuka."
+msgstr "\"%s\" hanjeut teupeuhah."
 
 #: ../src/brasero-audio-disc.c:857
 msgid "Do you want to create an audio CD with DTS tracks?"
@@ -3534,7 +3532,7 @@ msgstr "Han mungken keu peubeukah dari saboh lagu bak saboh watee"
 
 #: ../src/brasero-cli.c:70
 msgid "Open the specified project"
-msgstr "Buka proyek yang teunte"
+msgstr "Peuhah proyek yang teunte"
 
 #: ../src/brasero-cli.c:71
 msgid "PROJECT"
@@ -3542,7 +3540,7 @@ msgstr "PROYEK"
 
 #: ../src/brasero-cli.c:76
 msgid "Open the specified playlist as an audio project"
-msgstr "Buka playlist yang teunte sebagai proyek audio"
+msgstr "Peuhah playlist yang teunte seubago proyek audio"
 
 #: ../src/brasero-cli.c:77
 msgid "PLAYLIST"
@@ -3550,7 +3548,7 @@ msgstr "PLAYLIST"
 
 #: ../src/brasero-cli.c:82
 msgid "Set the drive to be used for burning"
-msgstr "Atoe perangkat keu pembakaran"
+msgstr "Atoe perangkat keu teungui keu teuteoet"
 
 #: ../src/brasero-cli.c:83
 msgid "DEVICE PATH"
@@ -3558,15 +3556,15 @@ msgstr "TEUMPAT PERANGKAT"
 
 #: ../src/brasero-cli.c:86
 msgid "Create an image file instead of burning"
-msgstr "Peuget berkas salinan asli(image), dari pada membakar"
+msgstr "Peuget beureukaih salinan asli(image), dari pada membakar"
 
 #: ../src/brasero-cli.c:90
 msgid "Open an audio project adding the URIs given on the command line"
-msgstr "Buka proyek audio tamah URI yang ibi bak bareh peurintah"
+msgstr "Peuhah proyek audio tamah URI yang ibi bak bareh peurintah"
 
 #: ../src/brasero-cli.c:94
 msgid "Open a data project adding the URIs given on the command line"
-msgstr "Buak data projek tamah URI yang ibi bak bareh peurintah"
+msgstr "Peuhah data projek tamah URI yang ibi bak bareh peurintah"
 
 #: ../src/brasero-cli.c:98
 msgid "Copy a disc"
@@ -3578,7 +3576,7 @@ msgstr "LOKASI U PERANGKAT"
 
 #: ../src/brasero-cli.c:102
 msgid "Cover to use"
-msgstr "Kover yang akan ipakek"
+msgstr "Kover keu neungui"
 
 #: ../src/brasero-cli.c:103
 msgid "PATH TO COVER"
@@ -3586,11 +3584,11 @@ msgstr "LOKASI U SAMPUL"
 
 #: ../src/brasero-cli.c:106
 msgid "Open a video project adding the URIs given on the command line"
-msgstr "Buka projek video tamah URI yang ibi bak bareh peurintah"
+msgstr "Peuhah projek video tamah URI yang ibi bak bareh peurintah"
 
 #: ../src/brasero-cli.c:110
 msgid "URI of an image file to burn (autodetected)"
-msgstr "URI dari berkas salenan asli untuk dibakar (otodeteksi)"
+msgstr "URI dari beureukaih salenan asli keu teoet (otodeteksi)"
 
 #: ../src/brasero-cli.c:111
 msgid "PATH TO IMAGE"
@@ -3602,19 +3600,19 @@ msgstr "Paksa brasero untuk peuleumah halaman seleksi proyek"
 
 #: ../src/brasero-cli.c:118
 msgid "Open the blank disc dialog"
-msgstr "Buka dialog disk soh"
+msgstr "Peuhah dialog disk soh"
 
 #: ../src/brasero-cli.c:122
 msgid "Open the check disc dialog"
-msgstr "Buka dialog periksa disk"
+msgstr "Peuhah dialog periksa disk"
 
 #: ../src/brasero-cli.c:126
 msgid "Burn the contents of the burn:// URI"
-msgstr "Membakar asoe URI burn://"
+msgstr "Teoet asoe URI burn://"
 
 #: ../src/brasero-cli.c:130
 msgid "Start burning immediately."
-msgstr "Segera mulai baks"
+msgstr "Sigra peuphon teoet"
 
 #: ../src/brasero-cli.c:134
 msgid "Don't connect to an already-running instance"
@@ -3665,7 +3663,7 @@ msgstr "_Ubah Nan"
 
 #: ../src/brasero-data-disc.c:125
 msgid "Rename the selected file"
-msgstr "Ubah nan berkas yang dipileh"
+msgstr "Ubah nan beureukaih yang dipileh"
 
 #: ../src/brasero-data-disc.c:131 ../src/brasero-data-disc.c:1758
 msgid "New _Folder"
@@ -3706,7 +3704,7 @@ msgid ""
 "There is only one selected file (\"%s\"). It is the image of a disc and its "
 "contents can be burned"
 msgstr ""
-"Hanya na saboh berkas yang pileh(\"%s\"). Nyo adalah image dari disk dan aso"
+"Hanya na saboh beureukaih yang pileh(\"%s\"). Nyo adalah image dari disk dan aso"
 " jih jeut dibakar"
 
 #: ../src/brasero-data-disc.c:625
@@ -3742,7 +3740,7 @@ msgid ""
 "A file with this name already exists in the folder.  Replacing it will "
 "overwrite its contents on the disc to be burnt."
 msgstr ""
-"Berkas ngon nan yang sama kana.  Gantoe nyoe akan teutimpa asoe berkas nyan "
+"beureukaih ngon nan yang sama kana.  Gantoe nyoe akan teutimpa asoe beureukaih nyan "
 "yang akan dibakar."
 
 #. Translators: Keep means we're keeping the files that already existed
@@ -3803,7 +3801,7 @@ msgstr "Pu Dreon keuneuk impor acar dari \"%s\"?"
 msgid ""
 "That way, old files from previous sessions will be usable after burning."
 msgstr ""
-"Nogn lagee nyan, berkasyang ka trep dari sesi sigolom jih akan ipakek aleuh "
+"Nogn lagee nyan, beureukaihyang ka trep dari sesi sigolom jih akan ipakek aleuh "
 "pembakaran."
 
 #: ../src/brasero-data-disc.c:1109
@@ -3816,31 +3814,31 @@ msgstr "Klik inoe untuk impor asoe jih"
 
 #: ../src/brasero-data-disc.c:1490
 msgid "Please wait while the project is loading."
-msgstr "Neu preh siat watee proyek teungoh ibuka."
+msgstr "Neu preh siat watee proyek teungoh jicok."
 
 #: ../src/brasero-data-disc.c:1500
 msgid "_Cancel Loading"
-msgstr "_Bek Jadeh Buka"
+msgstr "_Bek Jadeh Jicok"
 
 #: ../src/brasero-data-disc.c:1502
 msgid "Cancel loading current project"
-msgstr "Hana Jadeh proyek yang ibuka jinoe"
+msgstr "Hana Jadeh proyek yang peuhah jinoe"
 
 #: ../src/brasero-data-disc.c:1903
 msgid "File Renaming"
-msgstr "Gantoe Nan Berkas"
+msgstr "Gantoe Nan Beureukaih"
 
 #: ../src/brasero-data-disc.c:1907
 msgid "_Rename"
-msgstr "_Ubah Nan"
+msgstr "_GantoNan"
 
 #: ../src/brasero-data-disc.c:1913
 msgid "Renaming mode"
-msgstr "Mode gantoe nan"
+msgstr "Mode gantoenan"
 
 #: ../src/brasero-data-disc.c:2336 ../src/brasero-file-filtered.c:256
 msgid "Files"
-msgstr "Berkas-berkas"
+msgstr "beureukaih-beureukaih"
 
 #: ../src/brasero-data-disc.c:2350 ../src/brasero-video-disc.c:1224
 msgid "Size"
@@ -3869,7 +3867,7 @@ msgstr "Peutubit Disk"
 
 #: ../src/brasero-file-chooser.c:357 ../src/brasero-project.c:2230
 msgid "Audio files"
-msgstr "Berkas audio"
+msgstr "beureukaih audio"
 
 #: ../src/brasero-file-chooser.c:365 ../src/brasero-project.c:2239
 msgid "Movies"
@@ -3883,15 +3881,15 @@ msgstr "Hana file disaring"
 #, c-format
 msgid "Hide the _filtered file list (%d file)"
 msgid_plural "Hide the _filtered file list (%d files)"
-msgstr[0] "Peumusom  daftar _filter berkas (%d file)"
-msgstr[1] "Peumusom  daftar _filter berkas (%d file-file)"
+msgstr[0] "Peumusom  daftar _filter beureukaih (%d file)"
+msgstr[1] "Peumusom  daftar _filter beureukaih (%d file-file)"
 
 #: ../src/brasero-file-filtered.c:83
 #, c-format
 msgid "Show the _filtered file list (%d file)"
 msgid_plural "Show the _filtered file list (%d files)"
-msgstr[0] "Peulumah daftar _filter berkas(%d berkas)"
-msgstr[1] "Peulumah daftar _filter berkas(%d berkas-berkas)"
+msgstr[0] "Peulumah daftar _filter beureukaih(%d beureukaih)"
+msgstr[1] "Peulumah daftar _filter beureukaih(%d beureukaih-beureukaih)"
 
 #: ../src/brasero-file-filtered.c:135
 msgid "Filter Options"
@@ -3899,7 +3897,7 @@ msgstr "Opsi Peunyaring"
 
 #: ../src/brasero-file-filtered.c:218
 msgid "Select the files you want to restore and click on the \"Restore\" button"
-msgstr "Pileh berkas yang keuneuk dipeubalek dan teugeun tomboi \"Retore\""
+msgstr "Pileh beureukaih yang keuneuk dipeubalek dan teugeun tomboi \"Retore\""
 
 #: ../src/brasero-file-filtered.c:265
 msgid "Type"
@@ -3911,7 +3909,7 @@ msgstr "_Restore"
 
 #: ../src/brasero-file-filtered.c:301
 msgid "Restore the selected files"
-msgstr "Peubalek berkas yang dipileh"
+msgstr "Peubalek beureukaih yang dipileh"
 
 #: ../src/brasero-file-filtered.c:303
 msgid "_Options…"
@@ -3919,7 +3917,7 @@ msgstr "_Opsi..."
 
 #: ../src/brasero-file-filtered.c:311
 msgid "Set the options for file filtering"
-msgstr "Peuteutap pilehan keu berkas peunyaringan"
+msgstr "Peuteutap pilehan keu beureukaih peunyaringan"
 
 #. filter hidden files
 #: ../src/brasero-filter-option.c:65
@@ -4126,15 +4124,15 @@ msgstr "Keubah proyek nyo bak tempat yang laen"
 
 #: ../src/brasero-project.c:199
 msgid "_Add Files"
-msgstr "T_amah berkas u dalam proyek"
+msgstr "T_amah beureukaih u dalam proyek"
 
 #: ../src/brasero-project.c:200
 msgid "Add files to the project"
-msgstr "Peutamah berkas u dalam proyek"
+msgstr "Peutamah beureukaih u dalam proyek"
 
 #: ../src/brasero-project.c:201
 msgid "_Remove Files"
-msgstr "_Sampoh Berkas"
+msgstr "_Sampoh beureukaih"
 
 #. Translators: "empty" is a verb here
 #: ../src/brasero-project.c:204 ../src/brasero-project.c:2312
@@ -4143,7 +4141,7 @@ msgstr "_Peusoh Proyek"
 
 #: ../src/brasero-project.c:205
 msgid "Remove all files from the project"
-msgstr "Sampoh  mandum berkas dari proyek"
+msgstr "Sampoh  mandum beureukaih dari proyek"
 
 #: ../src/brasero-project.c:206 ../src/brasero-project.c:1086
 msgid "_Burn…"
@@ -4158,7 +4156,7 @@ msgid ""
 "To add files to this project click the \"Add\" button or drag files to this "
 "area"
 msgstr ""
-"Keu tamah berkas lam proyek nyo, teugeun tomboi \"Tambah\" atau tarek berkas"
+"Keu tamah beureukaih lam proyek nyo, teugeun tomboi \"Tambah\" atau tarek beureukaih"
 " nyan lam jendela nyo"
 
 #: ../src/brasero-project.c:697
@@ -4166,7 +4164,7 @@ msgid ""
 "To remove files select them then click on the \"Remove\" button or press "
 "\"Delete\" key"
 msgstr ""
-"Keu sampoh berkas, pileh berkas yang keuneuk disampoh abehnyan teugeun "
+"Keu sampoh beureukaih, pileh beureukaih yang keuneuk disampoh abehnyan teugeun "
 "tomboi \"Hapus\" atau teugeun tomboi \"Delete\""
 
 #: ../src/brasero-project.c:804
@@ -4184,7 +4182,7 @@ msgid ""
 "You may want to use this option if you're using 90 or 100 min CD-R(W) which cannot be properly recognized and therefore needs the overburn option.\n"
 "Note: This option might cause failure."
 msgstr ""
-"Projek nyo that rayeuk keu disk dan dreun harus neusampoh berkas nyo dari projek.\n"
+"Projek nyo that rayeuk keu disk dan dreun harus neusampoh beureukaih nyo dari projek.\n"
 "dreun mungken keuneuk pakek opsi nyo meunye dreun pakek 90 atau 100 min CD-R(W) yang jeut dituri sehingga perle opsi overburn.\n"
 "catatan: pilehan nyo jeut menyebabkan kesebab gagal."
 
@@ -4216,23 +4214,23 @@ msgstr "_Abaikan Peurubahsn"
 msgid ""
 "Do you want to discard the file selection or add it to the new project?"
 msgstr ""
-"Peukeuh dreun keuneuk peubatee pilehan berkas atau peutamah keu projek baro?"
+"Peukeuh dreun keuneuk peubatee pilehan beureukaih atau peutamah keu projek baro?"
 
 #: ../src/brasero-project.c:1925 ../src/brasero-project.c:1944
 msgid ""
 "If you choose to create a new empty project, the file selection will be "
 "discarded."
 msgstr ""
-"meuye dreun neu pileh keu peuget projek soh baro. pilehan berkas akan "
+"meuye dreun neu pileh keu peuget projek soh baro. pilehan beureukaih akan "
 "dibeuh."
 
 #: ../src/brasero-project.c:1927
 msgid "_Discard File Selection"
-msgstr "_Beuh Berkas Pilehan"
+msgstr "_Beuh beureukaih Pilehan"
 
 #: ../src/brasero-project.c:1931
 msgid "_Keep File Selection"
-msgstr "Peun_theun Seleksi Berkas"
+msgstr "Peun_theun Seleksi beureukaih"
 
 #: ../src/brasero-project.c:1946
 msgid "_Discard Project"
@@ -4252,8 +4250,8 @@ msgid ""
 " lost. Note that files will not be deleted from their own location, just no "
 "longer listed here."
 msgstr ""
-"Peusoh saboh projek jeut meunghapos mandum berkas yang ka ditamah. Mandum "
-"projek akan gadoh. Perhatikan bahwa berkas hans disampoh dari tempat dro, "
+"Peusoh saboh projek jeut meunghapos mandum beureukaih yang ka ditamah. Mandum "
+"projek akan gadoh. Perhatikan bahwa beureukaih hans disampoh dari tempat dro, "
 "hanya hana  tercamtum disino."
 
 #: ../src/brasero-project.c:2368
@@ -4414,11 +4412,11 @@ msgstr "Membakar salinan CD/DVD"
 
 #: ../src/brasero-project-manager.c:112
 msgid "_Open…"
-msgstr "_Buka"
+msgstr "_Peuhah"
 
 #: ../src/brasero-project-manager.c:113
 msgid "Open a project"
-msgstr "Buka proyek"
+msgstr "Peuhah proyek"
 
 #. Translators: the %s is a string representing the total size
 #. * of the file selection
@@ -4426,40 +4424,40 @@ msgstr "Buka proyek"
 #, c-format
 msgid "%d file selected (%s)"
 msgid_plural "%d files selected (%s)"
-msgstr[0] "%d berkas yang dipileh(%s)"
-msgstr[1] "%d berkas-berkas yang dipileh(%s)"
+msgstr[0] "%d beureukaih yang dipileh(%s)"
+msgstr[1] "%d beureukaih-beureukaih yang dipileh(%s)"
 
 #: ../src/brasero-project-manager.c:270
 #, c-format
 msgid "%d file is supported (%s)"
 msgid_plural "%d files are supported (%s)"
-msgstr[0] "%d berkas yang didukung (%s)"
-msgstr[1] "%d berkas-berkas yang didukung (%s)"
+msgstr[0] "%d beureukaih yang didukung (%s)"
+msgstr[1] "%d beureukaih-beureukaih yang didukung (%s)"
 
 #: ../src/brasero-project-manager.c:276
 #, c-format
 msgid "%d file can be added (%s)"
 msgid_plural "%d selected files can be added (%s)"
-msgstr[0] "%d berkas yang jeut ditamah(%s)"
-msgstr[1] "%d pileh berkas-berkas yang jeut ditamah(%s)"
+msgstr[0] "%d beureukaih yang jeut ditamah(%s)"
+msgstr[1] "%d pileh beureukaih-beureukaih yang jeut ditamah(%s)"
 
 #: ../src/brasero-project-manager.c:287
 #, c-format
 msgid "No file can be added (%i selected file)"
 msgid_plural "No file can be added (%i selected files)"
-msgstr[0] "Hana berkas yang jeut ditamah (%i berkas dipileh)"
-msgstr[1] "Hana berkas yang jeut ditamah (%i berkas-berkas dipileh)"
+msgstr[0] "Hana beureukaih yang jeut ditamah (%i beureukaih dipileh)"
+msgstr[1] "Hana beureukaih yang jeut ditamah (%i beureukaih-beureukaih dipileh)"
 
 #: ../src/brasero-project-manager.c:293
 #, c-format
 msgid "No file is supported (%i selected file)"
 msgid_plural "No file is supported (%i selected files)"
-msgstr[0] "Hana berkas yang didukung(%i berkas dipileh)"
-msgstr[1] "Hana berkas yang didukung(%i berkas-berkas dipileh)"
+msgstr[0] "Hana beureukaih yang didukung(%i beureukaih dipileh)"
+msgstr[1] "Hana beureukaih yang didukung(%i beureukaih-beureukaih dipileh)"
 
 #: ../src/brasero-project-manager.c:299 ../src/brasero-project-manager.c:453
 msgid "No file selected"
-msgstr "Hana berkas yang dipileh"
+msgstr "Hana beureukaih yang dipileh"
 
 #: ../src/brasero-project-manager.c:590
 msgid "Brasero — New Audio Disc Project"
@@ -4475,7 +4473,7 @@ msgstr "Brasero- Proyek Baro Disk Vidio"
 
 #: ../src/brasero-project-manager.c:628
 msgid "Brasero — New Image File"
-msgstr "Brasero- Berkas Salinan Baro"
+msgstr "Brasero- beureukaih Salinan Baro"
 
 #: ../src/brasero-project-manager.c:643
 msgid "Brasero — Disc Copy"
@@ -4483,7 +4481,7 @@ msgstr "Brasero- Salinan Disk"
 
 #: ../src/brasero-project-manager.c:727
 msgid "Open Project"
-msgstr "Buka Proyek"
+msgstr "Peuhah Proyek"
 
 #: ../src/brasero-project-manager.c:830
 msgid "_New"
@@ -4491,22 +4489,22 @@ msgstr "_Baro"
 
 #: ../src/brasero-project-manager.c:834
 msgid "_Open"
-msgstr "_Buka"
+msgstr "_Peuhah"
 
 #: ../src/brasero-project-manager.c:885
 msgid "Browse the file system"
-msgstr "Teungeuh mita sistem berkas"
+msgstr "Teungeuh mita sistem beureukaih"
 
 #: ../src/brasero-project-manager.c:907
 msgid "Display playlists and their contents"
-msgstr "Tampilan playlist dan aso jih"
+msgstr "Teupeuleumah playlist dan aso jih"
 
 #. Translators: this is a picture not
 #. * a disc image
 #: ../src/brasero-project-name.c:83
 msgctxt "picture"
 msgid "Please select another image."
-msgstr "Neu ci pileh berkas salinan laen."
+msgstr "Neu ci pileh beureukaih image beurangkari."
 
 #. NOTE to translators: the final string must not be over
 #. * 32 _bytes_.
@@ -4518,15 +4516,15 @@ msgstr "Disk vidio(%s)"
 
 #: ../src/brasero-project-parse.c:62
 msgid "Error while loading the project."
-msgstr "Gagal watee buka proyek."
+msgstr "Gagal watee peuhah proyek."
 
 #: ../src/brasero-project-parse.c:454
 msgid "The project could not be opened"
-msgstr "Proyek hanjeut dibuka"
+msgstr "Proyek hanjeut teupeuhah"
 
 #: ../src/brasero-project-parse.c:463
 msgid "The file is empty"
-msgstr "Berkas nyo kosong"
+msgstr "Beureukaih nakeuh soh"
 
 #: ../src/brasero-project-parse.c:542 ../src/brasero-project-parse.c:607
 msgid "It does not seem to be a valid Brasero project"
@@ -4578,9 +4576,7 @@ msgstr "Muat projek keuneulheuh yang hanjeut dibakar atau hanjeut dikeubah"
 
 #: ../src/brasero-project-type-chooser.c:414
 msgid "No recently used project"
-msgstr ""
-"\n"
-"Hana proyek yang baroe-baroe nyo dipakek"
+msgstr "Hana proyek yang baroe-baroe nyo jingui"
 
 #: ../src/brasero-project-type-chooser.c:463
 msgid "Create a new project:"
@@ -4604,7 +4600,7 @@ msgstr "Peuganto teks"
 
 #: ../src/brasero-rename.c:325
 msgid "Number files according to a pattern"
-msgstr "Nomboi berkas pah ngeun pola"
+msgstr "Nomboi beureukaih pah ngeun pola"
 
 #: ../src/brasero-rename.c:326
 msgid "Insert number sequence at beginning"
@@ -4852,7 +4848,7 @@ msgstr "Frame (1 detik = 75 frame)"
 
 #: ../src/brasero-video-disc.c:101
 msgid "Open the selected video"
-msgstr "Buka video nyang kalheuh neupileh"
+msgstr "Peuhah video nyang kalheuh neupileh"
 
 #: ../src/brasero-video-disc.c:103
 msgid "Edit the video information (start, end, author, etc.)"
@@ -4949,6 +4945,6 @@ msgstr "[URI] [URI] ..."
 #: ../src/main.c:97
 #, c-format
 msgid "Please type \"%s --help\" to see all available options\n"
-msgstr "Silakan neu ketik \"%s --help\" untuk kalon mandum pilihan nyang tersedia"
+msgstr "Silakan neu ketik \"%s --help\" untuk kalon mandum peunileh nyang na\n"
 
 

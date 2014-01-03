@@ -2,7 +2,7 @@
 # PO message string template file for Shotwell Core Components
 # Copyright (C) 2009-2012 Yorba Foundation
 # This file is distributed under the GNU LGPL, version 2.1.
-# 
+#
 #  <ayunandasari419@gmail.com>, 2013.
 #  <hendramurdani46@gmail.com>, 2013.
 #  <korechika@live.com>, 2013.
@@ -15,14 +15,17 @@ msgstr ""
 "Project-Id-Version: Suroboyo\n"
 "Report-Msgid-Bugs-To: http://dev.blankonlinux.or.id/\n"
 "POT-Creation-Date: 2012-09-13 13:32-0700\n"
-"PO-Revision-Date: 2013-11-06 08:40+0000\n"
-"Last-Translator: maulidanns maulidanns <maulidanms@ymail.com>\n"
-"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Suroboyo/team/ace/)\n"
+"PO-Revision-Date: 2014-01-03 22:44+0700\n"
+"Last-Translator: Mahyuddin Idram Ahmad <dotovr@di.blankon.in>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/"
+"Suroboyo/team/ace/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ace\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Bookmarks: -1,-1,-1,-1,806,-1,-1,-1,-1,-1\n"
 
 # Translator credits string for the about box -- translators, add your name
 # below if it's not already present
@@ -109,7 +112,8 @@ msgstr "_Hana jadeh"
 #: src/AppWindow.vala:665
 #, c-format
 msgid ""
-"A fatal error occurred when accessing Shotwell's library.  Shotwell cannot continue.\n"
+"A fatal error occurred when accessing Shotwell's library.  Shotwell cannot "
+"continue.\n"
 "\n"
 "%s"
 msgstr ""
@@ -191,7 +195,7 @@ msgstr "jeum:"
 
 #: src/Properties.vala:350 src/Properties.vala:355
 msgid "From:"
-msgstr "dari:\n"
+msgstr "Dari:"
 
 #: src/Properties.vala:351 src/Properties.vala:356
 msgid "To:"
@@ -324,9 +328,7 @@ msgstr "[FILE]"
 #: src/main.vala:338
 #, c-format
 msgid "Run '%s --help' to see a full list of available command line options.\n"
-msgstr ""
-"Peujak deungon peurintah '%s --help' untuk kalon daftar opsi yang jeut "
-"dipakek"
+msgstr "Peujak '%s --help' keu kalon daftar peunileh nyang bareh peurintah.\n"
 
 #: src/Exporter.vala:232
 #, c-format
@@ -649,8 +651,8 @@ msgstr "Bek jadeh peungaturan tanggai ngeun jeum"
 #: src/Commands.vala:1262
 msgid "One original photo could not be adjusted."
 msgid_plural "The following original photos could not be adjusted."
-msgstr[0] "Saboh foto yang asli hanjeut diganggu\n"
-msgstr[1] "Foto nyoe hanjeut diato"
+msgstr[0] "Saboh foto yang asli hanjeut diganggu."
+msgstr[1] "Seutot Foto aseuli nyoe hanjeut diato."
 
 #: src/Commands.vala:1264 src/Commands.vala:1288
 msgid "Time Adjustment Error"
@@ -1248,7 +1250,7 @@ msgstr "Foto Teuboeh Teungoh Dihapoh Permanen"
 
 #: src/library/LibraryWindow.vala:862
 msgid "Shotwell is configured to import photos to your home directory.\n"
-msgstr "Shotwell dikonfigurasikan keu meuimpor foto keu direktori beranda"
+msgstr "Shotwell dikonfigurasikan keu meuimpor foto keu direktori beranda.\n"
 
 #: src/library/LibraryWindow.vala:865 src/data_imports/DataImportsUI.vala:112
 msgid "_Import"
@@ -1507,7 +1509,7 @@ msgstr ""
 msgid ""
 "Unable to export the following photo due to a file error.\n"
 "\n"
-msgstr "Peuekspor foto nyoe gagal karena kesalahan teknis bak berkah"
+msgstr "Peuekspor foto nyoe gagal karena kesalahan teknis bak beureukaih.\n"
 
 #: src/Dialogs.vala:130
 msgid ""
@@ -1559,7 +1561,7 @@ msgstr "dan %d boeh teuk\n"
 #, c-format
 msgid "1 duplicate photo was not imported:\n"
 msgid_plural "%d duplicate photos were not imported:\n"
-msgstr[0] "1 gamba peudua hana di peutameng:"
+msgstr[0] "1 gamba peudua hana di peutameng:\n"
 msgstr[1] "%d gamba peudua hana di peutameng:\n"
 
 #: src/Dialogs.vala:531
@@ -1581,19 +1583,22 @@ msgstr[1] "%d gamba/vidio peudua hana di peutameng:\n"
 msgid "1 photo failed to import due to a file or hardware error:\n"
 msgid_plural "%d photos failed to import due to a file or hardware error:\n"
 msgstr[0] ""
-"Na 1 gamba yang han di tem di tameng karna na yang salah pada berkas atau hardware.\n"
+"Na 1 gamba yang han di tem di tameng karna na yang salah pada berkas atau "
+"hardware.\n"
 "\n"
 msgstr[1] ""
-"Na %d gamba yang han di tem di tameng karna na yang salah pada berkas atau hardware.\n"
+"Na %d gamba yang han di tem di tameng karna na yang salah pada berkas atau "
+"hardware.\n"
 "\n"
 
 #: src/Dialogs.vala:551
 #, c-format
 msgid "1 video failed to import due to a file or hardware error:\n"
 msgid_plural "%d videos failed to import due to a file or hardware error:\n"
-msgstr[0] "Na 1 video gagal diimpor karena keusalahan bak berkas atawa Hardware:"
+msgstr[0] ""
+"1 video gagal diimpor karena keusalahan bak beureukaih atawa Hardware:\n"
 msgstr[1] ""
-"Na %d video gagal diimpor karena keusalahan bak berkas atawa hardware:"
+"%d video gagal diimpor karena keusalahan bak beureukaih atawa hardware:\n"
 
 #: src/Dialogs.vala:554
 #, c-format
@@ -1601,40 +1606,41 @@ msgid "1 photo/video failed to import due to a file or hardware error:\n"
 msgid_plural ""
 "%d photos/videos failed to import due to a file or hardware error:\n"
 msgstr[0] ""
-"Na 1 foto/video gagal diimpor karena keusalahan bak berkas atawa hardware:"
+"1 foto/video gagal diimpor karena keusalahan bak beureukaih atawa hardware:\n"
 msgstr[1] ""
-"Na %d foto/video gagal diimpor karena keusalahan bak berkas atawa hardware:"
+"%d foto/video gagal diimpor karena keusalahan bak beureukaih atawa "
+"hardware:\n"
 
 #: src/Dialogs.vala:557
 #, c-format
 msgid "1 file failed to import due to a file or hardware error:\n"
 msgid_plural "%d files failed to import due to a file or hardware error:\n"
 msgstr[0] ""
-"1 file berkas gagal diimpor karena keusalahan bak berkas atawa hardware:"
+"1 file berkas gagal diimpor karena keusalahan bak beureukaih atawa "
+"hardware:\n"
 msgstr[1] ""
-"Na %d berkas gagal diimpor karena keusalahan bak berkas atawa hardware:"
+"%d berkas gagal diimpor karena keusalahan bak beureukaih atawa hardware:\n"
 
 #: src/Dialogs.vala:571
 #, c-format
 msgid ""
-"1 photo failed to import because the photo library folder was not "
-"writable:\n"
+"1 photo failed to import because the photo library folder was not writable:\n"
 msgid_plural ""
 "%d photos failed to import because the photo library folder was not "
 "writable:\n"
-msgstr[0] "1 foto hanjeut diimpor karena folder album foto hana jeut dituleh:"
-msgstr[1] "%d foto hanjeut diimpor karena folder album foto hanjeut dituleh:"
+msgstr[0] ""
+"1 foto hanjeut diimpor karena folder album foto hana jeut dituleh:\n"
+msgstr[1] "%d foto hanjeut diimpor karena folder album foto hanjeut dituleh:\n"
 
 #: src/Dialogs.vala:574
 #, c-format
 msgid ""
-"1 video failed to import because the photo library folder was not "
-"writable:\n"
+"1 video failed to import because the photo library folder was not writable:\n"
 msgid_plural ""
 "%d videos failed to import because the photo library folder was not "
 "writable:\n"
-msgstr[0] "1 video hanjeut diimpor karena folder album foto hanjeut dituleh:"
-msgstr[1] "%d video hanjeut diimpor karena album foto hanjeut dituleh:"
+msgstr[0] "1 video hanjeut diimpor karena folder album foto hanjeut dituleh:\n"
+msgstr[1] "%d video hanjeut diimpor karena album foto hanjeut dituleh:\n"
 
 #: src/Dialogs.vala:577
 #, c-format
@@ -1645,9 +1651,9 @@ msgid_plural ""
 "%d photos/videos failed to import because the photo library folder was not "
 "writable:\n"
 msgstr[0] ""
-"1 foto/video hanjeut diimpor karena folder album foto hanjeut dituleh:"
+"1 foto/video hanjeut diimpor karena folder album foto hanjeut dituleh:\n"
 msgstr[1] ""
-"%d foto/vidoe hanjeut diimpor karena folder album foto hanjeut dituleha:"
+"%d foto/vidoe hanjeut diimpor karena folder album foto hanjeut dituleh:\n"
 
 #: src/Dialogs.vala:580
 #, c-format
@@ -1656,103 +1662,105 @@ msgid ""
 msgid_plural ""
 "%d files failed to import because the photo library folder was not "
 "writable:\n"
-msgstr[0] "1 berkas hanjeut diimpor karena folder album foto hanjeut dituleh:"
-msgstr[1] "%d berkas hanjeut diimpor karena folder album foto hanjeut dituleh:"
+msgstr[0] ""
+"1 beureukaih hanjeut diimpor karena folder album foto hanjeut dituleh:\n"
+msgstr[1] ""
+"%d beureukaih hanjeut diimpor karena folder album foto hanjeut dituleh:\n"
 
 #: src/Dialogs.vala:594
 #, c-format
 msgid "1 photo failed to import due to a camera error:\n"
 msgid_plural "%d photos failed to import due to a camera error:\n"
-msgstr[0] "1 foto gagal diimpor karena keusalahan bak kamera:"
-msgstr[1] "Na %d gagal diimpor karena keusalaahn bak kamera:"
+msgstr[0] "1 foto gagal diimpor karena keusalahan uk kamera:\n"
+msgstr[1] "%d gagal diimpor karena keusalaahn u kamera:\n"
 
 #: src/Dialogs.vala:597
 #, c-format
 msgid "1 video failed to import due to a camera error:\n"
 msgid_plural "%d videos failed to import due to a camera error:\n"
-msgstr[0] "1 video gagal diimpor karena keusalahan bak kamera:"
-msgstr[1] "%d video gagal diimpor karena keusalahan bak kamera:"
+msgstr[0] "1 video gagal diimpor karena keusalahan u kamera:\n"
+msgstr[1] "%d video gagal diimpor karena keusalahan u kamera:\n"
 
 #: src/Dialogs.vala:600
 #, c-format
 msgid "1 photo/video failed to import due to a camera error:\n"
 msgid_plural "%d photos/videos failed to import due to a camera error:\n"
-msgstr[0] "1 foto/video gagal diimpor karena keusalahan bak kamera:"
-msgstr[1] "%d foto/video gagal diimpor karena keusalahan bak kamera:"
+msgstr[0] "1 foto/video gagal diimpor karena keusalahan bak kamera:\n"
+msgstr[1] "%d foto/video gagal diimpor karena keusalahan bak kamera:\n"
 
 #: src/Dialogs.vala:603
 #, c-format
 msgid "1 file failed to import due to a camera error:\n"
 msgid_plural "%d files failed to import due to a camera error:\n"
-msgstr[0] "1 berkas gagal diimpor karena keusalahan bak kamera:"
-msgstr[1] "%d berkas gagal diimpor karena keusalahan bak kamera:"
+msgstr[0] "1 beureukaih gagal diimpor karena keusalahan bak kamera:\n"
+msgstr[1] "%d beureukaih gagal diimpor karena keusalahan bak kamera:\n"
 
 #: src/Dialogs.vala:620
 #, c-format
 msgid "1 unsupported photo skipped:\n"
 msgid_plural "%d unsupported photos skipped:\n"
-msgstr[0] "1 foto yang hanjeut dibuka:"
-msgstr[1] "Na %d foto yang hanjeut dibuka:"
+msgstr[0] "1 foto yang hanjeut peuhah:\n"
+msgstr[1] "Na %d foto yang hanjeut peuhah:\n"
 
 #: src/Dialogs.vala:635
 #, c-format
 msgid "1 non-image file skipped.\n"
 msgid_plural "%d non-image files skipped.\n"
-msgstr[0] "1 non berkas yang hanjeut dibuka."
-msgstr[1] "Na %d berkas yang hanjeut dibuka."
+msgstr[0] "1 non beureukaih yang hanjeut dibuka.\n"
+msgstr[1] "%d berkas yang hanjeut peuhah.\n"
 
 #: src/Dialogs.vala:646
 #, c-format
 msgid "1 photo skipped due to user cancel:\n"
 msgid_plural "%d photos skipped due to user cancel:\n"
-msgstr[0] "1 foto yang hanjeut tamong karena gata peubateu:"
-msgstr[1] "Na %d foto hanjeut tamong karena gata peubateu:"
+msgstr[0] "1 foto yang hanjeut tamong karena gata peubateu:\n"
+msgstr[1] "%d foto hanjeut tamong karena gata peubateu:\n"
 
 #: src/Dialogs.vala:649
 #, c-format
 msgid "1 video skipped due to user cancel:\n"
 msgid_plural "%d videos skipped due to user cancel:\n"
-msgstr[0] "1 video yang hanjeut tamong karena gata peubateu:"
-msgstr[1] "%d video yang hanjeut tamong karena gata peubateu:"
+msgstr[0] "1 video yang hanjeut tamong karena gata peubateu:\n"
+msgstr[1] "%d video yang hanjeut tamong karena gata peubateu:\n"
 
 #: src/Dialogs.vala:652
 #, c-format
 msgid "1 photo/video skipped due to user cancel:\n"
 msgid_plural "%d photos/videos skipped due to user cancel:\n"
-msgstr[0] "1 foto/video yang hanjeut tamong karena gata peubateu:"
-msgstr[1] "Na %d foto/video yang hanjeut tamong karena gata peubateu:"
+msgstr[0] "1 foto/video yang hanjeut tamong karena gata peubateu:\n"
+msgstr[1] "%d foto/video yang hanjeut tamong karena gata peubateu:\n"
 
 #: src/Dialogs.vala:655
 #, c-format
 msgid "1 file skipped due to user cancel:\n"
 msgid_plural "%d file skipped due to user cancel:\n"
-msgstr[0] "1 berkas yang hanjeut tamong karena gata peubateu:"
-msgstr[1] "Na %d berkas yang hanjeut tamong karena gata peubateu:"
+msgstr[0] "1 beureukaih yang hanjeut tamong karena gata peubateu:\n"
+msgstr[1] "%d berkas yang hanjeut tamong karena gata peubateu:\n"
 
 #: src/Dialogs.vala:669
 #, c-format
 msgid "1 photo successfully imported.\n"
 msgid_plural "%d photos successfully imported.\n"
-msgstr[0] "1 foto ka berhasil diimpor."
-msgstr[1] "%d foto ka berhasil diimpor."
+msgstr[0] "1 foto ka seuleuso diimpor.\n"
+msgstr[1] "%d foto ka seuleuso diimpor.\n"
 
 #: src/Dialogs.vala:672
 #, c-format
 msgid "1 video successfully imported.\n"
 msgid_plural "%d videos successfully imported.\n"
-msgstr[0] "1 video ka berhasil diimpor."
-msgstr[1] "%d video ka berhasil diimpor."
+msgstr[0] "1 video ka seuleuso diimpor.\n"
+msgstr[1] "%d video ka seuleuso diimpor.\n"
 
 #: src/Dialogs.vala:675
 #, c-format
 msgid "1 photo/video successfully imported.\n"
 msgid_plural "%d photos/videos successfully imported.\n"
-msgstr[0] "1 foto/video ka berhasil diimpor."
-msgstr[1] "%d video ka berhasil diimpor."
+msgstr[0] "1 foto/video ka seuleuso diimpor.\n"
+msgstr[1] "%d video ka seuleuso diimpor.\n"
 
 #: src/Dialogs.vala:691
 msgid "No photos or videos imported.\n"
-msgstr "Hana foto atawa video yang diimpor."
+msgstr "Hana foto atawa video yang diimpor.\n"
 
 #: src/Dialogs.vala:706
 msgid "Import Complete"
@@ -1907,7 +1915,7 @@ msgstr "Asli:"
 # used in your language and region. The format string you enter should conform
 # to POSIX date and time formatting conventions. See the strftime manpage for
 # a list of format specifiers and their meanings.
-# 
+#
 #: src/Dialogs.vala:1440
 msgid "%m/%d/%Y, %H:%M:%S"
 msgstr "%m/%d/%Y, %H:%M:%S"
@@ -1923,7 +1931,7 @@ msgstr "%m/%d/%Y, %H:%M:%S"
 # you
 # enter should conform to POSIX date and time formatting conventions. See the
 # strftime manpage for a list of format specifiers and their meanings.
-# 
+#
 #: src/Dialogs.vala:1441
 msgid "%m/%d/%Y, %I:%M:%S %p"
 msgstr "%m/%d/%Y, %I:%M:%S %p"
@@ -2073,8 +2081,7 @@ msgstr "Pola yang hana cocok"
 msgid ""
 "Shotwell can copy the photos into your library folder or it can import them "
 "without copying."
-msgstr ""
-"Shotwell jeut salen foto u dalam folder album atawa impor tanpa salen."
+msgstr "Shotwell jeut salen foto u dalam folder album atawa impor tanpa salen."
 
 #: src/Dialogs.vala:2309
 msgid "Co_py Photos"
@@ -2095,57 +2102,69 @@ msgstr "Sampoh Foto Dari Pustaka"
 #: src/Dialogs.vala:2336
 #, c-format
 msgid ""
-"This will remove the photo/video from your Shotwell library.  Would you also like to move the file to your desktop trash?\n"
+"This will remove the photo/video from your Shotwell library.  Would you also "
+"like to move the file to your desktop trash?\n"
 "\n"
 "This action cannot be undone."
 msgid_plural ""
-"This will remove %d photos/videos from your Shotwell library.  Would you also like to move the files to your desktop trash?\n"
+"This will remove %d photos/videos from your Shotwell library.  Would you "
+"also like to move the files to your desktop trash?\n"
 "\n"
 "This action cannot be undone."
 msgstr[0] ""
-"Droen jeut sampoh foto/video nyoe dari Album atawa pinah u tempat pembuangan. Toh yang Droen pileh?\n"
+"Droen jeut sampoh foto/video nyoe dari Album atawa pinah u tempat "
+"pembuangan. Toh yang Droen pileh?\n"
 "\n"
 "Proses nyoe han jeut balek u semula."
 msgstr[1] ""
-"Droen jeut sampoh %d foto/video dari Album atawa pinah u tempat pembuangan. Toh yang Droen pileh?\n"
+"Droen jeut sampoh %d foto/video dari Album atawa pinah u tempat pembuangan. "
+"Toh yang Droen pileh?\n"
 "\n"
 "proses nyoe han jeut balek u semula."
 
 #: src/Dialogs.vala:2340
 #, c-format
 msgid ""
-"This will remove the video from your Shotwell library.  Would you also like to move the file to your desktop trash?\n"
+"This will remove the video from your Shotwell library.  Would you also like "
+"to move the file to your desktop trash?\n"
 "\n"
 "This action cannot be undone."
 msgid_plural ""
-"This will remove %d videos from your Shotwell library.  Would you also like to move the files to your desktop trash?\n"
+"This will remove %d videos from your Shotwell library.  Would you also like "
+"to move the files to your desktop trash?\n"
 "\n"
 "This action cannot be undone."
 msgstr[0] ""
-"Droen jeut sampoh video nyoe dari Album atawa pinah u tempat pembuangan. Toh yang Droen pileh?\n"
+"Droen jeut sampoh video nyoe dari Album atawa pinah u tempat pembuangan. Toh "
+"yang Droen pileh?\n"
 "\n"
 "Proses nyoe han jeut balek u semula."
 msgstr[1] ""
-"Droen jeut sampoh %d video nyoe dari Album atawa pinah u tempat pembuangan. Toh yang Droen pileh?\n"
+"Droen jeut sampoh %d video nyoe dari Album atawa pinah u tempat pembuangan. "
+"Toh yang Droen pileh?\n"
 "\n"
 "Proses nyoe han jeut balek u semula."
 
 #: src/Dialogs.vala:2344
 #, c-format
 msgid ""
-"This will remove the photo from your Shotwell library.  Would you also like to move the file to your desktop trash?\n"
+"This will remove the photo from your Shotwell library.  Would you also like "
+"to move the file to your desktop trash?\n"
 "\n"
 "This action cannot be undone."
 msgid_plural ""
-"This will remove %d photos from your Shotwell library.  Would you also like to move the files to your desktop trash?\n"
+"This will remove %d photos from your Shotwell library.  Would you also like "
+"to move the files to your desktop trash?\n"
 "\n"
 "This action cannot be undone."
 msgstr[0] ""
-"Droen jeut sampoh foto nyoe dari Album atawa pinah u tempat pembuangan. Toh yang Droen pileh?\n"
+"Droen jeut sampoh foto nyoe dari Album atawa pinah u tempat pembuangan. Toh "
+"yang Droen pileh?\n"
 "\n"
 "Proses nyoe han jeut balek u semula."
 msgstr[1] ""
-"Droen jeut sampoh %d foto nyoe dari Album atawa pinah u tempat pembuangan. Toh yang Droen pileh?\n"
+"Droen jeut sampoh %d foto nyoe dari Album atawa pinah u tempat pembuangan. "
+"Toh yang Droen pileh?\n"
 "\n"
 "Proses nyoe han jeut balek u semula."
 
@@ -2352,8 +2371,7 @@ msgstr "Sampoh foto/video dari kamera"
 #: src/camera/ImportPage.vala:1704
 #, c-format
 msgid "Unable to delete %d photo/video from the camera due to errors."
-msgid_plural ""
-"Unable to delete %d photos/videos from the camera due to errors."
+msgid_plural "Unable to delete %d photos/videos from the camera due to errors."
 msgstr[0] "Han jeut sampoh %d foto/video dari kamera karena na kesalahan."
 msgstr[1] "Han jeut sampoh %d foto/video dari kamera karena na kesalahan."
 
@@ -2421,9 +2439,10 @@ msgid ""
 "Preferences</b> and enable one or more of the publishing plugins on the "
 "<b>Plugins</b> tab."
 msgstr ""
-"Shotwell tidak dapat mempublikasikan item yang dipilih karena Anda tidak memiliki plugin penerbitan kompatibel diaktifkan. Untuk memperbaiki hal ini, pilih Preferences <b> Sunting% s </ b> dan mengaktifkan salah satu atau lebih dari plugin penerbitan di <b> Plugin </ b>.\n"
-"\n"
-"Shotwell han jeut publikasi item yang neu pileh karena Droen hana plugin penerbitan aktif yang kompatabel. Untuk perbaiki nyoe, pileh <b>Edit %s Preferences</b> leuh nyan peu aktif salah saboeh atawa leubeh dari plugin penerbitan yang na bak tab <b>Plugin</b>"
+"Shotwell han jeut publikasi item yang neu pileh karena Droen hana plugin "
+"penerbitan aktif yang kompatabel. Untuk perbaiki nyoe, pileh <b>Andam %s "
+"Peuatoe</b> leuh nyan peu aktif salah saboeh atawa leubeh dari plugin "
+"penerbitan yang na bak tab <b>Plugin</b>"
 
 #: src/publishing/PublishingUI.vala:448
 #: src/data_imports/DataImportsUI.vala:394
@@ -3089,7 +3108,7 @@ msgstr "Pileh mandum item"
 # POSIX date and time formatting conventions. Please see the strftime(3)
 # manpage
 # for a list of format specifiers and their meanings.
-# 
+#
 #: src/util/misc.vala:231 src/util/misc.vala:236
 msgid "%a %b %d"
 msgstr "%a %b %d"
@@ -3103,7 +3122,7 @@ msgstr "%a %b %d"
 # language and region. The format string you enter should conform to POSIX
 # date and time formatting conventions. Please see the strftime(3) manpage for
 # a list of format specifiers and their meanings.
-# 
+#
 #: src/util/misc.vala:232
 msgid "%d, %Y"
 msgstr "%d, %Y"
@@ -3113,7 +3132,7 @@ msgstr "%d, %Y"
 # a long-form date appropriate to your language, country and region. See the
 # strftime(3) man page for more information about what format specifiers are
 # available.
-# 
+#
 #: src/util/misc.vala:237 src/util/misc.vala:242 src/util/misc.vala:243
 #: src/util/misc.vala:251
 msgid "%a %b %d, %Y"
@@ -3284,7 +3303,9 @@ msgstr "%B"
 msgid ""
 "You do not have any data imports plugins enabled.\n"
 "\n"
-"In order to use the Import From Application functionality, you need to have at least one data imports plugin enabled. Plugins can be enabled in the Preferences dialog."
+"In order to use the Import From Application functionality, you need to have "
+"at least one data imports plugin enabled. Plugins can be enabled in the "
+"Preferences dialog."
 msgstr ""
 "Droen hana pengaya impor data yang aktif. Keu pake fungsi Impor Dari "
 "Aplikasi, Droen peurle paling han saboeh pengaya impor data yang aktif. "
@@ -3456,11 +3477,13 @@ msgstr "Hana berkas temporal ke i terbitkan"
 msgid ""
 "You are not currently logged into Picasa Web Albums.\n"
 "\n"
-"Click Login to log into Picasa Web Albums in your Web browser. You will have to authorize Shotwell Connect to link to your Picasa Web Albums account."
+"Click Login to log into Picasa Web Albums in your Web browser. You will have "
+"to authorize Shotwell Connect to link to your Picasa Web Albums account."
 msgstr ""
 "Droen goh lom tamong u Album Web Picasa.\n"
 "\n"
-"Klik Login ke tamong u dalam Album Web Piaca lewat Peramban Web. Droen perle jok wewenang Shotwell Connect sambong ke akun Album Web Picasa Droen."
+"Klik Login ke tamong u dalam Album Web Piaca lewat Peramban Web. Droen perle "
+"jok wewenang Shotwell Connect sambong ke akun Album Web Picasa Droen."
 
 #: plugins/shotwell-publishing/PicasaPublishing.vala:59
 #: plugins/shotwell-publishing/FacebookPublishing.vala:63
@@ -3526,20 +3549,27 @@ msgstr "Google+ (2048 x 1536 pixels)"
 msgid ""
 "You are not currently logged into Facebook.\n"
 "\n"
-"If you don't yet have a Facebook account, you can create one during the login process. During login, Shotwell Connect may ask you for permission to upload photos and publish to your feed. These permissions are required for Shotwell Connect to function."
+"If you don't yet have a Facebook account, you can create one during the "
+"login process. During login, Shotwell Connect may ask you for permission to "
+"upload photos and publish to your feed. These permissions are required for "
+"Shotwell Connect to function."
 msgstr ""
 "Droen goh hubung u Facebook.\n"
 "\n"
-"Meunyoe goh lom na akun Facebook, Droen jeut peuget eunteuk watee login. Watee login, Shotwell akan tanyong hak unggah ngoen hak penerbitan berita. Hak-hak nyan i perlee lee Shotwell."
+"Meunyoe goh lom na akun Facebook, Droen jeut peuget eunteuk watee login. "
+"Watee login, Shotwell akan tanyong hak unggah ngoen hak penerbitan berita. "
+"Hak-hak nyan i perlee lee Shotwell."
 
 #: plugins/shotwell-publishing/FacebookPublishing.vala:70
 msgid ""
-"You have already logged in and out of Facebook during this Shotwell session.\n"
-"To continue publishing to Facebook, quit and restart Shotwell, then try publishing again."
+"You have already logged in and out of Facebook during this Shotwell "
+"session.\n"
+"To continue publishing to Facebook, quit and restart Shotwell, then try "
+"publishing again."
 msgstr ""
 "Selama pake Shotwell bunoe, Droen kaleuh tibit leuh nyan tamong dari "
-"Facebook. Supaya jeut kirem foto u Facebook, tulong tibit leuh nyan jalankan"
-" teuma Shotwell, leuh nyan coba lom"
+"Facebook. Supaya jeut kirem foto u Facebook, tulong tibit leuh nyan jalankan "
+"teuma Shotwell, leuh nyan coba lom"
 
 #: plugins/shotwell-publishing/FacebookPublishing.vala:134
 msgid "Standard (720 pixels)"
@@ -3597,7 +3627,9 @@ msgstr "Mandum Ureung"
 msgid ""
 "You are not currently logged into YouTube.\n"
 "\n"
-"You must have already signed up for a Google account and set it up for use with YouTube to continue. You can set up most accounts by using your browser to log into the YouTube site at least once."
+"You must have already signed up for a Google account and set it up for use "
+"with YouTube to continue. You can set up most accounts by using your browser "
+"to log into the YouTube site at least once."
 msgstr ""
 "Hana hubungan u YouTube. Droen harus na akun Google/YouTube keu lanjut."
 
@@ -3622,8 +3654,8 @@ msgstr "YouTube hana turi alamat emal ngoen sandi. Tulong coba lom."
 msgid ""
 "The email address and password you entered correspond to a Google account "
 "that isn't set up for use with YouTube. You can set up most accounts by "
-"using your browser to log into the YouTube site at least once. To try again,"
-" re-enter your email address and password below."
+"using your browser to log into the YouTube site at least once. To try again, "
+"re-enter your email address and password below."
 msgstr ""
 "Alamat email ngoen sandi Google goh lom teuhubong ngoen akun YouTube. "
 "Peuhubong ngoen buka YouTube paling han sigoe. Leuh nyan coba lom."
@@ -3695,19 +3727,23 @@ msgstr "Pribadi"
 msgid ""
 "You are not currently logged into Flickr.\n"
 "\n"
-"Click Login to log into Flickr in your Web browser.  You will have to authorize Shotwell Connect to link to your Flickr account."
+"Click Login to log into Flickr in your Web browser.  You will have to "
+"authorize Shotwell Connect to link to your Flickr account."
 msgstr ""
-"Droen mantong goh tamong bak Flickr. Klik Tamoeng keu tamoeng bak Flickr bak"
-" peramban Web Droen. Droen harus boeh izin Shotwell keu sambong bak akun "
+"Droen mantong goh tamong bak Flickr. Klik Tamoeng keu tamoeng bak Flickr bak "
+"peramban Web Droen. Droen harus boeh izin Shotwell keu sambong bak akun "
 "Flickr Droen."
 
 #: plugins/shotwell-publishing/FlickrPublishing.vala:63
 msgid ""
 "You have already logged in and out of Flickr during this Shotwell session.\n"
-"To continue publishing to Flickr, quit and restart Shotwell, then try publishing again."
+"To continue publishing to Flickr, quit and restart Shotwell, then try "
+"publishing again."
 msgstr ""
-"Watee pekek Shotwell bunoe, Droen kaleuh tibit leuh nyan tamong dari Flickr.\n"
-"Keu meuteumee kirem foto u Facebook, tulong tibit leuh nyan buka teuma Shotwell. Ulangi teuma proses kirem."
+"Watee pekek Shotwell bunoe, Droen kaleuh tibit leuh nyan tamong dari "
+"Flickr.\n"
+"Keu meuteumee kirem foto u Facebook, tulong tibit leuh nyan buka teuma "
+"Shotwell. Ulangi teuma proses kirem."
 
 #: plugins/shotwell-publishing/FlickrPublishing.vala:375
 msgid "Preparing for login..."
@@ -3808,13 +3844,13 @@ msgid ""
 "Enter the URL of your Piwigo photo library as well as the username and "
 "password associated with your Piwigo account for that library."
 msgstr ""
-"Peutamong URL Pustka foto Piwigo Droen termasuk username ngoen password akun"
-" Piwigo keu pustaka nyan."
+"Peutamong URL Pustka foto Piwigo Droen termasuk username ngoen password akun "
+"Piwigo keu pustaka nyan."
 
 #: plugins/shotwell-publishing/PiwigoPublishing.vala:944
 msgid ""
-"Shotwell cannot contact your Piwigo photo library. Please verify the URL you"
-" entered"
+"Shotwell cannot contact your Piwigo photo library. Please verify the URL you "
+"entered"
 msgstr ""
 "Shotwell han jeut peuhubung pustaka foto Piwigo. Harap periksa lom URL yang "
 "Droen pasoe"
@@ -3877,8 +3913,10 @@ msgstr "Servis Impor Data Inti"
 msgid ""
 "Welcome to the F-Spot library import service.\n"
 "\n"
-"Please select a library to import, either by selecting one of the existing libraries found by Shotwell or by selecting an alternative F-Spot database file."
-msgstr "\n"
+"Please select a library to import, either by selecting one of the existing "
+"libraries found by Shotwell or by selecting an alternative F-Spot database "
+"file."
+msgstr ""
 
 #: plugins/shotwell-data-imports/FSpotImporter.vala:58
 msgid ""
@@ -3895,8 +3933,8 @@ msgstr "Pileh manual basis data F-Spot keu impor:"
 
 #: plugins/shotwell-data-imports/FSpotImporter.vala:62
 msgid ""
-"Cannot open the selected F-Spot database file: the file does not exist or is"
-" not an F-Spot database"
+"Cannot open the selected F-Spot database file: the file does not exist or is "
+"not an F-Spot database"
 msgstr ""
 "Han jeut buka berkas basis data F-spot yang kaleuh neu pileh: berkas hana "
 "atawa kon basis data F-Spot"
@@ -3911,8 +3949,7 @@ msgstr ""
 
 #: plugins/shotwell-data-imports/FSpotImporter.vala:66
 msgid ""
-"Cannot read the selected F-Spot database file: error while reading tags "
-"table"
+"Cannot read the selected F-Spot database file: error while reading tags table"
 msgstr ""
 "Han jeut baca berkas basis data F-Spot yang neu pileh: kesalahan watee baca "
 "tabel tag"
@@ -3928,9 +3965,11 @@ msgstr ""
 #: plugins/shotwell-data-imports/FSpotImporter.vala:70
 #, c-format
 msgid ""
-"Shotwell has found %d photos in the F-Spot library and is currently importing them. Duplicates will be automatically detected and removed.\n"
+"Shotwell has found %d photos in the F-Spot library and is currently "
+"importing them. Duplicates will be automatically detected and removed.\n"
 "\n"
-"You can close this dialog and start using Shotwell while the import is taking place in the background."
+"You can close this dialog and start using Shotwell while the import is "
+"taking place in the background."
 msgstr ""
 "Shotwell meuteme %d foto bak dapeuta F-Spot leuh nyan teungoh i impor. Foto "
 "yang sama akan otomatis i deteksi leuh nyan i sampoh. Droen jeut top dialog "
@@ -4064,5 +4103,3 @@ msgstr "Peusunteng eksternal"
 #: ui/shotwell.glade:995
 msgid "Plugins"
 msgstr "Plugins"
-
-

@@ -1,7 +1,7 @@
 # English (British) translation.
 # Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the gcalctool package.
-# 
+#
 #  <hendramurdani46@gmail.com>, 2013.
 #  <miisbah.inf@gmail.com>, 2013.
 #  <mirza.triyuna@gmail.com>, 2013.
@@ -11,14 +11,16 @@ msgstr ""
 "Project-Id-Version: Suroboyo\n"
 "Report-Msgid-Bugs-To: http://dev.blankonlinux.or.id/\n"
 "POT-Creation-Date: 2013-08-26 04:47+0000\n"
-"PO-Revision-Date: 2013-11-05 05:23+0000\n"
-"Last-Translator: kribo46 kribo46 <hendramurdani46@gmail.com>\n"
-"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Suroboyo/team/ace/)\n"
+"PO-Revision-Date: 2014-01-03 22:22+0700\n"
+"Last-Translator: Mahyuddin Idram Ahmad <dotovr@di.blankon.in>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/"
+"Suroboyo/team/ace/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ace\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #. Accessible name for the inverse button
 #: ../data/buttons-advanced.ui.h:2 ../data/buttons-programming.ui.h:24
@@ -179,8 +181,8 @@ msgid ""
 "the term."
 msgstr ""
 "neuhitong nilai masa ukeu dari saboh investasi nyang didasarkan ateuh "
-"seujumlah pembayaran nyang sama rayeuk dengon bungong periodik seulama cacah"
-" perioda pembayaran lam masanyan"
+"seujumlah pembayaran nyang sama rayeuk dengon bungong periodik seulama cacah "
+"perioda pembayaran lam masanyan"
 
 #. Payment Period Dialog: Label before periodic payment input
 #: ../data/buttons-financial.ui.h:28
@@ -312,8 +314,8 @@ msgstr "Depresiasi jumlah dari Digit Thon[Y]"
 #: ../data/buttons-financial.ui.h:64
 msgid ""
 "Calculates the depreciation allowance on an asset for a specified period of "
-"time, using the Sum-of-the-Years'-Digits method. This method of depreciation"
-" accelerates the rate of depreciation, so that more depreciation expense "
+"time, using the Sum-of-the-Years'-Digits method. This method of depreciation "
+"accelerates the rate of depreciation, so that more depreciation expense "
 "occurs in earlier periods than in later ones. The useful life is the number "
 "of periods, typically years, over which an asset is depreciated. "
 msgstr ""
@@ -340,8 +342,8 @@ msgstr "Nilai Ukeu"
 #: ../data/buttons-financial.ui.h:70
 msgid ""
 "Calculates the number of payment periods that are necessary during the term "
-"of an ordinary annuity, to accumulate a future value, at a periodic interest"
-" rate."
+"of an ordinary annuity, to accumulate a future value, at a periodic interest "
+"rate."
 msgstr ""
 "Bileung cacah perioda peumbayaran nyang diperlekan seulama term dari saboh "
 "anuitas biasa, untok mengakumulasi saboh nilai bak masa meundatang, pada "
@@ -1195,8 +1197,8 @@ msgstr "Heksadesimal"
 #, c-format
 msgid "_%d place"
 msgid_plural "_%d places"
-msgstr[0] "1 langkah"
-msgstr[1] "1 langkah"
+msgstr[0] "_%d teumpat"
+msgstr[1] "_%d teumpat"
 
 #. Left Shift Popup: Menu item to shift left by n places (n >= 10)
 #. Right Shift Popup: Menu item to shift right by n places (n >= 10)
@@ -1205,8 +1207,8 @@ msgstr[1] "1 langkah"
 #| msgid "1 place"
 msgid "%d place"
 msgid_plural "%d places"
-msgstr[0] "1 langkah"
-msgstr[1] "1 langkah"
+msgstr[0] "%d teumpat"
+msgstr[1] "%d teumpat"
 
 #. Tooltip for the round button
 #: ../src/math-buttons.vala:816
@@ -1285,7 +1287,7 @@ msgstr "Konversi han dituri"
 #, c-format
 #| msgid "Malformed expression"
 msgid "Malformed expression at token '%s'"
-msgstr "Ekspresi salah bak token"
+msgstr "Ekspresi salah bak token '%s'"
 
 #. Unknown error.
 #. Error displayed to user when they enter an invalid calculation
@@ -1453,8 +1455,7 @@ msgstr "pembagian modulus hanya didefinisikan untok integer"
 #. Translators: Error displayed when tangent value is undefined
 #: ../src/number.vala:1227
 msgid ""
-"Tangent is undefined for angles that are multiples of π (180°) from π∕2 "
-"(90°)"
+"Tangent is undefined for angles that are multiples of π (180°) from π∕2 (90°)"
 msgstr ""
 "Tangen hana didefinisikan untok sudot kelipatan  π (180°) dari π∕2 (90°)"
 
@@ -2700,5 +2701,3 @@ msgstr "%s%%s"
 
 #~ msgid "Advanced mode"
 #~ msgstr "Advanced mode"
-
-

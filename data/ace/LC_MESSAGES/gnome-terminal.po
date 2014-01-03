@@ -1325,7 +1325,7 @@ msgstr "_Bh'ah"
 #: ../src/terminal.c:242
 #, c-format
 msgid "Failed to parse arguments: %s\n"
-msgstr "Hana berhasil mengurai peurintah: \"%s\""
+msgstr "Hana berhasil mengurai peurintah: %s\n"
 
 #: ../src/terminal-encoding.c:52 ../src/terminal-encoding.c:65
 #: ../src/terminal-encoding.c:79 ../src/terminal-encoding.c:101
@@ -1546,7 +1546,7 @@ msgstr "Na dua peuran yang ijok lam saboeh tingkap"
 #: ../src/terminal-options.c:445 ../src/terminal-options.c:478
 #, c-format
 msgid "\"%s\" option given twice for the same window\n"
-msgstr "\"%s\" Peunileh ijok dua goe keu tingkap yang saban\\n"
+msgstr "\"%s\" Peunileh ijok dua goe keu tingkap yang saban\n"
 
 #: ../src/terminal-options.c:689
 #, c-format

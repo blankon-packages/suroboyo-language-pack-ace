@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 #  <hendramurdani46@gmail.com>, 2013.
 #  <msani@s1.informatika.unsyiah.ac.id>, 2013.
 #  <riza.feryanda@s1.informatika.unsyiah.ac.id>, 2013.
@@ -10,14 +10,16 @@ msgstr ""
 "Project-Id-Version: Suroboyo\n"
 "Report-Msgid-Bugs-To: http://dev.blankonlinux.or.id/\n"
 "POT-Creation-Date: 2013-09-20 20:07+0000\n"
-"PO-Revision-Date: 2013-11-07 17:49+0000\n"
-"Last-Translator: sani sani <msani@s1.informatika.unsyiah.ac.id>\n"
-"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Suroboyo/team/ace/)\n"
+"PO-Revision-Date: 2014-01-03 00:51+0700\n"
+"Last-Translator: Mahyuddin Idram Ahmad <dotovr@di.blankon.in>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/"
+"Suroboyo/team/ace/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ace\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../data/nautilus-autorun-software.desktop.in.in.h:1
 msgid "Run Software"
@@ -48,7 +50,7 @@ msgstr "folder;manager;explore;disk;filesystem;"
 
 #: ../data/nautilus.xml.in.h:1
 msgid "Saved search"
-msgstr "Mita ka meukeubah"
+msgstr "Mita ka teukeubah"
 
 #: ../eel/eel-canvas.c:1255 ../eel/eel-canvas.c:1256
 msgid "X"
@@ -305,8 +307,8 @@ msgid ""
 "If you want to unmount the volume, please use Unmount Volume in the popup "
 "menu of the volume."
 msgstr ""
-"Meynyoe droen keumeung peuleuh volume, pakek perintah “Peuleuh Volume” ngoen"
-" klik uneun bak Volume nyan."
+"Meynyoe droen keumeung peuleuh volume, pakek perintah “Peuleuh Volume” ngoen "
+"klik uneun bak Volume nyan."
 
 #. Translators: this is of the format "hostname (uri-scheme)"
 #: ../libnautilus-private/nautilus-directory.c:523
@@ -392,7 +394,7 @@ msgstr "Han jeut keu ganto nan beureukaih desktop"
 #. * between the "%" and any numeric directive will turn
 #. * off zero padding, and putting a "_" there will use
 #. * space padding instead of zero padding.
-#. 
+#.
 #: ../libnautilus-private/nautilus-file.c:4441
 msgid "%R"
 msgstr "%R"
@@ -488,7 +490,7 @@ msgstr "Hana itepeu"
 
 #. Fallback, use for both unknown attributes and attributes
 #. * for which we have no more appropriate default.
-#. 
+#.
 #: ../libnautilus-private/nautilus-file.c:6134
 #: ../src/nautilus-properties-window.c:1181
 msgid "unknown"
@@ -563,7 +565,7 @@ msgstr "Link"
 #. Note to localizers: convert file type string for file
 #. * (e.g. "folder", "plain text") to file type for symbolic link
 #. * to that kind of file (e.g. "link to folder").
-#. 
+#.
 #. appended to new link file
 #: ../libnautilus-private/nautilus-file.c:6266
 #: ../libnautilus-private/nautilus-file-operations.c:377
@@ -607,7 +609,7 @@ msgstr "Folder ngon nan yang sama ka na lam “%s”."
 
 #: ../libnautilus-private/nautilus-file-conflict-dialog.c:163
 msgid "Replacing it will remove all files in the folder."
-msgstr "nyoe tatimpa akan disampoeh mandum beurkas lam folder nyan."
+msgstr "nyoe tatimpa akan disampoeh mandum beureukaih lam folder nyan."
 
 #: ../libnautilus-private/nautilus-file-conflict-dialog.c:165
 #, c-format
@@ -622,21 +624,21 @@ msgstr "Folder ngon nan yang sama ka na lam “%s”."
 #: ../libnautilus-private/nautilus-file-conflict-dialog.c:172
 #, c-format
 msgid "Replace file “%s”?"
-msgstr "Timpa berkas “%s”?"
+msgstr "Timpa beureukaih “%s”?"
 
 #: ../libnautilus-private/nautilus-file-conflict-dialog.c:174
 msgid "Replacing it will overwrite its content."
-msgstr "Nyoe tatimpa akan meugantoe mandum asoe beurkas nyan."
+msgstr "Nyoe tatimpa akan meugantoe mandum asoe beureukaih nyan."
 
 #: ../libnautilus-private/nautilus-file-conflict-dialog.c:178
 #, c-format
 msgid "An older file with the same name already exists in “%s”."
-msgstr "Kana berkas tuha, ngon nan yang sama lam “%s”."
+msgstr "Kana beureukaih tuha ngon nan yang saban lam “%s”."
 
 #: ../libnautilus-private/nautilus-file-conflict-dialog.c:182
 #, c-format
 msgid "A newer file with the same name already exists in “%s”."
-msgstr "Kana berkah yang leubeh baro,dengon nan yang hi bak \"%s\"."
+msgstr "Kana beureukaih yang leubeh baro ngon nan nyang saban kana lam “%s”."
 
 #: ../libnautilus-private/nautilus-file-conflict-dialog.c:186
 #, c-format
@@ -774,7 +776,7 @@ msgstr "Link laen u %s"
 #. Localizers: Feel free to leave out the "st" suffix
 #. * if there's no way to do that nicely for a
 #. * particular language.
-#. 
+#.
 #: ../libnautilus-private/nautilus-file-operations.c:397
 #, c-format
 msgid "%'dst link to %s"
@@ -801,7 +803,7 @@ msgstr "link %'d u %s"
 #. Localizers:
 #. * Feel free to leave out the st, nd, rd and th suffix or
 #. * make some or all of them match.
-#. 
+#.
 #. localizers: tag used to detect the first copy of a file
 #: ../libnautilus-private/nautilus-file-operations.c:448
 msgid " (copy)"
@@ -867,7 +869,7 @@ msgstr "%s (copy keu-%'d)%s"
 #. * plurals, you can leave the st, nd, rd suffixes out and just make all the
 #. translated
 #. * strings look like "%s (copy %'d)%s".
-#. 
+#.
 #. localizers: appended to x1st file copy
 #: ../libnautilus-private/nautilus-file-operations.c:498
 #, c-format
@@ -958,7 +960,7 @@ msgstr "Teungoh disampoeh beureukaih"
 #. To translators: %T will expand to a time like "2 minutes".
 #. * The singular/plural form will be used depending on the remaining time
 #. (i.e. the %T argument).
-#. 
+#.
 #: ../libnautilus-private/nautilus-file-operations.c:1456
 msgid "%T left"
 msgid_plural "%T left"
@@ -990,14 +992,13 @@ msgstr "Nakeuh salah watee cok informasi bhah beureukaih lam folder “%B”."
 #: ../libnautilus-private/nautilus-file-operations.c:1539
 #: ../libnautilus-private/nautilus-file-operations.c:3579
 msgid "_Skip files"
-msgstr "Peu_lewat beurkas"
+msgstr "Peu_leupah beureukaih"
 
 #: ../libnautilus-private/nautilus-file-operations.c:1560
 msgid ""
 "The folder “%B” cannot be deleted because you do not have permissions to "
 "read it."
-msgstr ""
-"Folder “%B” han jeut disampoeh, karena droen hana hak untuk baca nyoe."
+msgstr "Folder “%B” han jeut disampoeh, karena droen hana hak untuk baca nyoe."
 
 #: ../libnautilus-private/nautilus-file-operations.c:1563
 #: ../libnautilus-private/nautilus-file-operations.c:2599
@@ -1021,26 +1022,26 @@ msgstr "Sampoeh beurkar"
 #, c-format
 msgid "%'d file left to trash"
 msgid_plural "%'d files left to trash"
-msgstr[0] "%'d berkas teungoh disampoeh"
-msgstr[1] "%'d berkas teungoh disampoeh"
+msgstr[0] "%'d beureukaih teungoh disampoeh"
+msgstr[1] "%'d beureukaih teungoh disampoeh"
 
 #. Translators: %B is a file name
 #: ../libnautilus-private/nautilus-file-operations.c:1808
 msgid "“%B” can't be put in the trash. Do you want to delete it immediately?"
-msgstr "“%B” han jeut sampoeh, hapus selama jih?"
+msgstr ""
+"“%B” han jeut sampoeh lam tong broeh, Droeneuh keuneuk hapoih selama jih?"
 
 #: ../libnautilus-private/nautilus-file-operations.c:1814
 msgid "This remote location does not support sending items to the trash."
-msgstr ""
-"Lokasi jarak jioh nyoe hana mendukung opsi kirem objek u teumpat broeh."
+msgstr "Lokasi jarak jioh nyoe hana mendukung opsi kirem objek u tong broeh."
 
 #: ../libnautilus-private/nautilus-file-operations.c:1988
 msgid "Trashing Files"
-msgstr "Data-data lam tong broeh"
+msgstr "Beureukaih lam tong broeh"
 
 #: ../libnautilus-private/nautilus-file-operations.c:1990
 msgid "Deleting Files"
-msgstr "Sampoeh Beurkas"
+msgstr "Sampoeh Beureukaih"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2072
 msgid "Unable to eject %V"
@@ -1059,12 +1060,12 @@ msgid ""
 "In order to regain the free space on this volume the trash must be emptied. "
 "All trashed items on the volume will be permanently lost."
 msgstr ""
-"Untuk meuteume lom ruang bebas bak volume nyoe, maka teumpat broeh harus "
-"dipeusoh. mandum objek yang dikeubah inan akan gadoeh."
+"Lam meuteume lom ruang bibeuh bak volume nyoe nyang tong broeh harus "
+"dipeusoh. Bandum objek yang dikeubah inan akan gadoeh."
 
 #: ../libnautilus-private/nautilus-file-operations.c:2239
 msgid "Do _not Empty Trash"
-msgstr "Bek_Peusoeh tong broeh"
+msgstr "Bek _Peusoeh tong broeh"
 
 #. Translators: %s is a file name formatted for display
 #: ../libnautilus-private/nautilus-file-operations.c:2372
@@ -1077,36 +1078,36 @@ msgstr "Hanjeut akses '%s'"
 #, c-format
 msgid "Preparing to copy %'d file (%S)"
 msgid_plural "Preparing to copy %'d files (%S)"
-msgstr[0] "Peusiap copy %'d beurkas (%S)"
-msgstr[1] "Peusiap copy %'d beurkas (%S)"
+msgstr[0] "Peusiap salen %'d beureukaih (%S)"
+msgstr[1] "Peusiap salen %'d beureukaih (%S)"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2454
 #, c-format
 msgid "Preparing to move %'d file (%S)"
 msgid_plural "Preparing to move %'d files (%S)"
-msgstr[0] "Peusiap pinah %'d beurkas (%S)"
-msgstr[1] "Peusiap pinah %'d beurkas (%S)"
+msgstr[0] "Peusiap pinah %'d beureukaih (%S)"
+msgstr[1] "Peusiap pinah %'d beureukaih (%S)"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2460
 #, c-format
 msgid "Preparing to delete %'d file (%S)"
 msgid_plural "Preparing to delete %'d files (%S)"
-msgstr[0] "Peusiap sampoeh %'d beurkas (%S)"
-msgstr[1] "Peusiap sampoeh %'d beurkas (%S)"
+msgstr[0] "Peusiap sampoeh %'d beureukaih (%S)"
+msgstr[1] "Peusiap sampoeh %'d beureukaih (%S)"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2466
 #, c-format
 msgid "Preparing to trash %'d file"
 msgid_plural "Preparing to trash %'d files"
-msgstr[0] "Peusiap sampoeh %'d beurkas"
-msgstr[1] "Peusiap sampoeh %'d beurkas"
+msgstr[0] "Peusiap u tong broeh %'d beureukaih"
+msgstr[1] "Peusiap u tong broeh %'d beureukaih"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2497
 #: ../libnautilus-private/nautilus-file-operations.c:3430
 #: ../libnautilus-private/nautilus-file-operations.c:3562
 #: ../libnautilus-private/nautilus-file-operations.c:3607
 msgid "Error while copying."
-msgstr "Kesalahan watee copy"
+msgstr "Kesalahan watee salen"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2499
 #: ../libnautilus-private/nautilus-file-operations.c:3560
@@ -1123,7 +1124,7 @@ msgid ""
 "Files in the folder “%B” cannot be handled because you do not have "
 "permissions to see them."
 msgstr ""
-"Beurkas lam folder “%B” han jeut diuroeh, seubab droen hana hak kaloen."
+"Beureukaih lam folder “%B” han jeut diuroeh, seubab droen hana hak kaloen."
 
 #: ../libnautilus-private/nautilus-file-operations.c:2596
 msgid ""
@@ -1135,7 +1136,7 @@ msgstr "Folder “%B” han jeut diuroeh, seubab droen hana hak baca."
 msgid ""
 "The file “%B” cannot be handled because you do not have permissions to read "
 "it."
-msgstr "Beurkas “%B” han jeut diuroeh, seubab droen hana hak baca."
+msgstr "Beureukaih “%B” han jeut diuroeh, seubab droen hana hak baca."
 
 #: ../libnautilus-private/nautilus-file-operations.c:2676
 msgid "There was an error getting information about “%B”."
@@ -1166,12 +1167,12 @@ msgid ""
 "space."
 msgstr ""
 "Media yang dituju hana ruang yang sep. Ci coba untuk sampoh meupadum boeh "
-"beurkas."
+"beureukaih."
 
 #: ../libnautilus-private/nautilus-file-operations.c:2868
 #, c-format
 msgid "%S more space is required to copy to the destination."
-msgstr "Perlee %S ruang kosong lom untuk jeut copy u lokasi yang dituju."
+msgstr "Perlee %S ruang soh lom untuk jeut salen u lokasi yang dituju."
 
 #: ../libnautilus-private/nautilus-file-operations.c:2896
 msgid "The destination is read-only."
@@ -1191,28 +1192,28 @@ msgstr "Peudua “%B”"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2971
 msgid "Moving file %'d of %'d (in “%B”) to “%B”"
-msgstr "Teungoh pinah %'d dari %'d berkas (bak “%B”) u “%B”"
+msgstr "Teungoh pinah %'d dari %'d beureukaih (lam “%B”) u “%B”"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2973
 msgid "Copying file %'d of %'d (in “%B”) to “%B”"
-msgstr "Teungoh copy %'d dari %'d berkas (bak “%B”) u “%B”"
+msgstr "Teungoh salen beureukaih %'d dari %'d (lam “%B”) u “%B”"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2980
 msgid "Duplicating file %'d of %'d (in “%B”)"
-msgstr "Peudua %'d dari %'d beurkas (bak “%B”)"
+msgstr "Peudua beureukaih %'d dari %'d (lam “%B”)"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2989
 msgid "Moving file %'d of %'d to “%B”"
-msgstr "Teungoh pinah %'d dari %'d beurkas u “%B”"
+msgstr "Teungoh pinah beureukaih %'d dari %'d u “%B”"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2991
 msgid "Copying file %'d of %'d to “%B”"
-msgstr "Copy %'d dari %'d beurkas u “%B”"
+msgstr "Teungoh salen beureukaih %'d dari %'d u “%B”"
 
 #: ../libnautilus-private/nautilus-file-operations.c:2997
 #, c-format
 msgid "Duplicating file %'d of %'d"
-msgstr "Peudua %'d dari %'d beurkas"
+msgstr "Peudua beureukaih %'d dari %'d"
 
 #. To translators: %S will expand to a size like "2 bytes" or "3 MB", so
 #. something like "4 kb of 4 MB"
@@ -1228,7 +1229,7 @@ msgstr "%S dari %S"
 #. *
 #. * The singular/plural form will be used depending on the remaining time
 #. (i.e. the %T argument).
-#. 
+#.
 #: ../libnautilus-private/nautilus-file-operations.c:3027
 msgid "%S of %S — %T left (%S/sec)"
 msgid_plural "%S of %S — %T left (%S/sec)"
@@ -1240,7 +1241,7 @@ msgid ""
 "The folder “%B” cannot be copied because you do not have permissions to "
 "create it in the destination."
 msgstr ""
-"Folder “%B” hanjeut dicopy, seubab droen hana hak untuk peugoet bak lokasi "
+"Folder “%B” hanjeut salen seubab droeneuh hana hak keu peugoet bak lokasi "
 "yang dituju."
 
 #: ../libnautilus-private/nautilus-file-operations.c:3437
@@ -1251,13 +1252,13 @@ msgstr "Error watee peugoet folder “%B”."
 msgid ""
 "Files in the folder “%B” cannot be copied because you do not have "
 "permissions to see them."
-msgstr "Beurkas lam folder “%B” hanjeut dicopy, seubab droen hana hak kaloen."
+msgstr "Beureukaih lam folder “%B” hanjeut salen seubab droen hana hak ngieng."
 
 #: ../libnautilus-private/nautilus-file-operations.c:3612
 msgid ""
-"The folder “%B” cannot be copied because you do not have permissions to read"
-" it."
-msgstr "Folder “%B” hanjeut dicopy, seubab droen hana hak baca."
+"The folder “%B” cannot be copied because you do not have permissions to read "
+"it."
+msgstr "Folder “%B” hanjeut salen seubab droeneuh hana hak baca nyan."
 
 #: ../libnautilus-private/nautilus-file-operations.c:3657
 #: ../libnautilus-private/nautilus-file-operations.c:4350
@@ -1274,28 +1275,28 @@ msgstr "Folder asai han jeut disampoeh."
 #: ../libnautilus-private/nautilus-file-operations.c:4352
 #: ../libnautilus-private/nautilus-file-operations.c:4423
 msgid "Error while copying “%B”."
-msgstr "Error watee copy “%B”."
+msgstr "Error watee salen “%B”."
 
 #: ../libnautilus-private/nautilus-file-operations.c:3744
 #, c-format
 msgid "Could not remove files from the already existing folder %F."
-msgstr "Hanjeut sampoeh beurkas dari folder %F yang kana."
+msgstr "Hanjeut sampoeh beureukaih dari folder yang kana %F."
 
 #: ../libnautilus-private/nautilus-file-operations.c:3785
 #, c-format
 msgid "Could not remove the already existing file %F."
-msgstr "Hanjeut sampoeh beurkas %F yang kana."
+msgstr "Hanjeut sampoeh kana beureukaih %F."
 
 #. the run_warning() frees all strings passed in automatically
 #: ../libnautilus-private/nautilus-file-operations.c:4105
 #: ../libnautilus-private/nautilus-file-operations.c:4808
 msgid "You cannot move a folder into itself."
-msgstr "Droen han jeut pinah folder lam folder droe jih."
+msgstr "Droeneuh han jeut pinah folder lam folder droe jih."
 
 #: ../libnautilus-private/nautilus-file-operations.c:4106
 #: ../libnautilus-private/nautilus-file-operations.c:4809
 msgid "You cannot copy a folder into itself."
-msgstr "Droen han jeut copy folder lam folder droe jih."
+msgstr "Droeneuh han jeut salen folder lam folder droe jih."
 
 #: ../libnautilus-private/nautilus-file-operations.c:4107
 #: ../libnautilus-private/nautilus-file-operations.c:4810
@@ -1305,30 +1306,30 @@ msgstr "Folder tujuan na lam folder asal."
 #. the run_warning() frees all strings passed in automatically
 #: ../libnautilus-private/nautilus-file-operations.c:4138
 msgid "You cannot move a file over itself."
-msgstr "Droen hanjeut pinah beurkas u beurkas droe jih."
+msgstr "Droeneuh hanjeut pinah beureukaih u beureukaih droe jih."
 
 #: ../libnautilus-private/nautilus-file-operations.c:4139
 msgid "You cannot copy a file over itself."
-msgstr "Droen hanjeut copy beurkas u beurkas droe jih."
+msgstr "Droeneuh hanjeut salen beureukaih u beureukaih droe jih."
 
 #: ../libnautilus-private/nautilus-file-operations.c:4140
 msgid "The source file would be overwritten by the destination."
-msgstr "Beurkas asai akan ditimpa."
+msgstr "Beureukaih asai akan ditimpa le teumpat tujuan."
 
 #: ../libnautilus-private/nautilus-file-operations.c:4354
 #, c-format
 msgid "Could not remove the already existing file with the same name in %F."
-msgstr "Hanjeut sampoeh beurkas yang kana ngon nan yang sama lam %F."
+msgstr "Hanjeut sampoeh beureukaih yang kana ngon nan yang saban lam %F."
 
 #: ../libnautilus-private/nautilus-file-operations.c:4424
 #, c-format
 msgid "There was an error copying the file into %F."
-msgstr "Error watee copy beurkas u %F."
+msgstr "Error watee salen beureukaih lam %F."
 
 #: ../libnautilus-private/nautilus-file-operations.c:4656
 #: ../libnautilus-private/nautilus-file-operations.c:4690
 msgid "Copying Files"
-msgstr "Copy Beurkas"
+msgstr "Salen Beureukaih"
 
 #: ../libnautilus-private/nautilus-file-operations.c:4718
 msgid "Preparing to Move to “%B”"
@@ -1338,17 +1339,17 @@ msgstr "Peusiap pinah Objek u “%B”"
 #, c-format
 msgid "Preparing to move %'d file"
 msgid_plural "Preparing to move %'d files"
-msgstr[0] "Peusiap pinah %'d beurkas"
-msgstr[1] "Peusiap pinah %'d beurkas"
+msgstr[0] "Peusiap pinah %'d beureukaih"
+msgstr[1] "Peusiap pinah %'d beureukaih"
 
 #: ../libnautilus-private/nautilus-file-operations.c:4966
 #, c-format
 msgid "There was an error moving the file into %F."
-msgstr "Error watee pinah beurkas u %F."
+msgstr "Error watee pinah beureukaih lam %F."
 
 #: ../libnautilus-private/nautilus-file-operations.c:5228
 msgid "Moving Files"
-msgstr "Teungoh Pinah Beurkas"
+msgstr "Teungoh Pinah Beureukaih"
 
 #: ../libnautilus-private/nautilus-file-operations.c:5263
 msgid "Creating links in “%B”"
@@ -1358,8 +1359,8 @@ msgstr "Peugoet link bak “%B”"
 #, c-format
 msgid "Making link to %'d file"
 msgid_plural "Making links to %'d files"
-msgstr[0] "Peugoet link u %'d berkas"
-msgstr[1] "Peugoet link u %'d berkas"
+msgstr[0] "Peugoet link u %'d beureukaih"
+msgstr[1] "Peugoet link u %'d beureukaih"
 
 #: ../libnautilus-private/nautilus-file-operations.c:5402
 msgid "Error while creating link to %B."
@@ -1367,7 +1368,7 @@ msgstr "Error watee Peugoet link u %B."
 
 #: ../libnautilus-private/nautilus-file-operations.c:5404
 msgid "Symbolic links only supported for local files"
-msgstr "Link simbolik cuma didukung untuk beurkas lokal"
+msgstr "Link simbolik cuma didukung untuk beureukaih lokal"
 
 #: ../libnautilus-private/nautilus-file-operations.c:5407
 msgid "The target doesn't support symbolic links."
@@ -1376,7 +1377,7 @@ msgstr "Target hana mendukung link simbolik."
 #: ../libnautilus-private/nautilus-file-operations.c:5410
 #, c-format
 msgid "There was an error creating the symlink in %F."
-msgstr "Error watee peugoet link simbolik bak %F."
+msgstr "Error watee peugoet link simbolik lam %F."
 
 #: ../libnautilus-private/nautilus-file-operations.c:5729
 msgid "Setting permissions"
@@ -1404,23 +1405,23 @@ msgstr "Error watee peugoet direktori %B."
 
 #: ../libnautilus-private/nautilus-file-operations.c:6186
 msgid "Error while creating file %B."
-msgstr "Error watee peugoet beurkas %B."
+msgstr "Error watee peugoet beureukaih %B."
 
 #: ../libnautilus-private/nautilus-file-operations.c:6188
 #, c-format
 msgid "There was an error creating the directory in %F."
-msgstr "Error watee peugoet direktori bak %F."
+msgstr "Error watee peugoet direktori lam %F."
 
 #: ../libnautilus-private/nautilus-file-operations.c:6457
 msgid "Emptying Trash"
-msgstr "Peusoh teumpat broeh"
+msgstr "Peusoh Tong Broeh"
 
 #: ../libnautilus-private/nautilus-file-operations.c:6505
 #: ../libnautilus-private/nautilus-file-operations.c:6546
 #: ../libnautilus-private/nautilus-file-operations.c:6581
 #: ../libnautilus-private/nautilus-file-operations.c:6616
 msgid "Unable to mark launcher trusted (executable)"
-msgstr "Hanjeut peutanda peluncur keu dipercaya (jeut dipeubut)"
+msgstr "Hanjeut peutanda peluncur keu dipateh (jeut dipeubut)"
 
 #. Reset to default info
 #: ../libnautilus-private/nautilus-file-undo-operations.c:135
@@ -1455,8 +1456,8 @@ msgstr[1] "Peubalek %d objek u '%s'"
 #, c-format
 msgid "Move %d item to '%s'"
 msgid_plural "Move %d items to '%s'"
-msgstr[0] "Pinah %d beurkas u '%s'"
-msgstr[1] "Pinah %d beurkas u '%s'"
+msgstr[0] "Pinah %d objek u '%s'"
+msgstr[1] "Pinah %d objek u '%s'"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:374
 #, c-format
@@ -1475,7 +1476,7 @@ msgstr[1] "_Jadeh lom pinah %d objek"
 #: ../libnautilus-private/nautilus-file-undo-operations.c:381
 #, c-format
 msgid "Move '%s' back to '%s'"
-msgstr "Peubalek '%s' u '%s'"
+msgstr "Peubalek '%s' gisa u '%s'"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:382
 #, c-format
@@ -1484,72 +1485,72 @@ msgstr "Pinah '%s' u '%s'"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:384
 msgid "_Undo Move"
-msgstr "_Hana jadeh pinah"
+msgstr "_Hana Jadeh Pinah"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:385
 msgid "_Redo Move"
-msgstr "_Jadeh pinah"
+msgstr "_Jadeh Pinah"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:388
 msgid "_Undo Restore from Trash"
-msgstr "_Hana jadeh peubaleh dari Teumpat broeh"
+msgstr "_Hana jadeh peubaleh dari Tong Broeh"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:389
 msgid "_Redo Restore from Trash"
-msgstr "_Jadeh peubalek dari teumpat broeh"
+msgstr "_Jadeh peubalek dari Teumpat Broeh"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:392
 #, c-format
 msgid "Move %d item back to trash"
 msgid_plural "Move %d items back to trash"
-msgstr[0] "Peubalek %d objek u teumpat broeh"
-msgstr[1] "Peubalek %d objek u teumpat broeh"
+msgstr[0] "Peubalek %d objek u tong broeh"
+msgstr[1] "Peubalek %d objek u tong broeh"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:395
 #: ../libnautilus-private/nautilus-file-undo-operations.c:981
 #, c-format
 msgid "Restore %d item from trash"
 msgid_plural "Restore %d items from trash"
-msgstr[0] "Peubalek %d objek dari teumpat broeh"
-msgstr[1] "Peubalek %d objek dari teumpat broeh"
+msgstr[0] "Peubalek %d objek dari tong broeh"
+msgstr[1] "Peubalek %d objek dari tong broeh"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:399
 #, c-format
 msgid "Move '%s' back to trash"
-msgstr "Peubalek '%s' u teumpat broeh"
+msgstr "Peubalek '%s' gisa u tong broeh"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:400
 #, c-format
 msgid "Restore '%s' from trash"
-msgstr "Peubalek '%s' dari teumpat broeh"
+msgstr "Peubalek '%s' dari tong broeh"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:404
 #, c-format
 msgid "Delete %d copied item"
 msgid_plural "Delete %d copied items"
-msgstr[0] "Sampoeh %d objek yang ka teucopy"
-msgstr[1] "Sampoeh %d objek yang ka teucopy"
+msgstr[0] "Sampoeh %d objek yang ka teusalen"
+msgstr[1] "Sampoeh %d objek yang ka teusalen"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:407
 #, c-format
 msgid "Copy %d item to '%s'"
 msgid_plural "Copy %d items to '%s'"
-msgstr[0] "Copy %d objek u '%s'"
-msgstr[1] "Copy %d objek u '%s'"
+msgstr[0] "Salen %d objek u '%s'"
+msgstr[1] "Salen %d objek u '%s'"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:411
 #, c-format
 msgid "_Undo Copy %d item"
 msgid_plural "_Undo Copy %d items"
-msgstr[0] "_Hana jadeh Copy %d objek"
-msgstr[1] "_Hana jadeh Copy %d objek"
+msgstr[0] "_Hana jadeh Salen %d objek"
+msgstr[1] "_Hana jadeh Salen %d objek"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:414
 #, c-format
 msgid "_Redo Copy %d item"
 msgid_plural "_Redo Copy %d items"
-msgstr[0] "_Jadeh Copy %d objek"
-msgstr[1] "_Jadeh Copy %d objek"
+msgstr[0] "_Jadeh Salen %d objek"
+msgstr[1] "_Jadeh Salen %d objek"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:418
 #: ../libnautilus-private/nautilus-file-undo-operations.c:440
@@ -1561,15 +1562,15 @@ msgstr "Sampoeh  '%s'"
 #: ../libnautilus-private/nautilus-file-undo-operations.c:419
 #, c-format
 msgid "Copy '%s' to '%s'"
-msgstr "Copy '%s' u '%s'"
+msgstr "Salen '%s' u '%s'"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:421
 msgid "_Undo Copy"
-msgstr "_Hana jadeh Copy"
+msgstr "_Hana jadeh Salen"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:422
 msgid "_Redo Copy"
-msgstr "_Jadeh Copy"
+msgstr "_Jadeh Salen"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:426
 #, c-format
@@ -1647,15 +1648,15 @@ msgstr "_Jadeh Peugoet Link"
 #: ../libnautilus-private/nautilus-file-undo-operations.c:676
 #, c-format
 msgid "Create an empty file '%s'"
-msgstr "Peugoet beurkas soh '%s'"
+msgstr "Peugoet beureukaih soh '%s'"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:678
 msgid "_Undo Create Empty File"
-msgstr "_Hana jadeh Peugoet beurkas soh"
+msgstr "_Hana jadeh Peugoet Beureukaih Soh"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:679
 msgid "_Redo Create Empty File"
-msgstr "_Jadeh Peugoet beurkas soh"
+msgstr "_Jadeh Peugoet Beureukaih Soh"
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:681
 #, c-format
@@ -1673,7 +1674,7 @@ msgstr "_Jadeh Peugoet folder"
 #: ../libnautilus-private/nautilus-file-undo-operations.c:686
 #, c-format
 msgid "Create new file '%s' from template "
-msgstr "Peugoet beurkas baroe '%s' dari template "
+msgstr "Peugoet beureukaih baroe '%s' dari template "
 
 #: ../libnautilus-private/nautilus-file-undo-operations.c:688
 msgid "_Undo Create from Template"
@@ -1861,23 +1862,22 @@ msgstr "Error watee ipeujak aplikasi."
 #: ../libnautilus-private/nautilus-program-choosing.c:349
 #: ../libnautilus-private/nautilus-program-choosing.c:360
 msgid "This drop target only supports local files."
-msgstr "Target untuk peuduek cuma mendukung beurkas  lokal."
+msgstr "Target untuk peuduek cuma mendukung beureukaih lokal."
 
 #: ../libnautilus-private/nautilus-program-choosing.c:350
 msgid ""
-"To open non-local files copy them to a local folder and then drop them "
-"again."
+"To open non-local files copy them to a local folder and then drop them again."
 msgstr ""
-"Keu peuhah beureukaih yang nonlokal, copy beurkas nyan u folder lokal, aleuh "
-"nyan peuduek lom keunan."
+"Keu peuhah beureukaih nonlokal salen u folder lokal aleuh nyan peuduek lom "
+"keunan."
 
 #: ../libnautilus-private/nautilus-program-choosing.c:361
 msgid ""
 "To open non-local files copy them to a local folder and then drop them "
 "again. The local files you dropped have already been opened."
 msgstr ""
-"Keu peuhah beureukaih yang nonlokal, copy beurkas nyan u folder lokal, aleuh "
-"nyan peuduek lom. Beureukaih lokal yang Droeneuh peuduek ka teupeuhah."
+"Keu peuhah beureukaih yang nonlokal, copy beureukaih nyan u folder lokal, "
+"aleuh nyan peuduek lom. Beureukaih lokal yang Droeneuh peuduek ka teupeuhah."
 
 #: ../libnautilus-private/nautilus-program-choosing.c:390
 msgid "Details: "
@@ -1911,12 +1911,12 @@ msgstr "Teumpat tab yang baro teuhah bak tingkap browser."
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:2
 msgid ""
 "If set to \"after-current-tab\", then new tabs are inserted after the "
-"current tab. If set to \"end\", then new tabs are appended to the end of the"
-" tab list."
+"current tab. If set to \"end\", then new tabs are appended to the end of the "
+"tab list."
 msgstr ""
-"Meunyoe ipasoe \"after-current-tab\", maka tab baro akan ipeuduek aleuh tab"
-" jinoe. Meunyoe ipasoe \"end\", maka tab baro akan ditamah bak ujoeng "
-"daftar tab."
+"Meunyoe ipasoe \"after-current-tab\", maka tab baro akan ipeuduek aleuh tab "
+"jinoe. Meunyoe ipasoe \"end\", maka tab baro akan ditamah bak ujoeng daftar "
+"tab."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:3
 msgid "Always use the location entry, instead of the pathbar"
@@ -1927,13 +1927,13 @@ msgid ""
 "If set to true, then Nautilus browser windows will always use a textual "
 "input entry for the location toolbar, instead of the pathbar."
 msgstr ""
-"Meunyoe dipeuaktif, maka Nautilus akan ipakek teks yang ipeutamong bak kotak"
-" alat lokasi, dan kon dari blah lokasi."
+"Meunyoe dipeuaktif, maka Nautilus akan ipakek teks yang ipeutamong bak kotak "
+"alat lokasi, dan kon dari blah lokasi."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:5
 msgid "Whether to ask for confirmation when deleting files, or emptying Trash"
 msgstr ""
-"Pukeuh keumeung lakee konfirmasi watee sampoeh beurkas atawa peusoh teumpat "
+"Pukeuh keumeung lakee konfirmasi watee sampoeh beureukaih atawa peusoh tong "
 "broeh."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:6
@@ -1942,7 +1942,7 @@ msgid ""
 "delete files, or empty the Trash."
 msgstr ""
 "Meunyoe meunilai beutoi (true), Nautilus akan ilakee konfirmasi watee "
-"sampoeh beurkas atawa peusoh teumpat broeh."
+"sampoeh beureukaih atawa peusoh tong broeh."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:7
 msgid "Whether to enable immediate deletion"
@@ -1955,8 +1955,8 @@ msgid ""
 "feature can be dangerous, so use caution."
 msgstr ""
 "Meunyoe ipeuaktif, maka Nautilus akan na fitur yang peuidin Droen sampoeh "
-"beurkas langsoeng, tanpa iminah lam teumpat broeh. Fitur nyoe jeut "
-"berbahaya, pakek ngon hati-hati."
+"beureukaih langsoeng, tanpa iminah lam teumpat broeh. Fitur nyoe jeut "
+"meupalo, ngui ngon beuleuheun-leuheun."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:9
 msgid "When to show number of items in a folder"
@@ -1972,24 +1972,25 @@ msgstr ""
 "Kompromi kecepatan watee bileung lee objek lam saboh direktori. Meunyoe "
 "diatoe \"always\" maka objek sabe dibileung adakpih lokasi jih di server "
 "jarak jioh atawa komputer laen. meunyoe diatoe u \"local-only\" maka cuma "
-"ibileung objek untuk sistem beurkas lokal atawa di komputer nyoe. Meunyoe "
+"ibileung objek untuk sistem beureukaih lokal atawa di komputer nyoe. Meunyoe "
 "diatoe u \"never\" maka lee objek hana ibileung."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:11
 msgid "Type of click used to launch/open files"
-msgstr "Jeuneh klik peuhah keu jak/eksekusi beureukaih"
+msgstr "Tipe klik peuhah keu jak/eksekusi beureukaih"
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:12
 msgid ""
-"Possible values are \"single\" to launch files on a single click, or "
-"\"double\" to launch them on a double click."
+"Possible values are \"single\" to launch files on a single click, or \"double"
+"\" to launch them on a double click."
 msgstr ""
-"Nilai yang jeut neungui nakeuh \"single\" keu peuhah beureukaih ngon sigoe klik,"
-" atawa \"double\" keu jak nyan dua go klik."
+"Nilai yang jeut neungui nakeuh \"single\" keu peuhah beureukaih ngon sigoe "
+"klik, atawa \"double\" keu jak nyan dua go klik."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:13
 msgid "What to do with executable text files when activated"
-msgstr "Peu nyang keueneuk peubuet bak beureukaih teks eksekutabel watee ka aktif"
+msgstr ""
+"Peu nyang keueneuk peubuet bak beureukaih teks eksekutabel watee ka aktif"
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:14
 msgid ""
@@ -1998,14 +1999,15 @@ msgid ""
 "\"ask\" to ask what to do via a dialog, and \"display\" to display them as "
 "text files."
 msgstr ""
-"Pue yang harus ipeulaku terhadap beureukaih teks yang jeut dieksekusi (skrip) "
-"watee ipeuaktif (sigoe klik atawa duagoe). Nilai yang mungken nakeuh "
-"\"launch\" peujak peujak jih keu program, \"ask\" keu tanyoeng pu yang "
-"harus jipeubuet, dan \"display\" untuk peuleumah jih keu beureukaih teks."
+"Pue yang harus ipeulaku terhadap beureukaih teks yang jeut dieksekusi "
+"(skrip) watee ipeuaktif (sigoe klik atawa duagoe). Nilai yang mungken nakeuh "
+"\"launch\" peujak peujak jih keu program, \"ask\" keu tanyoeng pu yang harus "
+"jipeubuet, dan \"display\" untuk peuleumah jih keu beureukaih teks."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:15
 msgid "Show the package installer for unknown mime types"
-msgstr "Peuleumah paket yang teungoh ipasang keu jeuneh tipe mime yang hana ituri"
+msgstr ""
+"Peuleumah paket yang teungoh ipasang keu jeuneh tipe mime yang hana ituri"
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:16
 msgid ""
@@ -2017,7 +2019,8 @@ msgstr ""
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:17
 msgid "Use extra mouse button events in Nautilus' browser window"
-msgstr "Ngui kejadian atawa event ekstra tombol mouse bak tingkap browser Nautilus"
+msgstr ""
+"Ngui kejadian atawa event ekstra tombol mouse bak tingkap browser Nautilus"
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:18
 msgid ""
@@ -2035,9 +2038,9 @@ msgstr "Tombol mouse untuk peuaktif fungsi \"Maju\" bak jendela browser"
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:20
 msgid ""
-"For users with mice that have buttons for \"Forward\" and \"Back\", this key"
-" will set which button activates the \"Forward\" command in a browser "
-"window. Possible values range between 6 and 14."
+"For users with mice that have buttons for \"Forward\" and \"Back\", this key "
+"will set which button activates the \"Forward\" command in a browser window. "
+"Possible values range between 6 and 14."
 msgstr ""
 "Bagi pengguna mouse yang na tombol \"Maju\" serta \"Suroet\", gunci nyoe "
 "akan peuteuntee tombol toeh yang peugoet peurintah \"Maju\" jeut aktif lam "
@@ -2049,17 +2052,17 @@ msgstr "Tombol mouse untuk peuaktif fungsi \"balek\" bak jendela browser."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:22
 msgid ""
-"For users with mice that have buttons for \"Forward\" and \"Back\", this key"
-" will set which button activates the \"Back\" command in a browser window. "
+"For users with mice that have buttons for \"Forward\" and \"Back\", this key "
+"will set which button activates the \"Back\" command in a browser window. "
 "Possible values range between 6 and 14."
 msgstr ""
 "Bagi pengguna mouse yang na tombol \"Maju\" serta \"Suroet\", gunci nyoe "
-"akan peuteuntee tombol toeh yang peugoet peurintah \"Suroet\" jeut aktif lam"
-" jendela browser. Nilai yang mungken antara 6 ngon 14."
+"akan peuteuntee tombol toeh yang peugoet peurintah \"Suroet\" jeut aktif lam "
+"jendela browser. Nilai yang mungken antara 6 ngon 14."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:23
 msgid "When to show thumbnails of files"
-msgstr "Watee ipeuleumah miniatur berkas"
+msgstr "Watee ipeuleumah miniatur beureukaih"
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:24
 msgid ""
@@ -2067,16 +2070,15 @@ msgid ""
 "then always thumbnail, even if the folder is on a remote server. If set to "
 "\"local-only\" then only show thumbnails for local file systems. If set to "
 "\"never\" then never bother to thumbnail files, just use a generic icon. "
-"Despite what the name may suggest, this applies to any previewable file "
-"type."
+"Despite what the name may suggest, this applies to any previewable file type."
 msgstr ""
-"Kompromi kecepatan watee peugoet miniatur berkas. Meunyoe diatoe \"always\" "
-"maka miniatur sabe ipeugot meskipun lokasi jih bak server jarak jioh atau "
+"Kompromi kecepatan watee peugoet miniatur beureukaih. Meunyoe diatoe \"always"
+"\" maka miniatur sabe ipeugot meskipun lokasi jih bak server jarak jioh atau "
 "komputer laen. Jika atoe keu \"local-only\" maka cuma ipeuleumah miniatur "
-"untuk sistem berkas lokal atau di komputer nyoe. meunyoe diatoe keu "
+"untuk sistem beureukaih lokal atawa di komputer nyoe. meunyoe diatoe keu "
 "\"never\" maka miniatur hana ipeugoet, dan cuma ikon biasa yang ipeuleumah. "
-"pilehan nyoe berlaku bagi mandum berkas yang jeut ipeugoet gamba miniatur "
-"jih."
+"pilehan nyoe berlaku bagi mandum beureukaih yang jeut ipeugoet gamba "
+"miniatur jih."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:25
 msgid "Maximum image size for thumbnailing"
@@ -2110,11 +2112,11 @@ msgstr "Urutan default"
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:30
 msgid ""
-"The default sort-order for items in the icon view. Possible values are "
-"\"name\", \"size\", \"type\" and \"mtime\"."
+"The default sort-order for items in the icon view. Possible values are \"name"
+"\", \"size\", \"type\" and \"mtime\"."
 msgstr ""
-"Peungurutan default objek bak ngieng ikon. Nilai yang mungken nakeuh "
-"\"name\", \"size\", \"type\", ngon \"mtime\"."
+"Peungurutan default objek bak ngieng ikon. Nilai yang mungken nakeuh \"name"
+"\", \"size\", \"type\", ngon \"mtime\"."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:31
 msgid "Reverse sort order in new windows"
@@ -2122,16 +2124,16 @@ msgstr "Peubalek urutan bak tingkap baro"
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:32
 msgid ""
-"If true, files in new windows will be sorted in reverse order. ie, if sorted"
-" by name, then instead of sorting the files from \"a\" to \"z\", they will "
-"be sorted from \"z\" to \"a\"; if sorted by size, instead of being "
+"If true, files in new windows will be sorted in reverse order. ie, if sorted "
+"by name, then instead of sorting the files from \"a\" to \"z\", they will be "
+"sorted from \"z\" to \"a\"; if sorted by size, instead of being "
 "incrementally they will be sorted decrementally."
 msgstr ""
 "Meunyoe meunilai beutoi (true), beureukaih bak tingkap baro akan dipeuuroet "
 "meulawan arah. Keu umpama, meunyoe dipeuuroet meunuroet nan, Daripada "
-"dipeuuroet dari \"a\" troeh \"z\", beureukaih-beureukaih nyan dipeuuroet dari \"z\" "
-"troeh \"a\";  meunyoe dipeuuroet meunuroet ukuran beureukaih, akan dipeuuroet "
-"dari yang paleng rayeuek keu yang paleng ubeut."
+"dipeuuroet dari \"a\" troeh \"z\", beureukaih-beureukaih nyan dipeuuroet "
+"dari \"z\" troeh \"a\";  meunyoe dipeuuroet meunuroet ukuran beureukaih, "
+"akan dipeuuroet dari yang paleng rayeuek keu yang paleng ubeut."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:33
 msgid "Default folder viewer"
@@ -2143,21 +2145,21 @@ msgid ""
 "another view for that particular folder. Possible values are \"list-view\", "
 "and \"icon-view\"."
 msgstr ""
-"Program penampel nyoe ipakek watee ibuka folder nyoe, kecuali Droen neupileh"
-" tampelan laen keu folder nyan. Nilai yang mungken nakeuh \"list-view\" ngon"
-" \"icon-view\"."
+"Program penampel nyoe ipakek watee peuhah folder nyoe, kecuali Droen "
+"neupileh tampelan laen keu folder nyan. Nilai yang mungken nakeuh \"list-view"
+"\" ngon \"icon-view\"."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:35
 msgid "Whether to show hidden files"
-msgstr "Peuteuntee untuk peuleumah berkas yang ipeusom"
+msgstr "Peuteuntee keu peuleumah beureukaih nyang teupeusom"
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:36
 msgid ""
-"This key is deprecated and ignored. The \"show-hidden\" key from "
-"\"org.gtk.Settings.FileChooser\" is now used instead."
+"This key is deprecated and ignored. The \"show-hidden\" key from \"org.gtk."
+"Settings.FileChooser\" is now used instead."
 msgstr ""
-"Gunci nyoe ka tuha dan han dipueduli. Gunci \"show-hidden\" dari "
-"\"org.gtk.Settings.FileChooser\" yang jinoe dipakek."
+"Gunci nyoe ka tuha dan han dipueduli. Gunci \"show-hidden\" dari \"org.gtk."
+"Settings.FileChooser\" yang jinoe dipakek."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:37
 msgid "Bulk rename utility"
@@ -2183,9 +2185,9 @@ msgid ""
 "values are: \"size\", \"type\", \"date_modified\", \"owner\", \"group\", "
 "\"permissions\", and \"mime_type\"."
 msgstr ""
-"Daftar teks keuterangan yang leumah bak bagian baroeh ikon dan desktop. Leue"
-" teks keuterangan yang ipeuleumah teugantung bak rayeuek atau tingkat "
-"rayeuek yang aktif. Nilai yang mungken nakeuh: \"size\", \"date_modified\", "
+"Daftar teks keuterangan yang leumah bak bagian baroeh ikon dan desktop. Leue "
+"teks keuterangan yang ipeuleumah teugantung bak rayeuek atau tingkat rayeuek "
+"yang aktif. Nilai yang mungken nakeuh: \"size\", \"date_modified\", "
 "\"date_changed\", \"date_accessed\", \"owner\", \"group\", \"permissions\", "
 "dan \"mime_type\"."
 
@@ -2227,21 +2229,21 @@ msgid ""
 "smallest (33%), smaller (50%), small (66%), standard (100%), large (150%), "
 "larger (200%), largest (400%)"
 msgstr ""
-"String yang peugah kiban bagian dari nan berkas yang that panyang harus "
+"String yang peugah kiban bago dari nan beureukaih yang that panyang harus "
 "digantoe ngon elipsis, teugantung bak tingkat rayeuek. Tip entri daftar lam "
 "bentuk \"Tingkat Rayeuek:Bilangan Bulat\". Untuk tip tingkat Rayeuek, "
-"meunyoe bilangan bulat yang ibri lebeh dari 0, nan berkas han lewat cacah "
-"bareh yang dinyatakan. Meuyoe bilangan bulat nyan 0 atau kureueng, hana "
-"batas yang dipeupaksa bak tingkat Rayeuek yang dinyatakan. Entri default "
-"ngon bentuk \"Bilangan Bulat\" tanpa menyatakan tingkat Rayeuek ipeuidin "
-"syit. nyan mendefinisikan cacah bareh maksimum bagi mandum tingkat Rayeuek "
-"laen jih. Umpama: 0 - sabe peuleumah nan berkas panyang; 3 - peupaneuk nan "
-"berkas meunyoe leubeh dari 3 bareh; smallest:5,smaller:4,0 - peupaneuk nan "
-"berkas meunyoe leubeh dari 5 bareh bak tingkat Rayeuek \"smallest\". "
-"peupaneuk nan berkas meunyoe leubeh dari 4 bareh bak tingkat Rayeuek "
-"\"smaller\". Bek peusingkat nan berkas bak tingkat Rayeuek laen. Tingkat "
-"Rayeuek yang teusedia: smallest (33%), smaller (50%), small (66%), standard "
-"(100%), large (150%), larger (200%), largest (400%)"
+"meunyoe bilangan bulat yang ibri lebeh dari 0, nan beureukaih han lewat "
+"cacah bareh yang dinyatakan. Meuyoe bilangan bulat nyan 0 atau kureueng, "
+"hana batas yang dipeupaksa bak tingkat Rayeuek yang dinyatakan. Entri "
+"default ngon bentuk \"Bilangan Bulat\" tanpa menyatakan tingkat Rayeuek "
+"ipeuidin syit. nyan mendefinisikan cacah bareh maksimum bagi mandum tingkat "
+"Rayeuek laen jih. Umpama: 0 - sabe peuleumah nan beureukaih panyang; 3 - "
+"peupaneuk nan beureukaih meunyoe leubeh dari 3 bareh; smallest:5,smaller:4,0 "
+"- peupaneuk nan beureukaih meunyoe leubeh dari 5 bareh bak tingkat Rayeuek "
+"\"smallest\". peupaneuk nan beureukaih meunyoe leubeh dari 4 bareh bak "
+"tingkat Rayeuek \"smaller\". Bek peusingkat nan beureukaih bak tingkat "
+"Rayeuek laen. Tingkat Rayeuek yang teusedia: smallest (33%), smaller (50%), "
+"small (66%), standard (100%), large (150%), larger (200%), largest (400%)"
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:48
 msgid "Default list zoom level"
@@ -2273,8 +2275,7 @@ msgstr "Pakek tampelan bak kayee"
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:55
 msgid ""
-"Whether a tree should be used for list view navigation instead of a flat "
-"list"
+"Whether a tree should be used for list view navigation instead of a flat list"
 msgstr ""
 "Pakek tampelan bak kayee daripada tampelan daftar keu mode tampelan tabel"
 
@@ -2331,8 +2332,8 @@ msgid ""
 "If this is set to true, an icon linking to the Network Servers view will be "
 "put on the desktop."
 msgstr ""
-"Meunyoe meunilai beutoi, maka saboeh ikon yang teuhubung bak Server Jaringan"
-" akan ipeuleumah bak desktop."
+"Meunyoe meunilai beutoi, maka saboeh ikon yang teuhubung bak Server Jaringan "
+"akan ipeuleumah bak desktop."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:66
 msgid "Desktop home icon name"
@@ -2372,14 +2373,14 @@ msgstr ""
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:72
 msgid ""
-"An integer specifying how parts of overlong file names should be replaced by"
-" ellipses on the desktop. If the number is larger than 0, the file name will"
-" not exceed the given number of lines. If the number is 0 or smaller, no "
+"An integer specifying how parts of overlong file names should be replaced by "
+"ellipses on the desktop. If the number is larger than 0, the file name will "
+"not exceed the given number of lines. If the number is 0 or smaller, no "
 "limit is imposed on the number of displayed lines."
 msgstr ""
-"Saboeh bilangan bulat yang meunyatakan kiban bagian dari nan berkas yang "
+"Saboeh bilangan bulat yang peuteuntei kiban bago dari nan beureukaih yang "
 "that panyang harus igantoengon elips bak desktop. Meunyoe bilangan bulat "
-"yang dipasoe leubeh dari 0, nan berkas han lewat cacah bareh yang "
+"yang dipasoe leubeh dari 0, nan beureukaih han lewat cacah bareh yang "
 "dinyatakan. Meunyoe bilangan bulat nyan 0 atau kureung. hana batas yang "
 "dipaksa bak bareh yang dipeudeuh."
 
@@ -2401,8 +2402,8 @@ msgstr "String geometri untuk jendela navigasi."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:76
 msgid ""
-"A string containing the saved geometry and coordinates string for navigation"
-" windows."
+"A string containing the saved geometry and coordinates string for navigation "
+"windows."
 msgstr ""
 "String yang meu asoe geometri ngon koordinat yang ka ikeubah sigolom untuk "
 "jendela navigasi."
@@ -2432,7 +2433,7 @@ msgstr "Peuleumah bilah lokasi bak jendela baroe"
 msgid ""
 "If set to true, newly opened windows will have the location bar visible."
 msgstr ""
-"Meunyoe meunilai beutoi, maka jendela yang baroe ibuka na bilah lokasi."
+"Meunyoe meunilai beutoi, maka jendela yang baroe peuhah na bilah lokasi."
 
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:83
 msgid "Show side pane in new windows"
@@ -2441,7 +2442,7 @@ msgstr "Peuleumah panel sampeng bak jeundela baroe."
 #: ../libnautilus-private/org.gnome.nautilus.gschema.xml.in.h:84
 msgid "If set to true, newly opened windows will have the side pane visible."
 msgstr ""
-"Meunyoe meunilai beutoi, maka jendela yang baroe ibuka na panel sampeng."
+"Meunyoe meunilai beutoi, maka jendela yang baroe peuhah na panel sampeng."
 
 #: ../nautilus-sendto-extension/nautilus-nste.c:80
 #: ../nautilus-sendto-extension/nautilus-nste.c:85
@@ -2450,11 +2451,11 @@ msgstr "Kirem u…"
 
 #: ../nautilus-sendto-extension/nautilus-nste.c:81
 msgid "Send file by mail, instant message…"
-msgstr "Kirem berkas rot email, pesan bagah…"
+msgstr "Kirem beureukaih rot email, pesan bagah…"
 
 #: ../nautilus-sendto-extension/nautilus-nste.c:86
 msgid "Send files by mail, instant message…"
-msgstr "Kirem berkas rot email, pesan bagah…"
+msgstr "Kirem beureukaih rot email, pesan bagah…"
 
 #. Some sort of failure occurred. How 'bout we tell the user?
 #: ../src/nautilus-application.c:232 ../src/nautilus-window-slot.c:1611
@@ -2464,16 +2465,19 @@ msgstr "Kapalo! Na sipu-pu ka teukeudi."
 #: ../src/nautilus-application.c:234
 #, c-format
 msgid ""
-"Unable to create a required folder. Please create the following folder, or set permissions such that it can be created:\n"
+"Unable to create a required folder. Please create the following folder, or "
+"set permissions such that it can be created:\n"
 "%s"
 msgstr ""
-"Hanjeut ipeugoet folder yang ipeureulee. Neupeugoet folder nyoe, atau neupeupah hak akses ngat jeut dipeugoet:\n"
+"Hanjeut ipeugoet folder yang ipeureulee. Neupeugoet folder nyoe, atau "
+"neupeupah hak akses ngat jeut dipeugoet:\n"
 "%s"
 
 #: ../src/nautilus-application.c:239
 #, c-format
 msgid ""
-"Unable to create required folders. Please create the following folders, or set permissions such that they can be created:\n"
+"Unable to create required folders. Please create the following folders, or "
+"set permissions such that they can be created:\n"
 "%s"
 msgstr ""
 "Hanjeut ipeugoet folder yang ipeureulee. Neupeugot folder nyoe dilee, atau "
@@ -2536,11 +2540,11 @@ msgstr "GEOMETRY"
 
 #: ../src/nautilus-application.c:1229
 msgid "Always open a new window for browsing specified URIs"
-msgstr "Sabe buka jendela baroe untuk buka URI yang ka ipeuteuntee."
+msgstr "Sabe peuhah tingkap baroe untuk buka URI yang ka ipeuteuntee."
 
 #: ../src/nautilus-application.c:1231
 msgid "Only create windows for explicitly specified URIs."
-msgstr "Cuma peugoet jendela untuk URI yang ka ipeuteuntee."
+msgstr "Cuma peugoet tingkap untuk URI yang ka ipeuteuntee."
 
 #: ../src/nautilus-application.c:1233
 msgid "Never manage the desktop (ignore the GSettings preference)."
@@ -2570,7 +2574,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Seutoet asoe sistem berkas ngon menejer berkas."
+"Seutoet asoe sistem beureukaih ngon menejer beureukaih."
 
 #. Translators: this is a fatal error quit message printed on the
 #. * command line
@@ -2642,7 +2646,9 @@ msgstr "Ooma! Na masalah watee peujak program nyoe."
 msgid ""
 "“%s” contains software intended to be automatically started. Would you like "
 "to run it?"
-msgstr "“%s” buka software yang teuseudia ijak otomatis."
+msgstr ""
+"“%s” asoe software yang teuseudia ijak otomatis. Peukeuh droeneuh galak keu "
+"peujak nyan?"
 
 #: ../src/nautilus-autorun-software.c:206
 msgid "If you don't trust this location or aren't sure, press Cancel."
@@ -2789,7 +2795,7 @@ msgstr "Peuleumah lokasi jih ngon tampelan ikon."
 #: ../src/nautilus-connect-server.c:53 ../src/nautilus-mime-actions.c:1894
 #: ../src/nautilus-mime-actions.c:2166
 msgid "Unable to access location"
-msgstr "Hanjeut buka lokasi"
+msgstr "Hanjeut akses lokasi"
 
 #: ../src/nautilus-connect-server.c:74
 msgid "Unable to display location"
@@ -2797,7 +2803,7 @@ msgstr "Hanjeut peulemah lokasi"
 
 #: ../src/nautilus-connect-server.c:140
 msgid "Print but do not open the URI"
-msgstr "Cetak tapi bek buka URI"
+msgstr "Cetak tapi bek peuhah URI"
 
 #. Translators: This is the --help description for the connect to server app,
 #. the initial newlines are between the command line arg and the description
@@ -2809,7 +2815,7 @@ msgid ""
 msgstr ""
 "\n"
 "\n"
-"Tamah sambongan untuk koneksi server"
+"Tamah sambongan keu koneksi server"
 
 #: ../src/nautilus-connect-server-dialog.c:104
 #: ../src/nautilus-properties-window.c:5192 ../src/nautilus-view.c:1440
@@ -2955,8 +2961,7 @@ msgstr "Desktop"
 
 #: ../src/nautilus-error-reporting.c:68
 #, c-format
-msgid ""
-"You do not have the permissions necessary to view the contents of “%s”."
+msgid "You do not have the permissions necessary to view the contents of “%s”."
 msgstr "Droen han hak untuk kaloen asoe “%s”."
 
 #: ../src/nautilus-error-reporting.c:72
@@ -3026,8 +3031,8 @@ msgstr "Droen han hak untuk ubah nan “%s”."
 #: ../src/nautilus-error-reporting.c:219
 #, c-format
 msgid ""
-"The name “%s” is not valid because it contains the character “/”. Please use"
-" a different name."
+"The name “%s” is not valid because it contains the character “/”. Please use "
+"a different name."
 msgstr "Nan “%s” hana sah, seubab na karakter “/”. pakek nan yang laen."
 
 #: ../src/nautilus-error-reporting.c:223
@@ -3112,11 +3117,11 @@ msgstr "Prilaku"
 
 #: ../src/nautilus-file-management-properties.ui.h:13
 msgid "_Single click to open items"
-msgstr "Buka objek ngon sigoe klik"
+msgstr "Peuhah objek ngon sigoe klik"
 
 #: ../src/nautilus-file-management-properties.ui.h:14
 msgid "_Double click to open items"
-msgstr "Klik duagoe untuk buka objek"
+msgstr "Klik duagoe keu peuhah objek"
 
 #: ../src/nautilus-file-management-properties.ui.h:15
 msgid "Executable Text Files"
@@ -3158,8 +3163,8 @@ msgid ""
 "Choose the order of information to appear beneath icon names. More "
 "information will appear when zooming in closer."
 msgstr ""
-"Pileh uroetan informasi yang ituebit ibaroeh nan ikon. Informasi yang leubeh"
-" rinci akan ipeuleumah meunyoe tingkat peurayeuek ditamah."
+"Pileh uroetan informasi yang ituebit ibaroeh nan ikon. Informasi yang leubeh "
+"rinci akan ipeuleumah meunyoe tingkat peurayeuek ditamah."
 
 #. translators: this is used in the view selection dropdown
 #. * of navigation windows and in the preferences dialog
@@ -3400,7 +3405,7 @@ msgstr "Watee Peucahayaan"
 
 #: ../src/nautilus-image-properties-page.c:395
 msgid "Aperture Value"
-msgstr "Nilai Bukaan Lensa"
+msgstr "Nilai bukaanan Lensa"
 
 #: ../src/nautilus-image-properties-page.c:396
 msgid "ISO Speed Rating"
@@ -3440,13 +3445,13 @@ msgstr "Rating"
 
 #: ../src/nautilus-image-properties-page.c:443
 msgid "Failed to load image information"
-msgstr "Hanjeut buka infoermasi gamba"
+msgstr "Hanjeut cok infoermasi gamba"
 
 #: ../src/nautilus-image-properties-page.c:708
 #: ../src/nautilus-list-model.c:372 ../src/nautilus-window-slot.c:607
 #: ../src/nautilus-window-slot.c:2258
 msgid "Loading…"
-msgstr "Teungoh ibuka…"
+msgstr "Teungoh Dicok…"
 
 #: ../src/nautilus-list-model.c:370
 msgid "(Empty)"
@@ -3493,20 +3498,20 @@ msgstr "Peulumah tempat nyo ngeun tampilan tabel."
 #, c-format
 msgid "Do you want to view %d location?"
 msgid_plural "Do you want to view %d locations?"
-msgstr[0] "Buka %d tempat?"
-msgstr[1] "Buka %d tempat-tempat?"
+msgstr[0] "Droeneuh keuneuk ngieng %d tempat?"
+msgstr[1] "Droeneuh keuneuk ngieng %d tempat?"
 
 #: ../src/nautilus-location-entry.c:264 ../src/nautilus-mime-actions.c:1086
 #, c-format
 msgid "This will open %d separate window."
 msgid_plural "This will open %d separate windows."
-msgstr[0] "nyoe keumeung buka %d jendelah teupisah."
-msgstr[1] "nyoe keumeung buka %d jendelah teupisah."
+msgstr[0] "Nyoe keumeung peuhah %d tingkap teupisah."
+msgstr[1] "Nyoe keumeung peuhah %d tingkap teupisah."
 
 #: ../src/nautilus-mime-actions.c:656
 #, c-format
 msgid "The link “%s” is broken. Move it to Trash?"
-msgstr "Tautan \"%s\" teuputoh. Beuh u Tempat Broh?"
+msgstr "Tautan “%s” teuputoh. Beoh u Tong Broh?"
 
 #: ../src/nautilus-mime-actions.c:658
 #, c-format
@@ -3538,7 +3543,7 @@ msgstr "Peukeuh keuneuk di peujak \"%s\" atau cuma aso jih manteng?"
 #: ../src/nautilus-mime-actions.c:738
 #, c-format
 msgid "“%s” is an executable text file."
-msgstr "\"%s\" adalah berkas teks yang jeut di eksekusi."
+msgstr "“%s” nakeuh beureukaih teks yang jeut di eksekusi."
 
 #: ../src/nautilus-mime-actions.c:744
 msgid "Run in _Terminal"
@@ -3557,17 +3562,17 @@ msgstr "Droeneuh yakin keu peuhah bandum beureukaih?"
 #, c-format
 msgid "This will open %d separate tab."
 msgid_plural "This will open %d separate tabs."
-msgstr[0] "Nyo akan buka %d tab yang teupisah."
-msgstr[1] "Nyo akan buka %d tab-tab yang teupisah."
+msgstr[0] "Nyo keumeung peuhah %d tab yang teupisah."
+msgstr[1] "Nyo keumeung peuhah %d tab-tab yang teupisah."
 
 #: ../src/nautilus-mime-actions.c:1148
 #, c-format
 msgid "Could not display “%s”."
-msgstr "Hanjeut dipeulumah \"%s\"."
+msgstr "Hanjeut dipeulumah “%s”."
 
 #: ../src/nautilus-mime-actions.c:1246
 msgid "The file is of an unknown type"
-msgstr "Jenis berkas nyo hana dituri"
+msgstr "Jeuneh beureukaih nyo hana dituri"
 
 #: ../src/nautilus-mime-actions.c:1250
 #, c-format
@@ -3597,7 +3602,7 @@ msgstr ""
 
 #: ../src/nautilus-mime-actions.c:1572
 msgid "Untrusted application launcher"
-msgstr "Aplikasi yang dibuka hanjeut di peucaya"
+msgstr "Aplikasi yang ipeujak hanjeut di pateh"
 
 #: ../src/nautilus-mime-actions.c:1575
 #, c-format
@@ -3605,8 +3610,8 @@ msgid ""
 "The application launcher “%s” has not been marked as trusted. If you do not "
 "know the source of this file, launching it may be unsafe."
 msgstr ""
-"Peuluncur aplikasi “%s” galom itanda keu dipercaya. meunyoe Droen hana teupu"
-" asai berkas nyan, peijak jih mungken hana aman."
+"Peuluncur aplikasi “%s” galom itanda keu dipateh. meunyoe Droen hana teupu "
+"asai beureukaih nyan, peijak jih mungken hana aman."
 
 #: ../src/nautilus-mime-actions.c:1590
 msgid "_Launch Anyway"
@@ -3620,8 +3625,8 @@ msgstr "_Tandai Dipercaya"
 #, c-format
 msgid "This will open %d separate application."
 msgid_plural "This will open %d separate applications."
-msgstr[0] "nyoe keumeung buka %d aplikasi teupisah."
-msgstr[1] "nyoe keumeung buka %d aplikasi teupisah."
+msgstr[0] "Nyoe keumeung peuhah %d aplikasi teupisah."
+msgstr[1] "Nyoe keumeung peuhah %d aplikasi teupisah."
 
 #: ../src/nautilus-mime-actions.c:2245
 msgid "Unable to start location"
@@ -3630,18 +3635,18 @@ msgstr "Hanjeut peuphon lokasi"
 #: ../src/nautilus-mime-actions.c:2329
 #, c-format
 msgid "Opening “%s”."
-msgstr "Buka “%s”."
+msgstr "Teungoh Peuhah “%s”."
 
 #: ../src/nautilus-mime-actions.c:2332
 #, c-format
 msgid "Opening %d item."
 msgid_plural "Opening %d items."
-msgstr[0] "Teungoeh buka %d objek."
-msgstr[1] "Teungoeh buka %d objek."
+msgstr[0] "Teungoeh peuhah %d objek."
+msgstr[1] "Teungoeh peuhah %d objek."
 
 #: ../src/nautilus-notebook.c:378
 msgid "Close tab"
-msgstr "Teutop Tab"
+msgstr "Toep tab"
 
 #: ../src/nautilus-places-sidebar.c:241
 msgid "Devices"
@@ -3662,25 +3667,25 @@ msgstr "Beureukaih ban-ban nyoe"
 #. tooltip
 #: ../src/nautilus-places-sidebar.c:530 ../src/nautilus-window-menus.c:534
 msgid "Open your personal folder"
-msgstr "Buka folder pribadi Droen"
+msgstr "Peuhah folder pribadi Droeneuh"
 
 #: ../src/nautilus-places-sidebar.c:542
 msgid "Open the contents of your desktop in a folder"
-msgstr "Buka asoe desktop Droen lam saboeh"
+msgstr "Peuhah asoe desktop Droeneuh lam saboeh"
 
 #: ../src/nautilus-places-sidebar.c:556
 msgid "Open the trash"
-msgstr "Buka teumpat broeh"
+msgstr "Peuhah tong broeh"
 
 #: ../src/nautilus-places-sidebar.c:608 ../src/nautilus-places-sidebar.c:633
 #: ../src/nautilus-places-sidebar.c:816
 #, c-format
 msgid "Mount and open %s"
-msgstr "Kait ngon buka %s"
+msgstr "Ikat ngon peuhah %s"
 
 #: ../src/nautilus-places-sidebar.c:708
 msgid "Open the contents of the File System"
-msgstr "Buka asoe sistem berkas"
+msgstr "Peuhah asoe bak Beureukaih Sistem"
 
 #: ../src/nautilus-places-sidebar.c:786
 msgid "Network"
@@ -3688,11 +3693,11 @@ msgstr "Jaringan"
 
 #: ../src/nautilus-places-sidebar.c:792
 msgid "Browse Network"
-msgstr "Buka Jaringan"
+msgstr "Peuhah Jaringan"
 
 #: ../src/nautilus-places-sidebar.c:794
 msgid "Browse the contents of the network"
-msgstr "Buka asoe jaringan"
+msgstr "Peuhah asoe bak jaringan"
 
 #: ../src/nautilus-places-sidebar.c:802
 msgid "Connect to a network server address"
@@ -3750,7 +3755,7 @@ msgstr "Peupiyoe_h Peurangkat multi-disk"
 #: ../src/nautilus-places-sidebar.c:1731 ../src/nautilus-view.c:8050
 #: ../src/nautilus-view.c:8152
 msgid "_Unlock Drive"
-msgstr "Buka _Gunci Kalende"
+msgstr "Peuhah _Gunci Drive"
 
 #: ../src/nautilus-places-sidebar.c:1732 ../src/nautilus-view.c:7992
 #: ../src/nautilus-view.c:8079 ../src/nautilus-view.c:8181
@@ -3783,7 +3788,7 @@ msgstr "Hanjeut peupiyoeh %s"
 #: ../src/nautilus-places-sidebar.c:2780 ../src/nautilus-view.c:7137
 #: ../src/nautilus-view.c:8540
 msgid "_Open"
-msgstr "_Buka"
+msgstr "_Peuhah"
 
 #. name, stock id
 #. label, accelerator
@@ -3791,12 +3796,12 @@ msgstr "_Buka"
 #: ../src/nautilus-view.c:7319 ../src/nautilus-view.c:8260
 #: ../src/nautilus-view.c:8594
 msgid "Open in New _Tab"
-msgstr "Buka di _Tab baroe"
+msgstr "Peuhah di _Tab baroe"
 
 #: ../src/nautilus-places-sidebar.c:2795 ../src/nautilus-view.c:8252
 #: ../src/nautilus-view.c:8574
 msgid "Open in New _Window"
-msgstr "Buka di _Jendela baroe"
+msgstr "Peuhah lam _Tingkap baroe"
 
 #: ../src/nautilus-places-sidebar.c:2803
 msgid "_Add Bookmark"
@@ -3811,21 +3816,21 @@ msgstr "Ubah Nan…"
 #: ../src/nautilus-places-sidebar.c:2830 ../src/nautilus-view.c:7253
 #: ../src/nautilus-view.c:7277 ../src/nautilus-view.c:7349
 msgid "_Mount"
-msgstr "_Kait"
+msgstr "_Ikat"
 
 #. name, stock id
 #. label, accelerator
 #: ../src/nautilus-places-sidebar.c:2837 ../src/nautilus-view.c:7257
 #: ../src/nautilus-view.c:7281 ../src/nautilus-view.c:7353
 msgid "_Unmount"
-msgstr "Peu_leuh Kait"
+msgstr "Pleo_h Ikat"
 
 #. name, stock id
 #. label, accelerator
 #: ../src/nautilus-places-sidebar.c:2844 ../src/nautilus-view.c:7261
 #: ../src/nautilus-view.c:7285 ../src/nautilus-view.c:7357
 msgid "_Eject"
-msgstr "Peuteubi_t Media"
+msgstr "Peuteubi_t"
 
 #. name, stock id
 #. label, accelerator
@@ -3844,34 +3849,34 @@ msgstr "_Properti"
 
 #: ../src/nautilus-places-sidebar.c:3474
 msgid "Computer"
-msgstr "Komputer"
+msgstr "Kompute"
 
 #: ../src/nautilus-progress-ui-handler.c:108
 #: ../src/nautilus-progress-ui-handler.c:160
 #: ../src/nautilus-progress-ui-handler.c:218
 #: ../src/nautilus-progress-ui-handler.c:274
 msgid "File Operations"
-msgstr "Operasi Berkas"
+msgstr "Operasi Beureukaih"
 
 #: ../src/nautilus-progress-ui-handler.c:119
 msgid "Show Details"
-msgstr "Kaloen Rincian"
+msgstr "Peuleumah Rincian"
 
 #: ../src/nautilus-progress-ui-handler.c:154
 #: ../src/nautilus-progress-ui-handler.c:176
 #, c-format
 msgid "%'d file operation active"
 msgid_plural "%'d file operations active"
-msgstr[0] "%'d operasi berkas aktif"
-msgstr[1] "%'d operasi berkas aktif"
+msgstr[0] "%'d operasi beureukaih aktif"
+msgstr[1] "%'d operasi beureukaih aktif"
 
 #: ../src/nautilus-progress-ui-handler.c:275
 msgid "All file operations have been successfully completed"
-msgstr "Mandum operasi berkas kaleuh"
+msgstr "Mandum operasi beureukaih ka seuleuso"
 
 #: ../src/nautilus-properties-window.c:490
 msgid "You cannot assign more than one custom icon at a time!"
-msgstr "Ikon ubahan hanjeut ibi leubeh dari sigoe bak watee yang sama!"
+msgstr "Ikon ubahan hanjeut ibi leubeh dari sigoe bak watee yang saban!"
 
 #: ../src/nautilus-properties-window.c:491
 msgid "Please drag just one image to set a custom icon."
@@ -3879,16 +3884,16 @@ msgstr "Neuci tarek saboeh gamba keu tamah ikon."
 
 #: ../src/nautilus-properties-window.c:502
 msgid "The file that you dropped is not local."
-msgstr "Berkas yang Droen peutamoeng kon beurkas lokal."
+msgstr "Beureukaih nyang droeneuh peutamoeng kon ata lokal."
 
 #: ../src/nautilus-properties-window.c:503
 #: ../src/nautilus-properties-window.c:509
 msgid "You can only use local images as custom icons."
-msgstr "Droen cuma jeut pakek berkas lokal keu ikon"
+msgstr "Droeneuh jeut ngui mantong gamba lokal keu ikon"
 
 #: ../src/nautilus-properties-window.c:508
 msgid "The file that you dropped is not an image."
-msgstr "Berkas yang Droen peutamoeng kon gamba."
+msgstr "Beureukaih nyang droeneuh peutamoeng kon gamba."
 
 #: ../src/nautilus-properties-window.c:630
 msgid "_Name:"
@@ -3944,7 +3949,7 @@ msgstr "(Meupadum boeh asoe jih hana teubaca)"
 #. * "Contents:" title to line up with the first line of the
 #. * 2-line value. Maybe there's a better way to do this, but I
 #. * couldn't think of one.
-#. 
+#.
 #: ../src/nautilus-properties-window.c:2197
 msgid "Contents:"
 msgstr "Asoe:"
@@ -3997,7 +4002,7 @@ msgstr "Ruang soeh:"
 
 #. translators: this gets concatenated to "no read",
 #. * "no access", etc. (see following strings)
-#. 
+#.
 #: ../src/nautilus-properties-window.c:3966
 #: ../src/nautilus-properties-window.c:3977
 #: ../src/nautilus-properties-window.c:3989
@@ -4054,16 +4059,16 @@ msgstr "Akses folder:"
 
 #: ../src/nautilus-properties-window.c:4120
 msgid "File access:"
-msgstr "Akses berkas:"
+msgstr "Akses beureukaih:"
 
 #: ../src/nautilus-properties-window.c:4209
 msgid "_Owner:"
-msgstr "_Ureong poe:"
+msgstr "_Ureong po:"
 
 #: ../src/nautilus-properties-window.c:4217
 #: ../src/nautilus-properties-window.c:4481
 msgid "Owner:"
-msgstr "Ureong poe:"
+msgstr "Ureong po:"
 
 #: ../src/nautilus-properties-window.c:4239
 msgid "_Group:"
@@ -4084,7 +4089,7 @@ msgstr "Eksekusi:"
 
 #: ../src/nautilus-properties-window.c:4286
 msgid "Allow _executing file as program"
-msgstr "_Eksekusi berkas sebagoe program"
+msgstr "_Eksekusi beureukaih sebagoe program"
 
 #: ../src/nautilus-properties-window.c:4462
 msgid "Change Permissions for Enclosed Files"
@@ -4117,23 +4122,23 @@ msgstr "Hak milek “%s” hanjeut ipeuteuntee."
 
 #: ../src/nautilus-properties-window.c:4593
 msgid "The permissions of the selected file could not be determined."
-msgstr "Hak akses berkas yang dipileuh hanjeut ipeuteuntee."
+msgstr "Hak akses beureukaih nyang dipileuh hanjeut ipeuteuntee."
 
 #: ../src/nautilus-properties-window.c:4837
 msgid "Open With"
-msgstr "Buka Ngon"
+msgstr "Peuhah Ngon"
 
 #: ../src/nautilus-properties-window.c:5160
 msgid "Creating Properties window."
-msgstr "Peugoet jendela poperti."
+msgstr "Peugoet Tingkap poperti."
 
 #: ../src/nautilus-properties-window.c:5460
 msgid "Select Custom Icon"
-msgstr "Pileh Ikon Keudroe"
+msgstr "Pileh Ikon Meuteuntei"
 
 #: ../src/nautilus-query-editor.c:102
 msgid "File Type"
-msgstr "Jenis Berkas"
+msgstr "Tipe Beureukaih"
 
 #: ../src/nautilus-query-editor.c:322
 msgid "Documents"
@@ -4157,11 +4162,11 @@ msgstr "Pdf / Postscript"
 
 #: ../src/nautilus-query-editor.c:438
 msgid "Text File"
-msgstr "Berkas Teks"
+msgstr "Beureukaih Teks"
 
 #: ../src/nautilus-query-editor.c:517
 msgid "Select type"
-msgstr "Pileh jenis"
+msgstr "Pileh tipe"
 
 #: ../src/nautilus-query-editor.c:521
 msgid "Select"
@@ -4169,11 +4174,11 @@ msgstr "Pileh"
 
 #: ../src/nautilus-query-editor.c:602
 msgid "Any"
-msgstr "Pumantoeng"
+msgstr "Beurengkapeu"
 
 #: ../src/nautilus-query-editor.c:617
 msgid "Other Type…"
-msgstr "Jenis Laen…"
+msgstr "Tipe Laen…"
 
 #: ../src/nautilus-query-editor.c:886
 msgid "Remove this criterion from the search"
@@ -4226,15 +4231,15 @@ msgstr "peusoh"
 #, c-format
 msgid "This will open %'d separate tab."
 msgid_plural "This will open %'d separate tabs."
-msgstr[0] "Nyoe akan ibuka %'d tab teupisah."
-msgstr[1] "Nyoe akan ibuka %'d tab teupisah."
+msgstr[0] "Nyoe keumeung peuhah %'d tab teupisah."
+msgstr[1] "Nyoe keumeung peuhah %'d tab teupisah."
 
 #: ../src/nautilus-view.c:962
 #, c-format
 msgid "This will open %'d separate window."
 msgid_plural "This will open %'d separate windows."
-msgstr[0] "Nyoe akan ibuka %'d jendela teupisah."
-msgstr[1] "Nyoe akan ibuka %'d jendela teupisah."
+msgstr[0] "Nyoe keumeung peuhah %'d tingkap teupisah."
+msgstr[1] "Nyoe keumeung peuhah %'d tingkap teupisah."
 
 #: ../src/nautilus-view.c:1460
 msgid "Select Items Matching"
@@ -4278,26 +4283,26 @@ msgstr "Tampelan Asoe"
 
 #: ../src/nautilus-view.c:2707
 msgid "View of the current folder"
-msgstr "Buka folder jinoe"
+msgstr "Ngieng folder jinoe"
 
 #: ../src/nautilus-view.c:2904 ../src/nautilus-view.c:2939
 #, c-format
 msgid "“%s” selected"
-msgstr "“%s” ipileh"
+msgstr "“%s” teupileh"
 
 #: ../src/nautilus-view.c:2906
 #, c-format
 msgid "%'d folder selected"
 msgid_plural "%'d folders selected"
-msgstr[0] "%'d folder ipileh"
-msgstr[1] "%'d folder ipileh"
+msgstr[0] "%'d folder teupileh"
+msgstr[1] "%'d folder teupileh"
 
 #: ../src/nautilus-view.c:2916
 #, c-format
 msgid "(containing %'d item)"
 msgid_plural "(containing %'d items)"
-msgstr[0] "(Buka %'d objek)"
-msgstr[1] "(Buka %'d objek)"
+msgstr[0] "(Meuasoe %'d objek)"
+msgstr[1] "(Meuasoe %'d objek)"
 
 #. translators: this is preceded with a string of form 'N folders' (N more
 #. than 1)
@@ -4305,28 +4310,28 @@ msgstr[1] "(Buka %'d objek)"
 #, c-format
 msgid "(containing a total of %'d item)"
 msgid_plural "(containing a total of %'d items)"
-msgstr[0] "(Buka total %'d objek)"
-msgstr[1] "(Buka total %'d objek)"
+msgstr[0] "(Meuasoe jumeulah %'d objek)"
+msgstr[1] "(Meuasoe jumeulah %'d objek)"
 
 #: ../src/nautilus-view.c:2942
 #, c-format
 msgid "%'d item selected"
 msgid_plural "%'d items selected"
-msgstr[0] "%'d objek yang ipileh"
-msgstr[1] "%'d objek yang ipileh"
+msgstr[0] "%'d objek teupileh"
+msgstr[1] "%'d objek teupileh"
 
 #. Folders selected also, use "other" terminology
 #: ../src/nautilus-view.c:2949
 #, c-format
 msgid "%'d other item selected"
 msgid_plural "%'d other items selected"
-msgstr[0] "%'d objek laen ipileh"
-msgstr[1] "%'d objek laen ipileh"
+msgstr[0] "%'d objek laen teupileh"
+msgstr[1] "%'d objek laen teupileh"
 
 #. This is marked for translation in case a localiser
 #. * needs to use something other than parentheses. The
 #. * the message in parentheses is the size of the selected items.
-#. 
+#.
 #: ../src/nautilus-view.c:2963
 #, c-format
 msgid "(%s)"
@@ -4338,7 +4343,7 @@ msgstr "(%s)"
 #. * and the number of items in those folders and the
 #. * message about the number of other items and the
 #. * total size of those items.
-#. 
+#.
 #: ../src/nautilus-view.c:2987
 #, c-format
 msgid "%s %s, %s %s"
@@ -4347,7 +4352,7 @@ msgstr "%s %s, %s %s"
 #: ../src/nautilus-view.c:4360
 #, c-format
 msgid "Open With %s"
-msgstr "Buka ngon %s"
+msgstr "Peuhah ngon %s"
 
 #: ../src/nautilus-view.c:4362
 #, c-format
@@ -4404,7 +4409,7 @@ msgstr "_Dokumen Baroe"
 #. name, stock id, label
 #: ../src/nautilus-view.c:7118
 msgid "Open Wit_h"
-msgstr "Buka _Ngon"
+msgstr "Peuhah _Ngon"
 
 #: ../src/nautilus-view.c:7119
 msgid "Choose a program with which to open the selected item"
@@ -4447,7 +4452,7 @@ msgstr "Peugoet folder baroe yang buka objek yang ipileh"
 #. tooltip
 #: ../src/nautilus-view.c:7138
 msgid "Open the selected item in this window"
-msgstr "Buka objek yang ipileh lam jendela nyoe"
+msgstr "Peuhah objek yang ipileh lam jendela nyoe"
 
 #. name, stock id
 #. label, accelerator
@@ -4456,17 +4461,17 @@ msgstr "Buka objek yang ipileh lam jendela nyoe"
 #. label, accelerator
 #: ../src/nautilus-view.c:7145 ../src/nautilus-view.c:7315
 msgid "Open in Navigation Window"
-msgstr "Buka Bak Jendela Navigasi"
+msgstr "Peuhah Bak Jendela Navigasi"
 
 #. tooltip
 #: ../src/nautilus-view.c:7146
 msgid "Open each selected item in a navigation window"
-msgstr "Buka objek yang dipileh bak jendela navigasi"
+msgstr "Peuhah objek yang dipileh bak jendela navigasi"
 
 #. tooltip
 #: ../src/nautilus-view.c:7150
 msgid "Open each selected item in a new tab"
-msgstr "Buka objek yang ipileh bak tab baroe"
+msgstr "Peuhah objek yang ipileh bak tab baroe"
 
 #. name, stock id
 #. label, accelerator
@@ -4483,13 +4488,13 @@ msgstr "Pileh aplikasi laen untuk buka objek yang dipileh"
 #. label, accelerator
 #: ../src/nautilus-view.c:7157
 msgid "Open With Other _Application…"
-msgstr "Buka ngon _Aplikasi Laen…"
+msgstr "Peuhah ngon _Aplikasi Laen…"
 
 #. name, stock id
 #. label, accelerator
 #: ../src/nautilus-view.c:7161
 msgid "_Open Scripts Folder"
-msgstr "Buka Fol_der Skrip"
+msgstr "Peuhah Fol_der Skrip"
 
 #. tooltip
 #: ../src/nautilus-view.c:7162
@@ -4516,7 +4521,8 @@ msgstr "Peusiap beureukaih yang ipileh untuk dicopy ngon fungsi Paste"
 #: ../src/nautilus-view.c:7178
 msgid "Move or copy files previously selected by a Cut or Copy command"
 msgstr ""
-"Pinah atawa copy beureukaih yang jilikoet jih ipileh ngon fungsi koh ngon Copy"
+"Pinah atawa copy beureukaih yang jilikoet jih ipileh ngon fungsi koh ngon "
+"Copy"
 
 #. We make accelerator "" instead of null here to not inherit the stock
 #. accelerator for paste
@@ -4668,7 +4674,7 @@ msgstr "Ulang yang hana ipeujadeh"
 #. * be window-wide, and not just view-wide.
 #. * Since this also resets the "Show hidden files" mode,
 #. * it is a mixture of both ATM.
-#. 
+#.
 #. name, stock id
 #. label, accelerator
 #: ../src/nautilus-view.c:7249
@@ -4716,17 +4722,17 @@ msgstr "Mendeteksi media untuk drive yang ipileh"
 #. tooltip
 #: ../src/nautilus-view.c:7278
 msgid "Mount the volume associated with the open folder"
-msgstr "Peukaen volume yang meuhubong ngon folder yang ibuka"
+msgstr "Peukaen volume yang meuhubong ngon folder yang peuhah"
 
 #. tooltip
 #: ../src/nautilus-view.c:7282
 msgid "Unmount the volume associated with the open folder"
-msgstr "Peuleuh kaet volume yang meuhubungan ngon folder yang ibuka"
+msgstr "Peuleuh kaet volume yang meuhubungan ngon folder yang peuhah"
 
 #. tooltip
 #: ../src/nautilus-view.c:7286
 msgid "Eject the volume associated with the open folder"
-msgstr "Peuteubit volume yang berhubungan ngon folder yang ibuka"
+msgstr "Peuteubit volume yang berhubungan ngon folder yang peuhah"
 
 #. tooltip
 #: ../src/nautilus-view.c:7290
@@ -4742,7 +4748,7 @@ msgstr "Peupiyoeh volume yang tuehubung bak folder yang teubuka"
 #. label, accelerator
 #: ../src/nautilus-view.c:7301
 msgid "Open File and Close window"
-msgstr "Buka Berkas Aleuh nyan Top Jendela"
+msgstr "Peuhah Beureukaih dan Toep tingkap"
 
 #. name, stock id
 #. label, accelerator
@@ -4753,7 +4759,7 @@ msgstr "Keubah Yang _Imita"
 #. tooltip
 #: ../src/nautilus-view.c:7306
 msgid "Save the edited search"
-msgstr "Keubah yang ka meuteumee"
+msgstr "Keubah yang ka andam meumita"
 
 #. name, stock id
 #. label, accelerator
@@ -4764,17 +4770,17 @@ msgstr "Keibah Yang ka imita keu…"
 #. tooltip
 #: ../src/nautilus-view.c:7310
 msgid "Save the current search as a file"
-msgstr "Keibah Yang ka imita keu berkas"
+msgstr "Keubah nyang jimita jinoe keu beureukaih"
 
 #. tooltip
 #: ../src/nautilus-view.c:7316
 msgid "Open this folder in a navigation window"
-msgstr "Buka folder nyoe bak jendela navigasi"
+msgstr "Peuhah folder nyoe lam tiendela navigasi"
 
 #. tooltip
 #: ../src/nautilus-view.c:7320
 msgid "Open this folder in a new tab"
-msgstr "Buka folder nyoe bak tab baroe"
+msgstr "Peuhah folder nyoe lam tab baro"
 
 #. name, stock id
 #. label, accelerator
@@ -4796,8 +4802,8 @@ msgid ""
 "Move or copy files previously selected by a Cut or Copy command into this "
 "folder"
 msgstr ""
-"Pinah atawa copy beureukaih yang dipileh dilikoet jih ngon fungsi koh atau copy u "
-"dalam folder nyoe"
+"Pinah atawa copy beureukaih yang dipileh dilikoet jih ngon fungsi koh atau "
+"copy u dalam folder nyoe"
 
 #. tooltip
 #: ../src/nautilus-view.c:7338
@@ -4862,7 +4868,7 @@ msgstr "_Skrip"
 #: ../src/nautilus-view.c:7795
 #, c-format
 msgid "Move the open folder out of the trash to “%s”"
-msgstr "Peubalek folder yang dibuka bak “%s”"
+msgstr "Peubalek peuhah folder u luwa tong broeh keu “%s”"
 
 #: ../src/nautilus-view.c:7799
 #, c-format
@@ -4943,11 +4949,11 @@ msgstr "Peujak Drive multi-disk yang dipileh"
 
 #: ../src/nautilus-view.c:7963
 msgid "U_nlock Drive"
-msgstr "Buka _Gunci Drive"
+msgstr "Peuhah _Gunci Drive"
 
 #: ../src/nautilus-view.c:7964 ../src/nautilus-view.c:8153
 msgid "Unlock the selected drive"
-msgstr "Buka gunci drive yang dipileh"
+msgstr "Peuhah gunci drive yang dipileh"
 
 #: ../src/nautilus-view.c:7977
 msgid "Stop the selected drive"
@@ -4981,39 +4987,39 @@ msgstr "Gunci driver yang dipileh"
 
 #: ../src/nautilus-view.c:8035 ../src/nautilus-view.c:8039
 msgid "Start the drive associated with the open folder"
-msgstr "Peujak drive yang teuhubung bak folder yang ibuka"
+msgstr "Peujak drive yang teuhubung bak folder yang peuhah"
 
 #: ../src/nautilus-view.c:8043
 msgid "Connect to the drive associated with the open folder"
-msgstr "Peusambong bak drive yang teuhubung bak folder yang ibuka"
+msgstr "Peusambong bak drive yang teuhubung bak folder yang peuhah"
 
 #: ../src/nautilus-view.c:8047
 msgid "Start the multi-disk drive associated with the open folder"
-msgstr "Peujak drive multi-disk yang teuhubung ngon folder yang ibuka"
+msgstr "Peujak drive multi-disk yang teuhubung ngon folder yang peuhah"
 
 #: ../src/nautilus-view.c:8051
 msgid "Unlock the drive associated with the open folder"
-msgstr "Buka Gunci driver yang teuhubung ngon folder yang ibuka"
+msgstr "Peuhah Gunci driver yang teuhubung ngon folder yang peuhah"
 
 #: ../src/nautilus-view.c:8064
 msgid "_Stop the drive associated with the open folder"
-msgstr "Peu_piyoeh drive yang teuhubung ngon folder yang ibuka"
+msgstr "Peu_piyoeh drive yang teuhubung ngon folder yang peuhah"
 
 #: ../src/nautilus-view.c:8068
 msgid "Safely remove the drive associated with the open folder"
-msgstr "Peuleuh drive yang teuhubung ngon folder yang ibuka secara aman"
+msgstr "Peuleuh drive yang teuhubung ngon folder yang peuhah secara aman"
 
 #: ../src/nautilus-view.c:8072
 msgid "Disconnect the drive associated with the open folder"
-msgstr "Peuputoeh koneksi dari drive yang teuhubung ngon folder yang ibuka"
+msgstr "Peuputoeh koneksi dari drive yang teuhubung ngon folder yang peuhah"
 
 #: ../src/nautilus-view.c:8076
 msgid "Stop the multi-disk drive associated with the open folder"
-msgstr "Peupiyoeh drive multi-disk yang teuhubung ngon folder yang ibuka"
+msgstr "Peupiyoeh drive multi-disk yang teuhubung ngon folder yang peuhah"
 
 #: ../src/nautilus-view.c:8080
 msgid "Lock the drive associated with the open folder"
-msgstr "Gunci drive yang teuhubung ngon folder yang ibuka"
+msgstr "Gunci drive yang teuhubung ngon folder yang peuhah"
 
 #: ../src/nautilus-view.c:8307 ../src/nautilus-view.c:8612
 msgid "_Delete Permanently"
@@ -5037,7 +5043,7 @@ msgstr[1] "Folder baroe ngon seleksi (%'d objek)"
 #: ../src/nautilus-view.c:8527
 #, c-format
 msgid "_Open With %s"
-msgstr "_Buka Ngon %s"
+msgstr "_Peuhah Ngon %s"
 
 #: ../src/nautilus-view.c:8538
 msgid "Run"
@@ -5047,15 +5053,15 @@ msgstr "Peujak"
 #, c-format
 msgid "Open in %'d New _Window"
 msgid_plural "Open in %'d New _Windows"
-msgstr[0] "Buka bak %'d _Jendela Baroe"
-msgstr[1] "Buka bak %'d _Jendela Baroe"
+msgstr[0] "Peuhah bak %'d _Jendela Baroe"
+msgstr[1] "Peuhah bak %'d _Jendela Baroe"
 
 #: ../src/nautilus-view.c:8596
 #, c-format
 msgid "Open in %'d New _Tab"
 msgid_plural "Open in %'d New _Tabs"
-msgstr[0] "Buka bak %'d _Tab Baroe"
-msgstr[1] "Buka bak %'d _Tab Baroe"
+msgstr[0] "Peuhah bak %'d _Tab Baroe"
+msgstr[1] "Peuhah bak %'d _Tab Baroe"
 
 #: ../src/nautilus-view.c:8613
 msgid "Delete all selected items permanently"
@@ -5071,7 +5077,7 @@ msgstr "Beuoh objek yang dipileh dari daftar yang paleng baroe"
 
 #: ../src/nautilus-view.c:8685
 msgid "View or modify the properties of the open folder"
-msgstr "Kalon atau ubah properti folder yang jinoe ibuka"
+msgstr "Kalon atau ubah properti folder yang jinoe peuhah"
 
 #: ../src/nautilus-view-dnd.c:171 ../src/nautilus-view-dnd.c:205
 #: ../src/nautilus-view-dnd.c:296
@@ -5080,7 +5086,8 @@ msgstr "Fitur tarek ngon peuleuh hana didukung."
 
 #: ../src/nautilus-view-dnd.c:172
 msgid "Drag and drop is only supported on local file systems."
-msgstr "Fitur tarek ngon peuleuh nakeuh didukung mantong bak beureukaih sistem lokal."
+msgstr ""
+"Fitur tarek ngon peuleuh nakeuh didukung mantong bak beureukaih sistem lokal."
 
 #: ../src/nautilus-view-dnd.c:206 ../src/nautilus-view-dnd.c:297
 msgid "An invalid drag type was used."
@@ -5093,7 +5100,7 @@ msgstr "Peuleuh Text.txt"
 
 #. Translator: This is the filename used for when you dnd raw
 #. * data to a directory, if the source didn't supply a name.
-#. 
+#.
 #: ../src/nautilus-view-dnd.c:472
 msgid "dropped data"
 msgstr "data yang dipeuleuh"
@@ -5121,8 +5128,8 @@ msgid ""
 "Foundation; either version 2 of the License, or (at your option) any later "
 "version."
 msgstr ""
-"Beureukaih nakeuh software bebas; Droen jeut menyebarluaskannya dan/atau ubah "
-"dimiyup syarat GNU General Public License lagee dipublikasi lee Free "
+"Beureukaih nakeuh software bebas; Droen jeut menyebarluaskannya dan/atau "
+"ubah dimiyup syarat GNU General Public License lagee dipublikasi lee Free "
 "Software Foundation; pu nyan dari versi 2 atau (terserah pilehan Droen) "
 "versi aleuh nyan. "
 
@@ -5139,17 +5146,17 @@ msgstr ""
 
 #: ../src/nautilus-window.c:2039
 msgid ""
-"You should have received a copy of the GNU General Public License along with"
-" Nautilus; if not, write to the Free Software Foundation, Inc., 51 Franklin "
+"You should have received a copy of the GNU General Public License along with "
+"Nautilus; if not, write to the Free Software Foundation, Inc., 51 Franklin "
 "Street, Fifth Floor, Boston, MA 02110-1301 USA"
 msgstr ""
 "Droen seuharus jih trimoeng copian dari GNU General Public License bersama "
-"Nautilus; meynyoe han, kirem surat Droen keu Free Software Foundation, Inc.,"
-" 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA."
+"Nautilus; meynyoe han, kirem surat Droen keu Free Software Foundation, Inc., "
+"51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA."
 
 #. Translators: these two strings here indicate the copyright time span,
 #. * e.g. 1999-2011.
-#. 
+#.
 #: ../src/nautilus-window.c:2054
 msgid "Copyright © %Id–%Id The Files authors"
 msgstr "Hak peugoet © %Id-%Id Ureung Peunget Beureukaih"
@@ -5161,7 +5168,7 @@ msgstr "Akses ngon keulola beureukaih droen"
 #. Translators should localize the following string
 #. * which will be displayed at the bottom of the about
 #. * box to give credit to the translator(s).
-#. 
+#.
 #: ../src/nautilus-window.c:2070
 msgid "translator-credits"
 msgstr "Muhammad Sani <msani@s1.informatika.unsyiah.ac.id>, 2013."
@@ -5188,7 +5195,7 @@ msgstr "Peu_ek"
 
 #: ../src/nautilus-window-menus.c:466
 msgid "Open the parent folder"
-msgstr "Buka folder saboeh tingkat diateuh"
+msgstr "Peuhah folder saboeh tingkat diateuh"
 
 #. tooltip
 #: ../src/nautilus-window-menus.c:470
@@ -5199,12 +5206,12 @@ msgstr "Piyoeh buka lokasi yang jinoe"
 #. label, accelerator
 #: ../src/nautilus-window-menus.c:473
 msgid "_Reload"
-msgstr "_Buka Ulang"
+msgstr "_Peuhah Ulang"
 
 #. tooltip
 #: ../src/nautilus-window-menus.c:474
 msgid "Reload the current location"
-msgstr "Buka ualng lokasi yang jinoe"
+msgstr "Peuhah ualng lokasi yang jinoe"
 
 #. name, stock id
 #. label, accelerator
@@ -5228,8 +5235,8 @@ msgstr "Mita keu beureukaih"
 msgid ""
 "Locate files based on file name and type. Save your searches for later use."
 msgstr ""
-"Mita beureukaih meunuroet jenis ngon nan beureukaih. Keubah yang ka Droen mita keu"
-" jingui lom."
+"Mita beureukaih meunuroet jenis ngon nan beureukaih. Keubah yang ka Droen "
+"mita keu jingui lom."
 
 #. name, stock id
 #. label, accelerator
@@ -5332,7 +5339,7 @@ msgstr "_Home"
 
 #: ../src/nautilus-window-menus.c:537
 msgid "Open another Nautilus window for the displayed location"
-msgstr "Buka Jendela Nautilus yang laen"
+msgstr "Peuhah Jendela Nautilus yang laen"
 
 #. name, stock id, label
 #: ../src/nautilus-window-menus.c:539
@@ -5341,7 +5348,7 @@ msgstr "_Tab Baroe"
 
 #: ../src/nautilus-window-menus.c:540
 msgid "Open another tab for the displayed location"
-msgstr "Buka tab yang laen"
+msgstr "Peuhah tab yang laen"
 
 #. name, stock id, label
 #: ../src/nautilus-window-menus.c:542
@@ -5377,7 +5384,7 @@ msgstr "Pasoe _Lokasi…"
 
 #: ../src/nautilus-window-menus.c:552
 msgid "Specify a location to open"
-msgstr "Peuteuntee lokasi untuk dibuka"
+msgstr "Peuteuntee lokasi keu peuhah"
 
 #. name, stock id, label
 #: ../src/nautilus-window-menus.c:554
@@ -5500,7 +5507,7 @@ msgstr "Hana hak untuk akses folder yang dituju."
 #. * the code that guesses web addresses when there's no initial "/".
 #. * But this case is also hit for legitimate web addresses when
 #. * the proxy is set up wrong.
-#. 
+#.
 #: ../src/nautilus-window-slot.c:1646
 msgid ""
 "Unable to find the requested location. Please check the spelling or the "
@@ -5574,6 +5581,4 @@ msgstr "Meuasoe gamba ngon lagu"
 
 #: ../src/nautilus-x-content-bar.c:195
 msgid "Open with:"
-msgstr "Buka ngon:"
-
-
+msgstr "Peuhah ngon:"

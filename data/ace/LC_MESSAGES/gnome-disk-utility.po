@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 #  <ayunandasari419@gmail.com>, 2013.
 #  <hendramurdani46@gmail.com>, 2013.
 #  <msani@s1.informatika.unsyiah.ac.id>, 2013.
@@ -13,14 +13,16 @@ msgstr ""
 "Project-Id-Version: Suroboyo\n"
 "Report-Msgid-Bugs-To: http://dev.blankonlinux.or.id/\n"
 "POT-Creation-Date: 2013-09-07 15:08+0000\n"
-"PO-Revision-Date: 2013-11-12 11:52+0000\n"
-"Last-Translator: ayunandasari ayunandasari <ayunandasari419@gmail.com>\n"
-"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/Suroboyo/team/ace/)\n"
+"PO-Revision-Date: 2014-01-03 22:25+0700\n"
+"Last-Translator: Mahyuddin Idram Ahmad <dotovr@di.blankon.in>\n"
+"Language-Team: Aceh (http://http://i15n.blankonlinux.or.id//projects/p/"
+"Suroboyo/team/ace/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ace\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
 
 #: ../data/gnome-disk-image-mounter.desktop.in.h:1
 #: ../src/disk-image-mounter/main.c:46
@@ -41,7 +43,8 @@ msgstr "Ketik frasa sandi untuk buka gunci"
 
 #: ../data/gnome-disks.desktop.in.h:3
 msgid ""
-"disk;drive;volume;harddisk;hdd;disc;cdrom;dvd;partition;iso;image;backup;restore;benchmark;raid;luks;encryption;S.M.A.R.T.;smart;"
+"disk;drive;volume;harddisk;hdd;disc;cdrom;dvd;partition;iso;image;backup;"
+"restore;benchmark;raid;luks;encryption;S.M.A.R.T.;smart;"
 msgstr "Ka teukeudi error"
 
 #: ../data/org.gnome.Disks.gschema.xml.in.in.h:1
@@ -50,8 +53,8 @@ msgstr "Peuidin tuleh u image"
 
 #: ../data/org.gnome.Disks.gschema.xml.in.in.h:2
 msgid ""
-"Default location for the Create/Restore disk image dialogs. If blank the "
-"~/Documents folder is used."
+"Default location for the Create/Restore disk image dialogs. If blank the ~/"
+"Documents folder is used."
 msgstr "Pileh Image Disk untuk ipeukaet"
 
 #: ../data/org.gnome.settings-daemon.plugins.gdu-sd.gschema.xml.in.in.h:1
@@ -155,8 +158,8 @@ msgid ""
 "to another. Please back up important data before using the write benchmark."
 msgstr ""
 "Uji bandeng peulibat peungukuran laju transfer bak berbagai area laat dan "
-"penguko padum treb wate yang perle untuk seek dari saboh daerah ke laen jih."
-" Harap back up data penteng segohlom pakek uji bandeng tuleh nyo."
+"penguko padum treb wate yang perle untuk seek dari saboh daerah ke laen jih. "
+"Harap back up data penteng segohlom pakek uji bandeng tuleh nyo."
 
 #: ../data/ui/benchmark-dialog.ui.h:13
 msgid "Transfer Rate"
@@ -176,24 +179,29 @@ msgstr "Lakukan Uji Bandeng_tuleh"
 
 #: ../data/ui/benchmark-dialog.ui.h:17
 msgid ""
-"Benchmarking the write-rate of a disk requires exclusive access to the disk (e.g. the disk or its partitions cannot be mounted or in use) and involves reading data and then writing it back. As a result, the contents of the disk is not changed.\n"
+"Benchmarking the write-rate of a disk requires exclusive access to the disk "
+"(e.g. the disk or its partitions cannot be mounted or in use) and involves "
+"reading data and then writing it back. As a result, the contents of the disk "
+"is not changed.\n"
 "\n"
-"If not checked, the write-part of the benchmark will not be done but on the other hand exclusive access to the device is not needed (e.g. the disk or device can be in use)."
+"If not checked, the write-part of the benchmark will not be done but on the "
+"other hand exclusive access to the device is not needed (e.g. the disk or "
+"device can be in use)."
 msgstr ""
 "Uji Bandeng ateuh laju dari disk perle akses eksklusif ke disk ( nyan keuh "
 "disk ato partisi jih hanjheut di kaet ato teungoh di pakek) dan peulibat "
 "baca data banlheuh nyan i tuleh teuma. Hasil jih, isi disk hana berubah. "
-"meunyo hana di conteng, bagian tuleh dari uji bandeng hanjhet dilakukan tapi"
-" di pihak laen akses eksklusif ke alat hana perle ( yaitu disk ato alat jhet"
-" sambilan di pakek). "
+"meunyo hana di conteng, bagian tuleh dari uji bandeng hanjhet dilakukan tapi "
+"di pihak laen akses eksklusif ke alat hana perle ( yaitu disk ato alat jhet "
+"sambilan di pakek). "
 
 #: ../data/ui/benchmark-dialog.ui.h:20
 msgid ""
 "Number of samples. Bigger number produces a more accurate picture of access "
 "time patterns but takes more time."
 msgstr ""
-"Lo jih cuplikan. leubeh lo menhasilkan gambaran yang leubeh akurat atas pola"
-" watee akses tapi perle leubeh lo watee."
+"Lo jih cuplikan. leubeh lo menhasilkan gambaran yang leubeh akurat atas pola "
+"watee akses tapi perle leubeh lo watee."
 
 #: ../data/ui/benchmark-dialog.ui.h:21
 msgid ""
@@ -430,8 +438,7 @@ msgstr "Terapkan pengato Manajemen Daya tingkat Lanjut"
 
 #: ../data/ui/disk-settings-dialog.ui.h:7
 msgid "Turn on to configure APM at startup and when the disk is connected"
-msgstr ""
-"Peu udep untuk konfigurasi APM watee awai mula dan wate disk tesambong"
+msgstr "Peu udep untuk konfigurasi APM watee awai mula dan wate disk tesambong"
 
 #: ../data/ui/disk-settings-dialog.ui.h:8
 msgid "APM Level"
@@ -442,8 +449,8 @@ msgid ""
 "Agressive spin-down may wear out the drive faster than anticipated. Please "
 "check the “Start/Stop Count” SMART attribute from time to time"
 msgstr ""
-"Spin-Down agrasif jhet peuget drive jadi buruk dan leubeh bagah dari yang di"
-" antisipasi. Harap periksa atribut SMART \"atribut Start/Stop\" dari watee "
+"Spin-Down agrasif jhet peuget drive jadi buruk dan leubeh bagah dari yang di "
+"antisipasi. Harap periksa atribut SMART \"atribut Start/Stop\" dari watee "
 "keu watee"
 
 #: ../data/ui/disk-settings-dialog.ui.h:10
@@ -456,8 +463,7 @@ msgstr "Terapkan pengato Manajemen Akustik Otomatis"
 
 #: ../data/ui/disk-settings-dialog.ui.h:12
 msgid "Turn on to configure AAM at startup and when the disk is connected"
-msgstr ""
-"Peu Udep untuk configurasi AAM watee awai mula dan wate disk tesambong"
+msgstr "Peu Udep untuk configurasi AAM watee awai mula dan wate disk tesambong"
 
 #: ../data/ui/disk-settings-dialog.ui.h:13
 msgid "Vendor Recommended"
@@ -745,12 +751,12 @@ msgstr "Opsi Enkripsi Otom_atis"
 #: ../data/ui/edit-crypttab-dialog.ui.h:3
 msgid ""
 "Switch off <i>Automatic Encryption Options</i> to manage encryption options "
-"and passphrase for the device. The options correspond to an entry in the "
-"<b>/etc/crypttab</b> file"
+"and passphrase for the device. The options correspond to an entry in the <b>/"
+"etc/crypttab</b> file"
 msgstr ""
-"Peumatee<i>Opsi Enkripsi Otomatis</i> untuk keulola opsi enkripsi ngon frasa"
-" sandi bagi perangkat. Opsi berkaitan ngon entri lam berkas "
-"<b>/etc/crypttab</b>."
+"Peumatee<i>Opsi Enkripsi Otomatis</i> untuk keulola opsi enkripsi ngon frasa "
+"sandi bagi perangkat. Opsi berkaitan ngon entri lam berkas <b>/etc/crypttab</"
+"b>."
 
 #: ../data/ui/edit-crypttab-dialog.ui.h:5
 msgid "Opt_ions"
@@ -804,11 +810,11 @@ msgstr "Perle _otorisasi tamahan untok buka gunci"
 
 #: ../data/ui/edit-crypttab-dialog.ui.h:15
 msgid ""
-"If checked, additional authorization is required to unlock the device [x"
-"-udisks-auth]"
+"If checked, additional authorization is required to unlock the device [x-"
+"udisks-auth]"
 msgstr ""
-"Miseu icontreng, otorisasi tamahan diperlekan untok ibuka gunci peurangkat[x"
-"-undisk-auth]"
+"Miseu icontreng, otorisasi tamahan diperlekan untok ibuka gunci peurangkat[x-"
+"undisk-auth]"
 
 #: ../data/ui/edit-dos-partition-dialog.ui.h:1
 #: ../data/ui/edit-gpt-partition-dialog.ui.h:1
@@ -858,12 +864,11 @@ msgstr "Opsi Pengaitan Otom_atis"
 #: ../data/ui/edit-fstab-dialog.ui.h:3
 msgid ""
 "Switch off <i>Automatic Mount Options</i> to manage mount point and mount "
-"options for the device. The options correspond to an entry in the "
-"<b>/etc/fstab</b> file"
+"options for the device. The options correspond to an entry in the <b>/etc/"
+"fstab</b> file"
 msgstr ""
 "Peumate <i>Opsi Kait Otomatis</i> untok mengelola titek kait ngon opsi kait "
-"bagi perangkat. Opsi berhubungan dengon entri daleum berkas "
-"<b>/etc/fstab</b>"
+"bagi perangkat. Opsi berhubungan dengon entri daleum berkas <b>/etc/fstab</b>"
 
 #: ../data/ui/edit-fstab-dialog.ui.h:4
 msgid "I_dentify As"
@@ -874,13 +879,13 @@ msgid ""
 "The <b>special device file</b> - use symlinks in the <b>/dev/disk</b> "
 "hierarchy to control the scope of the entry"
 msgstr ""
-"<b>berkas peurangkat khusus</b> - gunakan symlink dalam hirarki "
-"<b>/dev/disk</b> untok mengendalikan skup dari entri"
+"<b>berkas peurangkat khusus</b> - gunakan symlink dalam hirarki <b>/dev/"
+"disk</b> untok mengendalikan skup dari entri"
 
 #: ../data/ui/edit-fstab-dialog.ui.h:6
 msgid ""
-"The special device file - use symlinks in the /dev/disk hierarchy to control"
-" the scope of the entry"
+"The special device file - use symlinks in the /dev/disk hierarchy to control "
+"the scope of the entry"
 msgstr ""
 "Berkas peurangkat khusoh - igunakan symlink dalam hirarki /dev/disk untok "
 "ikendalikan skup dari entri"
@@ -909,8 +914,8 @@ msgstr "_Nan Tampilan"
 msgid ""
 "If set, the name to use for the device in the user interface [x-gvfs-name=]"
 msgstr ""
-"Miseu ditata, nan nyang ipakek bagi peurangkat dalam anta muka pengguna [x"
-"-gvfs-name=]"
+"Miseu ditata, nan nyang ipakek bagi peurangkat dalam anta muka pengguna [x-"
+"gvfs-name=]"
 
 #: ../data/ui/edit-fstab-dialog.ui.h:13
 msgid "Icon Na_me"
@@ -918,11 +923,11 @@ msgstr "N_an Ikon"
 
 #: ../data/ui/edit-fstab-dialog.ui.h:14
 msgid ""
-"If set, the name of the icon to use in the device in the user interface [x"
-"-gvfs-icon=]"
+"If set, the name of the icon to use in the device in the user interface [x-"
+"gvfs-icon=]"
 msgstr ""
-"Miseu ditata,Nan ikon nyang ipakek ngon peurangkat dalam antar muka pengguna"
-" [x-gvfs-icon=]"
+"Miseu ditata,Nan ikon nyang ipakek ngon peurangkat dalam antar muka pengguna "
+"[x-gvfs-icon=]"
 
 #: ../data/ui/edit-fstab-dialog.ui.h:15
 msgid "Sho_w in user interface"
@@ -942,11 +947,11 @@ msgstr "Peurele _otorisasi tamahan untok ikaitkan"
 
 #: ../data/ui/edit-fstab-dialog.ui.h:18
 msgid ""
-"If checked, additional authorization is required to mount the device [x"
-"-udisks-auth]"
+"If checked, additional authorization is required to mount the device [x-"
+"udisks-auth]"
 msgstr ""
-"miseu icontreng, otorisasi tamahan iperlekan untok mengait peurangkat[x"
-"-udisks-auth]"
+"miseu icontreng, otorisasi tamahan iperlekan untok mengait peurangkat[x-"
+"udisks-auth]"
 
 #: ../data/ui/edit-fstab-dialog.ui.h:19
 msgid "Mount at _startup"
@@ -982,8 +987,8 @@ msgstr "Tipe partisi yang direpresentasikan sebago <i>GUID</i> 32-bit"
 
 #: ../data/ui/edit-gpt-partition-dialog.ui.h:6
 msgid ""
-"The partition name (up to 36 unicode characters). This is useful if you want"
-" to refer to the device via a symlink in the <b>/dev/disk/by-partlabel</b> "
+"The partition name (up to 36 unicode characters). This is useful if you want "
+"to refer to the device via a symlink in the <b>/dev/disk/by-partlabel</b> "
 "directory"
 msgstr ""
 "Nan partisi (troh 36 karakter inucode). Nyoe meuguna meunyoe Droen keuneuk "
@@ -996,12 +1001,12 @@ msgstr "Partisi _sistem"
 
 #: ../data/ui/edit-gpt-partition-dialog.ui.h:8
 msgid ""
-"Used to indicate that the partition and its contents are required for the "
-"OS/Platform to function. Special care should be taken to not delete or "
+"Used to indicate that the partition and its contents are required for the OS/"
+"Platform to function. Special care should be taken to not delete or "
 "overwrite the contents"
 msgstr ""
-"Ipakek untuk mengindikasi bahwa partisi ngon asoe jih ipeureulee ngat "
-"OS/Platform meufungsi. Peureulee penanganan khusus ngat han teusampoeh atau "
+"Ipakek untuk mengindikasi bahwa partisi ngon asoe jih ipeureulee ngat OS/"
+"Platform meufungsi. Peureulee penanganan khusus ngat han teusampoeh atau "
 "teutimpa asoe jih."
 
 #: ../data/ui/edit-gpt-partition-dialog.ui.h:9
@@ -1010,9 +1015,8 @@ msgstr "jeut di-boot _BIOS Legacy"
 
 #: ../data/ui/edit-gpt-partition-dialog.ui.h:10
 msgid ""
-"Legacy BIOS Bootable. This is equivalent to Master Boot Record "
-"<i>bootable</i> flag. It is normally only used for GPT partitions on MBR "
-"systems"
+"Legacy BIOS Bootable. This is equivalent to Master Boot Record <i>bootable</"
+"i> flag. It is normally only used for GPT partitions on MBR systems"
 msgstr ""
 "jeut di-boot _BIOS Legacy. Nyoe ekuivalen ngon flag <i> bootable</i> Master "
 "Boot Record. Biasa jih nyoe hana ipakek bagi partisi GPT bak sistem MBR."
@@ -1047,8 +1051,7 @@ msgstr "Bek Peukait Ot_omatis"
 
 #: ../data/ui/edit-gpt-partition-dialog.ui.h:16
 msgid "If set, some OSes may not automount the contents of the partition"
-msgstr ""
-"Meunyoe itata, mungken meupadum boeh OS han otomatis kait asoe partisi"
+msgstr "Meunyoe itata, mungken meupadum boeh OS han otomatis kait asoe partisi"
 
 #: ../data/ui/erase-multiple-disks-dialog.ui.h:1
 msgid "Erase Multiple Disks"
@@ -1094,8 +1097,8 @@ msgid ""
 "the device via a symlink in the <b>/dev/disk/by-label</b> directory"
 msgstr ""
 "Nana yang ipakek bagi sistem berkas. nyoe meuguna meunyoe Droen keuneuk "
-"meungacu u peurangkat meulalui symlink lam direktori <b>/dev/disk/by-"
-"label</b>"
+"meungacu u peurangkat meulalui symlink lam direktori <b>/dev/disk/by-label</"
+"b>"
 
 #: ../data/ui/filesystem-create.ui.h:14
 msgid ""
@@ -1186,7 +1189,7 @@ msgstr "Dipeucanggeh"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../data/ui/smart-dialog.ui.h:9 ../src/disks/gduatasmartdialog.c:308
 #: ../src/disks/gduatasmartdialog.c:527
 msgid "Temperature"
@@ -1293,7 +1296,7 @@ msgstr "Error watee buka %s: %s\n"
 #: ../src/disks/gduapplication.c:138
 #, c-format
 msgid "Error looking up block device for %s\n"
-msgstr "Error watee mita peurangkat blog bagi %s"
+msgstr "Error watee mita peurangkat blog bagi %s\n"
 
 #: ../src/disks/gduapplication.c:178
 msgid "Select device"
@@ -1326,7 +1329,7 @@ msgstr "--format-device mesti dinyatakan watee ipakek --xid\n"
 #. *              The third, fourth and fifth %d are the major, minor and
 #. micro versions of libudisks2 that was used when compiling the Disks
 #. application (for example 2, 0 and 90).
-#. 
+#.
 #: ../src/disks/gduapplication.c:312
 #, c-format
 msgid ""
@@ -1339,7 +1342,7 @@ msgstr ""
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:151
 msgid "Read Error Rate"
 msgstr "Laju error Pembacaan"
@@ -1349,13 +1352,13 @@ msgid ""
 "Frequency of errors while reading raw data from the disk. A non-zero value "
 "indicates a problem with either the disk surface or read/write heads"
 msgstr ""
-"Frekuensi keusalahan keutika baca data mentah dari disk. Suatu nilai kon nol"
-" menandakan na masalah dengon peurangkat disk atau ule baca/tuleh"
+"Frekuensi keusalahan keutika baca data mentah dari disk. Suatu nilai kon nol "
+"menandakan na masalah dengon peurangkat disk atau ule baca/tuleh"
 
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:161
 msgid "Throughput Performance"
 msgstr "Kinerja Throughput"
@@ -1367,7 +1370,7 @@ msgstr "Rata-rata efisiensi disk"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:169
 msgid "Spinup Time"
 msgstr "Wate Puta"
@@ -1379,7 +1382,7 @@ msgstr "Watee yang dipereulee untuk puta disk"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:177
 msgid "Start/Stop Count"
 msgstr "Cacah Start/Stop"
@@ -1391,16 +1394,16 @@ msgstr "Cacah siklus start/stop spindle"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:185
 msgid "Reallocated Sector Count"
 msgstr "Cacah Sektor Yang Direalokasikan"
 
 #: ../src/disks/gduatasmartdialog.c:186
 msgid ""
-"Count of remapped sectors. When the hard drive finds a "
-"read/write/verification error, it marks the sector as “reallocated” and "
-"transfers data to a special reserved area (spare area)"
+"Count of remapped sectors. When the hard drive finds a read/write/"
+"verification error, it marks the sector as “reallocated” and transfers data "
+"to a special reserved area (spare area)"
 msgstr ""
 "Cacah sektor nyang ipetakan ulang. Keutika hard drive menemui keusalahan "
 "baca/tulisuueh/verifikasi, jih menandai sektor seubagai \"direalokasikan\" "
@@ -1409,7 +1412,7 @@ msgstr ""
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:195
 msgid "Read Channel Margin"
 msgstr "Marjin Kanal Baca"
@@ -1421,7 +1424,7 @@ msgstr "Margin kanal watee baca data."
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:203
 msgid "Seek Error Rate"
 msgstr "Laju Error Seek"
@@ -1433,7 +1436,7 @@ msgstr "Frekuensi error keutika penetapan posisi"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:211
 msgid "Seek Timer Performance"
 msgstr "Kinerja Pewatee Seek"
@@ -1445,7 +1448,7 @@ msgstr "Efisiensi rata-rata operasi keutika penetapan posisi"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:219 ../src/disks/gduatasmartdialog.c:544
 msgid "Power-On Hours"
 msgstr "Trep Jeum Udep"
@@ -1457,7 +1460,7 @@ msgstr "Le jih jem berlangsung lam keuadaan ipeu'udep"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:227
 msgid "Spinup Retry Count"
 msgstr "Cacah Coba Ulang Spinup"
@@ -1469,7 +1472,7 @@ msgstr "Lee usaha untuk puta"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:235
 msgid "Calibration Retry Count"
 msgstr "Cacah Coba Ulang Kalibrasi"
@@ -1481,7 +1484,7 @@ msgstr "Leu jih usaha untok kalibrasi bak peurangkat"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:243
 msgid "Power Cycle Count"
 msgstr "Cacah Siklus Daya"
@@ -1493,7 +1496,7 @@ msgstr "Cacah peristiwa udep"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:251
 msgid "Soft read error rate"
 msgstr "Laju error baca soft"
@@ -1505,7 +1508,7 @@ msgstr "Frekuensi error keutika baca dari disk"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:260
 msgid "Reported Uncorrectable Errors"
 msgstr "Error Hanjeut Dikoreksi nYang ilaporkan"
@@ -1517,21 +1520,20 @@ msgstr "Le error nyang hanjeut iperbaiki ngon ECC hardware"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:268
 msgid "High Fly Writes"
 msgstr "Peunulisan Manyang Iphoe"
 
 #: ../src/disks/gduatasmartdialog.c:269
 msgid ""
-"Number of times a recording head is flying outside its normal operating "
-"range"
+"Number of times a recording head is flying outside its normal operating range"
 msgstr "Padup go ule peurekaman iphoe ilua jangkauan operasi normal"
 
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:276
 msgid "Airflow Temperature"
 msgstr "Temperatur Aliran Udara"
@@ -1543,7 +1545,7 @@ msgstr "Temperatur aliran udara bak drive"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:284 ../src/disks/gduatasmartdialog.c:454
 msgid "G-sense Error Rate"
 msgstr "Laju Error Sensor-G"
@@ -1555,7 +1557,7 @@ msgstr "Frekuensi keusalahan seubagai akibat dari impak beuban"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:292 ../src/disks/gduatasmartdialog.c:511
 msgid "Power-off Retract Count"
 msgstr "Cacah Retraksi Ipeumatee"
@@ -1567,7 +1569,7 @@ msgstr "Le jih siklus retraksi emergensi ato ipeumate"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:300 ../src/disks/gduatasmartdialog.c:487
 msgid "Load/Unload Cycle Count"
 msgstr "Cacah Siklus Muat/Bongkar"
@@ -1583,7 +1585,7 @@ msgstr "Temperatur kandar nyang jinoe"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:316
 msgid "Hardware ECC Recovered"
 msgstr "Hardware ECC Kapuleh"
@@ -1595,7 +1597,7 @@ msgstr "Lee error watee ijak ECC"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:324
 msgid "Reallocation Count"
 msgstr "Cacah Realokasi"
@@ -1603,17 +1605,17 @@ msgstr "Cacah Realokasi"
 #: ../src/disks/gduatasmartdialog.c:325
 msgid ""
 "Number of remapping operations. The raw value of this attribute shows the "
-"total number of (successful and unsuccessful) attempts to transfer data from"
-" reallocated sectors to a spare area"
+"total number of (successful and unsuccessful) attempts to transfer data from "
+"reallocated sectors to a spare area"
 msgstr ""
 "Lee aplikasi pemetaan ulang. Nilai meuntah atribut nyoe peuleumah jumlah "
-"total percobaan (sukses ngon hana sukses) untuk mentransfer data dari sektor"
-" yang direalokasi u area cadangan"
+"total percobaan (sukses ngon hana sukses) untuk mentransfer data dari sektor "
+"yang direalokasi u area cadangan"
 
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:335
 msgid "Current Pending Sector Count"
 msgstr "Cacah Sektor Teutunda Jinoe"
@@ -1622,8 +1624,8 @@ msgstr "Cacah Sektor Teutunda Jinoe"
 msgid ""
 "Number of sectors waiting to be remapped. If the sector waiting to be "
 "remapped is subsequently written or read successfully, this value is "
-"decreased and the sector is not remapped. Read errors on the sector will not"
-" remap the sector, it will only be remapped on a failed write attempt"
+"decreased and the sector is not remapped. Read errors on the sector will not "
+"remap the sector, it will only be remapped on a failed write attempt"
 msgstr ""
 "Lo jih sektor yang preh keu dipeutakan kelai. Meunyo sektor yang preh keu "
 "dipeutakan kelai banlheuh nyan sukses di tuleh ato dibaca, nilai nyoe di "
@@ -1633,7 +1635,7 @@ msgstr ""
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:347
 msgid "Uncorrectable Sector Count"
 msgstr "Cacah Sektor Yang hanjeut Dikoreksi"
@@ -1644,14 +1646,14 @@ msgid ""
 "rise in the value of this attribute indicates defects of the disk surface "
 "and/or problems in the mechanical subsystem"
 msgstr ""
-"Total lo jih kesalahan yang jhet di peuget watee baca/tuleh saboh sektor. ek"
-" jih nilai atribut nyoe tanda cacar permukaan disk ngon/ato masalah dalam "
+"Total lo jih kesalahan yang jhet di peuget watee baca/tuleh saboh sektor. ek "
+"jih nilai atribut nyoe tanda cacar permukaan disk ngon/ato masalah dalam "
 "subsistem mekanis."
 
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:357
 msgid "UDMA CRC Error Rate"
 msgstr "Laju Error CRC UDMA"
@@ -1663,7 +1665,7 @@ msgstr "Le jih error CRC seulama lam modus UDMA"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:365
 msgid "Write Error Rate"
 msgstr "Laju Error Tulis"
@@ -1679,7 +1681,7 @@ msgstr ""
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:373
 msgid "Soft Read Error Rate"
 msgstr "Laju Error Baca Soft"
@@ -1691,7 +1693,7 @@ msgstr "Lee error lua-trek"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:381
 msgid "Data Address Mark Errors"
 msgstr "Error Penanda Alamat Data"
@@ -1703,7 +1705,7 @@ msgstr "Le jih keusalahan Data Address Mark (DAM) (ato) spesifik vendor"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:389
 msgid "Run Out Cancel"
 msgstr "Bek jadeh Run Out"
@@ -1715,7 +1717,7 @@ msgstr "Lee error ECC"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:397
 msgid "Soft ECC correction"
 msgstr "Koreksi ECC Soft"
@@ -1727,7 +1729,7 @@ msgstr "Le jih error nyang iperbaiki oleh ECC software"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:405
 msgid "Thermal Asperity Rate"
 msgstr "Laju Asperitas Termal"
@@ -1739,7 +1741,7 @@ msgstr "Le jih keusalahan Tingkat Kekerasan Thermal"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:413
 msgid "Flying Height"
 msgstr "Phoe Manyang"
@@ -1751,7 +1753,7 @@ msgstr "Panyang ulee baca di ateuh permukaan disk"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:421
 msgid "Spin High Current"
 msgstr "Spin Arus Tinggi"
@@ -1763,7 +1765,7 @@ msgstr "Rayeuk jih arus tinggi yang di pakek keu mulai puta drive"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:429
 msgid "Spin Buzz"
 msgstr "Spin Buzz"
@@ -1775,7 +1777,7 @@ msgstr "Lo jih rutin buzz keu mulai puta drive"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:437
 msgid "Offline Seek Performance"
 msgstr "Kerja Seek Offline"
@@ -1787,7 +1789,7 @@ msgstr "Kerja seek seulama operasi offline"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:445
 msgid "Disk Shift"
 msgstr "Pergeseran Disk"
@@ -1804,13 +1806,12 @@ msgstr ""
 msgid ""
 "Number of errors as a result of impact loads as detected by a shock sensor"
 msgstr ""
-"Lo jih kesalahan sebago akibat dari beban impact lagee yang di deteksi "
-"sensor"
+"Lo jih kesalahan sebago akibat dari beban impact lagee yang di deteksi sensor"
 
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:462
 msgid "Loaded Hours"
 msgstr "Jem Imulai"
@@ -1822,15 +1823,15 @@ msgstr "Lo jih jeum dalam keadaan operasional umum"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:470
 msgid "Load/Unload Retry Count"
 msgstr "Jumlah Cuba teuma Muat/Bongkar"
 
 #: ../src/disks/gduatasmartdialog.c:471
 msgid ""
-"Loading on drive caused by numerous recurrences of operations, like reading,"
-" recording, positioning of heads, etc"
+"Loading on drive caused by numerous recurrences of operations, like reading, "
+"recording, positioning of heads, etc"
 msgstr ""
 "Muat bak drive yang di seubabkan meu ulang berbagai operasi, lagee baca, "
 "rekam, posisi ulee, dll"
@@ -1838,7 +1839,7 @@ msgstr ""
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:479
 msgid "Load Friction"
 msgstr "Friksi Beuban"
@@ -1855,7 +1856,7 @@ msgstr "Lo jih siklus pemuatan"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:495
 msgid "Load-in Time"
 msgstr "Watee Load-in"
@@ -1867,7 +1868,7 @@ msgstr "Wate umum untok peuget drive"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:503
 msgid "Torque Amplification Count"
 msgstr "Cacah Penguatan Torsi"
@@ -1883,7 +1884,7 @@ msgstr "Lo jih kejadian retraksi karena di peumatee"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:519
 msgid "GMR Head Amplitude"
 msgstr "Amplituda Ule GMR"
@@ -1899,7 +1900,7 @@ msgstr "T"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:535
 msgid "Endurance Remaining"
 msgstr "Sisa Ketahanan"
@@ -1915,7 +1916,7 @@ msgstr ""
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:552
 msgid "Uncorrectable ECC Count"
 msgstr "Peu itong ECC Han jheut Dikoreksi"
@@ -1927,7 +1928,7 @@ msgstr "Lo jih error ECC han jhet di peuget"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:560
 msgid "Good Block Rate"
 msgstr "Laju blok lagak"
@@ -1943,7 +1944,7 @@ msgstr ""
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:569
 msgid "Head Flying Hours"
 msgstr "Trep Jem Terbang Ule"
@@ -1955,7 +1956,7 @@ msgstr "Wate keutika ule iposisikan"
 #. Translators: SMART attribute, see
 #. http://smartmontools.sourceforge.net/doc.html
 #. * or the next string for a longer explanation.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:577
 msgid "Read Error Retry Rate"
 msgstr "Laju Cuba Ulang Error Baca"
@@ -1998,7 +1999,7 @@ msgstr[1] "%d sektor"
 #. Translators: Used to format a temperature.
 #. * The first %f is the temperature in degrees Celcius and
 #. * the second %f is the temperature in degrees Fahrenheit.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:736 ../src/disks/gduatasmartdialog.c:869
 #, c-format
 msgid "%.0f° C / %.0f° F"
@@ -2011,7 +2012,7 @@ msgstr "%.0f° C / %.0f° F"
 #. Translators: Shown for normalized values (current, worst, threshold) if the
 #. value is
 #. * not applicable, e.g. meaningless. See http://en.wikipedia.org/wiki/N/A
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:747 ../src/disks/gduatasmartdialog.c:1117
 msgid "N/A"
 msgstr "N/A"
@@ -2114,8 +2115,8 @@ msgstr "CUBA-KEDROE GAGAL"
 #, c-format
 msgid "Disk is OK, one failing attribute is failing"
 msgid_plural "Disk is OK, %d attributes are failing"
-msgstr[0] "Disk Dalam keadaan got, %d atributs ka gagal"
-msgstr[1] ""
+msgstr[0] "Disk nakeuh OK, gagal saboh atributs nakeuh gagal"
+msgstr[1] "Disk nakeuh OK, %d atributs nakeuh gagal"
 
 #: ../src/disks/gduatasmartdialog.c:986
 #, c-format
@@ -2139,7 +2140,7 @@ msgstr "Disk meuntong OK"
 #. Translators: Used to convey the status and temperature in one line.
 #. * The first %s is the status of the drive.
 #. * The second %s is the temperature of the drive.
-#. 
+#.
 #: ../src/disks/gduatasmartdialog.c:1020
 #, c-format
 msgid "%s (%s)"
@@ -2273,7 +2274,7 @@ msgstr[1] "%d sampel"
 #. * "Tue 12 Jun 2012 03:57:08 PM EDT". The second %s is how long ago that is
 #. from right
 #. * now, for example "3 days" or "2 hours" or "12 minutes".
-#. 
+#.
 #: ../src/disks/gdubenchmarkdialog.c:696
 #, c-format
 msgctxt "benchmark-updated"
@@ -2324,7 +2325,7 @@ msgstr "Error watee meuteume ukuran perangkat: %m"
 #, c-format
 msgctxt "benchmarking"
 msgid "Error getting page size: %m\n"
-msgstr "Error watee meuteume ukuran halaman: %m"
+msgstr "Error watee meuteume ukuran on: %m\n"
 
 #: ../src/disks/gdubenchmarkdialog.c:1218
 #: ../src/disks/gdubenchmarkdialog.c:1281
@@ -2422,7 +2423,7 @@ msgstr "Kekuatan passphrase"
 #. *              The first %s is a name for the disk (e.g. 'sdb').
 #. *              The second %s is today's date and time, e.g. "March 2, 1976
 #. 6:25AM".
-#. 
+#.
 #: ../src/disks/gducreatediskimagedialog.c:275
 #, c-format
 msgid "Disk Image of %s (%s).img"
@@ -2431,7 +2432,7 @@ msgstr "Berkas disk %s (%s).img"
 #. Translators: A descriptive string for the sound played when
 #. * there's a read error that's being ignored, see
 #. * CA_PROP_EVENT_DESCRIPTION
-#. 
+#.
 #: ../src/disks/gducreatediskimagedialog.c:306
 msgid "Disk image read error"
 msgstr "Error baca image disk"
@@ -2447,7 +2448,7 @@ msgstr "Cok kunci DVD"
 #. Translators: Shown when there are read errors and we skip some data.
 #. *              The first %s is the amount of unreadable data (ex. "512
 #. kB").
-#. 
+#.
 #: ../src/disks/gducreatediskimagedialog.c:355
 #, c-format
 msgid "%s unreadable (replaced with zeroes)"
@@ -2475,13 +2476,13 @@ msgstr "Error baca yang hanjeut ipeupuleh watee peugoet image disk"
 #. * The %f is the percentage of unreadable data (ex. 13.0).
 #. * The first %s is the amount of unreadable data (ex. "4.2 MB").
 #. * The second %s is the name of the device (ex "/dev/").
-#. 
+#.
 #: ../src/disks/gducreatediskimagedialog.c:488
 #, c-format
 msgid ""
-"%2.1f%% (%s) of the data on the device “%s” was unreadable and replaced with"
-" zeroes in the created disk image file. This typically happens if the medium"
-" is scratched or if there is physical damage to the drive"
+"%2.1f%% (%s) of the data on the device “%s” was unreadable and replaced with "
+"zeroes in the created disk image file. This typically happens if the medium "
+"is scratched or if there is physical damage to the drive"
 msgstr ""
 "%2.1f%% (%s) dari data bak perangkat “%s” hanjeut dibaca ngon igantoe ngon "
 "nol lam berkas image disk  yang ipeugoet. Nyoe biasa jih tejadi  meunyoe "
@@ -2639,7 +2640,7 @@ msgstr[1] "%d disks"
 #. *              The first %s is the number of disks e.g. '3 disks'.
 #. *              The second %s is the size of the disk e.g. '42 GB' or '3
 #. TB'.
-#. 
+#.
 #: ../src/disks/gducreateraidarraydialog.c:305
 #, c-format
 msgid "%s of %s each"
@@ -2716,7 +2717,7 @@ msgstr "Array RAID"
 #. *              The first %s is the name of the array (e.g. "My RAID
 #. Array").
 #. *              The second %s is the RAID level (e.g. "RAID-5").
-#. 
+#.
 #: ../src/disks/gdudevicetreemodel.c:1115
 #, c-format
 msgctxt "md-raid-tree-secondary"
@@ -2881,9 +2882,9 @@ msgstr ""
 #: ../src/disks/gduformatdiskdialog.c:437
 msgid ""
 "<b>WARNING</b>: The Secure Erase command may take a very long time to "
-"complete, can’t be canceled and may not work properly with some hardware. In"
-" the worst case, your drive may be rendered unusable or your system may "
-"crash or lock up. Before proceeding, please read the article about <a "
+"complete, can’t be canceled and may not work properly with some hardware. In "
+"the worst case, your drive may be rendered unusable or your system may crash "
+"or lock up. Before proceeding, please read the article about <a "
 "href='https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase'>ATA Secure "
 "Erase</a> and make sure you understand the risks"
 msgstr ""
@@ -2891,9 +2892,9 @@ msgstr ""
 "hanjeut ibatalkan, dan mungken tak beukerja dengon betoi pada beberapa "
 "hardware. Lam kasus terbrok, drive Dron mungken menjadi hanjeut ipakek ato "
 "sistem Dron mungken crash ato ikunci. Sigolom melanjutkan, harap baca "
-"artikel teuntang <a "
-"href='https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase'>ATA Secure "
-"Erase</a> ngon pastikan bahwa Dron memahami risiko jih"
+"artikel teuntang <a href='https://ata.wiki.kernel.org/index.php/"
+"ATA_Secure_Erase'>ATA Secure Erase</a> ngon pastikan bahwa Dron memahami "
+"risiko jih"
 
 #: ../src/disks/gdufilesystemdialog.c:60
 msgid "Error setting label"
@@ -2902,7 +2903,7 @@ msgstr "Gagal watee mengeset label"
 #. Translators: Used to convey that something takes at least
 #. * some specificed duration but may take longer. The %s is a
 #. * time duration e.g. "8 hours and 28 minutes"
-#. 
+#.
 #: ../src/disks/gduformatdiskdialog.c:105
 #, c-format
 msgid "At least %s"
@@ -2911,7 +2912,7 @@ msgstr "Sisa %s"
 #. Translators: Used to convey that something takes
 #. * approximately some specificed duration. The %s is a time
 #. * duration e.g. "2 hours and 2 minutes"
-#. 
+#.
 #: ../src/disks/gduformatdiskdialog.c:116
 #, c-format
 msgid "Approximately %s"
@@ -3005,13 +3006,11 @@ msgstr ""
 #: ../src/disks/gdufstabdialog.c:154
 #, c-format
 msgid "Matches partition %d of the device with the given vital product data"
-msgstr ""
-"Cocok ngon partisi %d dari peurangkat yang data produk vital jih ibri."
+msgstr "Cocok ngon partisi %d dari peurangkat yang data produk vital jih ibri."
 
 #: ../src/disks/gdufstabdialog.c:157
 msgid "Matches the whole disk of the device with the given vital product data"
-msgstr ""
-"Cocok ngon mandum disk dari peurangkat yang data produk vital jih ibri"
+msgstr "Cocok ngon mandum disk dari peurangkat yang data produk vital jih ibri"
 
 #: ../src/disks/gdufstabdialog.c:162
 #, c-format
@@ -3041,8 +3040,7 @@ msgid "Matches the given device"
 msgstr "Cocok ngon peurangkat yang ibri"
 
 #: ../src/disks/gdufstabdialog.c:462
-msgid ""
-"The system may not work correctly if this entry is modified or removed."
+msgid "The system may not work correctly if this entry is modified or removed."
 msgstr ""
 "Sistem mungken ijak hana sempurna meunyoe entri nyoe diubah atau isampoeh."
 
@@ -3077,8 +3075,7 @@ msgstr "Sampoeh Disk?"
 #: ../src/disks/gdumdraiddisksdialog.c:373
 msgctxt "mdraid-disks"
 msgid "Removing a disk from a RAID array may degrade it"
-msgstr ""
-"Sampoeh suatu disk dari  suatu larik RAID meungken peutron tingkan jih"
+msgstr "Sampoeh suatu disk dari  suatu larik RAID meungken peutron tingkan jih"
 
 #: ../src/disks/gdumdraiddisksdialog.c:374
 msgctxt "mdraid-disks"
@@ -3175,7 +3172,7 @@ msgstr "T_amahan"
 #. Translators: Shown in sole item in popup menu for the "+" button when there
 #. are no disks of the
 #. *              right size available
-#. 
+#.
 #: ../src/disks/gdumdraiddisksdialog.c:1150
 msgctxt "mdraid-add"
 msgid "No disks of suitable size available"
@@ -3184,7 +3181,7 @@ msgstr "Hana disk ngeun ukuran yang pah"
 #. Translators: Top-most item in popup menu for the "+" button. Other items in
 #. the menu include
 #. *              disks that can be added to the array
-#. 
+#.
 #: ../src/disks/gdumdraiddisksdialog.c:1161
 msgctxt "mdraid-add"
 msgid "Select disk to add"
@@ -3286,7 +3283,7 @@ msgstr "Hana Media"
 #. Translators: This is shown in the volume grid for a partition with a
 #. name/label.
 #. *              The %d is the partition number. The %s is the name
-#. 
+#.
 #: ../src/disks/gduvolumegrid.c:1556
 #, c-format
 msgctxt "volume-grid"
@@ -3296,7 +3293,7 @@ msgstr "Partisi %d:%s"
 #. Translators: This is shown in the volume grid for a partition with no
 #. name/label.
 #. *              The %d is the partition number
-#. 
+#.
 #: ../src/disks/gduvolumegrid.c:1563
 #, c-format
 msgctxt "volume-grid"
@@ -3327,7 +3324,7 @@ msgstr "Swap"
 #. *              keep this as short as possible.
 #. *              The first %s is the array name (e.g. 'MirrorOnTheWall').
 #. *              The second %s is the homehost (e.g. 'thinkpad').
-#. 
+#.
 #: ../src/disks/gduvolumegrid.c:1718
 #, c-format
 msgctxt "volume-grid"
@@ -3374,7 +3371,7 @@ msgstr "F10"
 #. fail.
 #. *              You can however change to another English modifier (e.g.
 #. <Shift>).
-#. 
+#.
 #: ../src/disks/gduwindow.c:1659
 msgctxt "accelerator"
 msgid "<Ctrl>F"
@@ -3385,7 +3382,7 @@ msgstr "<Ctrk>F"
 #. fail.
 #. *              You can however change to another English modifier (e.g.
 #. <Shift>).
-#. 
+#.
 #: ../src/disks/gduwindow.c:1667
 msgctxt "accelerator"
 msgid "<Ctrl>S"
@@ -3396,7 +3393,7 @@ msgstr "<Ctrl>S"
 #. fail.
 #. *              You can however change to another English modifier (e.g.
 #. <Shift>).
-#. 
+#.
 #: ../src/disks/gduwindow.c:1675
 msgctxt "accelerator"
 msgid "<Ctrl>R"
@@ -3408,7 +3405,7 @@ msgstr "<Ctrl>R"
 #. fail.
 #. *              You can however change to another English modifier (e.g.
 #. <Shift>).
-#. 
+#.
 #: ../src/disks/gduwindow.c:1683
 msgctxt "accelerator"
 msgid "<Ctrl>E"
@@ -3419,7 +3416,7 @@ msgstr "<Ctrl>E"
 #. fail.
 #. *              You can however change to another English modifier (e.g.
 #. <Ctrl>).
-#. 
+#.
 #: ../src/disks/gduwindow.c:1691
 msgctxt "accelerator"
 msgid "<Shift>F10"
@@ -3429,7 +3426,7 @@ msgstr "<Shift>F10"
 #. *              The Shift and Ctrl modifiers must not be translated or
 #. parsing will fail.
 #. *              You can however change to other English modifiers.
-#. 
+#.
 #: ../src/disks/gduwindow.c:1701
 msgctxt "accelerator"
 msgid "<Shift><Ctrl>F"
@@ -3440,7 +3437,7 @@ msgstr "<Shift><Ctrl>F"
 #. "1 minute" or "5 minutes").
 #. *              The second %s is the average amount of bytes transfered per
 #. second (ex. "8.9 MB").
-#. 
+#.
 #: ../src/disks/gduwindow.c:2060
 #, c-format
 msgctxt "job-remaining-with-rate"
@@ -3450,7 +3447,7 @@ msgstr "%s sisa (%s/detik)"
 #. Translators: Used for job progress.
 #. *              The first %s is the estimated amount of time remaining (ex.
 #. "1 minute" or "5 minutes").
-#. 
+#.
 #: ../src/disks/gduwindow.c:2068
 #, c-format
 msgctxt "job-remaining"
@@ -3466,7 +3463,7 @@ msgstr "%s sisa"
 #. *              The third %s is the estimated amount of time remaining
 #. including speed (if known) (ex. "1 minute remaining", "5 minutes remaining
 #. (42.3 MB/s)", "Less than a minute remaining").
-#. 
+#.
 #: ../src/disks/gduwindow.c:2083
 #, c-format
 msgid "%s of %s – %s"
@@ -3475,7 +3472,7 @@ msgstr "%s dari %s - %s"
 #. Translators: Used in job progress bar.
 #. *              The %s is the job description (e.g. "Erasing Device").
 #. *              The %f is the completion percentage (between 0.0 and 100.0).
-#. 
+#.
 #: ../src/disks/gduwindow.c:2170
 #, c-format
 msgid "%s: %2.1f%%"
@@ -3526,7 +3523,7 @@ msgstr "Keun teungeh di jak"
 #. *              The first %s is the array name (e.g. "My Raid Disk").
 #. *              The second %s is the hostname that the RAID array belongs to
 #. (e.g. "big-server-042").
-#. 
+#.
 #: ../src/disks/gduwindow.c:2466
 #, c-format
 msgctxt "mdraid"
@@ -3543,7 +3540,7 @@ msgstr[1] "%d Disks"
 #. Translators: Used to combine number of disks and the chunk size.
 #. *              The first %s is the number of disks e.g. "3 disks".
 #. *              The second %s is the chunk size e.g. "512 KiB".
-#. 
+#.
 #: ../src/disks/gduwindow.c:2518
 #, c-format
 msgctxt "mdraid-disks-and-chunk-size"
@@ -3555,7 +3552,7 @@ msgstr "%s, Chunk %s"
 #. "RAID 6 (Dual Distributed Parity)".
 #. *              The second %s is the number of RAID disks optionally with
 #. the chunk size e.g. "8 disks" or "8 disks, 512 KiB Chunk".
-#. 
+#.
 #: ../src/disks/gduwindow.c:2527
 #, c-format
 msgctxt "mdraid"
@@ -3577,7 +3574,7 @@ msgstr "LARIK TREUN TINGKAT"
 #. Translators: The first %s is the sentence 'ARRAY IS DEGRADED'.
 #. *              The second %s conveys the number of devices missing e.g. "1
 #. disk is missing".
-#. 
+#.
 #: ../src/disks/gduwindow.c:2557
 #, c-format
 msgctxt "mdraid-degraded"
@@ -3629,7 +3626,7 @@ msgstr "LARIK RAID SALAH KONFIGURASI"
 #. Translators: The specific type of misconfiguration, see
 #. * http://en.wikipedia.org/wiki/Split-brain_(computing)
 #. * for more details
-#. 
+#.
 #: ../src/disks/gduwindow.c:2633
 msgctxt "raid-split-brain"
 msgid "Split-Brain"
@@ -3638,7 +3635,7 @@ msgstr "Split-Brain"
 #. Translators: Combiner for the RAID split-brain strings.
 #. *              The first %s is "SYSTEM IS MISCONFIGURED".
 #. *              The second %s is "Split-Brain" as a hyperlink.
-#. 
+#.
 #: ../src/disks/gduwindow.c:2639
 #, c-format
 msgctxt "raid-split-brain"
@@ -3648,7 +3645,7 @@ msgstr "%s(%s)"
 #. Translators: Shown in RAID progress bar.
 #. *              The first %s is about the operation, e.g. 'Data Scrubbing'.
 #. *              The second is the percentage completed, e.g. '42.5%'
-#. 
+#.
 #: ../src/disks/gduwindow.c:2669
 #, c-format
 msgctxt "raid-state-progress"
@@ -3660,7 +3657,7 @@ msgstr "%s:%s"
 #. "1 minute" or "5 minutes").
 #. *              The second %s is the average amount of bytes transfered per
 #. second (ex. "8.9 MB").
-#. 
+#.
 #: ../src/disks/gduwindow.c:2696
 #, c-format
 msgctxt "mdraid-sync-op"
@@ -3670,7 +3667,7 @@ msgstr "%s sisa(%s/detik)"
 #. Translators: Shown in "Location" when drive is connected to another seat
 #. than where
 #. * our application is running.
-#. 
+#.
 #: ../src/disks/gduwindow.c:2876
 msgid "Connected to another seat"
 msgstr "Teusambong u seat laen"
@@ -3687,7 +3684,7 @@ msgstr "Peurangkat loop soh"
 #. *              The second %s is a short string with the space free (e.g.
 #. '43 GB').
 #. *              The %f is the percentage in use (e.g. 62.2).
-#. 
+#.
 #: ../src/disks/gduwindow.c:3259
 #, c-format
 msgid "%s — %s free (%.1f%% full)"
@@ -3700,7 +3697,7 @@ msgstr "Hana Ituri"
 
 #. Translators: Use for mount point '/' simply because '/' is too small to hit
 #. as a hyperlink
-#. 
+#.
 #: ../src/disks/gduwindow.c:3317
 msgctxt "volume-content-fs"
 msgid "Filesystem Root"
@@ -3765,7 +3762,7 @@ msgstr "Keu Larik"
 #. *              The first %s is the usual contents string (e.g. "Linux RAID
 #. Member").
 #. *              The second %s is the hyperlink "Go To Array".
-#. 
+#.
 #: ../src/disks/gduwindow.c:3404
 #, c-format
 msgctxt "volume-contents-raid"
@@ -3778,7 +3775,7 @@ msgstr "%s — %s"
 #. or "Ext4 (version 1.0)".
 #. *              The second %s is either "Mounted at /path/to/fs", "Not
 #. Mounted, "Active", "Not Active", "Unlocked" or "Locked".
-#. 
+#.
 #: ../src/disks/gduwindow.c:3422
 #, c-format
 msgctxt "volume-contents-combiner"
@@ -3804,12 +3801,22 @@ msgstr "Data Scrubbing"
 #: ../src/disks/gduwindow.c:3921
 msgctxt "mdraid-scrub-dialog"
 msgid ""
-"As storage devices can develop bad blocks at any time it is valuable to regularly read all blocks on all disks in a RAID array so as to catch such bad blocks early.\n"
+"As storage devices can develop bad blocks at any time it is valuable to "
+"regularly read all blocks on all disks in a RAID array so as to catch such "
+"bad blocks early.\n"
 "\n"
-"The RAID array will remain operational for the duration of the operation but performance will be impacted. For more information about data scrubbing, see the <a href='https://raid.wiki.kernel.org/index.php/RAID_Administration'>RAID Administration</a> article."
+"The RAID array will remain operational for the duration of the operation but "
+"performance will be impacted. For more information about data scrubbing, see "
+"the <a href='https://raid.wiki.kernel.org/index.php/"
+"RAID_Administration'>RAID Administration</a> article."
 msgstr ""
-"Seubab perangkat penyimpanan jeut blok yang reuloeh pajan mantoeng, maka berharga untuk baca secara berkala mandum blok bak mandum disk larik RAID ngat jeut droep blok reuloeh nyan jinoe ken.\n"
-"Larik RAID akan teutap operasional dum trep durasi operasi tapi kiunerja akan teupeungaruh. untuk informasi leubeh lanjut teuntang peunggusokan data, kaloen artikel <a href='https://raid.wiki.kernel.org/index.php/RAID_Administration'>RAID Administration</a> ."
+"Seubab perangkat penyimpanan jeut blok yang reuloeh pajan mantoeng, maka "
+"berharga untuk baca secara berkala mandum blok bak mandum disk larik RAID "
+"ngat jeut droep blok reuloeh nyan jinoe ken.\n"
+"Larik RAID akan teutap operasional dum trep durasi operasi tapi kiunerja "
+"akan teupeungaruh. untuk informasi leubeh lanjut teuntang peunggusokan data, "
+"kaloen artikel <a href='https://raid.wiki.kernel.org/index.php/"
+"RAID_Administration'>RAID Administration</a> ."
 
 #: ../src/disks/gduwindow.c:3926
 msgctxt "mdraid-scrub-dialog"
@@ -3913,7 +3920,7 @@ msgstr "Error watee peubateu tugas"
 
 #. Translators: Shown when no devices are selected but multiple selection is
 #. active.
-#. 
+#.
 #: ../src/disks/gduwindow.c:5088
 msgctxt "multi-disk-menu"
 msgid "No _Devices Selected"
@@ -4158,5 +4165,3 @@ msgstr "Pemantau Masalah Disk"
 #: ../src/notify/gdu-sd-plugin.gnome-settings-plugin.in.h:2
 msgid "Warns about problems with disks and storage devices"
 msgstr "Peuringatan tentang masalah disk ngeun peurangkat peunyimpanan"
-
-

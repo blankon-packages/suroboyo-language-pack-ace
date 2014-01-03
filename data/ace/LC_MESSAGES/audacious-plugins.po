@@ -62,7 +62,7 @@ msgstr ""
 
 #: src/alarm/alarm.c:814 src/alarm/interface.c:82
 msgid "Alarm"
-msgstr "Teungoh Peuriksa…"
+msgstr "Alarm"
 
 #: src/alarm/interface.c:28
 msgid ""
@@ -158,10 +158,10 @@ msgid ""
 "    toggle button if you want it to be shown."
 msgstr ""
 "  Playlist:\n"
-"    Buka Playlist nyoe. muenyoe na playlist\n"
-"    Ibi, yang jinoe teungoh ipakek.\n"
+"    Cok Playlist nyoe. Meunyoe na playlist\n"
+"    Ibi, yang jinoe teungoh jingui.\n"
 "    URL dari aliran mp3/ogg\n"
-"    Jeut syih ipeutamoeng inoe.\n"
+"    Jeut syit ipeutamoeng inoe.\n"
 "\n"
 "  Peuingat:\n"
 "    Peuleumah peungingat watee alarm imeusu.\n"
@@ -170,15 +170,15 @@ msgstr ""
 
 #: src/alarm/interface.c:81
 msgid "This is your wakeup call."
-msgstr "Be_k Peuidin"
+msgstr "Nyoe nakeuh droeneuh neuhoi beujaga."
 
 #: src/alarm/interface.c:99
 msgid "Your reminder for today is..."
-msgstr "Pengingat keu uroe nyoe..."
+msgstr "Pengingat droeneuh keu uroe nyoe nakeuh..."
 
 #: src/alarm/interface.c:101 src/alarm/interface.c:415
 msgid "Reminder"
-msgstr "peungingat"
+msgstr "Peungingat"
 
 #: src/alarm/interface.c:140
 msgid "Monday"
@@ -210,48 +210,32 @@ msgstr "Seulanyan"
 
 #: src/alarm/interface.c:175
 msgid "Alarm Settings"
-msgstr "Peungaturan Alarm"
+msgstr "Peuatoe Alarm"
 
 #: src/alarm/interface.c:186 src/alarm/interface.c:250
 #: src/alarm/interface.c:265
 msgid "Time"
-msgstr ""
-"Droen peureulee untuk memungkinkan Audacious untuk scrobble trek keu akun "
-"Last.fm Droen. \n"
+msgstr "Watee"
 
 #: src/alarm/interface.c:193
 msgid "Alarm at (default):"
-msgstr "Iem siat (standar):"
+msgstr "Alarm siat (standar):"
 
 #: src/alarm/interface.c:216
 msgid "h"
-msgstr ""
-"Audacious is now using an improved version of the Last.fm Scrobbler.\n"
-"Please check the Preferences for the Scrobbler plugin."
+msgstr "h"
 
 #: src/alarm/interface.c:220
 msgid "Quiet after:"
-msgstr ""
-"SoX Resampler Plugin for Audacious\n"
-"Copyright 2013 Michał Lipski\n"
-"\n"
-"Based on Sample Rate Converter Plugin:\n"
-"Copyright 2010-2012 John Lindgren"
+msgstr "Seungap lheuh:"
 
 #: src/alarm/interface.c:234
 msgid "hours"
-msgstr ""
-"Plugin scrobbler hanjeut ipeuphon.\n"
-"Mungkin na masalah ngon instalasi Droen."
+msgstr "jeum"
 
 #: src/alarm/interface.c:246
 msgid "minutes"
-msgstr ""
-"SoX Resampler Plugin for Audacious\n"
-"Copyright 2013 Michał Lipski\n"
-"\n"
-"Based on Sample Rate Converter Plugin:\n"
-"Copyright 2010-2012 John Lindgren"
+msgstr "minet"
 
 #: src/alarm/interface.c:255
 msgid "Choose the days for the alarm to come on"
@@ -277,19 +261,19 @@ msgstr "Plueng"
 
 #: src/alarm/interface.c:327 src/crossfade/crossfade.c:261 src/lirc/lirc.c:397
 msgid "seconds"
-msgstr "Deutik"
+msgstr "deutek"
 
 #: src/alarm/interface.c:334 src/alarm/interface.c:381
 msgid "Volume"
-msgstr "taga"
+msgstr "Volume"
 
 #: src/alarm/interface.c:339
 msgid "Start at"
-msgstr "mulai bak"
+msgstr "Peuphon bak"
 
 #: src/alarm/interface.c:357
 msgid "Final"
-msgstr "keuneulheueh"
+msgstr "Paripurna"
 
 #: src/alarm/interface.c:372
 msgid "Current"
@@ -301,11 +285,11 @@ msgstr "Tamah Peurintah"
 
 #: src/alarm/interface.c:393
 msgid "enable"
-msgstr "Ngui"
+msgstr "jeut"
 
 #: src/alarm/interface.c:400
 msgid "Playlist (optional)"
-msgstr "daftar lagu (pilehan)"
+msgstr "Daftar lagu (jeut na jeut tan)"
 
 #: src/alarm/interface.c:407
 msgid "Select a playlist"
@@ -313,23 +297,23 @@ msgstr "pileh daftar lagu"
 
 #: src/alarm/interface.c:419
 msgid "Use reminder"
-msgstr "ngui penungingat"
+msgstr "Ngui penungingat"
 
 #: src/alarm/interface.c:428
 msgid "Options"
-msgstr "pilehan"
+msgstr "Peunileh"
 
 #: src/alarm/interface.c:433
 msgid "What do these options mean?"
-msgstr "peu yang droen maksud dengon pilihan nyo?"
+msgstr "Peu yang droen maksud dengon peunileh nyo?"
 
 #: src/alarm/interface.c:447 src/skins/ui_manager.c:389
 msgid "Help"
-msgstr "peuneulong"
+msgstr "Beunantu"
 
 #: src/albumart/albumart.c:143
 msgid "Album Art"
-msgstr "gamba likeu album"
+msgstr "Gamba likeu album"
 
 #: src/alsa/config.c:212
 msgid "Default PCM device"
@@ -337,27 +321,27 @@ msgstr "Alat PCM bawaan"
 
 #: src/alsa/config.c:241
 msgid "Default mixer device"
-msgstr "Alat PCM bawaan"
+msgstr "Alat mixer bawaan"
 
 #: src/alsa/config.c:422
 msgid "ALSA Output Plugin Preferences"
-msgstr "pengaturan pengaya teubit ALSA"
+msgstr "Peuatoe Pengaya Teubit ALSA"
 
 #: src/alsa/config.c:428
 msgid "PCM device:"
-msgstr "Alat PCM"
+msgstr "Alat PCM:"
 
 #: src/alsa/config.c:430
 msgid "Mixer device:"
-msgstr "Alat peujampu"
+msgstr "Alat mixer:"
 
 #: src/alsa/config.c:432
 msgid "Mixer element:"
-msgstr "elemen pejampu"
+msgstr "Elemen mixer:"
 
 #: src/alsa/config.c:435
 msgid "Work around drain hangup"
-msgstr "kerja di sekitaran peumutoh drain"
+msgstr "Keurija di sekitaran peumutoh drain"
 
 #: src/alsa/plugin.c:25
 msgid ""
@@ -369,18 +353,18 @@ msgstr ""
 "ALSA Output Plugin for Audacious\n"
 "Copyright 2009-2012 John Lindgren\n"
 "\n"
-"Lon terima kasih keu William Pitcock, yang tuleh ALSA output Plugin NG, yang kode menjabat sebagoe referensi watee hana sep pengguna ALSA."
+"Sabah lon keu William Pitcock, yang tuleh ALSA peuteubiet Plugin NG, yang kode menjabat sebagoe referensi watee hana sep ALSA."
 
 #: src/alsa/plugin.c:32
 msgid "ALSA Output"
-msgstr "ALSA Output"
+msgstr "ALSA Peuteubiet"
 
 #: src/amidi-plug/amidi-plug.c:248
 msgid ""
 "You have not selected any sequencer ports for MIDI playback.  You can do so "
 "in the MIDI plugin preferences."
 msgstr ""
-"Droen hana pileh sequencer meusapeu untuk peumuta MIDI. Droen jhet lakukan "
+"Droeneuh hana pileh sequencer meusapeu untuk peumuta MIDI. Droeneuh jhet lakukan "
 "bak preferensi pengaya MIDI"
 
 #: src/amidi-plug/amidi-plug.c:708
@@ -435,21 +419,23 @@ msgstr "port peuneubiet ALSA"
 
 #: src/amidi-plug/i_configure-alsa.c:432
 msgid "Soundcard: "
-msgstr "Kartu su"
+msgstr "Soundcard: "
 
 #: src/amidi-plug/i_configure-alsa.c:434
 msgid "Mixer control: "
-msgstr "kendali mixer"
+msgstr "Kendali mixer: "
 
 #: src/amidi-plug/i_configure-alsa.c:444
 msgid "Mixer settings"
-msgstr "pengato mixer"
+msgstr "Pengatoe mixer"
 
 #: src/amidi-plug/i_configure-alsa.c:472
 msgid ""
 "<span size=\"smaller\">ALSA\n"
 "backend</span>"
-msgstr "<span size=\"smaller\">Backend ALSA</span>"
+msgstr ""
+"<span size=\"smaller\">ALSA\n"
+"backend</span>"
 
 #: src/amidi-plug/i_configure-ap.c:63
 msgid "AMIDI-Plug - backend information"
@@ -457,23 +443,23 @@ msgstr "AMIDI-Plug bagian iformasi"
 
 #: src/amidi-plug/i_configure-ap.c:221
 msgid "Backend selection"
-msgstr "bagian seleksi"
+msgstr "Bagian teupileh"
 
 #: src/amidi-plug/i_configure-ap.c:261
 msgid "Playback settings"
-msgstr "setelan puta kelai"
+msgstr "Peutaoe puta kelai"
 
 #: src/amidi-plug/i_configure-ap.c:266
 msgid "Transpose: "
-msgstr "Ubah su:"
+msgstr "Ubah su: "
 
 #: src/amidi-plug/i_configure-ap.c:275
 msgid "Drum shift: "
-msgstr "perpinahan drum"
+msgstr "Perpinahan drum"
 
 #: src/amidi-plug/i_configure-ap.c:293
 msgid "Advanced settings"
-msgstr "pengato lanjutan"
+msgstr "Pengato lanjutan"
 
 #: src/amidi-plug/i_configure-ap.c:297
 msgid "pre-calculate length of MIDI files in playlist"
@@ -481,17 +467,18 @@ msgstr "bileung panyang lagu berformat MIDI lam daftar"
 
 #: src/amidi-plug/i_configure-ap.c:304
 msgid "extract comments from MIDI file (if available)"
-msgstr "ekstrak komentar dari berkas MIDI ( menyo tersedia )"
+msgstr "ekstrak komentar dari beureukaih MIDI ( menyo tersedia )"
 
 #: src/amidi-plug/i_configure-ap.c:311
 msgid "extract lyrics from MIDI file (if available)"
-msgstr "ekstrak lirik dari berkas MIDI (menyo na tersedia)"
+msgstr "ekstrak lirik dari beureukaih MIDI (menyo na tersedia)"
 
 #: src/amidi-plug/i_configure-ap.c:344
 msgid ""
 "<span size=\"smaller\">AMIDI\n"
 "Plug</span>"
-msgstr "<span size=\"smaller\">AMIDI Plug</span>"
+msgstr ""
+"<span size=\"smaller\">AMIDI Plug</span>"
 
 #: src/amidi-plug/i_configure.c:59
 msgid "AMIDI-Plug - select file"
@@ -499,11 +486,11 @@ msgstr "AMIDI-Plug - Pileeh beureukah"
 
 #: src/amidi-plug/i_configure.c:104
 msgid "AMIDI-Plug Settings"
-msgstr "pengato AMIDI-Plug"
+msgstr "Pengato AMIDI-Plug"
 
 #: src/amidi-plug/i_configure-fluidsynth.c:63
 msgid "AMIDI-Plug - select SoundFont file"
-msgstr "AMIDI-Plug-pileh keuneubah SoundFont"
+msgstr "AMIDI-Plug - pileh beureukaih SoundFont"
 
 #: src/amidi-plug/i_configure-fluidsynth.c:321
 msgid "SoundFont settings"
@@ -511,15 +498,15 @@ msgstr "Peuatoe SoundFont"
 
 #: src/amidi-plug/i_configure-fluidsynth.c:359
 msgid "Filename"
-msgstr "Nankeuneubah"
+msgstr "Nanbeureukaih"
 
 #: src/amidi-plug/i_configure-fluidsynth.c:363
 msgid "Size (bytes)"
-msgstr "ukuran (bytes)"
+msgstr "Ukuran (bytes)"
 
 #: src/amidi-plug/i_configure-fluidsynth.c:412
 msgid "Load SF on player start"
-msgstr "petamong SF dari phon pemuta dibuka"
+msgstr "Cok SF dari phon pemuta jipeuphon"
 
 #: src/amidi-plug/i_configure-fluidsynth.c:416
 msgid "Load SF on first MIDI file play"
@@ -527,7 +514,7 @@ msgstr "Load SF on first MIDI file play"
 
 #: src/amidi-plug/i_configure-fluidsynth.c:431
 msgid "Synthesizer settings"
-msgstr "Synthesizer settings"
+msgstr "Peuatoe Synthesizer"
 
 #: src/amidi-plug/i_configure-fluidsynth.c:440
 msgid "gain"
@@ -538,12 +525,12 @@ msgstr "meuteume"
 #: src/amidi-plug/i_configure-fluidsynth.c:506
 #: src/amidi-plug/i_configure-fluidsynth.c:540
 msgid "use default"
-msgstr "pileh bawaan"
+msgstr "ngui bawaan"
 
 #: src/amidi-plug/i_configure-fluidsynth.c:449
 #: src/amidi-plug/i_configure-fluidsynth.c:479
 msgid "value:"
-msgstr "kada"
+msgstr "kada:"
 
 #: src/amidi-plug/i_configure-fluidsynth.c:470
 msgid "polyphony"
@@ -609,11 +596,11 @@ msgstr "<span size=\"smaller\"> MIDI Info </span>"
 
 #: src/amidi-plug/i_fileinfo.c:214
 msgid "Format:"
-msgstr "format"
+msgstr "Format"
 
 #: src/amidi-plug/i_fileinfo.c:217
 msgid "Length (msec):"
-msgstr "Panyang (milideutik)"
+msgstr "Panyang (msec)"
 
 #: src/amidi-plug/i_fileinfo.c:220
 msgid "No. of Tracks:"
@@ -641,19 +628,19 @@ msgstr "<span size=\"smaller\"> Info dengon Lirik MIDI </span>"
 
 #: src/amidi-plug/i_fileinfo.c:301
 msgid "* no comments available in this MIDI file *"
-msgstr "* hana komentar yang na di berkas MIDI nyo *"
+msgstr "* hana komentar yang na di beureukaih MIDI nyo *"
 
 #: src/amidi-plug/i_fileinfo.c:314
 msgid "* no lyrics available in this MIDI file *"
-msgstr "* hana lirik yang na dalam berkas MIDI nyo *"
+msgstr "* hana lirik yang na dalam beureukaih MIDI nyo *"
 
 #: src/amidi-plug/i_fileinfo.c:367
 msgid "  (invalid UTF-8)"
-msgstr "(UTF-8 hana cocok)"
+msgstr "  (UTF-8 hana cocok)"
 
 #: src/amidi-plug/i_utils.c:39
 msgid "About AMIDI-Plug"
-msgstr "tentang AMIDI-Plug"
+msgstr "Bhah AMIDI-Plug"
 
 #: src/amidi-plug/i_utils.c:53
 msgid "AMIDI-Plug"
@@ -688,7 +675,7 @@ msgstr ""
 "written by Giacomo Lozito\n"
 "<james@develia.org>\n"
 "\n"
-"special trimoeng geunaseuh keu...\n"
+"special sabah keu...\n"
 "\n"
 "untuk program keren awaknyan aplaymidi ngon amixer; awaknyan\n"
 "yang beutoi-beutoi meuguna, bersama ngon alsa-lib docs, dalam rangka\n"
@@ -698,7 +685,7 @@ msgstr ""
 "goet keu logo keyboard midi\n"
 "\n"
 "Tony Vroon\n"
-"keu bantuan ngon peungujian alpha"
+"keu beunantu ngon peungujian alpha"
 
 #: src/aosd/aosd.c:29
 msgid "Audacious OSD "
@@ -710,7 +697,7 @@ msgstr "AOSD (On-Screen Display)"
 
 #: src/aosd/aosd_style.c:75
 msgid "Rectangle"
-msgstr "persegi panyang"
+msgstr "Persegi panyang"
 
 #: src/aosd/aosd_style.c:79
 msgid "Rounded Rectangle"
@@ -718,7 +705,7 @@ msgstr "Persegi bersudut bulat"
 
 #: src/aosd/aosd_style.c:83
 msgid "Concave Rectangle"
-msgstr "persegi bersudut kiwieng"
+msgstr "Persegi bersudut kiwieng"
 
 #: src/aosd/aosd_style.c:87
 msgid "None"
@@ -726,7 +713,7 @@ msgstr "soh"
 
 #: src/aosd/aosd_trigger.c:74
 msgid "Playback Start"
-msgstr "Mulai puta lom"
+msgstr "Mulai Peuphon lom"
 
 #: src/aosd/aosd_trigger.c:75
 msgid "Triggers OSD when a playlist entry is played."
@@ -776,15 +763,15 @@ msgstr "Relative Y offset:"
 
 #: src/aosd/aosd_ui.c:214
 msgid "Max OSD width:"
-msgstr "lebar tampilan layeu"
+msgstr "Luwah max OSD:"
 
 #: src/aosd/aosd_ui.c:225
 msgid "Multi-Monitor options"
-msgstr "pilehan multi monitor"
+msgstr "Peunileh Multi-Monitor"
 
 #: src/aosd/aosd_ui.c:229
 msgid "Display OSD using:"
-msgstr "peuguna tampilan layeu"
+msgstr "Neungui OSD Teupeuleumah:"
 
 #: src/aosd/aosd_ui.c:231
 msgid "all monitors"
@@ -797,32 +784,32 @@ msgstr "monitor %i"
 
 #: src/aosd/aosd_ui.c:287
 msgid "Timing (ms)"
-msgstr "watee (milidetik)"
+msgstr "watee (ms)"
 
 #: src/aosd/aosd_ui.c:292
 msgid "Display:"
-msgstr "tampilan"
+msgstr "Teupeuleumah"
 
 #: src/aosd/aosd_ui.c:297
 msgid "Fade in:"
-msgstr "tamah pheu"
+msgstr "Peubagah tamong"
 
 #: src/aosd/aosd_ui.c:302
 msgid "Fade out:"
-msgstr "kureueng pheu"
+msgstr "Peubagah teubiet"
 
 #: src/aosd/aosd_ui.c:383
 msgid "Fonts"
-msgstr "Huruf"
+msgstr "Fonta"
 
 #: src/aosd/aosd_ui.c:391
 #, c-format
 msgid "Font %i:"
-msgstr "Huruf %i"
+msgstr "Fonta %i"
 
 #: src/aosd/aosd_ui.c:409
 msgid "Shadow"
-msgstr "Bayang"
+msgstr "Bubayang"
 
 #: src/aosd/aosd_ui.c:439
 msgid "Internationalization"
@@ -830,15 +817,15 @@ msgstr "Internasionalisasi"
 
 #: src/aosd/aosd_ui.c:445
 msgid "Disable UTF-8 conversion of text (in aosd)"
-msgstr "peumate fungsi konversi teks UTF-8 (bak aosd)"
+msgstr "Peumate fungsi konversi teks UTF-8 (bak aosd)"
 
 #: src/aosd/aosd_ui.c:462
 msgid "Select Skin File"
-msgstr "pileh berkas kulet"
+msgstr "Pileh beureukaih kulet"
 
 #: src/aosd/aosd_ui.c:573
 msgid "Render Style"
-msgstr "gaya peungamba"
+msgstr "Gaya Peungamba"
 
 #: src/aosd/aosd_ui.c:589
 msgid "Colors"
@@ -847,27 +834,27 @@ msgstr "Warna"
 #: src/aosd/aosd_ui.c:602
 #, c-format
 msgid "Color %i:"
-msgstr "warna %i:"
+msgstr "Warna %i:"
 
 #: src/aosd/aosd_ui.c:620
 msgid "Custom Skin"
-msgstr "kulet pesanan"
+msgstr "Kulet Meuteuntei"
 
 #: src/aosd/aosd_ui.c:626
 msgid "Skin file:"
-msgstr "Kule't Beurkah"
+msgstr "Kulet beureukaih:"
 
 #: src/aosd/aosd_ui.c:630
 msgid "Browse"
-msgstr "telurusi"
+msgstr "Telurusi"
 
 #: src/aosd/aosd_ui.c:729
 msgid "Enable trigger"
-msgstr "peu aktif pemicu"
+msgstr "Peu aktif pemicu"
 
 #: src/aosd/aosd_ui.c:756
 msgid "Event"
-msgstr "peristiwa"
+msgstr "Peristiwa"
 
 #: src/aosd/aosd_ui.c:784
 msgid "Composite manager detected"
@@ -878,13 +865,13 @@ msgid ""
 "Composite manager not detected;\n"
 "unless you know that you have one running, please activate a composite manager otherwise the OSD won't work properly"
 msgstr ""
-"pengelola komposit hana terdeteksi; kecuali droen tupeu bahwa droen na saboh"
+"Pengelola komposit hana terdeteksi; kecuali droen tupeu bahwa droen na saboh"
 " yang berjalan, silahkan peu udep pengelola komposit meunyo OSD hana "
 "beukerja dengon get"
 
 #: src/aosd/aosd_ui.c:799
 msgid "Composite manager not required for fake transparency"
-msgstr "manajet komposisi hana perle untuk transpasisi semu"
+msgstr "Manajer komposisi hana perle untuk transpasisi semu"
 
 #: src/aosd/aosd_ui.c:837
 msgid "Transparency"
@@ -1005,7 +992,7 @@ msgstr ""
 
 #: src/cdaudio-ng/cdaudio-ng.c:121
 msgid "<b>Device</b>"
-msgstr "<b>Alat</b>\n"
+msgstr "<b>Alat</b>"
 
 #: src/cdaudio-ng/cdaudio-ng.c:122
 msgid "Read speed:"
@@ -1068,7 +1055,7 @@ msgstr "Track %d nakeuh data track."
 
 #: src/cdaudio-ng/cdaudio-ng.c:312
 msgid "Failed to open audio output."
-msgstr "Gagal watee buka output audio."
+msgstr "Gagal watee peuhah output audio."
 
 #: src/cdaudio-ng/cdaudio-ng.c:395
 msgid "Error reading audio CD."
@@ -1081,7 +1068,7 @@ msgstr "Su CD"
 #: src/cdaudio-ng/cdaudio-ng.c:535 src/cdaudio-ng/cdaudio-ng.c:544
 #, c-format
 msgid "Failed to open CD device %s."
-msgstr "Gagal watee buka perangkat CD %s."
+msgstr "Gagal watee peuhah perangkat CD %s."
 
 #: src/cdaudio-ng/cdaudio-ng.c:547
 msgid "No audio capable CD drive found."
@@ -1089,11 +1076,11 @@ msgstr "Hana drive CD audio yang i teumee."
 
 #: src/cdaudio-ng/cdaudio-ng.c:574
 msgid "Failed to finish initializing opened CD drive."
-msgstr "Hana beurasil peuleuh menginisialisasi buka CD drive."
+msgstr "Hana beurasil peuleuh menginisialisasi teupeuhah CD drive."
 
 #: src/cdaudio-ng/cdaudio-ng.c:587
 msgid "Failed to retrieve first/last track number."
-msgstr "Gagal watee cok phoen/terakher nomor lagu."
+msgstr "Gagal watee cok phoen/akhe nomor lagu."
 
 #: src/cdaudio-ng/cdaudio-ng.c:612
 #, c-format
@@ -1366,7 +1353,7 @@ msgstr "Konfigurasi FileWriter"
 
 #: src/filewriter/filewriter.c:421
 msgid "Output file format:"
-msgstr "Format Berkas keluaran"
+msgstr "Peuteubiet beureukaih format"
 
 #: src/filewriter/filewriter.c:439
 msgid "Configure"
@@ -1382,7 +1369,7 @@ msgstr "Keubah dalam direktori tertentu"
 
 #: src/filewriter/filewriter.c:464
 msgid "Output file folder:"
-msgstr "Direktori berkas keluaran"
+msgstr "Peuetubiet beureukaih folder:"
 
 #: src/filewriter/filewriter.c:468
 msgid "Pick a folder"
@@ -1394,11 +1381,11 @@ msgstr "Menteume nan dari"
 
 #: src/filewriter/filewriter.c:484
 msgid "original file tags"
-msgstr "berkas original tag"
+msgstr "Beureukaih aseuli tag"
 
 #: src/filewriter/filewriter.c:490
 msgid "original filename"
-msgstr "nan berkas original"
+msgstr "nanbeureukaih aseuli"
 
 #: src/filewriter/filewriter.c:497
 msgid "Don't strip file name extension"
@@ -1706,7 +1693,7 @@ msgstr "Path file"
 
 #: src/gtkui/columns.c:34
 msgid "File name"
-msgstr "Nan berkas"
+msgstr "Nan beureukaih"
 
 #: src/gtkui/columns.c:35
 msgid "Custom title"
@@ -1758,15 +1745,15 @@ msgstr "_Peuhah Files..."
 
 #: src/gtkui/menus.c:171
 msgid "Open _URL ..."
-msgstr "_Peuhah_URL"
+msgstr "Peuhah _URL ..."
 
 #: src/gtkui/menus.c:172
 msgid "_Add Files ..."
-msgstr "_Tamah berkas..."
+msgstr "_Tamah beureukaih ..."
 
 #: src/gtkui/menus.c:173
 msgid "Add U_RL ..."
-msgstr "Tamah U_RL"
+msgstr "Tamah U_RL ..."
 
 #: src/gtkui/menus.c:175
 msgid "_Search Library"
@@ -1774,19 +1761,19 @@ msgstr "_Mita Pustaka"
 
 #: src/gtkui/menus.c:177
 msgid "A_bout ..."
-msgstr "Teu_ntag"
+msgstr "_Bhah ..."
 
 #: src/gtkui/menus.c:178
 msgid "_Preferences ..."
-msgstr "_Prefensu"
+msgstr "_Peuatoe ..."
 
 #: src/gtkui/menus.c:179 src/skins/ui_manager.c:413
 msgid "_Quit"
-msgstr "Tibit"
+msgstr "_Teubiet"
 
 #: src/gtkui/menus.c:182 src/gtkui/menus.c:296
 msgid "_Play"
-msgstr "Puta"
+msgstr "_Puta"
 
 #: src/gtkui/menus.c:183
 msgid "Paus_e"
@@ -1806,11 +1793,11 @@ msgstr "Sela_njutnya"
 
 #: src/gtkui/menus.c:188
 msgid "_Repeat"
-msgstr "Ulang loem"
+msgstr "U_lang loem"
 
 #: src/gtkui/menus.c:189
 msgid "S_huffle"
-msgstr "Acak"
+msgstr "Ac_ak"
 
 #: src/gtkui/menus.c:190
 msgid "N_o Playlist Advance"
@@ -1822,15 +1809,15 @@ msgstr "Piyoeh aleuh lagu nyoe"
 
 #: src/gtkui/menus.c:193 src/gtkui/menus.c:284
 msgid "Song _Info ..."
-msgstr "Informasi_Lagu..."
+msgstr "Informasi_Lagu ..."
 
 #: src/gtkui/menus.c:194
 msgid "Jump to _Time ..."
-msgstr "Loncat ke _Waktu..."
+msgstr "Groep u _Waktu ..."
 
 #: src/gtkui/menus.c:195
 msgid "_Jump to Song ..."
-msgstr "_Loncat ke Lagu..."
+msgstr "_Groep u Lagu ..."
 
 #: src/gtkui/menus.c:197
 msgid "Set Repeat Point _A"
@@ -1842,47 +1829,47 @@ msgstr "Atoe ulang titek _B"
 
 #: src/gtkui/menus.c:199
 msgid "_Clear Repeat Points"
-msgstr "Peugleuh Poin ulang"
+msgstr "_Peugleuh Poin ulang"
 
 #: src/gtkui/menus.c:202 src/gtkui/menus.c:208 src/gtkui/menus.c:221
 msgid "By _Title"
-msgstr "Oleh_Judul"
+msgstr "Oleh _Judul"
 
 #: src/gtkui/menus.c:203
 msgid "By _Filename"
-msgstr "Meuneuroet _Nan Berkas"
+msgstr "Oleh _Nanbeureukaih"
 
 #: src/gtkui/menus.c:204
 msgid "By File _Path"
-msgstr "Meunuroet _Jalur"
+msgstr "Oleh Beureukaih _Jalur"
 
 #: src/gtkui/menus.c:207 src/gtkui/menus.c:220
 msgid "By Track _Number"
-msgstr "Oleh No_Track"
+msgstr "Oleh No _Track"
 
 #: src/gtkui/menus.c:209 src/gtkui/menus.c:222
 msgid "By _Artist"
-msgstr "Oleh_Artis"
+msgstr "Oleh _Artis"
 
 #: src/gtkui/menus.c:210 src/gtkui/menus.c:223
 msgid "By Al_bum"
-msgstr "Meunuroet A_lbum"
+msgstr "Oleh A_lbum"
 
 #: src/gtkui/menus.c:211 src/gtkui/menus.c:224
 msgid "By Release _Date"
-msgstr "Oleh _Tanggai Release"
+msgstr "Oleh _Tanggai Rilis"
 
 #: src/gtkui/menus.c:212 src/gtkui/menus.c:225
 msgid "By _Length"
-msgstr "Meunuroet _Panyang"
+msgstr "Oleh _Panyang"
 
 #: src/gtkui/menus.c:213 src/gtkui/menus.c:226
 msgid "By _File Path"
-msgstr "By _File Path"
+msgstr "Oleh _Beureukaih Path"
 
 #: src/gtkui/menus.c:214 src/gtkui/menus.c:227
 msgid "By _Custom Title"
-msgstr "By _Custom Title"
+msgstr "Oleh _Custom Title"
 
 #: src/gtkui/menus.c:216 src/gtkui/menus.c:229
 msgid "R_everse Order"
@@ -1894,7 +1881,7 @@ msgstr "_Acak Urutan"
 
 #: src/gtkui/menus.c:233
 msgid "_Play This Playlist"
-msgstr "_Mainkan Playlist ini"
+msgstr "_Puta Playlist nyoe"
 
 #: src/gtkui/menus.c:234 src/gtkui/menus.c:286
 msgid "_Refresh"
@@ -1906,15 +1893,15 @@ msgstr "_Susun"
 
 #: src/gtkui/menus.c:237
 msgid "Sort S_elected"
-msgstr "Peu urut yang neu pileh"
+msgstr "Peu urut T_eupileh"
 
 #: src/gtkui/menus.c:238
 msgid "Remove _Duplicates"
-msgstr "Sampoh_Duplikat"
+msgstr "Sampoh _Duplikat"
 
 #: src/gtkui/menus.c:239
 msgid "Remove _Unavailable Files"
-msgstr "Peugleh berkas yang hana"
+msgstr "Peugleh Beureukaih yang _Hana"
 
 #: src/gtkui/menus.c:241
 msgid "_New"
@@ -1926,7 +1913,7 @@ msgstr "Ganto_nan"
 
 #: src/gtkui/menus.c:243 src/gtkui/menus.c:298
 msgid "_Close"
-msgstr "_Tibit"
+msgstr "_Teubiet"
 
 #: src/gtkui/menus.c:245
 msgid "_Import ..."
@@ -1938,11 +1925,11 @@ msgstr "_Export"
 
 #: src/gtkui/menus.c:248
 msgid "Playlist _Manager ..."
-msgstr "Pengelola _Daftar putar"
+msgstr "Pengelola _Playlist ..."
 
 #: src/gtkui/menus.c:249
 msgid "_Queue Manager ..."
-msgstr "_Pengelola Antrian"
+msgstr "_Pengelola Antrian ..."
 
 #: src/gtkui/menus.c:252
 msgid "Volume _Up"
@@ -1970,31 +1957,31 @@ msgstr "_Visualisasi"
 
 #: src/gtkui/menus.c:263
 msgid "Show _Menu Bar"
-msgstr "Perlihatkan Bar _Menu"
+msgstr "Peuleumah Bar _Menu"
 
 #: src/gtkui/menus.c:264
 msgid "Show I_nfo Bar"
-msgstr "Perlihatkan _Bar Info"
+msgstr "Peuleumah _Bar Info"
 
 #: src/gtkui/menus.c:265
 msgid "Show Info Bar Vis_ualization"
-msgstr "Show Info Bar Vis_ualization"
+msgstr "Peuleumah Info Bar Vis_ualization"
 
 #: src/gtkui/menus.c:266
 msgid "Show _Status Bar"
-msgstr "Perlihatkan Bar _Status"
+msgstr "Peuleumah Bar _Status"
 
 #: src/gtkui/menus.c:268
 msgid "Show _Remaining Time"
-msgstr "Peuleumah_Sisa Watee"
+msgstr "Peuleumah _Sisa Watee"
 
 #: src/gtkui/menus.c:270
 msgid "Show Close _Buttons"
-msgstr "Show Close _Buttons"
+msgstr "Peuleumah Teubiet _Buttons"
 
 #: src/gtkui/menus.c:271
 msgid "Show Column _Headers"
-msgstr "Show Column _Headers"
+msgstr "Peuleumah Column _Headers"
 
 #: src/gtkui/menus.c:272
 msgid "Choose _Columns ..."
@@ -2006,15 +1993,15 @@ msgstr "Scrol_l on Song Change"
 
 #: src/gtkui/menus.c:276
 msgid "_File"
-msgstr "_File"
+msgstr "_Beureukaih"
 
 #: src/gtkui/menus.c:277
 msgid "_Playback"
-msgstr "_Putar ulang"
+msgstr "_Putakeulai"
 
 #: src/gtkui/menus.c:278
 msgid "P_laylist"
-msgstr "Daftar P_utar"
+msgstr "P_laylist"
 
 #: src/gtkui/menus.c:279 src/gtkui/menus.c:293
 msgid "_Services"
@@ -2022,11 +2009,11 @@ msgstr "_Layanan"
 
 #: src/gtkui/menus.c:280
 msgid "_Output"
-msgstr "_Keluaran"
+msgstr "_Peuteubiet"
 
 #: src/gtkui/menus.c:281
 msgid "_View"
-msgstr "_Lihat"
+msgstr "_Ngieng"
 
 #: src/gtkui/menus.c:285
 msgid "_Queue/Unqueue"
@@ -2034,27 +2021,27 @@ msgstr "_Queue/Unqueue"
 
 #: src/gtkui/menus.c:288
 msgid "Cu_t"
-msgstr "Koh"
+msgstr "Ko_h"
 
 #: src/gtkui/menus.c:289
 msgid "_Copy"
-msgstr "Kopy"
+msgstr "_Salen"
 
 #: src/gtkui/menus.c:290
 msgid "_Paste"
-msgstr "_Paste"
+msgstr "_Tempe"
 
 #: src/gtkui/menus.c:291
 msgid "Select _All"
-msgstr "Pilih_Mandum"
+msgstr "Pileh _Mandum"
 
 #: src/gtkui/menus.c:297
 msgid "_Rename ..."
-msgstr "_Ubah nan"
+msgstr "_Gantonan"
 
 #: src/gtkui/ui_gtk.c:96
 msgid "GTK Interface"
-msgstr "Tampilkan GTK"
+msgstr "Interface GTK"
 
 #: src/gtkui/ui_gtk.c:198 src/skins/ui_main.c:306
 #, c-format
@@ -2063,7 +2050,7 @@ msgstr "%s - Audacious"
 
 #: src/gtkui/ui_gtk.c:204
 msgid "Buffering ..."
-msgstr "Buffering..."
+msgstr "Buffering ..."
 
 #: src/gtkui/ui_gtk.c:207 src/skins/ui_main.c:308 src/skins/ui_main.c:1491
 msgid "Audacious"
@@ -2080,7 +2067,7 @@ msgstr "Kesalahan"
 #, c-format
 msgid "%d channel"
 msgid_plural "%d channels"
-msgstr[0] "%d channel"
+msgstr[0] "%d saluran"
 msgstr[1] "%d saluran"
 
 #: src/gtkui/ui_statusbar.c:123
@@ -2095,15 +2082,15 @@ msgstr "Trek Sigolomnyoe"
 #: src/hotkey/gui.c:71 src/notify/osd.c:68 src/skins/ui_manager.c:177
 #: src/skins/ui_manager.c:178
 msgid "Play"
-msgstr "peu hudeep"
+msgstr "Puta"
 
 #: src/hotkey/gui.c:72
 msgid "Pause/Resume"
-msgstr "Jeda/Mulai loem"
+msgstr "Jeda/Mulai lom"
 
 #: src/hotkey/gui.c:73 src/skins/ui_manager.c:183 src/skins/ui_manager.c:184
 msgid "Stop"
-msgstr "peu len"
+msgstr "Peu len"
 
 #: src/hotkey/gui.c:74
 msgid "Next track"
@@ -2131,7 +2118,7 @@ msgstr "Peukureung Volume"
 
 #: src/hotkey/gui.c:80
 msgid "Jump to file"
-msgstr "Pinah u file"
+msgstr "Groep u beureukaih"
 
 #: src/hotkey/gui.c:81
 msgid "Toggle player window(s)"
@@ -2139,7 +2126,7 @@ msgstr "Toggle player window(s)"
 
 #: src/hotkey/gui.c:82
 msgid "Show On-Screen-Display"
-msgstr "Show On-Screen-Dislpay"
+msgstr "Peuleumah On-Screen-Dislpay"
 
 #: src/hotkey/gui.c:83
 msgid "Toggle repeat"
@@ -2151,7 +2138,7 @@ msgstr "Toggle shuffle"
 
 #: src/hotkey/gui.c:85
 msgid "Toggle stop after current"
-msgstr "Toggle stop after current"
+msgstr "Toggle Peulen lheuh nyoe"
 
 #: src/hotkey/gui.c:86
 msgid "Raise player window(s)"
@@ -2294,15 +2281,12 @@ msgstr ""
 
 #: src/ladspa/plugin.c:650
 msgid "LADSPA Host"
-msgstr ""
-"Host LADSPA\n"
-"\n"
-"\n"
+msgstr "Host LADSPA"
 
 #: src/lirc/lirc.c:76
 #, c-format
 msgid "%s: could not init LIRC support\n"
-msgstr "%s: tidak dapat dukungan init LIRC\n"
+msgstr "%s: hana meureumpok dukungan init LIRC\n"
 
 #: src/lirc/lirc.c:83
 #, c-format
@@ -2345,7 +2329,7 @@ msgstr ""
 #: src/lirc/lirc.c:371
 #, c-format
 msgid "%s: will try reconnect every %d seconds...\n"
-msgstr "%s: mencoba menyambung tip %d deutik..."
+msgstr "%s:  ci cuba peusambong tiep %d deutik... \n"
 
 #: src/lirc/lirc.c:381
 msgid ""
@@ -2844,7 +2828,7 @@ msgstr ""
 
 #: src/scrobbler2/config_window.c:63
 msgid "Keep this window open and click 'Check Permission' again.\n"
-msgstr "Peutetap jendela nyoe teubuka dan klik 'Periksa Idin' lagi.\n"
+msgstr "Peutetap jendela nyoe peuhah dan klik 'Periksa Idin' lagi.\n"
 
 #: src/scrobbler2/config_window.c:66 src/scrobbler2/config_window.c:77
 msgid ""
@@ -2878,8 +2862,7 @@ msgstr "Be_k Peuidin"
 msgid ""
 "You need to allow Audacious to scrobble tracks to your Last.fm account.\n"
 msgstr ""
-"Droen Peureulee untuk peumungken Audacious untuk scrobble trek keu akun "
-"Last.fm Droen."
+"Droeneuh Peureulee keu peumungken Audacious keu scrobble trek keu akun Last.fm Droeneuh.\n"
 
 #: src/scrobbler2/scrobbler.c:233
 msgid ""
@@ -2954,13 +2937,8 @@ msgstr ""
 #, c-format
 msgid "%d album"
 msgid_plural "%d albums"
-msgstr[0] ""
-"%d album\n"
-"\n"
-msgstr[1] ""
-" %d albums \n"
-"\n"
-"\n"
+msgstr[0] "%d album"
+msgstr[1] "%d albums"
 
 #: src/search-tool/search-tool.c:640
 #, c-format
@@ -3295,7 +3273,7 @@ msgstr "Scope"
 
 #: src/skins/ui_manager.c:116
 msgid "Voiceprint"
-msgstr "Voiceprint\n"
+msgstr "Voiceprint"
 
 #: src/skins/ui_manager.c:117
 msgid "Off"
@@ -3485,11 +3463,11 @@ msgstr "Tamah trek remote u playlist."
 
 #: src/skins/ui_manager.c:254
 msgid "Add Files..."
-msgstr "Tamah Berkas..."
+msgstr "Tamah Beureukaih..."
 
 #: src/skins/ui_manager.c:255
 msgid "Adds files to the playlist."
-msgstr "Tamah berkas u dapeuta lagu"
+msgstr "Tamah beureukaih u dapeuta lagu"
 
 #: src/skins/ui_manager.c:260
 msgid "Search and Select"
@@ -3565,7 +3543,7 @@ msgstr "Sampoh asoe yang na duplikasi dari dapeuta puta berdasar judul."
 #: src/skins/ui_manager.c:296 src/skins/ui_manager.c:336
 #: src/skins/ui_manager.c:366
 msgid "By Filename"
-msgstr "Dari Nan Berkas"
+msgstr "Oleh Nanbeureukaih"
 
 #: src/skins/ui_manager.c:297
 msgid "Removes duplicate entries from the playlist by filename."
@@ -3574,7 +3552,7 @@ msgstr "Sampoh asoe yang na duplikasi dari dapeuta puta berdasar nan file."
 #: src/skins/ui_manager.c:300 src/skins/ui_manager.c:340
 #: src/skins/ui_manager.c:370
 msgid "By Path + Filename"
-msgstr "Dari Path + Nan File"
+msgstr "Dari Path + Nanbeureukaih"
 
 #: src/skins/ui_manager.c:301
 msgid "Removes duplicate entries from the playlist by their full path."
@@ -3666,7 +3644,7 @@ msgstr "Peurut yang i pileh"
 
 #: src/skins/ui_manager.c:388
 msgid "File"
-msgstr "Berkas"
+msgstr "Beureukaih"
 
 #: src/skins/ui_manager.c:391
 msgid "Plugin Services"
@@ -3682,19 +3660,19 @@ msgstr "Kaloen rincian track"
 
 #: src/skins/ui_manager.c:399 src/skins/ui_manager.c:400
 msgid "About Audacious"
-msgstr "Tentang Audacious"
+msgstr "Bhah Audacious"
 
 #: src/skins/ui_manager.c:402
 msgid "Play File"
-msgstr "Meuenkan Berkas"
+msgstr "Meuenkan Beureukaih"
 
 #: src/skins/ui_manager.c:403
 msgid "Load and play a file"
-msgstr "Imuat ngon puta file"
+msgstr "Imuat ngon puta beureukaih"
 
 #: src/skins/ui_manager.c:405
 msgid "Play Location"
-msgstr "Meuenkan Folder"
+msgstr "Meuenkan Lokasi"
 
 #: src/skins/ui_manager.c:406
 msgid "Play media from the selected location"
@@ -3706,15 +3684,15 @@ msgstr "Layanan pengaya"
 
 #: src/skins/ui_manager.c:410
 msgid "Preferences"
-msgstr "Pengaturan"
+msgstr "Peuatoe"
 
 #: src/skins/ui_manager.c:411
 msgid "Open preferences window"
-msgstr "Buka tingkap pengaturan"
+msgstr "Peuhah tingkap peuatoe"
 
 #: src/skins/ui_manager.c:414
 msgid "Quit Audacious"
-msgstr "Tibit Audicious"
+msgstr "Teubiet Audicious"
 
 #: src/skins/ui_manager.c:416 src/skins/ui_manager.c:417
 msgid "Set A-B"
@@ -3726,11 +3704,11 @@ msgstr "Peugleh A-B"
 
 #: src/skins/ui_manager.c:422 src/skins/ui_manager.c:423
 msgid "Jump to File"
-msgstr "Lompat ke berkas"
+msgstr "Groep u Beureukaih"
 
 #: src/skins/ui_manager.c:425 src/skins/ui_manager.c:426
 msgid "Jump to Time"
-msgstr "Lompat U Watee"
+msgstr "Groep u Watee"
 
 #: src/skins/ui_manager.c:428
 msgid "Queue Toggle"
@@ -3754,7 +3732,7 @@ msgstr "Tempe"
 
 #: src/skins/ui_manager.c:445
 msgid "Load"
-msgstr "Buka"
+msgstr "Cok"
 
 #: src/skins/ui_manager.c:446
 msgid "Import"
@@ -3762,16 +3740,16 @@ msgstr "Impor"
 
 #: src/skins/ui_manager.c:447
 msgid "Save"
-msgstr "keubah"
+msgstr "Keubah"
 
 #: src/skins/ui_manager.c:448
 msgid "Delete"
-msgstr "sampoh"
+msgstr "Sampoh"
 
 #: src/skins/ui_manager.c:450 src/skins/ui_manager.c:471
 #: src/skins/ui_manager.c:486
 msgid "Preset"
-msgstr "Ditetapkan"
+msgstr "Peuteuntei"
 
 #: src/skins/ui_manager.c:453 src/skins/ui_manager.c:474
 #: src/skins/ui_manager.c:489
@@ -3780,11 +3758,11 @@ msgstr "Auto-load preset"
 
 #: src/skins/ui_manager.c:454
 msgid "Load auto-load preset"
-msgstr "Load auto-load preset"
+msgstr "Cok auto-load peuteuntei"
 
 #: src/skins/ui_manager.c:457
 msgid "Load default preset into equalizer"
-msgstr "Load default preset into equalizer"
+msgstr "Cok meuneume peuteuntei lam equalizer"
 
 #: src/skins/ui_manager.c:459
 msgid "Zero"
@@ -3792,23 +3770,23 @@ msgstr "Soh"
 
 #: src/skins/ui_manager.c:460
 msgid "Set equalizer preset levels to zero"
-msgstr "Set equalizer preset levels to zero"
+msgstr "Set equalizer peuteuneti level u soh"
 
 #: src/skins/ui_manager.c:462
 msgid "From file"
-msgstr "Kee berkas"
+msgstr "Dari beureukaih"
 
 #: src/skins/ui_manager.c:463
 msgid "Load preset from file"
-msgstr "Load preset from file"
+msgstr "Cok preset dari beureukaih"
 
 #: src/skins/ui_manager.c:465
 msgid "From WinAMP EQF file"
-msgstr "From WinAMP EQF file"
+msgstr "Dari WinAMP EQF beureukaih"
 
 #: src/skins/ui_manager.c:466
 msgid "Load preset from WinAMP EQF file"
-msgstr "Load preset from WinAMP EQF file"
+msgstr "Cok preset dari WinAMP EQF beureukaih"
 
 #: src/skins/ui_manager.c:468
 msgid "WinAMP Presets"
@@ -3816,39 +3794,39 @@ msgstr "WinAMP Preset"
 
 #: src/skins/ui_manager.c:469
 msgid "Import WinAMP presets"
-msgstr "Import WinAMP"
+msgstr "Import WinAMP preset"
 
 #: src/skins/ui_manager.c:475
 msgid "Save auto-load preset"
-msgstr "Save auto-load preset"
+msgstr "Keubah auto-load preset"
 
 #: src/skins/ui_manager.c:478
 msgid "Save default preset"
-msgstr "Save default preset"
+msgstr "Keubah meuneumei preset"
 
 #: src/skins/ui_manager.c:480
 msgid "To file"
-msgstr "U berkas"
+msgstr "U beureukaih"
 
 #: src/skins/ui_manager.c:481
 msgid "Save preset to file"
-msgstr "Save preset to file"
+msgstr "Keubah preset u beureukaih"
 
 #: src/skins/ui_manager.c:483
 msgid "To WinAMP EQF file"
-msgstr "To WinAMP EQF file"
+msgstr "U WinAMP EQF beureukaih"
 
 #: src/skins/ui_manager.c:484
 msgid "Save preset to WinAMP EQF file"
-msgstr "Save preset to WinAMP EQF file"
+msgstr "Keubah preset u WinAMP EQF beureukaih"
 
 #: src/skins/ui_manager.c:490
 msgid "Delete auto-load preset"
-msgstr "Delete auto-load preset"
+msgstr "Sampoh auto-load preset"
 
 #: src/skins/ui_playlist.c:244
 msgid "Search entries in active playlist"
-msgstr "Search entries in active playlist"
+msgstr "Mita entries lam playlist aktif"
 
 #: src/skins/ui_playlist.c:251
 msgid ""
@@ -3864,23 +3842,23 @@ msgstr ""
 
 #: src/skins/ui_playlist.c:259
 msgid "Title: "
-msgstr "Judul:"
+msgstr "Judul: "
 
 #: src/skins/ui_playlist.c:267
 msgid "Album: "
-msgstr "Album:"
+msgstr "Album: "
 
 #: src/skins/ui_playlist.c:275
 msgid "Artist: "
-msgstr "Artist:"
+msgstr "Artist: "
 
 #: src/skins/ui_playlist.c:283
 msgid "Filename: "
-msgstr "Nan Berkas:"
+msgstr "Nanbeureukaih: "
 
 #: src/skins/ui_playlist.c:292
 msgid "Clear previous selection before searching"
-msgstr "Sampoeh seleksi sigolomnyo sigolom mita"
+msgstr "Peugleh nyang teupileh sigolomnyo sigolom meumita"
 
 #: src/skins/ui_playlist.c:295
 msgid "Automatically toggle queue for matching entries"
@@ -3942,7 +3920,7 @@ msgstr "Plugin Sndfile"
 
 #: src/sndio/sndio.c:172
 msgid "About Sndio Output Plugin"
-msgstr "Tentang Sndio Output Plugin"
+msgstr "Bhah Sndio Output Plugin"
 
 #: src/sndio/sndio.c:173
 msgid ""
@@ -3974,11 +3952,11 @@ msgstr "perangkat sndio"
 
 #: src/sndio/sndio.c:400
 msgid "(empty means default)"
-msgstr "(soh)"
+msgstr "(soh meuneume)"
 
 #: src/sndio/sndio.c:416
 msgid "OK"
-msgstr "Be_k Peuidin"
+msgstr "OK"
 
 #: src/sndio/sndio.c:424
 msgid "Cancel"
@@ -4030,13 +4008,13 @@ msgid ""
 "%b: Album\n"
 "%T: Track title"
 msgstr ""
-"Gata jeut pakek format string imiyub nyoe nyang\n"
+"Gata jeut ngui format string imiyub nyoe nyang\n"
 "akan iganto sigohlom geuhei peurintah\n"
 "(hana mandum jeut igunakan keu peurintah end-of-playlist):\n"
 "\n"
 "%F: Frekuensi (lam hertz)\n"
 "%c: Nomboi dari siaran\n"
-"%f: Nan berkah (full path)\n"
+"%f: Nan beureukaih (full path)\n"
 "%l: Panyang (lam milliseconds)\n"
 "%n or %s: Nan lagu\n"
 "%r: Rasio (lam bits per detik)\n"
@@ -4078,15 +4056,15 @@ msgstr "Bagah"
 
 #: src/sox-resampler/sox-resampler.c:142
 msgid "Low"
-msgstr "meuyup"
+msgstr "Leumoh"
 
 #: src/sox-resampler/sox-resampler.c:144
 msgid "High"
-msgstr "Rayeuk"
+msgstr "Teuga"
 
 #: src/sox-resampler/sox-resampler.c:145
 msgid "Very High"
-msgstr "Rayeuk That"
+msgstr "Teuga That"
 
 #: src/sox-resampler/sox-resampler.c:148
 msgid "Quality:"
@@ -4102,7 +4080,7 @@ msgstr "<b>Kecepatan ngon pitch</b>"
 
 #: src/speed-pitch/speed-pitch.c:226
 msgid "Speed:"
-msgstr "Kecepatan"
+msgstr "Kecepatan:"
 
 #: src/speed-pitch/speed-pitch.c:229
 msgid "Pitch:"
@@ -4140,19 +4118,19 @@ msgstr "Ubah volume"
 
 #: src/statusicon/statusicon.c:401
 msgid "Change playing song"
-msgstr "Gantoe lagu"
+msgstr "Gantoe lagu meuputa"
 
 #: src/statusicon/statusicon.c:404
 msgid "<b>Other Settings</b>"
-msgstr "<b>Pengaturan selaennyo</b>"
+msgstr "<b>Peuatoe Selaennyo</b>"
 
 #: src/statusicon/statusicon.c:405
 msgid "Disable the popup window"
-msgstr "Peumatee popup window"
+msgstr "Peumatee popup tingkap"
 
 #: src/statusicon/statusicon.c:407
 msgid "Close to the system tray"
-msgstr "Thoe ngoen sistem tray"
+msgstr "Toep u sistem tray"
 
 #: src/statusicon/statusicon.c:409
 msgid "Advance in playlist when scrolling upward"
@@ -4214,14 +4192,14 @@ msgid ""
 "\n"
 "THIS PLUGIN IS REQUIRED.  DO NOT DISABLE IT."
 msgstr ""
-"Berkas I/O Plugin ke Audacious\n"
+"Beureukaih I/O Plugin ke Audacious\n"
 "Hak Cipta 2009-2012 John Lindgren\n"
 "\n"
 "PLUGIN NYOE PEURLE. BEK PEU NONAKTIF."
 
 #: src/unix-io/unix-io.c:266
 msgid "File I/O Plugin"
-msgstr "Berkas I/O Plugin"
+msgstr "Beureukaih I/O Plugin"
 
 #: src/voice_removal/voice_removal.c:58
 msgid "Voice Removal"
