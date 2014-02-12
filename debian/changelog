@@ -1,3 +1,10 @@
+suroboyo-language-pack-ace (0.1.2) suroboyo; urgency=low
+
+  * Added gnome-packagekit.po
+  * Fixed blankon-installer.po
+
+ -- Mahyuddin Ramli <yudi.al@gmail.com>  Wed, 12 Feb 2014 09:06:15 +0700
+
 suroboyo-language-pack-ace (0.1.1) suroboyo; urgency=low
 
   * Fix many translations

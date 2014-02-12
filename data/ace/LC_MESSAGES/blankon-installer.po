@@ -27,12 +27,12 @@ msgstr "Kateuka u BlankOn"
 #, no-wrap
 msgid ""
 "Welcome to BlankOn installation program. Please choose your language and "
-"region below continue. If your choice is not on the list, you can choose the"
+"region below to continue. If your choice is not on the list, you can choose the"
 " default values and set again later after the system is fully installed in "
 "the Settings application."
 msgstr ""
 "Kateuka bak program peumasangan BlankOn. Pileh Bahsa ngon sago droenueh keu "
-"ueujih. Meunyoe pilehan Droeneuh hana lam dapeuta, droeneuh jeut neupileh "
+"ukeujih. Meunyoe pilehan Droeneuh hana lam dapeuta, droeneuh jeut neupileh "
 "bawan ngoen neuatoejih lheuh teupasang bak aplikasi Peuatoe."
 
 #. type: span
